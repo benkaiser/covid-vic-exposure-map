@@ -1,0 +1,14 @@
+{
+  "name": "covid-vic-exposure-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "proprietary",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

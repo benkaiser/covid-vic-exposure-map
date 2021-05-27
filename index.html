@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Victoria Coronavirus Exposure Site Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+  integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+   <style>
+     body, html {
+       padding: 0;
+       margin: 0;
+       height: 100vh;
+       width: 100vw;
+     }
+     #map { height: 100vh; width: 100vw; }
+     #details {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      z-index: 100000;
+      background-color: white;
+      border-top-right-radius: 10px;
+      font-family: Helvetica, sans-serif;
+      padding: 10px;
+     }
+     h3 {
+       margin-top: 5px;
+       margin-bottom: 5px;
+     }
+   </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="details">
+    <h3>Covid Exposure Map Victoria</h3>
+    <p>Created by <a href="https://github.com/benkaiser">Benjamin Kaiser</a><br/>
+    <a href="https://www.coronavirus.vic.gov.au/exposure-sites">Source data</a><br/>
+    <a href="https://github.com/benkaiser/covid-vic-exposure-map">Source code</a></p>
+  </div>
+  <script type="text/javascript" src="data.js"></script>
+<script type="text/javascript">
+var map = L.map('map').setView([-37.8136, 144.9631], 11);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+const markerArray = results.map(result => {
+  return L.marker([result.lat, result.lon]).addTo(map)
+    .bindPopup(`<h3>${result.Site_title}</h3>
+<p><b>Exposure Period</b>: ${result.Exposure_date} ${result.Exposure_time}<br/>
+<b>Notes</b>: ${result.Notes}<br/>
+<b>Advice</b>: ${result.Advice_title}<br/>
+<b>Date Added</b>: ${result.Added_date} ${result.Added_time}<br/>
+<b>Address</b>: ${result.Site_streetaddress}, ${result.Suburb}, ${result.Site_postcode}</p>`);
+});
+
+var group = new L.featureGroup(markerArray);
+map.fitBounds(group.getBounds().pad(0.2));
+</script>
+</body>
+</html>
