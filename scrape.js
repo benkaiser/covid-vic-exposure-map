@@ -3,6 +3,10 @@ const fetch = require('node-fetch');
 var moment = require('moment-timezone');
 const subscriptionKey = process.env.SUBSCRIPTION_KEY;
 
+if (!subscriptionKey) {
+  throw new Error('No SUBSCRIPTION_KEY passed');
+}
+
 const existingData = JSON.parse(fs.readFileSync('./data.json'));
 const existingDataLookup = {};
 existingData.forEach(item => existingDataLookup[item._id] = item);
