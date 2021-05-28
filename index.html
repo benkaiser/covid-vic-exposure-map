@@ -46,9 +46,11 @@
     <h3>Covid Exposure Map Victoria</h3>
     <p>Created by <a href="https://github.com/benkaiser">Benjamin Kaiser</a><br/>
     <a href="https://www.coronavirus.vic.gov.au/exposure-sites">Source data</a><br/>
-    <a href="https://github.com/benkaiser/covid-vic-exposure-map">Source code</a></p>
+    <a href="https://github.com/benkaiser/covid-vic-exposure-map">Source code</a><br/>
+    Data checked: <span id="updateTime"></span></p>
   </div>
   <script type="text/javascript" src="data.js"></script>
+  <script type="text/javascript" src="updateTime.js"></script>
 <script type="text/javascript">
 var map = L.map('map').setView([-37.8136, 144.9631], 11);
 
@@ -68,6 +70,10 @@ const markerArray = results.map(result => {
 
 var group = new L.featureGroup(markerArray);
 map.fitBounds(group.getBounds().pad(0.2));
+
+if (updateTime) {
+  document.getElementById('updateTime').innerHTML = updateTime;
+}
 </script>
 </body>
 </html>
