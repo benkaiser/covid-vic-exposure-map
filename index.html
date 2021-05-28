@@ -67,8 +67,6 @@ results.forEach(result => {
   groupedData[key].push(result);
 });
 
-console.log(groupedData);
-
 function renderSite(site) {
   return `<h3>${site.Site_title}</h3>
 <p><b>Exposure Period</b>:  ${site.Exposure_date} ${site.Exposure_time}<br/>
@@ -82,10 +80,47 @@ function buildPopup(groupedResults) {
   return groupedResults.map(result => renderSite(result)).join('');
 }
 
+const tierMarker = {
+  'tier1': new L.Icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+  }),
+  'tier2': new L.Icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-orange.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+  }),
+  'tier3': new L.Icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+  }),
+}
+
+function getWorstTier(resultGroup) {
+  let tier = 3;
+  resultGroup.forEach(result => {
+    const resultTier = parseInt(result.Advice_title.match(/(\d+)/)[0]);
+    tier = Math.min(resultTier, tier);
+  });
+  return 'tier' + tier;
+}
+
 const markerArray = Object.keys(groupedData).map(groupKey => {
   const resultGroup = groupedData[groupKey];
   const firstResult = resultGroup[0];
-  return L.marker([firstResult.lat, firstResult.lon]).addTo(map)
+  const tier = getWorstTier(resultGroup);
+  return L.marker([firstResult.lat, firstResult.lon], {icon: tierMarker[tier]}).addTo(map)
     .bindPopup(buildPopup(resultGroup));
 });
 
