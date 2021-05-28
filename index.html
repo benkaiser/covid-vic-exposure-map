@@ -69,27 +69,17 @@ results.forEach(result => {
 
 console.log(groupedData);
 
-function renderSites(sites) {
-  const firstSite = sites[0];
-  return `<h3>${firstSite.Site_title}</h3>
-<p>
-  ${ sites.map(site => `<b>Exposure Period</b>:  ${site.Exposure_date} ${site.Exposure_time}<br/>`).join('') }
-<b>Notes</b>: ${firstSite.Notes}<br/>
-<b>Advice</b>: ${firstSite.Advice_title}<br/>
-<b>Date First Added</b>: ${firstSite.Added_date} ${firstSite.Added_time}<br/>
-<b>Address</b>: ${firstSite.Site_streetaddress}, ${firstSite.Suburb}, ${firstSite.Site_postcode}</p>`;
+function renderSite(site) {
+  return `<h3>${site.Site_title}</h3>
+<p><b>Exposure Period</b>:  ${site.Exposure_date} ${site.Exposure_time}<br/>
+<b>Notes</b>: ${site.Notes}<br/>
+<b>Advice</b>: ${site.Advice_title}<br/>
+<b>Date First Added</b>: ${site.Added_date} ${site.Added_time}<br/>
+<b>Address</b>: ${site.Site_streetaddress}, ${site.Suburb}, ${site.Site_postcode}</p>`;
 }
 
 function buildPopup(groupedResults) {
-  const groupedBySiteTitle = {};
-  groupedResults.forEach(result => {
-    const key = result.Site_title;
-    if (!groupedBySiteTitle[key]) {
-      groupedBySiteTitle[key] = new Array();
-    }
-    groupedBySiteTitle[key].push(result);
-  });
-  return Object.keys(groupedBySiteTitle).map(siteTitleKey => renderSites(groupedBySiteTitle[siteTitleKey])).join('');
+  return groupedResults.map(result => renderSite(result)).join('');
 }
 
 const markerArray = Object.keys(groupedData).map(groupKey => {
