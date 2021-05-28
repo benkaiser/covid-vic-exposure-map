@@ -10,7 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: npm ci
-    - run: node scrape.js
+    - env:
+        SUBSCRIPTION_KEY: ${{ secrets.SUBSCRIPTION_KEY }}
+      run: node scrape.js
     - name: Committing changes
       uses: EndBug/add-and-commit@v7
       with:
