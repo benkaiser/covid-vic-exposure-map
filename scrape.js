@@ -1,5 +1,6 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
+var moment = require('moment-timezone');
 const subscriptionKey = process.env.SUBSCRIPTION_KEY;
 
 const existingData = JSON.parse(fs.readFileSync('./data.json'));
@@ -51,5 +52,7 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
     const stringified = JSON.stringify(resultsGeocoded);
     fs.writeFileSync('./data.json', JSON.stringify(resultsGeocoded, undefined, 2));
     fs.writeFileSync('./data.js', 'var results = ' + stringified + ';');
+    fs.writeFileSync('./updateTime.js', 'var updateTime = "' + moment().tz("Australia/Melbourne").format("MMM Do, h:mm a")  + '";');
+
   });
 });
