@@ -39,8 +39,11 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
   console.log(jsonResponse);
   const freshResults = jsonResponse.result.records.map(item => {
     if (existingDataLookup[item._id]) {
-      return existingDataLookup[item._id];
-    }
+      return {
+        ...existingDataLookup[item._id],
+        ...item,
+      };
+    };
     return item;
   }).map(item => {
     if (overridesLookup[item._id]) {
