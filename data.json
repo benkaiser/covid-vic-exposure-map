@@ -3209,8 +3209,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times is strongly encouraged to urgently get a test and isolate until they receive a negative result.\n",
     "Exposure_time_start_24": "16:00:00",
     "Exposure_time_end_24": "16:30:00",
-    "lat": -37.98322,
-    "lon": 145.21466
+    "lat": -37.8509895,
+    "lon": 145.0448889
   },
   {
     "_id": 154,
@@ -4251,7 +4251,7 @@
     "Exposure_date_dtm": "2021-05-22",
     "Exposure_date": "22/05/2021",
     "Exposure_time": "11:15pm - 11:55pm",
-    "Notes": "Case shopped",
+    "Notes": "Case visited",
     "Added_date_dtm": "2021-05-30",
     "Added_date": "30/05/2021",
     "Added_time": "3:07 pm",
