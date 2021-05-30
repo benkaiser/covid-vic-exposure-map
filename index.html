@@ -73,7 +73,7 @@ function renderSite(site) {
 <b>Notes</b>: ${site.Notes}<br/>
 <b>Advice</b>: ${site.Advice_title}<br/>
 <b>Date First Added</b>: ${site.Added_date} ${site.Added_time}<br/>
-<b>Address</b>: ${site.Site_streetaddress}, ${site.Suburb}, ${site.Site_postcode}</p>`;
+<b>Address</b>: ${site.Site_streetaddress}, ${site.Suburb}${site.Site_postcode ? ', ' + site.Site_postcode : ''}</p>`;
 }
 
 function buildPopup(groupedResults) {
