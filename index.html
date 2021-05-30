@@ -45,10 +45,13 @@
   <div id="map"></div>
   <div id="details">
     <h3>Covid Exposure Map Victoria</h3>
-    <p>Created by <a href="https://github.com/benkaiser">Benjamin Kaiser</a><br/>
-    <a href="https://www.coronavirus.vic.gov.au/exposure-sites">Source data</a><br/>
-    <a href="https://github.com/benkaiser/covid-vic-exposure-map">Source code</a><br/>
-    Data checked: <span id="updateTime"></span></p>
+    <p>
+      Created by <a href="https://github.com/benkaiser">Benjamin Kaiser</a><br/>
+      Data checked: <span id="updateTime"></span><br/>
+      Total exposures: <span id="totalSites"></span><br/>
+      <a href="https://www.coronavirus.vic.gov.au/exposure-sites">Source data</a><br/>
+      <a href="https://github.com/benkaiser/covid-vic-exposure-map">Source code</a><br/>
+    </p>
   </div>
   <script type="text/javascript" src="data.js"></script>
   <script type="text/javascript" src="updateTime.js"></script>
@@ -131,6 +134,7 @@ map.fitBounds(group.getBounds().pad(0.2));
 if (updateTime) {
   document.getElementById('updateTime').innerHTML = updateTime;
 }
+document.getElementById('totalSites').innerHTML = results.length;
 </script>
 </body>
 </html>
