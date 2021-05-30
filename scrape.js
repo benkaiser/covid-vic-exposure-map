@@ -35,7 +35,7 @@ async function geocode(result) {
 
 fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2b-9110-74c920bede77&limit=10000')
 .then(response => response.json())
-.then(jsonResponse => {
+.then(async (jsonResponse) => {
   console.log(jsonResponse);
   const freshResults = jsonResponse.result.records.map(item => {
     if (existingDataLookup[item._id]) {
@@ -54,12 +54,19 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
     }
     return item;
   });
-  Promise.all(freshResults.map(result => geocode(result)))
-  .then(resultsGeocoded => {
-    const stringified = JSON.stringify(resultsGeocoded);
-    fs.writeFileSync('./data.json', JSON.stringify(resultsGeocoded, undefined, 2));
-    fs.writeFileSync('./data.js', 'var results = ' + stringified + ';');
-    fs.writeFileSync('./updateTime.js', 'var updateTime = "' + moment().tz("Australia/Melbourne").format("MMM Do, h:mm a")  + '";');
-
-  });
+  const resultsGeocoded = [];
+  for (let x = 0; x < freshResults.length; x++) {
+    try {
+      geocodedResult = await geocode(freshResults[x]);
+      resultsGeocoded.push(geocodedResult);
+      // console.log(geocodedResult);
+    } catch (e) {
+      console.log(freshResults[x]);
+      console.log(e);
+    }
+  }
+  const stringified = JSON.stringify(resultsGeocoded);
+  fs.writeFileSync('./data.json', JSON.stringify(resultsGeocoded, undefined, 2));
+  fs.writeFileSync('./data.js', 'var results = ' + stringified + ';');
+  fs.writeFileSync('./updateTime.js', 'var updateTime = "' + moment().tz("Australia/Melbourne").format("MMM Do, h:mm a")  + '";');
 });
