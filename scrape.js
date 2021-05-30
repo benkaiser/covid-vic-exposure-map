@@ -15,27 +15,44 @@ const overridesLookup = {};
 overrides.forEach(item => overridesLookup[item._id] = item);
 
 async function geocode(result) {
-  if (result.lat && result.lon) {
-    console.log('Skipping already geocoded: ' + result._id);
-    return Promise.resolve(result);
-  }
+  // if (result.lat && result.lon) {
+  //   console.log('Skipping already geocoded: ' + result._id);
+  //   return Promise.resolve(result);
+  // }
 
   console.log('Geocoding: ' + result._id);
-  const query = encodeURIComponent(`${result.Site_streetaddress} ${result.Site_state} ${result.Site_postcode} Australia`);
-  return fetch(`https://atlas.microsoft.com/search/address/json?api-version=1.0&subscription-key=${subscriptionKey}&query=${query}&countrySet=AU`)
-  .then(result => result.json())
-  .then(responseJson => {
-    const firstResult = responseJson.results[0];
+  let query = encodeURIComponent(`${result.Site_title} ${result.Site_streetaddress} ${result.Suburb} ${result.Site_state} ${result.Site_postcode} Australia`);
+  if (result.Suburb === 'Bus Route') {
+    query = encodeURIComponent(`${result.Site_streetaddress} ${result.Site_state} ${result.Site_postcode} Australia`)
+  }
+  return fetch(`https://www.google.com/search?gl=jp&tbm=map&q=${query}`)
+  .then(result => result.text())
+  .then(responseText => {
+    const regexResult = /\@(.*?),(.*?),.*?,.*?y/.exec(responseText);
+    if (!regexResult || !regexResult[1] || !regexResult[2]) {
+      const queryNoTitle = encodeURIComponent(`${result.Site_streetaddress} ${result.Suburb} ${result.Site_state} ${result.Site_postcode} Australia`);
+      return fetch(`https://atlas.microsoft.com/search/address/json?api-version=1.0&subscription-key=${subscriptionKey}&query=${queryNoTitle}&countrySet=AU`)
+      .then(result => result.json())
+      .then(responseJson => {
+        const firstResult = responseJson.results[0];
+        return {
+          ...result,
+          ...firstResult.position
+        };
+      });
+    }
     return {
       ...result,
-      ...firstResult.position
+      lat: parseFloat(regexResult[1]),
+      lon: parseFloat(regexResult[2])
     };
   });
+
 }
 
 fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2b-9110-74c920bede77&limit=10000')
 .then(response => response.json())
-.then(jsonResponse => {
+.then(async (jsonResponse) => {
   console.log(jsonResponse);
   const freshResults = jsonResponse.result.records.map(item => {
     if (existingDataLookup[item._id]) {
@@ -45,7 +62,7 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
       };
     };
     return item;
-  }).map(item => {
+  }).map((item) => {
     if (overridesLookup[item._id]) {
       return {
         ...item,
@@ -54,12 +71,19 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
     }
     return item;
   });
-  Promise.all(freshResults.map(result => geocode(result)))
-  .then(resultsGeocoded => {
-    const stringified = JSON.stringify(resultsGeocoded);
-    fs.writeFileSync('./data.json', JSON.stringify(resultsGeocoded, undefined, 2));
-    fs.writeFileSync('./data.js', 'var results = ' + stringified + ';');
-    fs.writeFileSync('./updateTime.js', 'var updateTime = "' + moment().tz("Australia/Melbourne").format("MMM Do, h:mm a")  + '";');
+  const resultsGeocoded = [];
+    for(let x = 0; x < freshResults.length; x++) {
+      try {
+        const result = await geocode(freshResults[x]);
+        resultsGeocoded.push(result);
+        console.log(result);
+      } catch (e) {
+        /* no-op */
+      }
+    }
 
-  });
+  const stringified = JSON.stringify(resultsGeocoded);
+  fs.writeFileSync('./data.json', JSON.stringify(resultsGeocoded, undefined, 2));
+  fs.writeFileSync('./data.js', 'var results = ' + stringified + ';');
+  fs.writeFileSync('./updateTime.js', 'var updateTime = "' + moment().tz("Australia/Melbourne").format("MMM Do, h:mm a")  + '";');
 });
