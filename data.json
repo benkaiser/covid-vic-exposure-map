@@ -3188,8 +3188,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "11:45:00",
     "Exposure_time_end_24": "14:30:00",
-    "lat": -37.98322,
-    "lon": 145.21466
+    "lat": -37.720714798995694,
+    "lon": 145.04831744054462
   },
   {
     "_id": 153,
@@ -3230,8 +3230,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:00:00",
     "Exposure_time_end_24": "15:45:00",
-    "lat": -37.99167,
-    "lon": 145.21493
+    "lat": -38.406932939933135,
+    "lon": 144.8427335409159
   },
   {
     "_id": 155,
@@ -5001,7 +5001,7 @@
     "_id": 239,
     "Suburb": "Footscray",
     "Site_title": "Thai Huy Butcher",
-    "Site_streetaddress": "Shop 144, 18 Irving Street",
+    "Site_streetaddress": "Shop 144, 18 Irving Street (Footscray Market)",
     "Site_state": "VIC",
     "Site_postcode": "3011",
     "Exposure_date_dtm": "2021-05-26",
@@ -5232,7 +5232,7 @@
     "_id": 250,
     "Suburb": "Footscray",
     "Site_title": "Inday Fillipino Store",
-    "Site_streetaddress": "121/81 Hopkins St",
+    "Site_streetaddress": "121/81 Hopkins St (Footscray Market)",
     "Site_state": "VIC",
     "Site_postcode": "3011",
     "Exposure_date_dtm": "2021-05-26",
@@ -5269,6 +5269,27 @@
     "Exposure_time_end_24": "08:35:00",
     "lat": -38.1107616,
     "lon": 145.2607078
+  },
+  {
+    "_id": 259,
+    "Suburb": "South Melbourne",
+    "Site_title": "Zoumi Cafe",
+    "Site_streetaddress": "70 Albert Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3205",
+    "Exposure_date_dtm": "2021-05-22",
+    "Exposure_date": "22/05/2021",
+    "Exposure_time": "10:35am - 11:05am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-30",
+    "Added_date": "30/05/2021",
+    "Added_time": "8:30 pm",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times is strongly encouraged to urgently get a test and isolate until they receive a negative result.\n",
+    "Exposure_time_start_24": "10:35:00",
+    "Exposure_time_end_24": "11:05:00",
+    "lat": -37.72764,
+    "lon": 144.82053
   },
   {
     "_id": 252,
@@ -5418,27 +5439,6 @@
     "lon": 144.94225
   },
   {
-    "_id": 259,
-    "Suburb": "South Melbourne",
-    "Site_title": "Zoumi Cafe",
-    "Site_streetaddress": "70 Albert Rd",
-    "Site_state": "VIC",
-    "Site_postcode": "3205",
-    "Exposure_date_dtm": "2021-05-22",
-    "Exposure_date": "22/05/2021",
-    "Exposure_time": "10:35am - 11:05am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-30",
-    "Added_date": "30/05/2021",
-    "Added_time": "8:30 pm",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times is strongly encouraged to urgently get a test and isolate until they receive a negative result.\n",
-    "Exposure_time_start_24": "10:35:00",
-    "Exposure_time_end_24": "11:05:00",
-    "lat": -37.72764,
-    "lon": 144.82053
-  },
-  {
     "_id": 260,
     "Suburb": "Mount Dandenong",
     "Site_title": "SkyHigh Mount Dandenong and SkyHigh Cafe",
@@ -5456,8 +5456,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times is strongly encouraged to urgently get a test and isolate until they receive a negative result.\n",
     "Exposure_time_start_24": "18:00:00",
     "Exposure_time_end_24": "19:50:00",
-    "lat": -37.98514,
-    "lon": 145.20234
+    "lat": -37.82721008212214,
+    "lon": 145.35294715168243
   },
   {
     "_id": 261,
