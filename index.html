@@ -31,6 +31,33 @@
        margin-top: 5px;
        margin-bottom: 5px;
      }
+     .btn-group button {
+        background-color: #04AA6D; /* Green background */
+        border: 1px solid green; /* Green border */
+        color: white; /* White text */
+        padding: 10px 10px; /* Some padding */
+        cursor: pointer; /* Pointer/hand icon */
+        float: left; /* Float the buttons side by side */
+      }
+      .btn-group button.activated {
+        background-color: #3e8e41;
+      }
+
+      .btn-group button:not(:last-child) {
+      border-right: none; /* Prevent double borders */
+      }
+
+      /* Clear floats (clearfix hack) */
+      .btn-group:after {
+      content: "";
+      clear: both;
+      display: table;
+      }
+
+      /* Add a background color on hover */
+      .btn-group button:hover {
+      background-color: #3e8e41;
+      }
    </style>
    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YB2EPVYRBY"></script>
    <script>
@@ -46,30 +73,35 @@
   <div id="details">
     <h3>Covid Exposure Map Victoria</h3>
     <p>
-      Created by <a href="https://github.com/benkaiser">Benjamin Kaiser</a><br/>
+      Filter by time announced:
+      <div class="btn-group">
+        <button id="alltime" class="activated">All Time</button>
+        <button id="last24">Last 24 Hours</button>
+        <button id="last3">Last 3 Days</button>
+        <button id="last7">Last 7 Days</button>
+      </div>
+    </p>
+    <p>
       Data checked: <span id="updateTime"></span><br/>
       Total exposures: <span id="totalSites"></span><br/>
       <a href="https://www.coronavirus.vic.gov.au/exposure-sites">Source data</a><br/>
       <a href="https://github.com/benkaiser/covid-vic-exposure-map">Source code</a><br/>
+      Created by <a href="https://github.com/benkaiser">Benjamin Kaiser</a>
     </p>
   </div>
   <script type="text/javascript" src="data.js"></script>
   <script type="text/javascript" src="updateTime.js"></script>
 <script type="text/javascript">
+const alltime = document.getElementById('alltime');
+const last24 = document.getElementById('last24');
+const last3 = document.getElementById('last3');
+const last7 = document.getElementById('last7');
 var map = L.map('map').setView([-37.8136, 144.9631], 11);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
-
-const groupedData = {};
-results.forEach(result => {
-  const key = result.lat + "-" + result.lon;
-  if (!groupedData[key]) {
-    groupedData[key] = new Array();
-  }
-  groupedData[key].push(result);
-});
+var markerLayer = L.layerGroup().addTo(map);
 
 function renderSite(site) {
   return `<h3>${site.Site_title}</h3>
@@ -119,22 +151,59 @@ function getWorstTier(resultGroup) {
   });
   return 'tier' + tier;
 }
+function drawMap(filterTime) {
+  document.querySelectorAll('.btn-group button').forEach(button => {
+    button.classList.remove('activated');
+  });
+  ({
+    'all': alltime,
+    24: last24,
+    [24 * 3]: last3,
+    [24 * 7]: last7
+  })[filterTime].classList.add('activated');
 
-const markerArray = Object.keys(groupedData).map(groupKey => {
-  const resultGroup = groupedData[groupKey];
-  const firstResult = resultGroup[0];
-  const tier = getWorstTier(resultGroup);
-  return L.marker([firstResult.lat, firstResult.lon], {icon: tierMarker[tier]}).addTo(map)
-    .bindPopup(buildPopup(resultGroup));
-});
+  const filteredResult = filterTime !== 'all' ? results.filter(result => {
+    try {
+      const dateAddedMilli = +new Date(result.Added_date_dtm + " " + result.Added_time + " GMT+10");
+      return new Date() - dateAddedMilli < 1000 * 60 * 60 * filterTime;
+    } catch (e) {
+      console.error(e);
+      return true;
+    }
+  }) : results;
+  const groupedData = {};
+  filteredResult.forEach(result => {
+    const key = result.lat + "-" + result.lon;
+    if (!groupedData[key]) {
+      groupedData[key] = new Array();
+    }
+    groupedData[key].push(result);
+  });
 
-var group = new L.featureGroup(markerArray);
-map.fitBounds(group.getBounds().pad(0.2));
+  markerLayer.clearLayers();
+
+  const markerArray = Object.keys(groupedData).map(groupKey => {
+    const resultGroup = groupedData[groupKey];
+    const firstResult = resultGroup[0];
+    const tier = getWorstTier(resultGroup);
+    return L.marker([firstResult.lat, firstResult.lon], {icon: tierMarker[tier]}).addTo(markerLayer)
+      .bindPopup(buildPopup(resultGroup));
+  });
+
+  var group = new L.featureGroup(markerArray);
+  map.fitBounds(group.getBounds().pad(0.2));
+}
+drawMap('all');
 
 if (updateTime) {
   document.getElementById('updateTime').innerHTML = updateTime;
 }
 document.getElementById('totalSites').innerHTML = results.length;
+
+alltime.addEventListener('click', () => drawMap('all'));
+last24.addEventListener('click', () => drawMap(24));
+last3.addEventListener('click', () => drawMap(24 * 3));
+last7.addEventListener('click', () => drawMap(24 * 7));
 </script>
 </body>
 </html>
