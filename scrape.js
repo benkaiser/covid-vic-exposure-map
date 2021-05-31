@@ -15,8 +15,8 @@ const overridesLookup = {};
 overrides.forEach(item => overridesLookup[item._id] = item);
 
 async function geocode(result) {
-  if (result.lat && result.lon) {
-    console.log('Skipping already geocoded: ' + result._id);
+  if (result.lat && result.lon && result.override) {
+    console.log('Skipping already geocoded override: ' + result._id);
     return Promise.resolve(result);
   }
 
@@ -38,12 +38,12 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
 .then(async (jsonResponse) => {
   console.log(jsonResponse);
   const freshResults = jsonResponse.result.records.map(item => {
-    if (existingDataLookup[item._id]) {
+    if (existingDataLookup[item._id] && match(existingDataLookup[item._id], item)) {
       return {
         ...existingDataLookup[item._id],
         ...item,
       };
-    };
+    }
     return item;
   }).map(item => {
     if (overridesLookup[item._id]) {
