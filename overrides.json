@@ -80,56 +80,56 @@
     "Site_postcode": "3108"
   },
   {
-    "lat": -37.8860001,
-    "lon": 145.0836691,
+    "lat": -37.88727784490747,
+    "lon": 145.08339931129566,
     "Suburb": "Malvern East (Chadstone)",
     "Site_streetaddress": "247C/ 1341 Dandenong Road",
     "Site_state": "VIC",
     "Site_postcode": "3148"
   },
   {
-    "lat": -37.7796789,
-    "lon": 144.877896,
+    "lat": -37.844112117868,
+    "lon": 144.979222581026,
     "Suburb": "Melbourne",
     "Site_streetaddress": "509 St Kilda Road",
     "Site_state": "VIC",
     "Site_postcode": "3004"
   },
   {
-    "lat": -37.8016723,
-    "lon": 144.8496023,
+    "lat": -38.10815595603298,
+    "lon": 145.28223391801635,
     "Suburb": "Cranbourne",
     "Site_streetaddress": "Shop SP104 Cranbourne Park Shopping Centre, High St",
     "Site_state": "VIC",
     "Site_postcode": "3977"
   },
   {
-    "lat": -37.801605,
-    "lon": 144.9016139,
+    "lat": -37.64908369558339,
+    "lon": 145.0257627266316,
     "Suburb": "Epping",
     "Site_streetaddress": "768 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3076"
   },
   {
-    "lat": -37.6511375,
-    "lon": 145.020584,
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
     "Suburb": "Thomastown",
     "Site_streetaddress": "46/40-50 Keon Parade",
     "Site_state": "VIC",
     "Site_postcode": "3074"
   },
   {
-    "lat": -37.8632782,
-    "lon": 144.9706094,
+    "lat": -38.10802768621525,
+    "lon": 145.2511023510186,
     "Suburb": "Cranbourne West",
     "Site_streetaddress": "Cnr Hall and Evans Roads",
     "Site_state": "VIC",
     "Site_postcode": "3977"
   },
   {
-    "lat": -38.097223,
-    "lon": 145.2445499,
+    "lat": -37.97379985731053,
+    "lon": 145.1864941688427,
     "Suburb": "Noble Park",
     "Site_streetaddress": "262 Railway Parade",
     "Site_state": "VIC",
@@ -148,14 +148,6 @@
     "lon": 145.2124668,
     "Suburb": "Dandenong",
     "Site_streetaddress": "21-23 Cleeland Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3175"
-  },
-  {
-    "lat": -38.1107616,
-    "lon": 145.2607078,
-    "Suburb": "Noble Park",
-    "Site_streetaddress": "262 Railway Parade",
     "Site_state": "VIC",
     "Site_postcode": "3175"
   },
@@ -432,8 +424,8 @@
     "Site_postcode": "3063"
   },
   {
-    "lat": -37.54436645839034,
-    "lon": 144.8856327049915,
+    "lat": -37.739423364157275,
+    "lon": 145.02893188287362,
     "Suburb": "Preston",
     "Site_streetaddress": "2-50 Murray Road",
     "Site_state": "VIC",
@@ -488,8 +480,8 @@
     "Site_postcode": "3043"
   },
   {
-    "lat": -38.1099742379563,
-    "lon": 145.28200329822508,
+    "lat": -38.10815595603298,
+    "lon": 145.28223391801635,
     "Suburb": "Cranbourne",
     "Site_streetaddress": "Shop 101 Cranbourne Park Shopping Centre, High Street",
     "Site_state": "VIC",
@@ -520,24 +512,24 @@
     "Site_postcode": "3207"
   },
   {
-    "lat": -37.65611664339199,
-    "lon": 145.0202159265502,
+    "lat": -37.779205198263206,
+    "lon": 144.8746978977995,
     "Suburb": "Bus Route",
     "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road (Maidstone)",
     "Site_state": "VIC",
     "Site_postcode": null
   },
   {
-    "lat": -37.65611664339199,
-    "lon": 145.0202159265502,
+    "lat": -37.88727784490747,
+    "lon": 145.08339931129566,
     "Suburb": "Malvern East (Chadstone)",
     "Site_streetaddress": "Shop B099, 1341 Dandenong Road",
     "Site_state": "VIC",
     "Site_postcode": "3145"
   },
   {
-    "lat": -38.10808751353281,
-    "lon": 145.2511202382693,
+    "lat": -37.81041045524343,
+    "lon": 144.9974805373111,
     "Suburb": "Richmond",
     "Site_streetaddress": "182-186 Victoria St",
     "Site_state": "VIC",
@@ -552,8 +544,8 @@
     "Site_postcode": "3146"
   },
   {
-    "lat": -37.77825458112218,
-    "lon": 145.0399021312418,
+    "lat": -37.800173903098035,
+    "lon": 144.901919269382,
     "Suburb": "Footscray",
     "Site_streetaddress": "121/81 Hopkins St (Footscray Market)",
     "Site_state": "VIC",
@@ -568,8 +560,8 @@
     "Site_postcode": "3939"
   },
   {
-    "lat": -37.82721008212214,
-    "lon": 145.35294715168243,
+    "lat": -37.88727784490747,
+    "lon": 145.08339931129566,
     "Suburb": "Chadstone",
     "Site_streetaddress": "1341 Dandenong Road",
     "Site_state": "VIC",
@@ -584,24 +576,16 @@
     "Site_postcode": "3086"
   },
   {
-    "lat": -37.80012890169097,
-    "lon": 144.90193447820945,
+    "lat": -37.724634471990704,
+    "lon": 144.8180312134127,
     "Suburb": "Keilor Downs",
     "Site_streetaddress": "Green Gully Reserve, McCrae Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3038"
   },
   {
-    "lat": -37.844168313986835,
-    "lon": 144.97933484882702,
-    "Suburb": "Noble Park",
-    "Site_streetaddress": "262 Railway Parade",
-    "Site_state": "VIC",
-    "Site_postcode": "3175"
-  },
-  {
-    "lat": -37.83861045208018,
-    "lon": 144.9420210744326,
+    "lat": -37.653346398972765,
+    "lon": 145.01873515545853,
     "Suburb": "Epping",
     "Site_streetaddress": "583 High Street",
     "Site_state": "VIC",

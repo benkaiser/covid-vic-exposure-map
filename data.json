@@ -60,7 +60,8 @@
     "Exposure_time_start_24": "09:45:00",
     "Exposure_time_end_24": "12:40:00",
     "lat": -37.8116943,
-    "lon": 145.0719266
+    "lon": 145.0719266,
+    "override": true
   },
   {
     "_id": 4,
@@ -353,8 +354,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "10:30:00",
     "Exposure_time_end_24": "13:00:00",
-    "lat": -37.801605,
-    "lon": 144.9016139
+    "lat": -37.64908369558339,
+    "lon": 145.0257627266316,
+    "override": true
   },
   {
     "_id": 18,
@@ -1151,8 +1153,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "14:30:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 55,
@@ -1299,7 +1302,8 @@
     "Exposure_time_start_24": "13:15:00",
     "Exposure_time_end_24": "14:30:00",
     "lat": -37.7756059,
-    "lon": 144.962204
+    "lon": 144.962204,
+    "override": true
   },
   {
     "_id": 62,
@@ -1698,7 +1702,8 @@
     "Exposure_time_start_24": "19:40:00",
     "Exposure_time_end_24": "21:30:00",
     "lat": -37.7865355,
-    "lon": 145.1245572
+    "lon": 145.1245572,
+    "override": true
   },
   {
     "_id": 81,
@@ -1781,8 +1786,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 84,
@@ -1866,7 +1872,8 @@
     "Exposure_time_start_24": "16:15:00",
     "Exposure_time_end_24": "18:15:00",
     "lat": -37.69881112571731,
-    "lon": 145.0589056986622
+    "lon": 145.0589056986622,
+    "override": true
   },
   {
     "_id": 88,
@@ -1908,7 +1915,8 @@
     "Exposure_time_start_24": "13:20:00",
     "Exposure_time_end_24": "14:15:00",
     "lat": -37.7969452237521,
-    "lon": 144.9678130268352
+    "lon": 144.9678130268352,
+    "override": true
   },
   {
     "_id": 90,
@@ -1929,7 +1937,8 @@
     "Exposure_time_start_24": "13:15:00",
     "Exposure_time_end_24": "13:40:00",
     "lat": -37.80668640649662,
-    "lon": 144.8907158738003
+    "lon": 144.8907158738003,
+    "override": true
   },
   {
     "_id": 91,
@@ -2034,7 +2043,8 @@
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "19:45:00",
     "lat": -37.80321,
-    "lon": 144.9811683
+    "lon": 144.9811683,
+    "override": true
   },
   {
     "_id": 96,
@@ -2055,7 +2065,8 @@
     "Exposure_time_start_24": "12:10:00",
     "Exposure_time_end_24": "13:30:00",
     "lat": -38.02744506341144,
-    "lon": 145.13293000463386
+    "lon": 145.13293000463386,
+    "override": true
   },
   {
     "_id": 97,
@@ -2076,7 +2087,8 @@
     "Exposure_time_start_24": "15:45:00",
     "Exposure_time_end_24": "16:15:00",
     "lat": -37.7756059,
-    "lon": 144.962204
+    "lon": 144.962204,
+    "override": true
   },
   {
     "_id": 98,
@@ -2096,8 +2108,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "13:15:00",
     "Exposure_time_end_24": "14:15:00",
-    "lat": -38.1099742379563,
-    "lon": 145.28200329822508
+    "lat": -38.10815595603298,
+    "lon": 145.28223391801635,
+    "override": true
   },
   {
     "_id": 99,
@@ -2139,7 +2152,8 @@
     "Exposure_time_start_24": "12:00:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.77164875698289,
-    "lon": 144.93412729821725
+    "lon": 144.93412729821725,
+    "override": true
   },
   {
     "_id": 101,
@@ -2160,7 +2174,8 @@
     "Exposure_time_start_24": "16:00:00",
     "Exposure_time_end_24": "18:00:00",
     "lat": -37.77164875698289,
-    "lon": 144.93412729821725
+    "lon": 144.93412729821725,
+    "override": true
   },
   {
     "_id": 102,
@@ -2181,7 +2196,8 @@
     "Exposure_time_start_24": "12:00:00",
     "Exposure_time_end_24": "16:00:00",
     "lat": -37.77164875698289,
-    "lon": 144.93412729821725
+    "lon": 144.93412729821725,
+    "override": true
   },
   {
     "_id": 103,
@@ -2202,7 +2218,8 @@
     "Exposure_time_start_24": "12:00:00",
     "Exposure_time_end_24": "14:00:00",
     "lat": -37.83927831284518,
-    "lon": 144.94144450782105
+    "lon": 144.94144450782105,
+    "override": true
   },
   {
     "_id": 104,
@@ -2223,7 +2240,8 @@
     "Exposure_time_start_24": "11:50:00",
     "Exposure_time_end_24": "11:55:00",
     "lat": -37.70236684797203,
-    "lon": 144.88276509636555
+    "lon": 144.88276509636555,
+    "override": true
   },
   {
     "_id": 105,
@@ -2244,7 +2262,8 @@
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "11:30:00",
     "lat": -37.5933934,
-    "lon": 144.9137526
+    "lon": 144.9137526,
+    "override": true
   },
   {
     "_id": 106,
@@ -2265,7 +2284,8 @@
     "Exposure_time_start_24": "11:15:00",
     "Exposure_time_end_24": "13:00:00",
     "lat": -37.54436645839034,
-    "lon": 144.8856327049915
+    "lon": 144.8856327049915,
+    "override": true
   },
   {
     "_id": 107,
@@ -2286,7 +2306,8 @@
     "Exposure_time_start_24": "15:30:00",
     "Exposure_time_end_24": "17:00:00",
     "lat": -37.81754333666098,
-    "lon": 144.95298727853736
+    "lon": 144.95298727853736,
+    "override": true
   },
   {
     "_id": 108,
@@ -2307,7 +2328,8 @@
     "Exposure_time_start_24": "19:30:00",
     "Exposure_time_end_24": "19:40:00",
     "lat": -37.81754333666098,
-    "lon": 144.95298727853736
+    "lon": 144.95298727853736,
+    "override": true
   },
   {
     "_id": 109,
@@ -2328,7 +2350,8 @@
     "Exposure_time_start_24": "12:15:00",
     "Exposure_time_end_24": "13:15:00",
     "lat": -37.82479976092579,
-    "lon": 144.9504962954672
+    "lon": 144.9504962954672,
+    "override": true
   },
   {
     "_id": 110,
@@ -2349,7 +2372,8 @@
     "Exposure_time_start_24": "12:15:00",
     "Exposure_time_end_24": "13:15:00",
     "lat": -37.82479976092579,
-    "lon": 144.9504962954672
+    "lon": 144.9504962954672,
+    "override": true
   },
   {
     "_id": 111,
@@ -2370,7 +2394,8 @@
     "Exposure_time_start_24": "12:15:00",
     "Exposure_time_end_24": "13:15:00",
     "lat": -37.82479976092579,
-    "lon": 144.9504962954672
+    "lon": 144.9504962954672,
+    "override": true
   },
   {
     "_id": 112,
@@ -2391,7 +2416,8 @@
     "Exposure_time_start_24": "19:35:00",
     "Exposure_time_end_24": "20:15:00",
     "lat": -37.81877040446319,
-    "lon": 144.95332415403985
+    "lon": 144.95332415403985,
+    "override": true
   },
   {
     "_id": 113,
@@ -2454,7 +2480,8 @@
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "16:00:00",
     "lat": -37.80588059895018,
-    "lon": 144.9656795808292
+    "lon": 144.9656795808292,
+    "override": true
   },
   {
     "_id": 116,
@@ -2475,7 +2502,8 @@
     "Exposure_time_start_24": "17:35:00",
     "Exposure_time_end_24": "19:00:00",
     "lat": -37.935248890179956,
-    "lon": 145.00306769460138
+    "lon": 145.00306769460138,
+    "override": true
   },
   {
     "_id": 117,
@@ -2496,7 +2524,8 @@
     "Exposure_time_start_24": "17:21:00",
     "Exposure_time_end_24": "19:00:00",
     "lat": -37.935248890179956,
-    "lon": 145.00306769460138
+    "lon": 145.00306769460138,
+    "override": true
   },
   {
     "_id": 118,
@@ -2517,7 +2546,8 @@
     "Exposure_time_start_24": "17:15:00",
     "Exposure_time_end_24": "18:00:00",
     "lat": -37.71396818368223,
-    "lon": 144.99428533462515
+    "lon": 144.99428533462515,
+    "override": true
   },
   {
     "_id": 119,
@@ -2538,7 +2568,8 @@
     "Exposure_time_start_24": "12:40:00",
     "Exposure_time_end_24": "13:40:00",
     "lat": -37.83235196564247,
-    "lon": 144.96051987568197
+    "lon": 144.96051987568197,
+    "override": true
   },
   {
     "_id": 120,
@@ -2559,7 +2590,8 @@
     "Exposure_time_start_24": "09:15:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.832334579748995,
-    "lon": 144.96060526938285
+    "lon": 144.96060526938285,
+    "override": true
   },
   {
     "_id": 121,
@@ -2580,7 +2612,8 @@
     "Exposure_time_start_24": "09:15:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.832334579748995,
-    "lon": 144.96060526938285
+    "lon": 144.96060526938285,
+    "override": true
   },
   {
     "_id": 122,
@@ -2601,7 +2634,8 @@
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "14:00:00",
     "lat": -37.83234713810752,
-    "lon": 144.96006461436497
+    "lon": 144.96006461436497,
+    "override": true
   },
   {
     "_id": 123,
@@ -2622,7 +2656,8 @@
     "Exposure_time_start_24": "17:45:00",
     "Exposure_time_end_24": "18:15:00",
     "lat": -37.6783988,
-    "lon": 144.9990092
+    "lon": 144.9990092,
+    "override": true
   },
   {
     "_id": 124,
@@ -2643,7 +2678,8 @@
     "Exposure_time_start_24": "09:30:00",
     "Exposure_time_end_24": "11:00:00",
     "lat": -37.740091848396375,
-    "lon": 145.0043352112913
+    "lon": 145.0043352112913,
+    "override": true
   },
   {
     "_id": 125,
@@ -2664,7 +2700,8 @@
     "Exposure_time_start_24": "14:30:00",
     "Exposure_time_end_24": "15:00:00",
     "lat": -37.7622108,
-    "lon": 144.9708753
+    "lon": 144.9708753,
+    "override": true
   },
   {
     "_id": 126,
@@ -2685,7 +2722,8 @@
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "23:45:00",
     "lat": -37.6485911,
-    "lon": 145.008586
+    "lon": 145.008586,
+    "override": true
   },
   {
     "_id": 127,
@@ -2748,7 +2786,8 @@
     "Exposure_time_start_24": "12:05:00",
     "Exposure_time_end_24": "12:15:00",
     "lat": -37.77423911746968,
-    "lon": 144.8854523618422
+    "lon": 144.8854523618422,
+    "override": true
   },
   {
     "_id": 130,
@@ -2769,7 +2808,8 @@
     "Exposure_time_start_24": "12:20:00",
     "Exposure_time_end_24": "12:35:00",
     "lat": -37.7741891,
-    "lon": 144.8837947
+    "lon": 144.8837947,
+    "override": true
   },
   {
     "_id": 131,
@@ -2790,7 +2830,8 @@
     "Exposure_time_start_24": "15:00:00",
     "Exposure_time_end_24": "15:30:00",
     "lat": -37.8169444,
-    "lon": 144.8789224
+    "lon": 144.8789224,
+    "override": true
   },
   {
     "_id": 132,
@@ -2811,7 +2852,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "21:00:00",
     "lat": -37.62847188322215,
-    "lon": 145.02749434062434
+    "lon": 145.02749434062434,
+    "override": true
   },
   {
     "_id": 133,
@@ -2832,7 +2874,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "21:00:00",
     "lat": -37.62847188322215,
-    "lon": 145.02749434062434
+    "lon": 145.02749434062434,
+    "override": true
   },
   {
     "_id": 134,
@@ -2853,7 +2896,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "21:00:00",
     "lat": -37.62847188322215,
-    "lon": 145.02749434062434
+    "lon": 145.02749434062434,
+    "override": true
   },
   {
     "_id": 208,
@@ -2873,8 +2917,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 135,
@@ -2895,7 +2940,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "21:00:00",
     "lat": -37.62847188322215,
-    "lon": 145.02749434062434
+    "lon": 145.02749434062434,
+    "override": true
   },
   {
     "_id": 136,
@@ -2916,7 +2962,8 @@
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.65042224728819,
-    "lon": 145.0681071693786
+    "lon": 145.0681071693786,
+    "override": true
   },
   {
     "_id": 137,
@@ -2937,7 +2984,8 @@
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.65042224728819,
-    "lon": 145.0681071693786
+    "lon": 145.0681071693786,
+    "override": true
   },
   {
     "_id": 138,
@@ -2958,7 +3006,8 @@
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.65042224728819,
-    "lon": 145.0681071693786
+    "lon": 145.0681071693786,
+    "override": true
   },
   {
     "_id": 139,
@@ -2979,7 +3028,8 @@
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.65042224728819,
-    "lon": 145.0681071693786
+    "lon": 145.0681071693786,
+    "override": true
   },
   {
     "_id": 140,
@@ -3000,7 +3050,8 @@
     "Exposure_time_start_24": "09:30:00",
     "Exposure_time_end_24": "14:00:00",
     "lat": -37.71668578816581,
-    "lon": 145.00874271893807
+    "lon": 145.00874271893807,
+    "override": true
   },
   {
     "_id": 141,
@@ -3021,7 +3072,8 @@
     "Exposure_time_start_24": "16:20:00",
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.72474887092568,
-    "lon": 145.02856533816436
+    "lon": 145.02856533816436,
+    "override": true
   },
   {
     "_id": 142,
@@ -3042,7 +3094,8 @@
     "Exposure_time_start_24": "12:20:00",
     "Exposure_time_end_24": "13:10:00",
     "lat": -37.64031505490555,
-    "lon": 145.02037328565712
+    "lon": 145.02037328565712,
+    "override": true
   },
   {
     "_id": 143,
@@ -3063,7 +3116,8 @@
     "Exposure_time_start_24": "11:25:00",
     "Exposure_time_end_24": "12:10:00",
     "lat": -37.62121703431004,
-    "lon": 145.007203554907
+    "lon": 145.007203554907,
+    "override": true
   },
   {
     "_id": 144,
@@ -3084,7 +3138,8 @@
     "Exposure_time_start_24": "10:30:00",
     "Exposure_time_end_24": "11:30:00",
     "lat": -37.62121703431004,
-    "lon": 145.007203554907
+    "lon": 145.007203554907,
+    "override": true
   },
   {
     "_id": 145,
@@ -3105,7 +3160,8 @@
     "Exposure_time_start_24": "17:45:00",
     "Exposure_time_end_24": "19:15:00",
     "lat": -37.59330481993262,
-    "lon": 144.90981319681967
+    "lon": 144.90981319681967,
+    "override": true
   },
   {
     "_id": 146,
@@ -3147,7 +3203,8 @@
     "Exposure_time_start_24": "14:00:00",
     "Exposure_time_end_24": "18:00:00",
     "lat": -38.08548039316657,
-    "lon": 145.17861032860628
+    "lon": 145.17861032860628,
+    "override": true
   },
   {
     "_id": 148,
@@ -3168,7 +3225,8 @@
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "13:40:00",
     "lat": -37.98365118056074,
-    "lon": 145.21497983049736
+    "lon": 145.21497983049736,
+    "override": true
   },
   {
     "_id": 149,
@@ -3189,7 +3247,8 @@
     "Exposure_time_start_24": "12:15:00",
     "Exposure_time_end_24": "13:15:00",
     "lat": -37.9832161,
-    "lon": 145.2124668
+    "lon": 145.2124668,
+    "override": true
   },
   {
     "_id": 150,
@@ -3210,7 +3269,8 @@
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "13:40:00",
     "lat": -37.9832161,
-    "lon": 145.2124668
+    "lon": 145.2124668,
+    "override": true
   },
   {
     "_id": 151,
@@ -3252,7 +3312,8 @@
     "Exposure_time_start_24": "11:45:00",
     "Exposure_time_end_24": "14:30:00",
     "lat": -37.720714798995694,
-    "lon": 145.04831744054462
+    "lon": 145.04831744054462,
+    "override": true
   },
   {
     "_id": 153,
@@ -3294,7 +3355,8 @@
     "Exposure_time_start_24": "15:00:00",
     "Exposure_time_end_24": "15:45:00",
     "lat": -38.406932939933135,
-    "lon": 144.8427335409159
+    "lon": 144.8427335409159,
+    "override": true
   },
   {
     "_id": 155,
@@ -3504,7 +3566,8 @@
     "Exposure_time_start_24": "11:45:00",
     "Exposure_time_end_24": "14:30:00",
     "lat": -37.720714798995694,
-    "lon": 145.04831744054462
+    "lon": 145.04831744054462,
+    "override": true
   },
   {
     "_id": 165,
@@ -3692,8 +3755,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "12:40:00",
     "Exposure_time_end_24": "12:45:00",
-    "lat": -37.8860001,
-    "lon": 145.0836691
+    "lat": -37.88727784490747,
+    "lon": 145.08339931129566,
+    "override": true
   },
   {
     "_id": 174,
@@ -4154,8 +4218,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:15:00",
     "Exposure_time_end_24": "15:15:00",
-    "lat": -37.54436645839034,
-    "lon": 144.8856327049915
+    "lat": -37.739423364157275,
+    "lon": 145.02893188287362,
+    "override": true
   },
   {
     "_id": 196,
@@ -4175,8 +4240,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:55:00",
     "Exposure_time_end_24": "14:40:00",
-    "lat": -37.54436645839034,
-    "lon": 144.8856327049915
+    "lat": -37.739423364157275,
+    "lon": 145.02893188287362,
+    "override": true
   },
   {
     "_id": 197,
@@ -4196,8 +4262,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:25:00",
     "Exposure_time_end_24": "14:00:00",
-    "lat": -37.54436645839034,
-    "lon": 144.8856327049915
+    "lat": -37.739423364157275,
+    "lon": 145.02893188287362,
+    "override": true
   },
   {
     "_id": 198,
@@ -4217,8 +4284,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:30:00",
     "Exposure_time_end_24": "15:50:00",
-    "lat": -37.54436645839034,
-    "lon": 144.8856327049915
+    "lat": -37.739423364157275,
+    "lon": 145.02893188287362,
+    "override": true
   },
   {
     "_id": 199,
@@ -4406,8 +4474,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 210,
@@ -4427,8 +4496,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 211,
@@ -4448,8 +4518,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 212,
@@ -4469,8 +4540,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.6511375,
-    "lon": 145.020584
+    "lat": -37.695383848237725,
+    "lon": 145.01813980627452,
+    "override": true
   },
   {
     "_id": 213,
@@ -4721,8 +4793,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:30:00",
     "Exposure_time_end_24": "15:50:00",
-    "lat": -37.54436645839034,
-    "lon": 144.8856327049915
+    "lat": -37.739423364157275,
+    "lon": 145.02893188287362,
+    "override": true
   },
   {
     "_id": 225,
@@ -4763,8 +4836,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "17:00:00",
     "Exposure_time_end_24": "17:45:00",
-    "lat": -37.801605,
-    "lon": 144.9016139
+    "lat": -37.64908369558339,
+    "lon": 145.0257627266316,
+    "override": true
   },
   {
     "_id": 227,
@@ -4784,8 +4858,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:50:00",
     "Exposure_time_end_24": "16:35:00",
-    "lat": -37.801605,
-    "lon": 144.9016139
+    "lat": -37.64908369558339,
+    "lon": 145.0257627266316,
+    "override": true
   },
   {
     "_id": 228,
@@ -4805,8 +4880,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:50:00",
     "Exposure_time_end_24": "16:20:00",
-    "lat": -37.801605,
-    "lon": 144.9016139
+    "lat": -37.64908369558339,
+    "lon": 145.0257627266316,
+    "override": true
   },
   {
     "_id": 229,
@@ -4826,8 +4902,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "19:00:00",
-    "lat": -37.801605,
-    "lon": 144.9016139
+    "lat": -37.64908369558339,
+    "lon": 145.0257627266316,
+    "override": true
   },
   {
     "_id": 230,
@@ -5078,8 +5155,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "14:25:00",
     "Exposure_time_end_24": "15:15:00",
-    "lat": -37.8632782,
-    "lon": 144.9706094
+    "lat": -38.10802768621525,
+    "lon": 145.2511023510186,
+    "override": true
   },
   {
     "_id": 242,
@@ -5120,8 +5198,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "11:00:00",
     "Exposure_time_end_24": "11:45:00",
-    "lat": -37.8016723,
-    "lon": 144.8496023
+    "lat": -38.10815595603298,
+    "lon": 145.28223391801635,
+    "override": true
   },
   {
     "_id": 244,
@@ -5141,8 +5220,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "13:50:00",
     "Exposure_time_end_24": "14:40:00",
-    "lat": -37.77825458112218,
-    "lon": 145.0399021312418
+    "lat": -37.800173903098035,
+    "lon": 144.901919269382,
+    "override": true
   },
   {
     "_id": 245,
@@ -5162,8 +5242,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "08:03:00",
     "Exposure_time_end_24": "08:35:00",
-    "lat": -37.7796789,
-    "lon": 144.877896
+    "lat": -37.844112117868,
+    "lon": 144.979222581026,
+    "override": true
   },
   {
     "_id": 246,
@@ -5204,8 +5285,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "15:40:00",
-    "lat": -38.10808751353281,
-    "lon": 145.2511202382693
+    "lat": -37.81041045524343,
+    "lon": 144.9974805373111,
+    "override": true
   },
   {
     "_id": 248,
@@ -5267,8 +5349,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:15:00",
     "Exposure_time_end_24": "11:20:00",
-    "lat": -37.80012890169097,
-    "lon": 144.90193447820945
+    "lat": -37.724634471990704,
+    "lon": 144.8180312134127,
+    "override": true
   },
   {
     "_id": 251,
@@ -5288,8 +5371,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:05:00",
     "Exposure_time_end_24": "10:45:00",
-    "lat": -38.097223,
-    "lon": 145.2445499
+    "lat": -37.97379985731053,
+    "lon": 145.1864941688427,
+    "override": true
   },
   {
     "_id": 252,
@@ -5372,8 +5456,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:50:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.83861045208018,
-    "lon": 144.9420210744326
+    "lat": -37.653346398972765,
+    "lon": 145.01873515545853,
+    "override": true
   },
   {
     "_id": 256,
@@ -5477,8 +5562,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "12:50:00",
     "Exposure_time_end_24": "13:30:00",
-    "lat": -37.82721008212214,
-    "lon": 145.35294715168243
+    "lat": -37.88727784490747,
+    "lon": 145.08339931129566,
+    "override": true
   },
   {
     "_id": 261,
@@ -5519,8 +5605,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:34:00",
     "Exposure_time_end_24": "06:50:00",
-    "lat": -37.65611664339199,
-    "lon": 145.0202159265502
+    "lat": -37.779205198263206,
+    "lon": 144.8746978977995,
+    "override": true
   },
   {
     "_id": 263,
@@ -5540,8 +5627,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:07:00",
     "Exposure_time_end_24": "13:43:00",
-    "lat": -37.65611664339199,
-    "lon": 145.0202159265502
+    "lat": -37.88727784490747,
+    "lon": 145.08339931129566,
+    "override": true
   },
   {
     "_id": 264,
@@ -5562,7 +5650,8 @@
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "18:00:00",
     "lat": -37.71668578816581,
-    "lon": 145.00874271893807
+    "lon": 145.00874271893807,
+    "override": true
   },
   {
     "_id": 265,
@@ -5583,7 +5672,8 @@
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "21:30:00",
     "lat": -37.71668578816581,
-    "lon": 145.00874271893807
+    "lon": 145.00874271893807,
+    "override": true
   },
   {
     "_id": 266,
@@ -5604,7 +5694,8 @@
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "21:30:00",
     "lat": -37.71668578816581,
-    "lon": 145.00874271893807
+    "lon": 145.00874271893807,
+    "override": true
   },
   {
     "_id": 267,
@@ -5898,7 +5989,8 @@
     "Exposure_time_start_24": "16:10:00",
     "Exposure_time_end_24": "17:00:00",
     "lat": -37.84636512715042,
-    "lon": 145.04585524189318
+    "lon": 145.04585524189318,
+    "override": true
   },
   {
     "_id": 281,
