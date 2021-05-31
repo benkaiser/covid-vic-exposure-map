@@ -59,8 +59,7 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
     if (override) {
       return {
         ...item,
-        ...override,
-        override: true
+        ...override
       };
     }
     return item;
