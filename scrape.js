@@ -71,7 +71,7 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
       geocodedResult = await geocode(freshResults[x]);
       resultsGeocoded.push(geocodedResult);
     } catch (e) {
-      console.log(freshResults[x]);
+      console.log(JSON.stringify(freshResults[x], undefined, 2));
       console.log(e);
     }
   }

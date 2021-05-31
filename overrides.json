@@ -590,5 +590,21 @@
     "Site_streetaddress": "583 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.6823318698506,
+    "lon": 145.07048036695252,
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "Shop TG-01, Uni Hill Town Centre, 1-3 Janefield Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3083"
+  },
+  {
+    "lat": -37.720677007718166,
+    "lon": 145.0487984846572,
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "La Trobe University, Melbourne Campus, Shop 1 Agora East, Bundoora VIC 3083",
+    "Site_state": "VIC",
+    "Site_postcode": "3083"
   }
 ]
