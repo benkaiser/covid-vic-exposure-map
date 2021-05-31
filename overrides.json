@@ -1,381 +1,610 @@
 [
-{
-  "_id": 2,
-  "Site_streetaddress": "105 Raglan Place East"
-},
-{
-  "_id": 107,
-  "lat": -37.81754333666098,
-  "lon": 144.95298727853736
-},
-{
-  "_id": 119,
-  "lat": -37.83235196564247,
-  "lon": 144.96051987568197
-},
-{
-  "_id": 115,
-  "lat": -37.80588059895018,
-  "lon": 144.9656795808292
-},
-{
-  "_id": 116,
-  "lat": -37.935248890179956,
-  "lon": 145.00306769460138
-},
-{
-  "_id": 117,
-  "lat": -37.935248890179956,
-  "lon": 145.00306769460138
-},
-{
-  "_id": 109,
-  "lat": -37.82479976092579,
-  "lon": 144.9504962954672
-},
-{
-  "_id": 110,
-  "lat": -37.82479976092579,
-  "lon": 144.9504962954672
-},
-{
-  "_id": 111,
-  "lat": -37.82479976092579,
-  "lon": 144.9504962954672
-},
-{
-  "_id": 80,
-  "lat": -37.7865355,
-  "lon": 145.1245572
-},
-{
-  "_id": 173,
-  "lat": -37.8860001,
-  "lon": 145.0836691
-},
-{
-  "_id": 245,
-  "lat": -37.7796789,
-  "lon": 144.877896
-},
-{
-  "_id": 243,
-  "lat": -37.8016723,
-  "lon": 144.8496023
-},
-{
-  "_id": 226,
-  "lat": -37.801605,
-  "lon": 144.9016139
-},
-{
-  "_id": 207,
-  "lat": -37.6511375,
-  "lon": 145.020584
-},
-{
-  "_id": 241,
-  "lat": -37.8632782,
-  "lon": 144.9706094
-},
-{
-  "_id": 251,
-  "lat": -38.097223,
-  "lon": 145.2445499
-},
-{
-  "_id": 149,
-  "lat": -37.9832161,
-  "lon": 145.2124668
-},
-{
-  "_id": 150,
-  "lat": -37.9832161,
-  "lon": 145.2124668
-},
-{
-  "_id": 251,
-  "lat": -38.1107616,
-  "lon": 145.2607078
-},
-{
-  "_id": 97,
-  "lat": -37.7756059,
-  "lon": 144.962204
-},
-{
-  "_id": 61,
-  "lat": -37.7756059,
-  "lon": 144.962204
-},
-{
-  "_id": 120,
-  "lat": -37.832334579748995,
-  "lon": 144.96060526938285
-},
-{
-  "_id": 121,
-  "lat": -37.832334579748995,
-  "lon": 144.96060526938285
-},
-{
-  "_id": 3,
-  "lat": -37.8116943,
-  "lon": 145.0719266
-},
-{
-  "_id": 105,
-  "lat": -37.5933934,
-  "lon": 144.9137526
-},
-{
-  "_id": 123,
-  "lat": -37.6783988,
-  "lon": 144.9990092
-},
-{
-  "_id": 124,
-  "lat": -37.740091848396375,
-  "lon": 145.0043352112913
-},
-{
-  "_id": 125,
-  "lat": -37.7622108,
-  "lon": 144.9708753
-},
-{
-  "_id": 126,
-  "lat": -37.6485911,
-  "lon": 145.008586
-},
-{
-  "_id": 130,
-  "lat": -37.7741891,
-  "lon": 144.8837947
-},
-{
-  "_id": 131,
-  "lat": -37.8169444,
-  "lon": 144.8789224
-},
-{
-  "_id": 95,
-  "lat": -37.80321,
-  "lon": 144.9811683
-},
-{
-  "_id": 90,
-  "lat": -37.80668640649662,
-  "lon": 144.8907158738003
-},
-{
-  "_id": 96,
-  "lat": -38.02744506341144,
-  "lon": 145.13293000463386
-},
-{
-  "_id": 143,
-  "lat": -37.62121703431004,
-  "lon": 145.007203554907
-},
-{
-  "_id": 144,
-  "lat": -37.62121703431004,
-  "lon": 145.007203554907
-},
-{
-  "_id": 122,
-  "lat": -37.83234713810752,
-  "lon": 144.96006461436497
-},
-{
-  "_id": 145,
-  "lat": -37.59330481993262,
-  "lon": 144.90981319681967
-},
-{
-  "_id": 147,
-  "lat": -38.08548039316657,
-  "lon": 145.17861032860628
-},
-{
-  "_id": 140,
-  "lat": -37.71668578816581,
-  "lon": 145.00874271893807
-},
-{
-  "_id": 141,
-  "lat": -37.72474887092568,
-  "lon": 145.02856533816436
-},
-{
-  "_id": 142,
-  "lat": -37.64031505490555,
-  "lon": 145.02037328565712
-},
-{
-  "_id": 136,
-  "lat": -37.65042224728819,
-  "lon": 145.0681071693786
-},
-{
-  "_id": 137,
-  "lat": -37.65042224728819,
-  "lon": 145.0681071693786
-},
-{
-  "_id": 138,
-  "lat": -37.65042224728819,
-  "lon": 145.0681071693786
-},
-{
-  "_id": 139,
-  "lat": -37.65042224728819,
-  "lon": 145.0681071693786
-},
-{
-  "_id": 129,
-  "lat": -37.77423911746968,
-  "lon": 144.8854523618422
-},
-{
-  "_id": 132,
-  "lat": -37.62847188322215,
-  "lon": 145.02749434062434
-},
-{
-  "_id": 133,
-  "lat": -37.62847188322215,
-  "lon": 145.02749434062434
-},
-{
-  "_id": 134,
-  "lat": -37.62847188322215,
-  "lon": 145.02749434062434
-},
-{
-  "_id": 135,
-  "lat": -37.62847188322215,
-  "lon": 145.02749434062434
-},
-{
-  "_id": 89,
-  "lat": -37.7969452237521,
-  "lon": 144.9678130268352
-},
-{
-  "_id": 106,
-  "lat": -37.54436645839034,
-  "lon": 144.8856327049915
-},
-{
-  "_id": 196,
-  "lat": -37.54436645839034,
-  "lon": 144.8856327049915
-},
-{
-  "_id": 108,
-  "lat": -37.81877040446319,
-  "lon": 144.95332415403985
-},
-{
-  "_id": 112,
-  "lat": -37.81877040446319,
-  "lon": 144.95332415403985
-},
-{
-  "_id": 148,
-  "lat": -37.98365118056074,
-  "lon": 145.21497983049736
-},
-{
-  "_id": 87,
-  "lat": -37.69881112571731,
-  "lon": 145.0589056986622
-},
-{
-  "_id": 118,
-  "lat": -37.71396818368223,
-  "lon": 144.99428533462515
-},
-{
-  "_id": 104,
-  "lat": -37.70236684797203,
-  "lon": 144.88276509636555
-},
-{
-  "_id": 98,
-  "lat": -38.1099742379563,
-  "lon": 145.28200329822508
-},
-{
-  "_id": 100,
-  "lat": -37.77164875698289,
-  "lon": 144.93412729821725
-},
-{
-  "_id": 101,
-  "lat": -37.77164875698289,
-  "lon": 144.93412729821725
-},
-{
-  "_id": 103,
-  "lat": -37.83927831284518,
-  "lon": 144.94144450782105
-},
-{
-  "_id": 262,
-  "lat": -37.65611664339199,
-  "lon": 145.0202159265502
-},
-{
-  "_id": 263,
-  "lat": -37.65611664339199,
-  "lon": 145.0202159265502
-},
-{
-  "_id": 247,
-  "lat": -38.10808751353281,
-  "lon": 145.2511202382693
-},
-{
-  "_id": 280,
-  "lat": -37.89559,
-  "lon": 144.75407
-},
-{
-  "_id": 244,
-  "lat": -37.77825458112218,
-  "lon": 145.0399021312418
-},
-{
-  "_id": 154,
-  "lat": -38.406932939933135,
-  "lon": 144.8427335409159
-},
-{
-  "_id": 260,
-  "lat": -37.82721008212214,
-  "lon": 145.35294715168243
-},
-{
-  "_id": 152,
-  "lat": -37.720714798995694,
-  "lon": 145.04831744054462
-},
-{
-  "_id": 250,
-  "lat": -37.80012890169097,
-  "lon": 144.90193447820945
-},
-{
-  "_id": 251,
-  "lat": -37.844168313986835,
-  "lon": 144.97933484882702
-},
-{
-  "_id": 255,
-  "lat": -37.83861045208018,
-  "lon": 144.9420210744326
-}
+  {
+    "lat": -36.78646,
+    "lon": 144.50379,
+    "Suburb": "Axedale",
+    "Site_streetaddress": "105 Raglan Place East",
+    "Site_state": "VIC",
+    "Site_postcode": "3551"
+  },
+  {
+    "lat": -37.81754333666098,
+    "lon": 144.95298727853736,
+    "Suburb": "Docklands",
+    "Site_streetaddress": "14/99 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008"
+  },
+  {
+    "lat": -37.83235196564247,
+    "lon": 144.96051987568197,
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "Shop G08/261 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205"
+  },
+  {
+    "lat": -37.80588059895018,
+    "lon": 144.9656795808292,
+    "Suburb": "Carlton",
+    "Site_streetaddress": "53 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053"
+  },
+  {
+    "lat": -37.935248890179956,
+    "lon": 145.00306769460138,
+    "Suburb": "Hampton",
+    "Site_streetaddress": "Shop 4-6/498 Hampton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3188"
+  },
+  {
+    "lat": -37.935248890179956,
+    "lon": 145.00306769460138,
+    "Suburb": "Hampton",
+    "Site_streetaddress": "Shop 4-6/498 Hampton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3188"
+  },
+  {
+    "lat": -37.82479976092579,
+    "lon": 144.9504962954672,
+    "Suburb": "South Wharf",
+    "Site_streetaddress": "DFO South Wharf, 20 Convention Center Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006"
+  },
+  {
+    "lat": -37.82479976092579,
+    "lon": 144.9504962954672,
+    "Suburb": "South Wharf",
+    "Site_streetaddress": "DFO South Wharf, 20 Convention Center Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006"
+  },
+  {
+    "lat": -37.82479976092579,
+    "lon": 144.9504962954672,
+    "Suburb": "South Wharf",
+    "Site_streetaddress": "DFO South Wharf, 20 Convention Center Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006"
+  },
+  {
+    "lat": -37.7865355,
+    "lon": 145.1245572,
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "Tenancy R1 & R2, Level 2, 619 Doncaster Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3108"
+  },
+  {
+    "lat": -37.8860001,
+    "lon": 145.0836691,
+    "Suburb": "Malvern East (Chadstone)",
+    "Site_streetaddress": "247C/ 1341 Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3148"
+  },
+  {
+    "lat": -37.7796789,
+    "lon": 144.877896,
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "509 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004"
+  },
+  {
+    "lat": -37.8016723,
+    "lon": 144.8496023,
+    "Suburb": "Cranbourne",
+    "Site_streetaddress": "Shop SP104 Cranbourne Park Shopping Centre, High St",
+    "Site_state": "VIC",
+    "Site_postcode": "3977"
+  },
+  {
+    "lat": -37.801605,
+    "lon": 144.9016139,
+    "Suburb": "Epping",
+    "Site_streetaddress": "768 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.6511375,
+    "lon": 145.020584,
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "46/40-50 Keon Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3074"
+  },
+  {
+    "lat": -37.8632782,
+    "lon": 144.9706094,
+    "Suburb": "Cranbourne West",
+    "Site_streetaddress": "Cnr Hall and Evans Roads",
+    "Site_state": "VIC",
+    "Site_postcode": "3977"
+  },
+  {
+    "lat": -38.097223,
+    "lon": 145.2445499,
+    "Suburb": "Noble Park",
+    "Site_streetaddress": "262 Railway Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3175"
+  },
+  {
+    "lat": -37.9832161,
+    "lon": 145.2124668,
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "200-208 Lonsdale Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175"
+  },
+  {
+    "lat": -37.9832161,
+    "lon": 145.2124668,
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "21-23 Cleeland Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175"
+  },
+  {
+    "lat": -38.1107616,
+    "lon": 145.2607078,
+    "Suburb": "Noble Park",
+    "Site_streetaddress": "262 Railway Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3175"
+  },
+  {
+    "lat": -37.7756059,
+    "lon": 144.962204,
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "Barkly Square Shopping Centre, 90-160 Sydney Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3056"
+  },
+  {
+    "lat": -37.7756059,
+    "lon": 144.962204,
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "Barkly Square Shopping Centre, 90-160 Sydney Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3056"
+  },
+  {
+    "lat": -37.832334579748995,
+    "lon": 144.96060526938285,
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "Shop G01/265 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205"
+  },
+  {
+    "lat": -37.832334579748995,
+    "lon": 144.96060526938285,
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "Shop G01/265 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205"
+  },
+  {
+    "lat": -37.8116943,
+    "lon": 145.0719266,
+    "Suburb": "Balwyn",
+    "Site_streetaddress": "Shop 3/188 Whitehorse Road\r\n\r",
+    "Site_state": "VIC",
+    "Site_postcode": "3103"
+  },
+  {
+    "lat": -37.5933934,
+    "lon": 144.9137526,
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Craigieburn Central, Shop B00, 15/350 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064"
+  },
+  {
+    "lat": -37.6783988,
+    "lon": 144.9990092,
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "Cnr Edgars Road & Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3074"
+  },
+  {
+    "lat": -37.740091848396375,
+    "lon": 145.0043352112913,
+    "Suburb": "Preston",
+    "Site_streetaddress": "284 Gower Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3071"
+  },
+  {
+    "lat": -37.7622108,
+    "lon": 144.9708753,
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "513 Lygon St, Brunswick East ",
+    "Site_state": "VIC",
+    "Site_postcode": "3057"
+  },
+  {
+    "lat": -37.6485911,
+    "lon": 145.008586,
+    "Suburb": "Epping",
+    "Site_streetaddress": "6-8 Helm Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.7741891,
+    "lon": 144.8837947,
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "2-6 Sloane Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3032"
+  },
+  {
+    "lat": -37.8169444,
+    "lon": 144.8789224,
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "Cnr Williamstown Road & High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3013"
+  },
+  {
+    "lat": -37.80321,
+    "lon": 144.9811683,
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "199 Smith Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065"
+  },
+  {
+    "lat": -37.80668640649662,
+    "lon": 144.8907158738003,
+    "Suburb": "Seddon",
+    "Site_streetaddress": "101 Charles Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011"
+  },
+  {
+    "lat": -38.02744506341144,
+    "lon": 145.13293000463386,
+    "Suburb": "Aspendale Gardens",
+    "Site_streetaddress": "Springvale Road & Wells Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3196"
+  },
+  {
+    "lat": -37.62121703431004,
+    "lon": 145.007203554907,
+    "Suburb": "Wollert",
+    "Site_streetaddress": "319 Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3750"
+  },
+  {
+    "lat": -37.62121703431004,
+    "lon": 145.007203554907,
+    "Suburb": "Wollert",
+    "Site_streetaddress": "315 Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3750"
+  },
+  {
+    "lat": -37.83234713810752,
+    "lon": 144.96006461436497,
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "252 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205"
+  },
+  {
+    "lat": -37.59330481993262,
+    "lon": 144.90981319681967,
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Shop D1/420-440 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064"
+  },
+  {
+    "lat": -38.08548039316657,
+    "lon": 145.17861032860628,
+    "Suburb": "Carrum Downs",
+    "Site_streetaddress": "77 Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3201"
+  },
+  {
+    "lat": -37.71668578816581,
+    "lon": 145.00874271893807,
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "276 Broadway",
+    "Site_state": "VIC",
+    "Site_postcode": "3073"
+  },
+  {
+    "lat": -37.72474887092568,
+    "lon": 145.02856533816436,
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "850 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3073"
+  },
+  {
+    "lat": -37.64031505490555,
+    "lon": 145.02037328565712,
+    "Suburb": "Epping",
+    "Site_streetaddress": "3 Annalise Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.65042224728819,
+    "lon": 145.0681071693786,
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "52/415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3082"
+  },
+  {
+    "lat": -37.65042224728819,
+    "lon": 145.0681071693786,
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "52/415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3082"
+  },
+  {
+    "lat": -37.65042224728819,
+    "lon": 145.0681071693786,
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "52/415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3082"
+  },
+  {
+    "lat": -37.65042224728819,
+    "lon": 145.0681071693786,
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "52/415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3082"
+  },
+  {
+    "lat": -37.77423911746968,
+    "lon": 144.8854523618422,
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "Shop 159-163 Rosamond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032"
+  },
+  {
+    "lat": -37.62847188322215,
+    "lon": 145.02749434062434,
+    "Suburb": "Epping",
+    "Site_streetaddress": "6/1 Lyndarum Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.62847188322215,
+    "lon": 145.02749434062434,
+    "Suburb": "Epping",
+    "Site_streetaddress": "6/1 Lyndarum Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.62847188322215,
+    "lon": 145.02749434062434,
+    "Suburb": "Epping",
+    "Site_streetaddress": "6/1 Lyndarum Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.62847188322215,
+    "lon": 145.02749434062434,
+    "Suburb": "Epping",
+    "Site_streetaddress": "6/1 Lyndarum Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.7969452237521,
+    "lon": 144.9678130268352,
+    "Suburb": "Carlton",
+    "Site_streetaddress": "418 Lygon Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3053"
+  },
+  {
+    "lat": -37.54436645839034,
+    "lon": 144.8856327049915,
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "23-25 Poppy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3063"
+  },
+  {
+    "lat": -37.54436645839034,
+    "lon": 144.8856327049915,
+    "Suburb": "Preston",
+    "Site_streetaddress": "2-50 Murray Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072"
+  },
+  {
+    "lat": -37.81877040446319,
+    "lon": 144.95332415403985,
+    "Suburb": "Docklands",
+    "Site_streetaddress": "14/99 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008"
+  },
+  {
+    "lat": -37.81877040446319,
+    "lon": 144.95332415403985,
+    "Suburb": "Docklands",
+    "Site_streetaddress": "14/99 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3059"
+  },
+  {
+    "lat": -37.98365118056074,
+    "lon": 145.21497983049736,
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "4 16-46 Cleeland Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175"
+  },
+  {
+    "lat": -37.69881112571731,
+    "lon": 145.0589056986622,
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "11/1320 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083"
+  },
+  {
+    "lat": -37.71396818368223,
+    "lon": 144.99428533462515,
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "Edwardes Lake",
+    "Site_state": "VIC",
+    "Site_postcode": "3073"
+  },
+  {
+    "lat": -37.70236684797203,
+    "lon": 144.88276509636555,
+    "Suburb": "Tullamarine ",
+    "Site_streetaddress": "182 Melrose Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043"
+  },
+  {
+    "lat": -38.1099742379563,
+    "lon": 145.28200329822508,
+    "Suburb": "Cranbourne",
+    "Site_streetaddress": "Shop 101 Cranbourne Park Shopping Centre, High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3977"
+  },
+  {
+    "lat": -37.77164875698289,
+    "lon": 144.93412729821725,
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "2A Pattison Steet",
+    "Site_state": "VIC",
+    "Site_postcode": "3039"
+  },
+  {
+    "lat": -37.77164875698289,
+    "lon": 144.93412729821725,
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "2A Pattison Steet",
+    "Site_state": "VIC",
+    "Site_postcode": "3039"
+  },
+  {
+    "lat": -37.83927831284518,
+    "lon": 144.94144450782105,
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "3/181 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207"
+  },
+  {
+    "lat": -37.65611664339199,
+    "lon": 145.0202159265502,
+    "Suburb": "Bus Route",
+    "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road (Maidstone)",
+    "Site_state": "VIC",
+    "Site_postcode": null
+  },
+  {
+    "lat": -37.65611664339199,
+    "lon": 145.0202159265502,
+    "Suburb": "Malvern East (Chadstone)",
+    "Site_streetaddress": "Shop B099, 1341 Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3145"
+  },
+  {
+    "lat": -38.10808751353281,
+    "lon": 145.2511202382693,
+    "Suburb": "Richmond",
+    "Site_streetaddress": "182-186 Victoria St",
+    "Site_state": "VIC",
+    "Site_postcode": "3121"
+  },
+  {
+    "lat": -37.84636512715042,
+    "lon": 145.04585524189318,
+    "Suburb": "Glen Iris",
+    "Site_streetaddress": "Corner Tooronga Road and Toorka Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3146"
+  },
+  {
+    "lat": -37.77825458112218,
+    "lon": 145.0399021312418,
+    "Suburb": "Footscray",
+    "Site_streetaddress": "121/81 Hopkins St (Footscray Market)",
+    "Site_state": "VIC",
+    "Site_postcode": "3011"
+  },
+  {
+    "lat": -38.406932939933135,
+    "lon": 144.8427335409159,
+    "Suburb": "Fingal",
+    "Site_streetaddress": "140 Springs Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3939"
+  },
+  {
+    "lat": -37.82721008212214,
+    "lon": 145.35294715168243,
+    "Suburb": "Chadstone",
+    "Site_streetaddress": "1341 Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3145"
+  },
+  {
+    "lat": -37.720714798995694,
+    "lon": 145.04831744054462,
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "Plenty Road & Kingsbury Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3086"
+  },
+  {
+    "lat": -37.80012890169097,
+    "lon": 144.90193447820945,
+    "Suburb": "Keilor Downs",
+    "Site_streetaddress": "Green Gully Reserve, McCrae Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3038"
+  },
+  {
+    "lat": -37.844168313986835,
+    "lon": 144.97933484882702,
+    "Suburb": "Noble Park",
+    "Site_streetaddress": "262 Railway Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3175"
+  },
+  {
+    "lat": -37.83861045208018,
+    "lon": 144.9420210744326,
+    "Suburb": "Epping",
+    "Site_streetaddress": "583 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  }
 ]

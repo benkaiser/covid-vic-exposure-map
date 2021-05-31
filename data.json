@@ -24,7 +24,7 @@
     "_id": 2,
     "Suburb": "Axedale",
     "Site_title": "Axedale Tavern",
-    "Site_streetaddress": "105 Raglan Place East",
+    "Site_streetaddress": "105 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3551",
     "Exposure_date_dtm": "2021-05-23",
@@ -38,8 +38,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "11:45:00",
     "Exposure_time_end_24": "13:30:00",
-    "lat": -36.78646,
-    "lon": 144.50379
+    "lat": -36.76121,
+    "lon": 144.27439
   },
   {
     "_id": 3,
@@ -353,8 +353,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "10:30:00",
     "Exposure_time_end_24": "13:00:00",
-    "lat": -37.64911,
-    "lon": 145.02575
+    "lat": -37.801605,
+    "lon": 144.9016139
   },
   {
     "_id": 18,
@@ -1151,8 +1151,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "14:30:00",
-    "lat": -37.69554,
-    "lon": 145.01846
+    "lat": -37.6511375,
+    "lon": 145.020584
   },
   {
     "_id": 55,
@@ -2180,8 +2180,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "12:00:00",
     "Exposure_time_end_24": "16:00:00",
-    "lat": -37.77168,
-    "lon": 144.93413
+    "lat": -37.77164875698289,
+    "lon": 144.93412729821725
   },
   {
     "_id": 103,
@@ -2306,8 +2306,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
     "Exposure_time_start_24": "19:30:00",
     "Exposure_time_end_24": "19:40:00",
-    "lat": -37.81877040446319,
-    "lon": 144.95332415403985
+    "lat": -37.81754333666098,
+    "lon": 144.95298727853736
   },
   {
     "_id": 109,
@@ -2873,8 +2873,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.69554,
-    "lon": 145.01846
+    "lat": -37.6511375,
+    "lon": 145.020584
   },
   {
     "_id": 135,
@@ -3503,8 +3503,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "11:45:00",
     "Exposure_time_end_24": "14:30:00",
-    "lat": -37.71693,
-    "lon": 145.04282
+    "lat": -37.720714798995694,
+    "lon": 145.04831744054462
   },
   {
     "_id": 165,
@@ -4154,8 +4154,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:15:00",
     "Exposure_time_end_24": "15:15:00",
-    "lat": -37.74072,
-    "lon": 145.0302
+    "lat": -37.54436645839034,
+    "lon": 144.8856327049915
   },
   {
     "_id": 196,
@@ -4196,8 +4196,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:25:00",
     "Exposure_time_end_24": "14:00:00",
-    "lat": -37.74072,
-    "lon": 145.0302
+    "lat": -37.54436645839034,
+    "lon": 144.8856327049915
   },
   {
     "_id": 198,
@@ -4217,8 +4217,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:30:00",
     "Exposure_time_end_24": "15:50:00",
-    "lat": -37.74072,
-    "lon": 145.0302
+    "lat": -37.54436645839034,
+    "lon": 144.8856327049915
   },
   {
     "_id": 199,
@@ -4406,8 +4406,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.69554,
-    "lon": 145.01846
+    "lat": -37.6511375,
+    "lon": 145.020584
   },
   {
     "_id": 210,
@@ -4427,8 +4427,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.69554,
-    "lon": 145.01846
+    "lat": -37.6511375,
+    "lon": 145.020584
   },
   {
     "_id": 211,
@@ -4448,8 +4448,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.69554,
-    "lon": 145.01846
+    "lat": -37.6511375,
+    "lon": 145.020584
   },
   {
     "_id": 212,
@@ -4469,8 +4469,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "lat": -37.69554,
-    "lon": 145.01846
+    "lat": -37.6511375,
+    "lon": 145.020584
   },
   {
     "_id": 213,
@@ -4721,8 +4721,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:30:00",
     "Exposure_time_end_24": "15:50:00",
-    "lat": -37.74072,
-    "lon": 145.0302
+    "lat": -37.54436645839034,
+    "lon": 144.8856327049915
   },
   {
     "_id": 225,
@@ -4784,8 +4784,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:50:00",
     "Exposure_time_end_24": "16:35:00",
-    "lat": -37.64911,
-    "lon": 145.02575
+    "lat": -37.801605,
+    "lon": 144.9016139
   },
   {
     "_id": 228,
@@ -4805,8 +4805,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:50:00",
     "Exposure_time_end_24": "16:20:00",
-    "lat": -37.64911,
-    "lon": 145.02575
+    "lat": -37.801605,
+    "lon": 144.9016139
   },
   {
     "_id": 229,
@@ -4826,8 +4826,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "19:00:00",
-    "lat": -37.64911,
-    "lon": 145.02575
+    "lat": -37.801605,
+    "lon": 144.9016139
   },
   {
     "_id": 230,
@@ -4933,6 +4933,27 @@
     "Exposure_time_end_24": "14:44:00",
     "lat": -36.33298,
     "lon": 141.64932
+  },
+  {
+    "_id": 235,
+    "Suburb": "Bus Route",
+    "Site_title": "PTV Bus Number 412",
+    "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-05-27",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "5:37am - 6:25am",
+    "Notes": "Case travelled on public transport from Footscray Station to Emu Road/Hampstead Road, Maidstone",
+    "Added_date_dtm": "2021-05-30",
+    "Added_date": "30/05/2021",
+    "Added_time": "19:27:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "06:34:00",
+    "Exposure_time_end_24": "06:25:00",
+    "lat": -38.16179,
+    "lon": 145.93099
   },
   {
     "_id": 236,
@@ -5267,8 +5288,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:05:00",
     "Exposure_time_end_24": "10:45:00",
-    "lat": -37.844168313986835,
-    "lon": 144.97933484882702
+    "lat": -38.097223,
+    "lon": 145.2445499
   },
   {
     "_id": 252,
@@ -5540,8 +5561,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "18:00:00",
-    "lat": -37.71665,
-    "lon": 145.00875
+    "lat": -37.71668578816581,
+    "lon": 145.00874271893807
   },
   {
     "_id": 265,
@@ -5561,8 +5582,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "21:30:00",
-    "lat": -37.71665,
-    "lon": 145.00875
+    "lat": -37.71668578816581,
+    "lon": 145.00874271893807
   },
   {
     "_id": 266,
@@ -5582,8 +5603,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "21:30:00",
-    "lat": -37.71665,
-    "lon": 145.00875
+    "lat": -37.71668578816581,
+    "lon": 145.00874271893807
   },
   {
     "_id": 267,
@@ -5712,6 +5733,27 @@
     "lon": 145.07145
   },
   {
+    "_id": 273,
+    "Suburb": "Bus Route",
+    "Site_title": "PTV Bus Number 412",
+    "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "5:37am - 6:25am",
+    "Notes": "Case travelled on public transport from Central Square Shopping Centre Merton Stop to Footscray Station",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "09:22:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "05:37:00",
+    "Exposure_time_end_24": "06:25:00",
+    "lat": -38.16179,
+    "lon": 145.93099
+  },
+  {
     "_id": 274,
     "Suburb": "Point Cook",
     "Site_title": "Stockland Point Cook Shopping Centre",
@@ -5775,6 +5817,27 @@
     "lon": 144.8797
   },
   {
+    "_id": 277,
+    "Suburb": "Bus Route",
+    "Site_title": "PTV Bus Number 412 ",
+    "Site_streetaddress": "Footscray Station, Paisley Street to Central Square Shopping Centre stop",
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-05-27",
+    "Exposure_date": "27/05/2021",
+    "Exposure_time": "2:39pm - 3:52pm",
+    "Notes": "Case travelled on scheduled 14:30 Service",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "10:42:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "14:39:00",
+    "Exposure_time_end_24": "15:52:00",
+    "lat": -37.18171,
+    "lon": 145.71088
+  },
+  {
     "_id": 278,
     "Suburb": "South Yarra",
     "Site_title": "Giant Bike Shop",
@@ -5834,8 +5897,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:10:00",
     "Exposure_time_end_24": "17:00:00",
-    "lat": -37.89559,
-    "lon": 144.75407
+    "lat": -37.84636512715042,
+    "lon": 145.04585524189318
   },
   {
     "_id": 281,
