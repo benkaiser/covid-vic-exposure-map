@@ -4621,7 +4621,7 @@
   },
   {
     "_id": 221,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Street to Footscray Station",
     "Site_state": "VIC",
@@ -4637,8 +4637,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "05:40:00",
     "Exposure_time_end_24": "06:25:00",
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115
+    "lat": -37.18171,
+    "lon": 145.71088
   },
   {
     "_id": 265,
@@ -4915,7 +4915,7 @@
   },
   {
     "_id": 234,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Paisley Street/Footscray to Millers Road/Geelong",
     "Site_state": "VIC",
@@ -4931,33 +4931,12 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "05:37:00",
     "Exposure_time_end_24": "14:44:00",
-    "lat": -37.81654760858312,
-    "lon": 144.849791343829
-  },
-  {
-    "_id": 235,
-    "Suburb": "Bus Route",
-    "Site_title": "PTV Bus Number 412",
-    "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "5:37am - 6:25am",
-    "Notes": "Case travelled on public transport from Footscray Station to Emu Road/Hampstead Road, Maidstone",
-    "Added_date_dtm": "2021-05-30",
-    "Added_date": "30/05/2021",
-    "Added_time": "19:27:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "06:34:00",
-    "Exposure_time_end_24": "06:25:00",
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115
+    "lat": -36.33298,
+    "lon": 141.64932
   },
   {
     "_id": 236,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406",
     "Site_streetaddress": "Emu Road/Smith Street to Footscray Station",
     "Site_state": "VIC",
@@ -4973,8 +4952,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "13:27:00",
     "Exposure_time_end_24": "13:44:00",
-    "lat": -37.80165070551184,
-    "lon": 144.90155712294737
+    "lat": -36.71997,
+    "lon": 141.4756
   },
   {
     "_id": 237,
@@ -5482,7 +5461,7 @@
   },
   {
     "_id": 261,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406",
     "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road (Maidstone)",
     "Site_state": "VIC",
@@ -5498,8 +5477,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:34:00",
     "Exposure_time_end_24": "06:50:00",
-    "lat": -37.779205198263206,
-    "lon": 144.8746978977995
+    "lat": -37.77964,
+    "lon": 144.8797
   },
   {
     "_id": 262,
@@ -5691,27 +5670,6 @@
     "lon": 145.06638
   },
   {
-    "_id": 272,
-    "Suburb": "Bus Route",
-    "Site_title": "PTV Bus Number 412",
-    "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-05-26",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "5:37am - 6:25am",
-    "Notes": "Case travelled on public transport from Central Square Shopping Centre Merton Stop to Footscray Station",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "09:22:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "05:37:00",
-    "Exposure_time_end_24": "06:25:00",
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115
-  },
-  {
     "_id": 273,
     "Suburb": "Point Cook",
     "Site_title": "Stockland Point Cook Shopping Centre",
@@ -5734,7 +5692,7 @@
   },
   {
     "_id": 274,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406 ",
     "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road, Maidstone",
     "Site_state": "VIC",
@@ -5755,7 +5713,7 @@
   },
   {
     "_id": 275,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406 ",
     "Site_streetaddress": "Emu Road/Hampstead Road, Maidstone to Footscray Station",
     "Site_state": "VIC",
@@ -5773,27 +5731,6 @@
     "Exposure_time_end_24": "14:15:00",
     "lat": -37.77964,
     "lon": 144.8797
-  },
-  {
-    "_id": 276,
-    "Suburb": "Bus Route",
-    "Site_title": "PTV Bus Number 412 ",
-    "Site_streetaddress": "Footscray Station, Paisley Street to Central Square Shopping Centre stop",
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "27/05/2021",
-    "Exposure_time": "2:39pm - 3:52pm",
-    "Notes": "Case travelled on scheduled 14:30 Service",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "10:42:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:39:00",
-    "Exposure_time_end_24": "15:52:00",
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115
   },
   {
     "_id": 277,
@@ -6889,8 +6826,8 @@
   },
   {
     "_id": 330,
-    "Suburb": "Metro Train",
-    "Site_title": "Metro Train - Sunbury Line",
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train - Weeribee Line",
     "Site_streetaddress": "Laverton Station to Footscray Station",
     "Site_state": "VIC",
     "Site_postcode": null,
@@ -6910,8 +6847,8 @@
   },
   {
     "_id": 331,
-    "Suburb": "Metro Train",
-    "Site_title": "Metro Train - Sunbury Line",
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train - Weeribee Line",
     "Site_streetaddress": "Footscray Station to Sunshine Station",
     "Site_state": "VIC",
     "Site_postcode": null,
@@ -6928,27 +6865,6 @@
     "Exposure_time_end_24": "11:03:00",
     "lat": -37.78883,
     "lon": 144.83436
-  },
-  {
-    "_id": 332,
-    "Suburb": "Bus Route",
-    "Site_title": "PTV Bus Number 420",
-    "Site_streetaddress": "Sunshine Station/Dickson Street to Brimbank Shopping Centre/Station Road Deer Park",
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "27/05/2021",
-    "Exposure_time": "11:50am - 12:14pm",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "10:02:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "11:50:00",
-    "Exposure_time_end_24": "12:14:00",
-    "lat": -37.76347,
-    "lon": 144.77576
   },
   {
     "_id": 333,
