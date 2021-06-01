@@ -164,7 +164,7 @@ function drawMap(filterTime) {
 
   const filteredResult = filterTime !== 'all' ? results.filter(result => {
     try {
-      const dateAddedMilli = +new Date(result.Added_date_dtm + " " + result.Added_time + " GMT+10");
+      const dateAddedMilli = +new Date(result.Added_date_dtm + " " + result.Added_time + "+10:00");
       return new Date() - dateAddedMilli < 1000 * 60 * 60 * filterTime;
     } catch (e) {
       console.error(e);
@@ -190,8 +190,10 @@ function drawMap(filterTime) {
       .bindPopup(buildPopup(resultGroup));
   });
 
-  var group = new L.featureGroup(markerArray);
-  map.fitBounds(group.getBounds().pad(0.2));
+  if (markerArray.length) {
+    var group = new L.featureGroup(markerArray);
+    map.fitBounds(group.getBounds().pad(0.2));
+  }
 }
 drawMap('all');
 
