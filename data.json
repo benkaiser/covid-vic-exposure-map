@@ -7565,7 +7565,7 @@
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Epping Station/Cooper St to Liquorland/Harvest Home Rd",
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3076",
     "Exposure_date_dtm": "2021-05-24",
     "Exposure_date": "24/05/2021",
     "Exposure_time": "4:44pm - 5:17pm",
@@ -7586,7 +7586,7 @@
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3076",
     "Exposure_date_dtm": "2021-05-25",
     "Exposure_date": "25/05/2021",
     "Exposure_time": "8:46am - 9:11am",
@@ -7607,7 +7607,7 @@
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Epping Station to Coles/Harvest Home Rd",
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3076",
     "Exposure_date_dtm": "2021-05-25",
     "Exposure_date": "25/05/2021",
     "Exposure_time": "9:22am - 9:46pm",
@@ -7628,7 +7628,7 @@
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3076",
     "Exposure_date_dtm": "2021-05-26",
     "Exposure_date": "26/05/2021",
     "Exposure_time": "8:46am - 9:11am",
@@ -7649,7 +7649,7 @@
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Epping Station to Gammage Blvd/Edgars Rd",
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3076",
     "Exposure_date_dtm": "2021-05-26",
     "Exposure_date": "26/05/2021",
     "Exposure_time": "9:22pm - 9:46pm",
@@ -7661,8 +7661,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "21:22:00",
     "Exposure_time_end_24": "21:46:00",
-    "lat": -37.62496,
-    "lon": 145.0048
+    "lat": -37.62514,
+    "lon": 145.00619
   },
   {
     "_id": 370,
@@ -7670,7 +7670,7 @@
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Gammage Bvd/Edgars Rd to Memoral Ave/High Street",
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3076",
     "Exposure_date_dtm": "2021-05-28",
     "Exposure_date": "28/05/2021",
     "Exposure_time": "3:08pm - 3:18pm",
@@ -7682,7 +7682,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:08:00",
     "Exposure_time_end_24": "15:18:00",
-    "lat": -36.33174,
-    "lon": 141.63669
+    "lat": -37.6496,
+    "lon": 145.02507
   }
 ]
