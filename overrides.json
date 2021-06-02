@@ -635,7 +635,7 @@
   {
     "lat": -37.87301103280315,
     "lon": 144.77721310500115,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412 ",
     "Site_streetaddress": "Footscray Station, Paisley Street to Central Square Shopping Centre stop",
     "Site_state": "VIC",
@@ -661,9 +661,33 @@
   {
     "lat": -37.87301103280315,
     "lon": 144.77721310500115,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
+    "Site_state": "VIC",
+    "Site_postcode": null
+  },
+  {
+    "lat": -37.59304118321887,
+    "lon": 144.91400252478005,
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "350 Craigieburn Road        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064"
+  },
+  {
+    "lat": -37.75120083064523,
+    "lon": 144.77608960985967,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "Sunshine Station/Dickson Street to Brimbank Shopping Centre/Station Road Deer Park",
+    "Site_state": "VIC",
+    "Site_postcode": null
+  },
+  {
+    "lat": -37.87311486308204,
+    "lon": 144.77601453869818,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "Central Square Shopping Centre/Merton Street Altona Meadows to Laverton Station/Railway Ave Laverton",
     "Site_state": "VIC",
     "Site_postcode": null
   }
