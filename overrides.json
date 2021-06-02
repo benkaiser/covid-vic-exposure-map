@@ -514,7 +514,7 @@
   {
     "lat": -37.779205198263206,
     "lon": 144.8746978977995,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road (Maidstone)",
     "Site_state": "VIC",
     "Site_postcode": null
@@ -610,31 +610,31 @@
   {
     "lat": -37.81654760858312,
     "lon": 144.849791343829,
-    "Suburb": "Bus Route",
+    "Suburb": "Public Transport",
     "Site_streetaddress": "Paisley Street/Footscray to Millers Road/Geelong",
     "Site_state": "VIC",
     "Site_postcode": null
   },
   {
-    "lat": -37.80165070551184,
-    "lon": 144.90155712294737,
-    "Suburb": "Bus Route",
+    "lat": -37.779704319079535,
+    "lon": 144.88009542663525,
+    "Suburb": "Public Transport",
     "Site_streetaddress": "Emu Road/Smith Street to Footscray Station",
     "Site_state": "VIC",
     "Site_postcode": null
   },
   {
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115,
-    "Suburb": "Bus Route",
+    "lat": -37.80164257251637,
+    "lon": 144.9015893052637,
+    "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Street to Footscray Station",
     "Site_state": "VIC",
     "Site_postcode": null
   },
   {
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115,
+    "lat": -37.80164257251637,
+    "lon": 144.9015893052637,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412 ",
     "Site_streetaddress": "Footscray Station, Paisley Street to Central Square Shopping Centre stop",

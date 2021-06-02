@@ -399,6 +399,27 @@
     "lon": 145.01827
   },
   {
+    "_id": 34,
+    "Suburb": "Melbourne",
+    "Site_title": "Bamboo House",
+    "Site_streetaddress": "47 Little Bourke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-05-21",
+    "Exposure_date": "21/05/2021",
+    "Exposure_time": "11:00am - 11:50am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-24",
+    "Added_date": "24/05/2021",
+    "Added_time": "12:50:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "11:00:00",
+    "Exposure_time_end_24": "11:50:00",
+    "lat": -37.81106,
+    "lon": 144.97109
+  },
+  {
     "_id": 20,
     "Suburb": "Epping",
     "Site_title": "Urban Diner Food Court, Pacific Epping Shopping Centre",
@@ -567,27 +588,6 @@
     "lon": 145.01704
   },
   {
-    "_id": 299,
-    "Suburb": "Thomastown",
-    "Site_title": "BP Thomastown",
-    "Site_streetaddress": "72 Keon Parade",
-    "Site_state": "VIC",
-    "Site_postcode": "3074",
-    "Exposure_date_dtm": "2021-05-19",
-    "Exposure_date": "19/05/2021",
-    "Exposure_time": "2:30pm - 3:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": null,
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:30:00",
-    "Exposure_time_end_24": "15:00:00",
-    "lat": -37.69595,
-    "lon": 145.02192
-  },
-  {
     "_id": 28,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Shopping Centre, all other areas on Levels 2 and 3 excluding specific shops listed as Tier 1 sites",
@@ -712,27 +712,6 @@
     "Exposure_time_end_24": "18:20:00",
     "lat": -37.77342,
     "lon": 144.88641
-  },
-  {
-    "_id": 34,
-    "Suburb": "Melbourne",
-    "Site_title": "Bamboo House",
-    "Site_streetaddress": "47 Little Bourke Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-05-21",
-    "Exposure_date": "21/05/2021",
-    "Exposure_time": "11:00am - 11:50am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-24",
-    "Added_date": "24/05/2021",
-    "Added_time": "12:50:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "11:00:00",
-    "Exposure_time_end_24": "11:50:00",
-    "lat": -37.81106,
-    "lon": 144.97109
   },
   {
     "_id": 35,
@@ -4658,8 +4637,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "05:40:00",
     "Exposure_time_end_24": "06:25:00",
-    "lat": -37.18171,
-    "lon": 145.71088
+    "lat": -37.80164257251637,
+    "lon": 144.9015893052637
   },
   {
     "_id": 222,
@@ -4931,8 +4910,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "05:37:00",
     "Exposure_time_end_24": "14:44:00",
-    "lat": -36.33298,
-    "lon": 141.64932
+    "lat": -37.81654760858312,
+    "lon": 144.849791343829
   },
   {
     "_id": 235,
@@ -4973,8 +4952,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "13:27:00",
     "Exposure_time_end_24": "13:44:00",
-    "lat": -36.71997,
-    "lon": 141.4756
+    "lat": -37.779704319079535,
+    "lon": 144.88009542663525
   },
   {
     "_id": 237,
@@ -5498,8 +5477,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:34:00",
     "Exposure_time_end_24": "06:50:00",
-    "lat": -37.77964,
-    "lon": 144.8797
+    "lat": -37.779205198263206,
+    "lon": 144.8746978977995
   },
   {
     "_id": 262,
@@ -5813,8 +5792,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:39:00",
     "Exposure_time_end_24": "15:52:00",
-    "lat": -37.87301103280315,
-    "lon": 144.77721310500115
+    "lat": -37.80164257251637,
+    "lon": 144.9015893052637
   },
   {
     "_id": 277,
@@ -6277,6 +6256,27 @@
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.76362,
     "lon": 145.16946
+  },
+  {
+    "_id": 299,
+    "Suburb": "Thomastown",
+    "Site_title": "BP Thomastown",
+    "Site_streetaddress": "72 Keon Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "Exposure_date_dtm": "2021-05-19",
+    "Exposure_date": "19/05/2021",
+    "Exposure_time": "2:30pm - 3:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": null,
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "14:30:00",
+    "Exposure_time_end_24": "15:00:00",
+    "lat": -37.69595,
+    "lon": 145.02192
   },
   {
     "_id": 300,
@@ -6867,27 +6867,6 @@
     "lon": 144.91400252478005
   },
   {
-    "_id": 335,
-    "Suburb": "Sunshine",
-    "Site_title": "Sunshine Railway Station\t",
-    "Site_streetaddress": "City Place\t",
-    "Site_state": "VIC",
-    "Site_postcode": "3020",
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "27/05/2021",
-    "Exposure_time": "11:03am - 11:50am",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "10:02:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "11:03:00",
-    "Exposure_time_end_24": "11:50:00",
-    "lat": -37.78795,
-    "lon": 144.83211
-  },
-  {
     "_id": 328,
     "Suburb": "Craigieburn",
     "Site_title": "Proud Poppy Clothing (reception only)",
@@ -7033,6 +7012,27 @@
     "Exposure_time_end_24": "10:53:00",
     "lat": -37.80031,
     "lon": 144.90383
+  },
+  {
+    "_id": 335,
+    "Suburb": "Sunshine",
+    "Site_title": "Sunshine Railway Station\t",
+    "Site_streetaddress": "City Place\t",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "Exposure_date_dtm": "2021-05-27",
+    "Exposure_date": "27/05/2021",
+    "Exposure_time": "11:03am - 11:50am",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "10:02:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "11:03:00",
+    "Exposure_time_end_24": "11:50:00",
+    "lat": -37.78795,
+    "lon": 144.83211
   },
   {
     "_id": 336,
@@ -7495,5 +7495,26 @@
     "Exposure_time_end_24": "16:10:00",
     "lat": -37.85678,
     "lon": 144.89782
+  },
+  {
+    "_id": 358,
+    "Suburb": "Epping",
+    "Site_title": "Coles Epping Aurora Village",
+    "Site_streetaddress": "315A Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "9:05pm - 10:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "11:03:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "21:05:00",
+    "Exposure_time_end_24": "22:00:00",
+    "lat": -37.62093,
+    "lon": 145.00635
   }
 ]
