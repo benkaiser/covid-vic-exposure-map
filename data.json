@@ -5234,7 +5234,7 @@
     "Site_title": "New Lanka Restaurant",
     "Site_streetaddress": "262 Railway Parade",
     "Site_state": "VIC",
-    "Site_postcode": "3175",
+    "Site_postcode": "3174",
     "Exposure_date_dtm": "2021-05-22",
     "Exposure_date": "22/05/2021",
     "Exposure_time": "10:05am - 10:45am",
@@ -5246,8 +5246,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:05:00",
     "Exposure_time_end_24": "10:45:00",
-    "lat": -37.97379985731053,
-    "lon": 145.1864941688427
+    "lat": -37.97379,
+    "lon": 145.18649
   },
   {
     "_id": 251,
