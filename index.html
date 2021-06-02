@@ -31,6 +31,12 @@
       border-top-right-radius: 10px;
       font-family: Helvetica, sans-serif;
       padding: 10px;
+      transition: all 0.5s ease;
+      margin-bottom: 0px;
+     }
+     #details.collapsed {
+       transition: all 0.5s ease;
+       margin-bottom: -210px;
      }
      h3 {
        margin-top: 5px;
@@ -63,6 +69,15 @@
       .btn-group button:hover {
       background-color: #3e8e41;
       }
+      #collapseIcon, #uncollapseIcon {
+        float: right;
+        margin-right: 10px;
+        margin-top: 5px;
+        cursor: pointer;
+      }
+      .hide {
+        display: none;
+      }
    </style>
    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YB2EPVYRBY"></script>
    <script>
@@ -76,6 +91,16 @@
 <body>
   <div id="map"></div>
   <div id="details">
+    <div id='collapseIcon'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+      </svg>
+    </div>
+    <div id='uncollapseIcon' class='hide'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z"/>
+      </svg>
+    </div>
     <h3>Covid Exposure Map Victoria</h3>
     <p>
       Filter by time announced:
@@ -211,6 +236,27 @@ alltime.addEventListener('click', () => drawMap('all'));
 last24.addEventListener('click', () => drawMap(24));
 last3.addEventListener('click', () => drawMap(24 * 3));
 last7.addEventListener('click', () => drawMap(24 * 7));
+
+const collapseIcon = document.getElementById('collapseIcon');
+const uncollapseIcon = document.getElementById('uncollapseIcon');
+const details = document.getElementById('details');
+
+function collapse(collapse) {
+  if (collapse) {
+    details.classList.add('collapsed');
+  } else {
+    details.classList.remove('collapsed');
+  }
+  (collapse ? collapseIcon : uncollapseIcon).classList.add('hide');
+  (collapse ? uncollapseIcon : collapseIcon).classList.remove('hide');
+}
+
+collapseIcon.addEventListener('click', () => {
+  collapse(true);
+});
+uncollapseIcon.addEventListener('click', () => {
+  collapse(false);
+});
 </script>
 </body>
 </html>
