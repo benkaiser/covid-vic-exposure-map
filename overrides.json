@@ -690,5 +690,45 @@
     "Site_streetaddress": "Central Square Shopping Centre/Merton Street Altona Meadows to Laverton Station/Railway Ave Laverton",
     "Site_state": "VIC",
     "Site_postcode": null
+  },
+  {
+    "lat": -37.62500387476491,
+    "lon": 145.0050004708094,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "Gammage Bvd/Edgars Rd to Memoral Ave/High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.6522484516566,
+    "lon": 145.03108821170733,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+      "lat": -37.62138487978768,
+      "lon": 145.00649002519947,
+      "Suburb": "Public Transport",
+      "Site_streetaddress": "Epping Station to Coles/Harvest Home Rd",
+      "Site_state": "VIC",
+      "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.62138487978768,
+    "lon": 145.00649002519947,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "Epping Station/Cooper St to Liquorland/Harvest Home Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3076"
+  },
+  {
+    "lat": -37.59323548539671,
+    "lon": 144.91435391170606,
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "340 Craigieburn Road        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064"
   }
 ]

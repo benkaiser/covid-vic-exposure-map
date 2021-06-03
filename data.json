@@ -6846,6 +6846,27 @@
     "lon": 144.77662
   },
   {
+    "_id": 327,
+    "Suburb": "Craigieburn",
+    "Site_title": "Jamaica Blue Cafe Craigieburn Central",
+    "Site_streetaddress": "340 Craigieburn Road        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "Exposure_date_dtm": "2021-05-23",
+    "Exposure_date": "23/05/2021",
+    "Exposure_time": "10:00am - 11:30am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "13:45:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "11:30:00",
+    "lat": -37.59323548539671,
+    "lon": 144.91435391170606
+  },
+  {
     "_id": 328,
     "Suburb": "Craigieburn",
     "Site_title": "Proud Poppy Clothing (reception only)",
@@ -7138,6 +7159,69 @@
     "Exposure_time_end_24": "19:20:00",
     "lat": -37.64908369558339,
     "lon": 145.0257627266316
+  },
+  {
+    "_id": 342,
+    "Suburb": "Craigieburn",
+    "Site_title": "Craigieburn Central",
+    "Site_streetaddress": "340 Craigieburn Road        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "Exposure_date_dtm": "2021-05-23",
+    "Exposure_date": "23/05/2021",
+    "Exposure_time": "10:00am - 1:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-01",
+    "Added_date": "01/06/2021",
+    "Added_time": "19:59:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "13:30:00",
+    "lat": -37.59323548539671,
+    "lon": 144.91435391170606
+  },
+  {
+    "_id": 343,
+    "Suburb": "Craigieburn",
+    "Site_title": "Craigieburn Central",
+    "Site_streetaddress": "340 Craigieburn Road        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "9:00am - 11:45am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-01",
+    "Added_date": "01/06/2021",
+    "Added_time": "19:59:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "11:45:00",
+    "lat": -37.59323548539671,
+    "lon": 144.91435391170606
+  },
+  {
+    "_id": 344,
+    "Suburb": "Craigieburn",
+    "Site_title": "Craigieburn Central",
+    "Site_streetaddress": "340 Craigieburn Road        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "7:00pm - 9:05pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-01",
+    "Added_date": "01/06/2021",
+    "Added_time": "19:59:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "19:00:00",
+    "Exposure_time_end_24": "21:05:00",
+    "lat": -37.59323548539671,
+    "lon": 144.91435391170606
   },
   {
     "_id": 345,
@@ -7498,27 +7582,6 @@
   },
   {
     "_id": 362,
-    "Suburb": "Brunswick",
-    "Site_title": "Faculty of Music",
-    "Site_streetaddress": "20 Charles Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "27/05/2021",
-    "Exposure_time": "4:00pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "12:47:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "lat": -37.77315,
-    "lon": 144.96385
-  },
-  {
-    "_id": 363,
     "Suburb": "Travancore",
     "Site_title": "Elite Swimming Ascot Vale",
     "Site_streetaddress": "50 Flemington Street",
@@ -7528,9 +7591,9 @@
     "Exposure_date": "25/05/2021",
     "Exposure_time": "5:00pm - 6:30pm",
     "Notes": "Case attended venue ",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "12:51:00",
+    "Added_date_dtm": "2021-06-03",
+    "Added_date": "03/06/2021",
+    "Added_time": "10:28:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "17:00:00",
@@ -7539,7 +7602,7 @@
     "lon": 144.93518
   },
   {
-    "_id": 364,
+    "_id": 363,
     "Suburb": "Carlton North",
     "Site_title": "Joeys Scouts Carlton",
     "Site_streetaddress": "12 Shakespeare Street",
@@ -7560,7 +7623,7 @@
     "lon": 144.9699
   },
   {
-    "_id": 365,
+    "_id": 364,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Epping Station/Cooper St to Liquorland/Harvest Home Rd",
@@ -7577,11 +7640,11 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "16:44:00",
     "Exposure_time_end_24": "17:17:00",
-    "lat": -37.6221,
-    "lon": 145.01956
+    "lat": -37.62138487978768,
+    "lon": 145.00649002519947
   },
   {
-    "_id": 366,
+    "_id": 365,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
@@ -7598,11 +7661,11 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:46:00",
     "Exposure_time_end_24": "09:11:00",
-    "lat": -37.64994,
-    "lon": 145.00541
+    "lat": -37.6522484516566,
+    "lon": 145.03108821170733
   },
   {
-    "_id": 367,
+    "_id": 366,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Epping Station to Coles/Harvest Home Rd",
@@ -7619,11 +7682,11 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:22:00",
     "Exposure_time_end_24": "21:46:00",
-    "lat": -37.6221,
-    "lon": 145.01956
+    "lat": -37.62138487978768,
+    "lon": 145.00649002519947
   },
   {
-    "_id": 368,
+    "_id": 367,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
@@ -7640,11 +7703,11 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:46:00",
     "Exposure_time_end_24": "09:11:00",
-    "lat": -37.64994,
-    "lon": 145.00541
+    "lat": -37.6522484516566,
+    "lon": 145.03108821170733
   },
   {
-    "_id": 369,
+    "_id": 368,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Epping Station to Gammage Blvd/Edgars Rd",
@@ -7665,7 +7728,7 @@
     "lon": 145.00619
   },
   {
-    "_id": 370,
+    "_id": 369,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 357",
     "Site_streetaddress": "Gammage Bvd/Edgars Rd to Memoral Ave/High Street",
@@ -7682,7 +7745,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:08:00",
     "Exposure_time_end_24": "15:18:00",
-    "lat": -37.6496,
-    "lon": 145.02507
+    "lat": -37.62500387476491,
+    "lon": 145.0050004708094
   }
 ]
