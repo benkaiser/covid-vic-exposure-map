@@ -730,5 +730,13 @@
     "Site_streetaddress": "340 Craigieburn Road        ",
     "Site_state": "VIC",
     "Site_postcode": "3064"
+  },
+  {
+    "lat": -37.64900279029692,
+    "lon": 145.0679694982142,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "South Morang Station to Epping Station",
+    "Site_state": "VIC",
+    "Site_postcode": "3752"
   }
 ]
