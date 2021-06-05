@@ -399,6 +399,27 @@
     "lon": 145.01827
   },
   {
+    "_id": 34,
+    "Suburb": "Melbourne",
+    "Site_title": "Bamboo House",
+    "Site_streetaddress": "47 Little Bourke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-05-21",
+    "Exposure_date": "21/05/2021",
+    "Exposure_time": "11:00am - 11:50am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-24",
+    "Added_date": "24/05/2021",
+    "Added_time": "12:50:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "11:00:00",
+    "Exposure_time_end_24": "11:50:00",
+    "lat": -37.81106,
+    "lon": 144.97109
+  },
+  {
     "_id": 20,
     "Suburb": "Epping",
     "Site_title": "Urban Diner Food Court, Pacific Epping Shopping Centre",
@@ -691,27 +712,6 @@
     "Exposure_time_end_24": "18:20:00",
     "lat": -37.77342,
     "lon": 144.88641
-  },
-  {
-    "_id": 34,
-    "Suburb": "Melbourne",
-    "Site_title": "Bamboo House",
-    "Site_streetaddress": "47 Little Bourke Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-05-21",
-    "Exposure_date": "21/05/2021",
-    "Exposure_time": "11:00am - 11:50am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-24",
-    "Added_date": "24/05/2021",
-    "Added_time": "12:50:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "11:00:00",
-    "Exposure_time_end_24": "11:50:00",
-    "lat": -37.81106,
-    "lon": 144.97109
   },
   {
     "_id": 35,
@@ -7708,27 +7708,6 @@
   },
   {
     "_id": 368,
-    "Suburb": "Melbourne",
-    "Site_title": "Multi-suite office building at 227 Collins, Level 5",
-    "Site_streetaddress": "Level 5, 227 Collins St",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-05-31",
-    "Exposure_date": "31/05/2021",
-    "Exposure_time": "9:00am - 4:30pm",
-    "Notes": "Case attended venue. All areas except Suite 502. See other relevant listings for 227 Collins.",
-    "Added_date_dtm": "2021-06-04",
-    "Added_date": "04/06/2021",
-    "Added_time": "22:42:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "lat": -37.8158,
-    "lon": 144.96631
-  },
-  {
-    "_id": 369,
     "Suburb": "Craigieburn",
     "Site_title": "Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -7749,7 +7728,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 370,
+    "_id": 369,
     "Suburb": "Craigieburn",
     "Site_title": "Quality Fresh Meats - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -7770,7 +7749,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 371,
+    "_id": 370,
     "Suburb": "Craigieburn",
     "Site_title": "Fergusson Plarre Bakehouse - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -7791,7 +7770,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 372,
+    "_id": 371,
     "Suburb": "Craigieburn",
     "Site_title": "HS Quality Food - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -7812,7 +7791,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 373,
+    "_id": 372,
     "Suburb": "Craigieburn",
     "Site_title": "Pinoy Tayo Asian Grocery - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -7833,7 +7812,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 374,
+    "_id": 373,
     "Suburb": "Craigieburn",
     "Site_title": "Fish Pier - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -7854,7 +7833,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 375,
+    "_id": 374,
     "Suburb": "Melbourne",
     "Site_title": "Woolworths Metro Little Collins St",
     "Site_streetaddress": "360 Little Collins St",
@@ -7875,7 +7854,7 @@
     "lon": 144.96268
   },
   {
-    "_id": 376,
+    "_id": 375,
     "Suburb": "Melbourne",
     "Site_title": "Aki Sushi",
     "Site_streetaddress": "105 Queen St",
@@ -7896,7 +7875,7 @@
     "lon": 144.96092
   },
   {
-    "_id": 377,
+    "_id": 376,
     "Suburb": "Melbourne",
     "Site_title": "Aki Sushi",
     "Site_streetaddress": "105 Queen St",
@@ -7917,7 +7896,7 @@
     "lon": 144.96092
   },
   {
-    "_id": 378,
+    "_id": 377,
     "Suburb": "Melbourne",
     "Site_title": "Aki Sushi",
     "Site_streetaddress": "105 Queen St",
@@ -7938,7 +7917,7 @@
     "lon": 144.96092
   },
   {
-    "_id": 379,
+    "_id": 378,
     "Suburb": "Greenvale",
     "Site_title": "BP Greenvale",
     "Site_streetaddress": "910 Mickleham Rd",
@@ -7959,7 +7938,7 @@
     "lon": 144.88188
   },
   {
-    "_id": 380,
+    "_id": 379,
     "Suburb": "Melbourne",
     "Site_title": "Arna Setters and Jewellery",
     "Site_streetaddress": "Level 5, 227 Collins St",
@@ -7980,7 +7959,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 381,
+    "_id": 380,
     "Suburb": "Craigieburn",
     "Site_title": "Australia Post - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -8001,7 +7980,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 382,
+    "_id": 381,
     "Suburb": "Craigieburn",
     "Site_title": "Australia Post - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -8022,7 +8001,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 383,
+    "_id": 382,
     "Suburb": "Craigieburn",
     "Site_title": "Australia Post - Highlands Shopping Centre",
     "Site_streetaddress": "Shop 8/300-322 Grand Blvd",
@@ -8043,7 +8022,7 @@
     "lon": 144.92045
   },
   {
-    "_id": 384,
+    "_id": 383,
     "Suburb": "Campbellfield",
     "Site_title": "7-Eleven Campbellfield",
     "Site_streetaddress": "1603 Sydney Road",
@@ -8064,7 +8043,7 @@
     "lon": 144.95556
   },
   {
-    "_id": 385,
+    "_id": 384,
     "Suburb": "Thornbury",
     "Site_title": "Psarakos Market",
     "Site_streetaddress": "2/8 Clarendon Street",
@@ -8085,7 +8064,7 @@
     "lon": 145.00125
   },
   {
-    "_id": 386,
+    "_id": 385,
     "Suburb": "Greenvale",
     "Site_title": "Coles Greenvale",
     "Site_streetaddress": "1-11 Greenvale Drive",
@@ -8106,7 +8085,7 @@
     "lon": 144.88264
   },
   {
-    "_id": 387,
+    "_id": 386,
     "Suburb": "Preston South",
     "Site_title": "Woolworths Preston South & Attached BWS",
     "Site_streetaddress": "50 Plenty Road",
@@ -8125,5 +8104,89 @@
     "Exposure_time_end_24": "12:45:00",
     "lat": -37.75115,
     "lon": 145.00273
+  },
+  {
+    "_id": 387,
+    "Suburb": "Melbourne",
+    "Site_title": "Levels 4 and 5, 227 Collins St",
+    "Site_streetaddress": "227 Collins St",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-05-31",
+    "Exposure_date": "31/05/2021",
+    "Exposure_time": "9:00am - 4:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-05",
+    "Added_date": "05/06/2021",
+    "Added_time": "20:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:30:00",
+    "lat": -37.8158,
+    "lon": 144.96631
+  },
+  {
+    "_id": 388,
+    "Suburb": "Melbourne",
+    "Site_title": "Levels 4 and 5, 227 Collins St",
+    "Site_streetaddress": "227 Collins St",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-06-01",
+    "Exposure_date": "01/06/2021",
+    "Exposure_time": "9:00am - 4:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-05",
+    "Added_date": "05/06/2021",
+    "Added_time": "20:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:30:00",
+    "lat": -37.8158,
+    "lon": 144.96631
+  },
+  {
+    "_id": 389,
+    "Suburb": "Melbourne",
+    "Site_title": "Levels 4 and 5, 227 Collins St",
+    "Site_streetaddress": "227 Collins St",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-06-02",
+    "Exposure_date": "02/06/2021",
+    "Exposure_time": "9:00am - 4:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-05",
+    "Added_date": "05/06/2021",
+    "Added_time": "20:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:30:00",
+    "lat": -37.8158,
+    "lon": 144.96631
+  },
+  {
+    "_id": 390,
+    "Suburb": "Melbourne",
+    "Site_title": "Levels 4 and 5, 227 Collins St",
+    "Site_streetaddress": "227 Collins St",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-06-03",
+    "Exposure_date": "03/06/2021",
+    "Exposure_time": "9:00am - 4:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-05",
+    "Added_date": "05/06/2021",
+    "Added_time": "20:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:30:00",
+    "lat": -37.8158,
+    "lon": 144.96631
   }
 ]
