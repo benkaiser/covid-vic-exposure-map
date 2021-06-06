@@ -399,27 +399,6 @@
     "lon": 145.01704
   },
   {
-    "_id": 27,
-    "Suburb": "Mill Park",
-    "Site_title": "Bunnings Warehouse",
-    "Site_streetaddress": "761 Plenty Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3082",
-    "Exposure_date_dtm": "2021-05-20",
-    "Exposure_date": "20/05/2021",
-    "Exposure_time": "4:00pm - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-25",
-    "Added_date": "25/05/2021",
-    "Added_time": "21:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:00:00",
-    "Exposure_time_end_24": "18:30:00",
-    "lat": -37.65547,
-    "lon": 145.08074
-  },
-  {
     "_id": 20,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Shopping Centre, all other areas on Levels 2 and 3 excluding specific shops listed as Tier 1 sites",
@@ -565,6 +544,27 @@
     "Exposure_time_end_24": "11:50:00",
     "lat": -37.81106,
     "lon": 144.97109
+  },
+  {
+    "_id": 27,
+    "Suburb": "Mill Park",
+    "Site_title": "Bunnings Warehouse",
+    "Site_streetaddress": "761 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "Exposure_date_dtm": "2021-05-20",
+    "Exposure_date": "20/05/2021",
+    "Exposure_time": "4:00pm - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-25",
+    "Added_date": "25/05/2021",
+    "Added_time": "21:45:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:00:00",
+    "Exposure_time_end_24": "18:30:00",
+    "lat": -37.65547,
+    "lon": 145.08074
   },
   {
     "_id": 28,
@@ -714,27 +714,6 @@
     "lon": 145.01279
   },
   {
-    "_id": 42,
-    "Suburb": "Port Melbourne",
-    "Site_title": "Stratton Finance HQ",
-    "Site_streetaddress": "1/435 Williamstown Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-05-21",
-    "Exposure_date": "21/05/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-26",
-    "Added_date": "26/05/2021",
-    "Added_time": "14:38:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.83292,
-    "lon": 144.93448
-  },
-  {
     "_id": 35,
     "Suburb": "Richmond",
     "Site_title": "Melbourne Cricket Ground - Zone 4, Level 1",
@@ -869,6 +848,27 @@
     "Site_postcode": "3207",
     "Exposure_date_dtm": "2021-05-20",
     "Exposure_date": "20/05/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-26",
+    "Added_date": "26/05/2021",
+    "Added_time": "14:38:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.83292,
+    "lon": 144.93448
+  },
+  {
+    "_id": 42,
+    "Suburb": "Port Melbourne",
+    "Site_title": "Stratton Finance HQ",
+    "Site_streetaddress": "1/435 Williamstown Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "Exposure_date_dtm": "2021-05-21",
+    "Exposure_date": "21/05/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-05-26",
@@ -2563,27 +2563,6 @@
   },
   {
     "_id": 123,
-    "Suburb": "Fingal",
-    "Site_title": "Peninsula Hot Springs (Bathhouse Reception Only)",
-    "Site_streetaddress": "140 Springs Lane",
-    "Site_state": "VIC",
-    "Site_postcode": "3939",
-    "Exposure_date_dtm": "2021-05-21",
-    "Exposure_date": "21/05/2021",
-    "Exposure_time": "3:00pm - 3:15pm",
-    "Notes": "Case attended reception area only",
-    "Added_date_dtm": "2021-05-29",
-    "Added_date": "29/05/2021",
-    "Added_time": "13:56:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "15:00:00",
-    "Exposure_time_end_24": "15:15:00",
-    "lat": -38.406932939933135,
-    "lon": 144.8427335409159
-  },
-  {
-    "_id": 124,
     "Suburb": "South Yarra",
     "Site_title": "Taco Bell Chapel Street",
     "Site_streetaddress": "352 Chapel Street",
@@ -2604,28 +2583,7 @@
     "lon": 144.99437
   },
   {
-    "_id": 132,
-    "Suburb": "St Kilda",
-    "Site_title": "Woolworths",
-    "Site_streetaddress": " 64 Fitzroy Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3182",
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "27/05/2021",
-    "Exposure_time": "3:00pm - 3:30pm",
-    "Notes": "Case shopped at store",
-    "Added_date_dtm": "2021-05-29",
-    "Added_date": "29/05/2021",
-    "Added_time": "21:40:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "lat": -37.85921,
-    "lon": 144.97777
-  },
-  {
-    "_id": 125,
+    "_id": 124,
     "Suburb": "Epping",
     "Site_title": "Pacific Epping Plaza - Cotton On, Edge, Valleygirl, Supre and Boost Juice",
     "Site_streetaddress": "571 - 583 High Street",
@@ -2646,7 +2604,7 @@
     "lon": 145.02208
   },
   {
-    "_id": 126,
+    "_id": 125,
     "Suburb": "Epping",
     "Site_title": "Pacific Epping Plaza",
     "Site_streetaddress": "571 - 583 High Street",
@@ -2667,7 +2625,7 @@
     "lon": 145.02208
   },
   {
-    "_id": 127,
+    "_id": 126,
     "Suburb": "Thomastown",
     "Site_title": "Supa IGA Thomastown",
     "Site_streetaddress": "122 Main Street",
@@ -2688,7 +2646,7 @@
     "lon": 144.99896
   },
   {
-    "_id": 128,
+    "_id": 127,
     "Suburb": "Mernda",
     "Site_title": "Caltex Mernda",
     "Site_streetaddress": "1631W Plenty Road",
@@ -2709,7 +2667,7 @@
     "lon": 145.10274
   },
   {
-    "_id": 129,
+    "_id": 128,
     "Suburb": "Thomastown",
     "Site_title": "7-Eleven Thomastown North",
     "Site_streetaddress": "Cnr Edgars Road and Main Street",
@@ -2730,7 +2688,7 @@
     "lon": 144.99925
   },
   {
-    "_id": 130,
+    "_id": 129,
     "Suburb": "Bundoora",
     "Site_title": "La Trobe University, Library All Levels (Except level 1)",
     "Site_streetaddress": "Plenty Road & Kingsbury Drive",
@@ -2751,7 +2709,7 @@
     "lon": 145.04831744054462
   },
   {
-    "_id": 131,
+    "_id": 130,
     "Suburb": "South Yarra",
     "Site_title": "Forvic Asian Supermarket",
     "Site_streetaddress": "251 Malvern Road",
@@ -2772,7 +2730,28 @@
     "lon": 144.99464
   },
   {
-    "_id": 133,
+    "_id": 131,
+    "Suburb": "St Kilda",
+    "Site_title": "Woolworths",
+    "Site_streetaddress": " 64 Fitzroy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "Exposure_date_dtm": "2021-05-27",
+    "Exposure_date": "27/05/2021",
+    "Exposure_time": "3:00pm - 3:30pm",
+    "Notes": "Case shopped at store",
+    "Added_date_dtm": "2021-05-29",
+    "Added_date": "29/05/2021",
+    "Added_time": "21:40:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:00:00",
+    "Exposure_time_end_24": "15:30:00",
+    "lat": -37.85921,
+    "lon": 144.97777
+  },
+  {
+    "_id": 132,
     "Suburb": "St Kilda",
     "Site_title": "McDonalds St Kilda",
     "Site_streetaddress": "32 The Esplanade",
@@ -2793,7 +2772,7 @@
     "lon": 144.97752
   },
   {
-    "_id": 134,
+    "_id": 133,
     "Suburb": "St Kilda",
     "Site_title": "KFC St Kilda",
     "Site_streetaddress": "70A Acland Street",
@@ -2814,7 +2793,7 @@
     "lon": 144.97832
   },
   {
-    "_id": 135,
+    "_id": 134,
     "Suburb": "St Kilda",
     "Site_title": "Woolworths",
     "Site_streetaddress": "117 Acland Street",
@@ -2835,7 +2814,7 @@
     "lon": 144.9794
   },
   {
-    "_id": 136,
+    "_id": 135,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Chadstone Shopping Centre",
     "Site_streetaddress": "1341 Dandenong Road",
@@ -2856,7 +2835,7 @@
     "lon": 145.07814
   },
   {
-    "_id": 137,
+    "_id": 136,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Yokozuna - Chadstone Shopping Centre",
     "Site_streetaddress": "1341 Dandenong Road",
@@ -2877,7 +2856,7 @@
     "lon": 145.07814
   },
   {
-    "_id": 138,
+    "_id": 137,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Optus - Chadstone Shopping Centre",
     "Site_streetaddress": "Shop B311, 1341 Dandenong Road",
@@ -2898,7 +2877,7 @@
     "lon": 145.0806
   },
   {
-    "_id": 139,
+    "_id": 138,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Bakers Delight - Chadstone Shopping Centre",
     "Site_streetaddress": "247C/ 1341 Dandenong Road",
@@ -2919,7 +2898,7 @@
     "lon": 145.08339931129566
   },
   {
-    "_id": 140,
+    "_id": 139,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Woolworths - Chadstone Shopping Centre",
     "Site_streetaddress": "1341 Dandenong Road",
@@ -2940,7 +2919,7 @@
     "lon": 145.07814
   },
   {
-    "_id": 141,
+    "_id": 140,
     "Suburb": "Arthurs Seat",
     "Site_title": "Enchanted Adventure Garden",
     "Site_streetaddress": "55 Purves Road",
@@ -2961,28 +2940,7 @@
     "lon": 144.95256
   },
   {
-    "_id": 142,
-    "Suburb": "Kalkallo",
-    "Site_title": "Metricon Homes Kalkallo- Cloverton Display Homes",
-    "Site_streetaddress": "24 Design Way",
-    "Site_state": "VIC",
-    "Site_postcode": "3064",
-    "Exposure_date_dtm": "2021-05-26",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "2:25pm - 5:28pm",
-    "Notes": "Case attended",
-    "Added_date_dtm": "2021-05-30",
-    "Added_date": "30/05/2021",
-    "Added_time": "09:05:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:25:00",
-    "Exposure_time_end_24": "17:28:00",
-    "lat": -37.53968,
-    "lon": 144.95659
-  },
-  {
-    "_id": 143,
+    "_id": 141,
     "Suburb": "Epping",
     "Site_title": "Kmart Epping",
     "Site_streetaddress": "Epping\nPlaza Shopping Center. Cnr High & Cooper Street",
@@ -3003,7 +2961,7 @@
     "lon": 145.00463
   },
   {
-    "_id": 144,
+    "_id": 142,
     "Suburb": "Epping",
     "Site_title": "Coles Epping Plaza",
     "Site_streetaddress": "Shop Q002, Epping Plaza, High Street",
@@ -3024,7 +2982,7 @@
     "lon": 145.02507
   },
   {
-    "_id": 145,
+    "_id": 143,
     "Suburb": "Craigieburn",
     "Site_title": "PTV Bus Number 525",
     "Site_streetaddress": "Highland\nSC/Grand Bvd to Donnybrook Rd/Dwyer Street",
@@ -3045,7 +3003,7 @@
     "lon": 144.95434
   },
   {
-    "_id": 146,
+    "_id": 144,
     "Suburb": "Craigieburn",
     "Site_title": "PTV Bus Number 525",
     "Site_streetaddress": "Highland\nSC/Grand Bvd to Donnybrook Rd/Dwyer Street",
@@ -3066,7 +3024,7 @@
     "lon": 144.95434
   },
   {
-    "_id": 147,
+    "_id": 145,
     "Suburb": "Hawthorn",
     "Site_title": "Short Straw",
     "Site_streetaddress": "743B Glenferrie Road ",
@@ -3087,7 +3045,7 @@
     "lon": 145.03593
   },
   {
-    "_id": 148,
+    "_id": 146,
     "Suburb": "Bundoora",
     "Site_title": "IGA Agora Express (La Trobe University)",
     "Site_streetaddress": "La Trobe University, Melbourne Campus, Shop 1 Agora East, Bundoora VIC 3083",
@@ -3108,7 +3066,7 @@
     "lon": 145.0487984846572
   },
   {
-    "_id": 149,
+    "_id": 147,
     "Suburb": "Bundoora",
     "Site_title": "DFO Uni Hill - Champion, Melrose Avenue, Quiksilver, Factorie and Edge",
     "Site_streetaddress": "2 Janefield Drive",
@@ -3129,7 +3087,7 @@
     "lon": 145.0706
   },
   {
-    "_id": 150,
+    "_id": 148,
     "Suburb": "Craigieburn",
     "Site_title": "Ambarsari Dhaba",
     "Site_streetaddress": "3/38 Craigieburn Road",
@@ -3150,7 +3108,7 @@
     "lon": 144.94276
   },
   {
-    "_id": 151,
+    "_id": 149,
     "Suburb": "Thomastown",
     "Site_title": "Gobind Sweets",
     "Site_streetaddress": "6/350 Settlement Road",
@@ -3171,7 +3129,7 @@
     "lon": 145.02
   },
   {
-    "_id": 152,
+    "_id": 150,
     "Suburb": "Epping",
     "Site_title": "Chemist Warehouse (Epping Homemaker Center)",
     "Site_streetaddress": "560-650 High Street",
@@ -3192,7 +3150,7 @@
     "lon": 145.02358
   },
   {
-    "_id": 153,
+    "_id": 151,
     "Suburb": "Epping",
     "Site_title": "Chemist Warehouse (Epping Homemaker Center)",
     "Site_streetaddress": "560-650 High Street",
@@ -3213,28 +3171,7 @@
     "lon": 145.02358
   },
   {
-    "_id": 154,
-    "Suburb": "Kalkallo",
-    "Site_title": "Metricon Homes Kalkallo- Cloverton Display Homes",
-    "Site_streetaddress": "24 Design Way",
-    "Site_state": "VIC",
-    "Site_postcode": "3064",
-    "Exposure_date_dtm": "2021-05-22",
-    "Exposure_date": "22/05/2021",
-    "Exposure_time": "1:15pm - 3:15pm",
-    "Notes": "Case attended",
-    "Added_date_dtm": "2021-05-30",
-    "Added_date": "30/05/2021",
-    "Added_time": "15:07:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "13:15:00",
-    "Exposure_time_end_24": "15:15:00",
-    "lat": -37.53968,
-    "lon": 144.95659
-  },
-  {
-    "_id": 155,
+    "_id": 152,
     "Suburb": "Epping",
     "Site_title": "Walker's Donuts Epping (Pacific Epping Shopping Centre)",
     "Site_streetaddress": "571-583 High Street",
@@ -3255,7 +3192,7 @@
     "lon": 145.02208
   },
   {
-    "_id": 156,
+    "_id": 153,
     "Suburb": "Lalor",
     "Site_title": "Coles Lalor",
     "Site_streetaddress": "47-71 May Road",
@@ -3276,7 +3213,7 @@
     "lon": 145.01712
   },
   {
-    "_id": 157,
+    "_id": 154,
     "Suburb": "Lalor",
     "Site_title": "Woolworths Lalor",
     "Site_streetaddress": "Hurtle Street",
@@ -3297,7 +3234,7 @@
     "lon": 145.0125
   },
   {
-    "_id": 158,
+    "_id": 155,
     "Suburb": "Lalor",
     "Site_title": "Woolworths Lalor",
     "Site_streetaddress": "Hurtle Street",
@@ -3318,7 +3255,7 @@
     "lon": 145.0125
   },
   {
-    "_id": 159,
+    "_id": 156,
     "Suburb": "Epping",
     "Site_title": "MKS Spices'n Things Epping",
     "Site_streetaddress": "1/84-88 Coopers Street",
@@ -3339,7 +3276,7 @@
     "lon": 145.02079
   },
   {
-    "_id": 160,
+    "_id": 157,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3360,7 +3297,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 161,
+    "_id": 158,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3381,7 +3318,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 162,
+    "_id": 159,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3402,7 +3339,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 163,
+    "_id": 160,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3423,7 +3360,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 164,
+    "_id": 161,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3444,7 +3381,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 165,
+    "_id": 162,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3465,7 +3402,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 166,
+    "_id": 163,
     "Suburb": "Thomastown",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3486,7 +3423,7 @@
     "lon": 145.01813980627452
   },
   {
-    "_id": 167,
+    "_id": 164,
     "Suburb": "Thomastown ",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3507,7 +3444,7 @@
     "lon": 145.01796
   },
   {
-    "_id": 168,
+    "_id": 165,
     "Suburb": "Thomastown ",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3528,7 +3465,7 @@
     "lon": 145.01796
   },
   {
-    "_id": 169,
+    "_id": 166,
     "Suburb": "Thomastown ",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3549,7 +3486,7 @@
     "lon": 145.01796
   },
   {
-    "_id": 170,
+    "_id": 167,
     "Suburb": "Thomastown ",
     "Site_title": "Slades Beverages",
     "Site_streetaddress": "46/40-50 Keon Parade",
@@ -3570,7 +3507,7 @@
     "lon": 145.01796
   },
   {
-    "_id": 171,
+    "_id": 168,
     "Suburb": "Craigieburn",
     "Site_title": "Big W Craigieburn",
     "Site_streetaddress": "340 Craigieburn Road",
@@ -3591,7 +3528,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 172,
+    "_id": 169,
     "Suburb": "Point Cook",
     "Site_title": "Coles Stockland Point Cook Shopping Centre",
     "Site_streetaddress": "5 Main Street & Murnong Street",
@@ -3612,7 +3549,7 @@
     "lon": 144.73534
   },
   {
-    "_id": 173,
+    "_id": 170,
     "Suburb": "Point Cook",
     "Site_title": "Sanctuary Lakes Shopping Centre",
     "Site_streetaddress": "300 Point Cook Road",
@@ -3633,7 +3570,7 @@
     "lon": 144.75407
   },
   {
-    "_id": 174,
+    "_id": 171,
     "Suburb": "Point Cook",
     "Site_title": "Aldi Sanctuary Lakes Shopping Centre",
     "Site_streetaddress": "300 Point Cook Road",
@@ -3654,7 +3591,7 @@
     "lon": 144.75407
   },
   {
-    "_id": 175,
+    "_id": 172,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Street to Footscray Station",
@@ -3675,28 +3612,7 @@
     "lon": 144.9015893052637
   },
   {
-    "_id": 260,
-    "Suburb": "South Melbourne",
-    "Site_title": "ALDI South Melbourne",
-    "Site_streetaddress": "100 Market Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3205",
-    "Exposure_date_dtm": "2021-05-28",
-    "Exposure_date": "28/05/2021",
-    "Exposure_time": "2:00pm - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "13:45:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "lat": -37.82865,
-    "lon": 144.96258
-  },
-  {
-    "_id": 176,
+    "_id": 173,
     "Suburb": "Epping",
     "Site_title": "Coles Epping Plaza",
     "Site_streetaddress": "Shop Q002. High Street",
@@ -3717,7 +3633,7 @@
     "lon": 145.02507
   },
   {
-    "_id": 177,
+    "_id": 174,
     "Suburb": "Epping",
     "Site_title": "Coles Epping Plaza",
     "Site_streetaddress": "Shop Q002. High Street",
@@ -3738,7 +3654,7 @@
     "lon": 145.02507
   },
   {
-    "_id": 178,
+    "_id": 175,
     "Suburb": "Preston",
     "Site_title": "H&M (Northland Shopping Centre)",
     "Site_streetaddress": "2-50 Murray Road",
@@ -3759,7 +3675,7 @@
     "lon": 145.02893188287362
   },
   {
-    "_id": 179,
+    "_id": 176,
     "Suburb": "Doreen",
     "Site_title": "Woolworths Laurimar",
     "Site_streetaddress": "95 Hazel Glen Drive",
@@ -3780,7 +3696,7 @@
     "lon": 145.12727
   },
   {
-    "_id": 180,
+    "_id": 177,
     "Suburb": "Epping",
     "Site_title": "JMD Grocers & Sweets",
     "Site_streetaddress": "768 High Street",
@@ -3801,7 +3717,7 @@
     "lon": 145.0257627266316
   },
   {
-    "_id": 181,
+    "_id": 178,
     "Suburb": "Epping",
     "Site_title": "JMD Grocers & Sweets",
     "Site_streetaddress": "768 High Street",
@@ -3822,7 +3738,7 @@
     "lon": 145.0257627266316
   },
   {
-    "_id": 182,
+    "_id": 179,
     "Suburb": "Epping",
     "Site_title": "JMD Grocers & Sweets",
     "Site_streetaddress": "768 High Street",
@@ -3843,28 +3759,7 @@
     "lon": 145.0257627266316
   },
   {
-    "_id": 190,
-    "Suburb": "Point Cook",
-    "Site_title": "Target - Stockland Point Cook Shopping Centre",
-    "Site_streetaddress": "Murnong Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-05-26",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "3:30pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-30",
-    "Added_date": "30/05/2021",
-    "Added_time": "19:40:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "15:30:00",
-    "Exposure_time_end_24": "17:30:00",
-    "lat": -37.88321,
-    "lon": 144.73577
-  },
-  {
-    "_id": 183,
+    "_id": 180,
     "Suburb": "Cranbourne",
     "Site_title": "Gami Rasa Restaurant",
     "Site_streetaddress": "19 Hotham Street",
@@ -3885,7 +3780,7 @@
     "lon": 145.28949
   },
   {
-    "_id": 184,
+    "_id": 181,
     "Suburb": "St Kilda",
     "Site_title": "Galleon Cafe",
     "Site_streetaddress": "9 Carlisle Street",
@@ -3906,7 +3801,7 @@
     "lon": 144.97898
   },
   {
-    "_id": 185,
+    "_id": 182,
     "Suburb": "Brighton",
     "Site_title": "Brighton Beach Hotel",
     "Site_streetaddress": "4 The Esplanade",
@@ -3927,7 +3822,7 @@
     "lon": 144.98747
   },
   {
-    "_id": 186,
+    "_id": 183,
     "Suburb": "Footscray",
     "Site_title": "Thai Huy Butcher",
     "Site_streetaddress": "Shop 144, 18 Irving Street\r\n\r\n",
@@ -3948,7 +3843,7 @@
     "lon": 144.9017
   },
   {
-    "_id": 187,
+    "_id": 184,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Paisley Street/Footscray to Millers Road/Geelong Road",
@@ -3969,7 +3864,7 @@
     "lon": 144.849791343829
   },
   {
-    "_id": 188,
+    "_id": 185,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
@@ -3990,7 +3885,7 @@
     "lon": 144.77721310500115
   },
   {
-    "_id": 189,
+    "_id": 186,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406",
     "Site_streetaddress": "Emu Road/Smith Street to Footscray Station",
@@ -4011,7 +3906,28 @@
     "lon": 144.88009542663525
   },
   {
-    "_id": 191,
+    "_id": 187,
+    "Suburb": "Point Cook",
+    "Site_title": "Target - Stockland Point Cook Shopping Centre",
+    "Site_streetaddress": "Murnong Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "3:30pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-30",
+    "Added_date": "30/05/2021",
+    "Added_time": "19:40:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "15:30:00",
+    "Exposure_time_end_24": "17:30:00",
+    "lat": -37.88321,
+    "lon": 144.73577
+  },
+  {
+    "_id": 188,
     "Suburb": "South Melbourne",
     "Site_title": "Woolworths South Melbourne",
     "Site_streetaddress": "113 Cecil Street",
@@ -4032,7 +3948,7 @@
     "lon": 144.95707
   },
   {
-    "_id": 192,
+    "_id": 189,
     "Suburb": "Cranbourne",
     "Site_title": "Factorie",
     "Site_streetaddress": "Shop SP104 Cranbourne Park Shopping Centre, High St",
@@ -4053,7 +3969,7 @@
     "lon": 145.28223391801635
   },
   {
-    "_id": 193,
+    "_id": 190,
     "Suburb": "Footscray",
     "Site_title": "Inday Fillipino Store",
     "Site_streetaddress": "121/81 Hopkins St (Footscray Market)",
@@ -4074,7 +3990,7 @@
     "lon": 144.901919269382
   },
   {
-    "_id": 194,
+    "_id": 191,
     "Suburb": "Melbourne",
     "Site_title": "The Lott (St Kilda Road News)",
     "Site_streetaddress": "509 St Kilda Road",
@@ -4095,7 +4011,7 @@
     "lon": 144.979222581026
   },
   {
-    "_id": 195,
+    "_id": 192,
     "Suburb": "Cranbourne",
     "Site_title": "Oporto Cranbourne Chicken",
     "Site_streetaddress": "1016 Cranbourne-Frankston Rd",
@@ -4116,7 +4032,7 @@
     "lon": 145.2607096727164
   },
   {
-    "_id": 196,
+    "_id": 193,
     "Suburb": "Elwood",
     "Site_title": "Turtle Cafe Elwood",
     "Site_streetaddress": "34 Glen Huntly Rd",
@@ -4137,7 +4053,7 @@
     "lon": 144.98309
   },
   {
-    "_id": 197,
+    "_id": 194,
     "Suburb": "Port Melbourne",
     "Site_title": "Coles Port Melbourne",
     "Site_streetaddress": "Corner Bay and Liardet St",
@@ -4158,7 +4074,7 @@
     "lon": 144.94292
   },
   {
-    "_id": 198,
+    "_id": 195,
     "Suburb": "Keilor Downs",
     "Site_title": "German Shepherd Dog Club of Victoria Western Branch",
     "Site_streetaddress": "Green Gully Reserve, McCrae Boulevard",
@@ -4179,7 +4095,7 @@
     "lon": 144.8180312134127
   },
   {
-    "_id": 199,
+    "_id": 196,
     "Suburb": "Yarraville",
     "Site_title": "Prestige Fruit and Vegetables",
     "Site_streetaddress": "27 Anderson St",
@@ -4200,7 +4116,7 @@
     "lon": 144.89132
   },
   {
-    "_id": 200,
+    "_id": 197,
     "Suburb": "Mount Dandenong",
     "Site_title": "SkyHigh Mount Dandenong and SkyHigh Cafe",
     "Site_streetaddress": "26 Observatory Road",
@@ -4221,7 +4137,7 @@
     "lon": 145.35209
   },
   {
-    "_id": 201,
+    "_id": 198,
     "Suburb": "Epping",
     "Site_title": "Gloria Jean's Coffees Epping Plaza",
     "Site_streetaddress": "583 High Street",
@@ -4242,7 +4158,7 @@
     "lon": 145.01873515545853
   },
   {
-    "_id": 202,
+    "_id": 199,
     "Suburb": "Epping",
     "Site_title": "Blue Sapphire Coin Laundry Epping",
     "Site_streetaddress": "2A Jovic Road",
@@ -4263,7 +4179,7 @@
     "lon": 145.02021
   },
   {
-    "_id": 203,
+    "_id": 200,
     "Suburb": "Epping",
     "Site_title": "Soprano's Pizza",
     "Site_streetaddress": "746 High Street",
@@ -4284,7 +4200,7 @@
     "lon": 145.02565
   },
   {
-    "_id": 204,
+    "_id": 201,
     "Suburb": "Lalor",
     "Site_title": "The Cake Box",
     "Site_streetaddress": "314 Station Street",
@@ -4305,7 +4221,7 @@
     "lon": 145.01614
   },
   {
-    "_id": 205,
+    "_id": 202,
     "Suburb": "Chadstone",
     "Site_title": "Zimmerman Chadstone",
     "Site_streetaddress": "1341 Dandenong Road",
@@ -4326,7 +4242,7 @@
     "lon": 145.08339931129566
   },
   {
-    "_id": 206,
+    "_id": 203,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Breadtop Chadstone",
     "Site_streetaddress": "Shop F010, 1341 Dandenong Road",
@@ -4347,7 +4263,7 @@
     "lon": 145.0806
   },
   {
-    "_id": 207,
+    "_id": 204,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406",
     "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road (Maidstone)",
@@ -4368,7 +4284,7 @@
     "lon": 144.8746978977995
   },
   {
-    "_id": 208,
+    "_id": 205,
     "Suburb": "Malvern East (Chadstone)",
     "Site_title": "QBD Books Chadstone",
     "Site_streetaddress": "Shop B099, 1341 Dandenong Road",
@@ -4389,7 +4305,7 @@
     "lon": 145.08339931129566
   },
   {
-    "_id": 209,
+    "_id": 206,
     "Suburb": "Reservoir",
     "Site_title": "Healthy India ",
     "Site_streetaddress": "276 Broadway",
@@ -4410,7 +4326,7 @@
     "lon": 145.00874271893807
   },
   {
-    "_id": 210,
+    "_id": 207,
     "Suburb": "Reservoir",
     "Site_title": "Healthy India ",
     "Site_streetaddress": "276 Broadway",
@@ -4431,7 +4347,7 @@
     "lon": 145.00874271893807
   },
   {
-    "_id": 211,
+    "_id": 208,
     "Suburb": "Reservoir",
     "Site_title": "Healthy India ",
     "Site_streetaddress": "276 Broadway",
@@ -4452,7 +4368,7 @@
     "lon": 145.00874271893807
   },
   {
-    "_id": 212,
+    "_id": 209,
     "Suburb": "Reservoir",
     "Site_title": "Akkar Pastry",
     "Site_streetaddress": "274 Broadway",
@@ -4473,7 +4389,7 @@
     "lon": 145.00885
   },
   {
-    "_id": 213,
+    "_id": 210,
     "Suburb": "Reservoir",
     "Site_title": "My Chemist Broadway",
     "Site_streetaddress": "270 Broadway",
@@ -4494,7 +4410,7 @@
     "lon": 145.00901
   },
   {
-    "_id": 214,
+    "_id": 211,
     "Suburb": "Epping",
     "Site_title": "Coles Epping Aurora Village",
     "Site_streetaddress": "315A Harvest Home Rd",
@@ -4515,7 +4431,7 @@
     "lon": 145.00635
   },
   {
-    "_id": 215,
+    "_id": 212,
     "Suburb": "Epping",
     "Site_title": "Liquorland Aurora Village",
     "Site_streetaddress": "315A Harvest Home Rd",
@@ -4536,7 +4452,7 @@
     "lon": 145.00635
   },
   {
-    "_id": 216,
+    "_id": 213,
     "Suburb": "Mill Park",
     "Site_title": "Coles Westfield Plenty Valley",
     "Site_streetaddress": "Civic Drive (415 McDonalds Rd)",
@@ -4557,7 +4473,7 @@
     "lon": 145.06638
   },
   {
-    "_id": 217,
+    "_id": 214,
     "Suburb": "Mill Park",
     "Site_title": "Little Sparrow Westfield Plenty Valley",
     "Site_streetaddress": "415 McDonalds Rd",
@@ -4578,7 +4494,7 @@
     "lon": 145.06638
   },
   {
-    "_id": 218,
+    "_id": 215,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Stop to Footscray Station",
@@ -4599,7 +4515,7 @@
     "lon": 144.77721310500115
   },
   {
-    "_id": 219,
+    "_id": 216,
     "Suburb": "Point Cook",
     "Site_title": "Stockland Point Cook Shopping Centre",
     "Site_streetaddress": "5 Main Street & Murnong Street",
@@ -4620,7 +4536,7 @@
     "lon": 144.73534
   },
   {
-    "_id": 220,
+    "_id": 217,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406 ",
     "Site_streetaddress": "Footscray Station to Emu Road/Hampstead Road, Maidstone",
@@ -4641,7 +4557,7 @@
     "lon": 144.8797
   },
   {
-    "_id": 221,
+    "_id": 218,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 406 ",
     "Site_streetaddress": "Emu Road/Hampstead Road, Maidstone to Footscray Station",
@@ -4662,7 +4578,7 @@
     "lon": 144.8797
   },
   {
-    "_id": 222,
+    "_id": 219,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 412 ",
     "Site_streetaddress": "Footscray Station, Paisley Street to Central Square Shopping Centre stop",
@@ -4683,7 +4599,7 @@
     "lon": 144.9015893052637
   },
   {
-    "_id": 223,
+    "_id": 220,
     "Suburb": "Cranbourne",
     "Site_title": "Connor Cranbourne Park Shopping Centre",
     "Site_streetaddress": "132 High Street",
@@ -4704,7 +4620,7 @@
     "lon": 145.28378
   },
   {
-    "_id": 224,
+    "_id": 221,
     "Suburb": "Glen Iris",
     "Site_title": "Bakers Delight Tooronga Village",
     "Site_streetaddress": "Corner Tooronga Road and Toorka Road",
@@ -4725,7 +4641,7 @@
     "lon": 145.04585524189318
   },
   {
-    "_id": 225,
+    "_id": 222,
     "Suburb": "Parkdale",
     "Site_title": "Adairs Parkdale Plaza",
     "Site_streetaddress": "Unit 6/383 Nepean Highway",
@@ -4746,7 +4662,7 @@
     "lon": 145.08417
   },
   {
-    "_id": 226,
+    "_id": 223,
     "Suburb": "South Melbourne",
     "Site_title": "Australia Post South Melbourne",
     "Site_streetaddress": "100 Market Street",
@@ -4767,7 +4683,7 @@
     "lon": 144.96258
   },
   {
-    "_id": 227,
+    "_id": 224,
     "Suburb": "Chelsea Heights",
     "Site_title": "Subway Chelsea Heights",
     "Site_streetaddress": "1-3 Piper Drive",
@@ -4788,7 +4704,7 @@
     "lon": 145.13142
   },
   {
-    "_id": 228,
+    "_id": 225,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4809,7 +4725,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 229,
+    "_id": 226,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4830,7 +4746,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 230,
+    "_id": 227,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4851,7 +4767,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 231,
+    "_id": 228,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4872,28 +4788,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 238,
-    "Suburb": "Campbellfield",
-    "Site_title": "Shaan A Punjab Haveli",
-    "Site_streetaddress": "10/1805 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3061",
-    "Exposure_date_dtm": "2021-05-12",
-    "Exposure_date": "12/05/2021",
-    "Exposure_time": "3:45pm - 4:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "12:00:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "15:45:00",
-    "Exposure_time_end_24": "16:20:00",
-    "lat": -37.64662,
-    "lon": 144.951
-  },
-  {
-    "_id": 232,
+    "_id": 229,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Communal Facilities)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4914,7 +4809,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 233,
+    "_id": 230,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility ",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4935,7 +4830,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 234,
+    "_id": 231,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility ",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4956,7 +4851,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 235,
+    "_id": 232,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Communial Facilities)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4977,7 +4872,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 236,
+    "_id": 233,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Communal Facilities)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -4998,7 +4893,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 237,
+    "_id": 234,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone Aged Care Facility (Communal Facilities)",
     "Site_streetaddress": "31 Hampstead Road",
@@ -5019,7 +4914,28 @@
     "lon": 144.87613
   },
   {
-    "_id": 239,
+    "_id": 235,
+    "Suburb": "Campbellfield",
+    "Site_title": "Shaan A Punjab Haveli",
+    "Site_streetaddress": "10/1805 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "Exposure_date_dtm": "2021-05-12",
+    "Exposure_date": "12/05/2021",
+    "Exposure_time": "3:45pm - 4:20pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "12:00:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "15:45:00",
+    "Exposure_time_end_24": "16:20:00",
+    "lat": -37.64662,
+    "lon": 144.951
+  },
+  {
+    "_id": 236,
     "Suburb": "Epping",
     "Site_title": "APCO Service Station Epping",
     "Site_streetaddress": "828-834 High Street",
@@ -5040,7 +4956,7 @@
     "lon": 145.02681
   },
   {
-    "_id": 240,
+    "_id": 237,
     "Suburb": "Reservoir",
     "Site_title": "Metro Petroleum Reservoir",
     "Site_streetaddress": "139/145 Spring Street",
@@ -5061,7 +4977,7 @@
     "lon": 145.00115
   },
   {
-    "_id": 241,
+    "_id": 238,
     "Suburb": "Reservoir",
     "Site_title": "Melbourne Kebab Station Reservoir",
     "Site_streetaddress": "766A Plenty Road",
@@ -5082,7 +4998,7 @@
     "lon": 145.02017
   },
   {
-    "_id": 242,
+    "_id": 239,
     "Suburb": "Doncaster East",
     "Site_title": "United Service Station Doncaster East",
     "Site_streetaddress": "183-185 Reynolds Road",
@@ -5103,7 +5019,7 @@
     "lon": 145.16946
   },
   {
-    "_id": 243,
+    "_id": 240,
     "Suburb": "Thomastown",
     "Site_title": "BP Thomastown",
     "Site_streetaddress": "72 Keon Parade",
@@ -5124,7 +5040,7 @@
     "lon": 145.02192
   },
   {
-    "_id": 244,
+    "_id": 241,
     "Suburb": "Truganina",
     "Site_title": "Liberty Oil",
     "Site_streetaddress": "290 Leakes Road",
@@ -5145,7 +5061,7 @@
     "lon": 144.73379
   },
   {
-    "_id": 245,
+    "_id": 242,
     "Suburb": "Footscray",
     "Site_title": "Footscray Market",
     "Site_streetaddress": "18 Irving Street",
@@ -5166,7 +5082,7 @@
     "lon": 144.9017
   },
   {
-    "_id": 246,
+    "_id": 243,
     "Suburb": "Footscray ",
     "Site_title": "Footscray Market",
     "Site_streetaddress": "18 Irving Street",
@@ -5187,7 +5103,7 @@
     "lon": 144.9017
   },
   {
-    "_id": 247,
+    "_id": 244,
     "Suburb": "Deer Park",
     "Site_title": "Muffin Break Brimbank Shopping Centre",
     "Site_streetaddress": "Level 1, Neale Rd",
@@ -5208,7 +5124,7 @@
     "lon": 144.77662
   },
   {
-    "_id": 248,
+    "_id": 245,
     "Suburb": "Deer Park",
     "Site_title": "Muffin Break Brimbank Shopping Centre",
     "Site_streetaddress": "Level 1, Neale Rd",
@@ -5229,7 +5145,7 @@
     "lon": 144.77662
   },
   {
-    "_id": 249,
+    "_id": 246,
     "Suburb": "Deer Park",
     "Site_title": "Muffin Break Brimbank Shopping Centre",
     "Site_streetaddress": "Level 1, Neale Rd",
@@ -5250,7 +5166,7 @@
     "lon": 144.77662
   },
   {
-    "_id": 250,
+    "_id": 247,
     "Suburb": "Deer Park",
     "Site_title": "Food Court Brimbank Shopping Centre",
     "Site_streetaddress": "Corner of Neale and Station Roads",
@@ -5271,7 +5187,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 251,
+    "_id": 248,
     "Suburb": "Deer Park",
     "Site_title": "Brimbank Shopping Centre",
     "Site_streetaddress": "Corner of Neale and Station Roads",
@@ -5292,7 +5208,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 252,
+    "_id": 249,
     "Suburb": "Deer Park",
     "Site_title": "Nando's Brimbank Shopping Centre",
     "Site_streetaddress": "Corner of Neale and Station Roads",
@@ -5313,7 +5229,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 253,
+    "_id": 250,
     "Suburb": "Deer Park",
     "Site_title": "Male Staff Bathrooms Brimbank Shopping Centre",
     "Site_streetaddress": "Corner of Neale and Station Roads",
@@ -5334,7 +5250,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 254,
+    "_id": 251,
     "Suburb": "Deer Park",
     "Site_title": "Male Staff Bathrooms Brimbank Shopping Centre",
     "Site_streetaddress": "Corner of Neale and Station Roads",
@@ -5355,7 +5271,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 255,
+    "_id": 252,
     "Suburb": "Deer Park",
     "Site_title": "Food Court Brimbank Shopping Centre",
     "Site_streetaddress": "Corner of Neale and Station Roads",
@@ -5372,74 +5288,74 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "11:45:00",
     "Exposure_time_end_24": "21:30:00",
+    "lat": -37.76347,
+    "lon": 144.77576
+  },
+  {
+    "_id": 253,
+    "Suburb": "Deer Park",
+    "Site_title": "Brimbank Shopping Centre",
+    "Site_streetaddress": "Corner of Neale and Station Roads",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "Exposure_date_dtm": "2021-05-27",
+    "Exposure_date": "27/05/2021",
+    "Exposure_time": "11:45am - 9:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "13:45:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "11:45:00",
+    "Exposure_time_end_24": "21:30:00",
+    "lat": -37.76347,
+    "lon": 144.77576
+  },
+  {
+    "_id": 254,
+    "Suburb": "Deer Park",
+    "Site_title": "Food Court Brimbank Shopping Centre",
+    "Site_streetaddress": "Corner of Neale and Station Roads",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "Exposure_date_dtm": "2021-05-28",
+    "Exposure_date": "28/05/2021",
+    "Exposure_time": "8:45am - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "13:45:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:45:00",
+    "Exposure_time_end_24": "18:30:00",
+    "lat": -37.76347,
+    "lon": 144.77576
+  },
+  {
+    "_id": 255,
+    "Suburb": "Deer Park",
+    "Site_title": "Brimbank Shopping Centre",
+    "Site_streetaddress": "Corner of Neale and Station Roads",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "Exposure_date_dtm": "2021-05-28",
+    "Exposure_date": "28/05/2021",
+    "Exposure_time": "8:45am - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "13:45:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:45:00",
+    "Exposure_time_end_24": "18:30:00",
     "lat": -37.76347,
     "lon": 144.77576
   },
   {
     "_id": 256,
-    "Suburb": "Deer Park",
-    "Site_title": "Brimbank Shopping Centre",
-    "Site_streetaddress": "Corner of Neale and Station Roads",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-05-27",
-    "Exposure_date": "27/05/2021",
-    "Exposure_time": "11:45am - 9:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "13:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "11:45:00",
-    "Exposure_time_end_24": "21:30:00",
-    "lat": -37.76347,
-    "lon": 144.77576
-  },
-  {
-    "_id": 257,
-    "Suburb": "Deer Park",
-    "Site_title": "Food Court Brimbank Shopping Centre",
-    "Site_streetaddress": "Corner of Neale and Station Roads",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-05-28",
-    "Exposure_date": "28/05/2021",
-    "Exposure_time": "8:45am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "13:45:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:45:00",
-    "Exposure_time_end_24": "18:30:00",
-    "lat": -37.76347,
-    "lon": 144.77576
-  },
-  {
-    "_id": 258,
-    "Suburb": "Deer Park",
-    "Site_title": "Brimbank Shopping Centre",
-    "Site_streetaddress": "Corner of Neale and Station Roads",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-05-28",
-    "Exposure_date": "28/05/2021",
-    "Exposure_time": "8:45am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-05-31",
-    "Added_date": "31/05/2021",
-    "Added_time": "13:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:45:00",
-    "Exposure_time_end_24": "18:30:00",
-    "lat": -37.76347,
-    "lon": 144.77576
-  },
-  {
-    "_id": 259,
     "Suburb": "South Melbourne",
     "Site_title": "Simply Spanish (South Melbourne Market)",
     "Site_streetaddress": "116 Cecil Street",
@@ -5460,7 +5376,28 @@
     "lon": 144.9572
   },
   {
-    "_id": 261,
+    "_id": 257,
+    "Suburb": "South Melbourne",
+    "Site_title": "ALDI South Melbourne",
+    "Site_streetaddress": "100 Market Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205",
+    "Exposure_date_dtm": "2021-05-28",
+    "Exposure_date": "28/05/2021",
+    "Exposure_time": "2:00pm - 3:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-05-31",
+    "Added_date": "31/05/2021",
+    "Added_time": "13:45:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "14:00:00",
+    "Exposure_time_end_24": "15:30:00",
+    "lat": -37.82865,
+    "lon": 144.96258
+  },
+  {
+    "_id": 258,
     "Suburb": "Point Cook",
     "Site_title": "Point Cook Quality Meats (Halal) & Grocery Supermarket, Stockland Shopping Centre",
     "Site_streetaddress": "5 Main Street & Murnong Street",
@@ -5481,7 +5418,7 @@
     "lon": 144.73534
   },
   {
-    "_id": 262,
+    "_id": 259,
     "Suburb": "Heidelberg",
     "Site_title": "Woolworths Heidelberg",
     "Site_streetaddress": "451 Lower Heidelberg Road",
@@ -5502,7 +5439,7 @@
     "lon": 145.06898
   },
   {
-    "_id": 263,
+    "_id": 260,
     "Suburb": "Point Cook",
     "Site_title": "Marketplace Fresh Fruit and Vegetable Market, Stockland Shopping Centre",
     "Site_streetaddress": "5 Main Street & Murnong Street",
@@ -5523,7 +5460,7 @@
     "lon": 144.73534
   },
   {
-    "_id": 264,
+    "_id": 261,
     "Suburb": "Sunshine",
     "Site_title": "Co Do Vietnamese Restaurant",
     "Site_streetaddress": "207 Hampshire Road",
@@ -5544,7 +5481,7 @@
     "lon": 144.8317
   },
   {
-    "_id": 265,
+    "_id": 262,
     "Suburb": "Deer Park",
     "Site_title": "Male Staff Bathrooms Brimbank Shopping Centre",
     "Site_streetaddress": "Level 1, Neale Rd",
@@ -5565,7 +5502,7 @@
     "lon": 144.77662
   },
   {
-    "_id": 266,
+    "_id": 263,
     "Suburb": "Craigieburn",
     "Site_title": "Jamaica Blue Cafe Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Road        ",
@@ -5586,7 +5523,7 @@
     "lon": 144.91435391170606
   },
   {
-    "_id": 267,
+    "_id": 264,
     "Suburb": "Craigieburn",
     "Site_title": "Proud Poppy Clothing (reception only)",
     "Site_streetaddress": "29A Yellowbox Drive",
@@ -5607,7 +5544,7 @@
     "lon": 144.94314
   },
   {
-    "_id": 268,
+    "_id": 265,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 411",
     "Site_streetaddress": "Central Square Shopping Centre/Merton Street Altona Meadows to Laverton Station/Railway Ave Laverton",
@@ -5628,7 +5565,7 @@
     "lon": 144.77601453869818
   },
   {
-    "_id": 269,
+    "_id": 266,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train",
     "Site_streetaddress": "Laverton Station to Footscray Station",
@@ -5649,7 +5586,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 270,
+    "_id": 267,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train",
     "Site_streetaddress": "Footscray Station to Sunshine Station",
@@ -5670,7 +5607,7 @@
     "lon": 144.83436
   },
   {
-    "_id": 271,
+    "_id": 268,
     "Suburb": "Public Transport",
     "Site_title": "PTV Bus Number 420",
     "Site_streetaddress": "Sunshine Station/Dickson Street to Brimbank Shopping Centre/Station Road Deer Park",
@@ -5691,7 +5628,7 @@
     "lon": 144.77608960985967
   },
   {
-    "_id": 272,
+    "_id": 269,
     "Suburb": "Laverton",
     "Site_title": "Laverton Railway Station",
     "Site_streetaddress": "Railway Avenue\t",
@@ -5712,7 +5649,7 @@
     "lon": 144.76928
   },
   {
-    "_id": 273,
+    "_id": 270,
     "Suburb": "Footscray ",
     "Site_title": "Footscray Railway Station\t",
     "Site_streetaddress": "Hopkins Street & Irving Street\t",
@@ -5733,7 +5670,7 @@
     "lon": 144.90383
   },
   {
-    "_id": 274,
+    "_id": 271,
     "Suburb": "Sunshine",
     "Site_title": "Sunshine Railway Station\t",
     "Site_streetaddress": "City Place\t",
@@ -5754,7 +5691,7 @@
     "lon": 144.83211
   },
   {
-    "_id": 275,
+    "_id": 272,
     "Suburb": "Glen Iris",
     "Site_title": "Scicluna's Real Food Merchants Tooronga Village",
     "Site_streetaddress": "350-354 Tooronga Road",
@@ -5775,7 +5712,7 @@
     "lon": 145.04513
   },
   {
-    "_id": 276,
+    "_id": 273,
     "Suburb": "Sunshine",
     "Site_title": "BlueCross Western Gardens ",
     "Site_streetaddress": "40 Anderson Rd",
@@ -5796,7 +5733,7 @@
     "lon": 144.82773
   },
   {
-    "_id": 277,
+    "_id": 274,
     "Suburb": "Sunshine",
     "Site_title": "BlueCross Western Gardens\r\n(Whitten Way - Low Care Unit ), (Ferguson Grove - High Care Unit) ",
     "Site_streetaddress": "40 Anderson Rd",
@@ -5817,7 +5754,7 @@
     "lon": 144.82773
   },
   {
-    "_id": 278,
+    "_id": 275,
     "Suburb": "Sunshine",
     "Site_title": "BlueCross Western Gardens",
     "Site_streetaddress": "40 Anderson Rd",
@@ -5838,7 +5775,7 @@
     "lon": 144.82773
   },
   {
-    "_id": 279,
+    "_id": 276,
     "Suburb": "Truganina",
     "Site_title": "Sahib-E-Swad Restaurant\t",
     "Site_streetaddress": "9/215 Palmers Road",
@@ -5859,7 +5796,7 @@
     "lon": 144.74547
   },
   {
-    "_id": 280,
+    "_id": 277,
     "Suburb": "Epping",
     "Site_title": "JMD Grocers & Sweets",
     "Site_streetaddress": "768 High Street",
@@ -5880,7 +5817,7 @@
     "lon": 145.0257627266316
   },
   {
-    "_id": 281,
+    "_id": 278,
     "Suburb": "Craigieburn",
     "Site_title": "Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Road        ",
@@ -5901,7 +5838,7 @@
     "lon": 144.91435391170606
   },
   {
-    "_id": 282,
+    "_id": 279,
     "Suburb": "Craigieburn",
     "Site_title": "Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Road        ",
@@ -5922,7 +5859,7 @@
     "lon": 144.91435391170606
   },
   {
-    "_id": 283,
+    "_id": 280,
     "Suburb": "Craigieburn",
     "Site_title": "Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Road        ",
@@ -5943,7 +5880,7 @@
     "lon": 144.91435391170606
   },
   {
-    "_id": 284,
+    "_id": 281,
     "Suburb": "Glenrowan",
     "Site_title": "BP Truckstop",
     "Site_streetaddress": "Southbound Carriageway, Hume Freeway",
@@ -5964,7 +5901,7 @@
     "lon": 146.21145
   },
   {
-    "_id": 285,
+    "_id": 282,
     "Suburb": "Euroa",
     "Site_title": "BP Euroa",
     "Site_streetaddress": "29 Tarcombe Street",
@@ -5985,7 +5922,7 @@
     "lon": 145.56713
   },
   {
-    "_id": 286,
+    "_id": 283,
     "Suburb": "Wallan",
     "Site_title": "BP Truckstop",
     "Site_streetaddress": "1050 Hume Freeway",
@@ -6006,7 +5943,7 @@
     "lon": 145.01814
   },
   {
-    "_id": 287,
+    "_id": 284,
     "Suburb": "Melbourne",
     "Site_title": "GTA Consultants",
     "Site_streetaddress": "Level 24/55 Collins Street and Level 25/55 Collins Street",
@@ -6027,7 +5964,7 @@
     "lon": 144.97272
   },
   {
-    "_id": 288,
+    "_id": 285,
     "Suburb": "Docklands",
     "Site_title": "Coles Spencer Street Outlet",
     "Site_streetaddress": "201 Spencer Street",
@@ -6048,7 +5985,7 @@
     "lon": 144.95261
   },
   {
-    "_id": 289,
+    "_id": 286,
     "Suburb": "Melbourne",
     "Site_title": "Officeworks",
     "Site_streetaddress": "QV Centre Russell Street",
@@ -6069,343 +6006,7 @@
     "lon": 144.96774
   },
   {
-    "_id": 290,
-    "Suburb": "Melbourne",
-    "Site_title": "Male public toilets",
-    "Site_streetaddress": "225 Bourke Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-05-31",
-    "Exposure_date": "31/05/2021",
-    "Exposure_time": "1:00pm - 2:30pm",
-    "Notes": "Case attended venue\r\n\r\n",
-    "Added_date_dtm": "2021-06-01",
-    "Added_date": "01/06/2021",
-    "Added_time": "20:11:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:00:00",
-    "Exposure_time_end_24": "14:30:00",
-    "lat": -37.81335,
-    "lon": 144.96705
-  },
-  {
-    "_id": 291,
-    "Suburb": "Epping",
-    "Site_title": "Coles Epping Aurora Village",
-    "Site_streetaddress": "315A Harvest Home Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-25",
-    "Exposure_date": "25/05/2021",
-    "Exposure_time": "9:05pm - 10:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "11:03:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "21:05:00",
-    "Exposure_time_end_24": "22:00:00",
-    "lat": -37.62093,
-    "lon": 145.00635
-  },
-  {
-    "_id": 292,
-    "Suburb": "Docklands",
-    "Site_title": "Coles Spencer Street Outlet",
-    "Site_streetaddress": "201 Spencer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-05-30",
-    "Exposure_date": "30/05/2021",
-    "Exposure_time": "12:00pm - 1:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "12:22:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "12:00:00",
-    "Exposure_time_end_24": "13:00:00",
-    "lat": -37.8164,
-    "lon": 144.95261
-  },
-  {
-    "_id": 293,
-    "Suburb": "West Melbourne",
-    "Site_title": "Flagstaff Gardens ",
-    "Site_streetaddress": "309-311 William Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3003",
-    "Exposure_date_dtm": "2021-05-28",
-    "Exposure_date": "28/05/2021",
-    "Exposure_time": "2:30pm - 4:30pm",
-    "Notes": "Case used playground facilities",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "12:38:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "14:30:00",
-    "Exposure_time_end_24": "16:30:00",
-    "lat": -37.80998,
-    "lon": 144.95501
-  },
-  {
-    "_id": 294,
-    "Suburb": "Docklands",
-    "Site_title": "Costco Wholesale Docklands",
-    "Site_streetaddress": "381 Footscray Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3008",
-    "Exposure_date_dtm": "2021-05-31",
-    "Exposure_date": "31/05/2021",
-    "Exposure_time": "3:30pm - 4:20pm",
-    "Notes": "Case attended venue ",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "12:42:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "15:30:00",
-    "Exposure_time_end_24": "16:20:00",
-    "lat": -37.81056,
-    "lon": 144.93792
-  },
-  {
-    "_id": 295,
-    "Suburb": "Travancore",
-    "Site_title": "Elite Swimming Ascot Vale",
-    "Site_streetaddress": "50 Flemington Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3032",
-    "Exposure_date_dtm": "2021-05-25",
-    "Exposure_date": "25/05/2021",
-    "Exposure_time": "5:00pm - 6:30pm",
-    "Notes": "Case attended venue ",
-    "Added_date_dtm": "2021-06-03",
-    "Added_date": "03/06/2021",
-    "Added_time": "10:28:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "17:00:00",
-    "Exposure_time_end_24": "18:30:00",
-    "lat": -37.78203,
-    "lon": 144.93518
-  },
-  {
-    "_id": 296,
-    "Suburb": "Carlton North",
-    "Site_title": "Joeys Scouts Carlton",
-    "Site_streetaddress": "12 Shakespeare Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3054",
-    "Exposure_date_dtm": "2021-05-26",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "6:00pm - 7:30pm",
-    "Notes": "Case attended venue ",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "12:55:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "18:00:00",
-    "Exposure_time_end_24": "19:30:00",
-    "lat": -37.78781,
-    "lon": 144.9699
-  },
-  {
-    "_id": 297,
-    "Suburb": "Public Transport",
-    "Site_title": "PTV Bus Number 357",
-    "Site_streetaddress": "Epping Station/Cooper St to Harvest Home Rd/ Edgars Rd",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-24",
-    "Exposure_date": "24/05/2021",
-    "Exposure_time": "4:44pm - 5:17pm",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "19:24:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "16:44:00",
-    "Exposure_time_end_24": "17:17:00",
-    "lat": -37.6221,
-    "lon": 145.01956
-  },
-  {
-    "_id": 298,
-    "Suburb": "Public Transport",
-    "Site_title": "PTV Bus Number 357",
-    "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-25",
-    "Exposure_date": "25/05/2021",
-    "Exposure_time": "8:46am - 9:11am",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "19:26:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:46:00",
-    "Exposure_time_end_24": "09:11:00",
-    "lat": -37.6522484516566,
-    "lon": 145.03108821170733
-  },
-  {
-    "_id": 299,
-    "Suburb": "Public Transport",
-    "Site_title": "PTV Bus Number 357",
-    "Site_streetaddress": "Epping Station/ Cooper St to Harvest Home Rd/ Edgars Rd",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-25",
-    "Exposure_date": "25/05/2021",
-    "Exposure_time": "9:22pm - 9:46pm",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "19:28:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "21:22:00",
-    "Exposure_time_end_24": "21:46:00",
-    "lat": -37.6221,
-    "lon": 145.01956
-  },
-  {
-    "_id": 300,
-    "Suburb": "Public Transport",
-    "Site_title": "PTV Bus Number 357",
-    "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-26",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "8:46am - 9:11am",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "19:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:46:00",
-    "Exposure_time_end_24": "09:11:00",
-    "lat": -37.62514,
-    "lon": 145.00619
-  },
-  {
-    "_id": 301,
-    "Suburb": "Public Transport",
-    "Site_title": "PTV Bus Number 357",
-    "Site_streetaddress": "Gammage Bvd/Edgars Rd to Memoral Ave/High Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-28",
-    "Exposure_date": "28/05/2021",
-    "Exposure_time": "3:08pm - 3:18pm",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-02",
-    "Added_date": "02/06/2021",
-    "Added_time": "19:33:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "15:08:00",
-    "Exposure_time_end_24": "15:18:00",
-    "lat": -37.62500387476491,
-    "lon": 145.0050004708094
-  },
-  {
-    "_id": 302,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train - Mernda Line",
-    "Site_streetaddress": "Epping Station to Reservoir Station",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-25",
-    "Exposure_date": "25/05/2021",
-    "Exposure_time": "9:16am - 9:28am",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-03",
-    "Added_date": "03/06/2021",
-    "Added_time": "16:07:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:16:00",
-    "Exposure_time_end_24": "09:28:00",
-    "lat": -37.68204,
-    "lon": 145.01349
-  },
-  {
     "_id": 303,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train - Mernda Line",
-    "Site_streetaddress": "Reservoir Station to Epping Station",
-    "Site_state": "VIC",
-    "Site_postcode": "3073",
-    "Exposure_date_dtm": "2021-05-25",
-    "Exposure_date": "25/05/2021",
-    "Exposure_time": "9:05pm - 9:17pm",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-03",
-    "Added_date": "03/06/2021",
-    "Added_time": "16:10:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "21:05:00",
-    "Exposure_time_end_24": "21:17:00",
-    "lat": -37.72958,
-    "lon": 145.00422
-  },
-  {
-    "_id": 304,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train - Mernda Line",
-    "Site_streetaddress": "Epping Station to Reservoir Station",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-05-26",
-    "Exposure_date": "26/05/2021",
-    "Exposure_time": "9:36am - 9:48am",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-03",
-    "Added_date": "03/06/2021",
-    "Added_time": "16:12:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:36:00",
-    "Exposure_time_end_24": "09:48:00",
-    "lat": -37.68204,
-    "lon": 145.01349
-  },
-  {
-    "_id": 305,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train - Mernda Line",
-    "Site_streetaddress": "South Morang Station to Epping Station",
-    "Site_state": "VIC",
-    "Site_postcode": "3752",
-    "Exposure_date_dtm": "2021-05-24",
-    "Exposure_date": "24/05/2021",
-    "Exposure_time": "4:31pm - 4:35pm",
-    "Notes": "Case travelled on public transport\r\n",
-    "Added_date_dtm": "2021-06-03",
-    "Added_date": "03/06/2021",
-    "Added_time": "21:01:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:31:00",
-    "Exposure_time_end_24": "16:35:00",
-    "lat": -37.64900279029692,
-    "lon": 145.0679694982142
-  },
-  {
-    "_id": 306,
     "Suburb": "Point Cook",
     "Site_title": "Kmart Sanctuary Lakes, Sanctuary Lakes Shopping Centre",
     "Site_streetaddress": "300 Point Cook Road",
@@ -6426,7 +6027,343 @@
     "lon": 144.75407
   },
   {
-    "_id": 307,
+    "_id": 287,
+    "Suburb": "Melbourne",
+    "Site_title": "Male public toilets",
+    "Site_streetaddress": "225 Bourke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-05-31",
+    "Exposure_date": "31/05/2021",
+    "Exposure_time": "1:00pm - 2:30pm",
+    "Notes": "Case attended venue\r\n\r\n",
+    "Added_date_dtm": "2021-06-01",
+    "Added_date": "01/06/2021",
+    "Added_time": "20:11:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "13:00:00",
+    "Exposure_time_end_24": "14:30:00",
+    "lat": -37.81335,
+    "lon": 144.96705
+  },
+  {
+    "_id": 288,
+    "Suburb": "Epping",
+    "Site_title": "Coles Epping Aurora Village",
+    "Site_streetaddress": "315A Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "9:05pm - 10:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "11:03:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "21:05:00",
+    "Exposure_time_end_24": "22:00:00",
+    "lat": -37.62093,
+    "lon": 145.00635
+  },
+  {
+    "_id": 289,
+    "Suburb": "Docklands",
+    "Site_title": "Coles Spencer Street Outlet",
+    "Site_streetaddress": "201 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-05-30",
+    "Exposure_date": "30/05/2021",
+    "Exposure_time": "12:00pm - 1:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "12:22:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "12:00:00",
+    "Exposure_time_end_24": "13:00:00",
+    "lat": -37.8164,
+    "lon": 144.95261
+  },
+  {
+    "_id": 290,
+    "Suburb": "West Melbourne",
+    "Site_title": "Flagstaff Gardens ",
+    "Site_streetaddress": "309-311 William Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3003",
+    "Exposure_date_dtm": "2021-05-28",
+    "Exposure_date": "28/05/2021",
+    "Exposure_time": "2:30pm - 4:30pm",
+    "Notes": "Case used playground facilities",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "12:38:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "14:30:00",
+    "Exposure_time_end_24": "16:30:00",
+    "lat": -37.80998,
+    "lon": 144.95501
+  },
+  {
+    "_id": 291,
+    "Suburb": "Docklands",
+    "Site_title": "Costco Wholesale Docklands",
+    "Site_streetaddress": "381 Footscray Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "Exposure_date_dtm": "2021-05-31",
+    "Exposure_date": "31/05/2021",
+    "Exposure_time": "3:30pm - 4:20pm",
+    "Notes": "Case attended venue ",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "12:42:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "15:30:00",
+    "Exposure_time_end_24": "16:20:00",
+    "lat": -37.81056,
+    "lon": 144.93792
+  },
+  {
+    "_id": 292,
+    "Suburb": "Travancore",
+    "Site_title": "Elite Swimming Ascot Vale",
+    "Site_streetaddress": "50 Flemington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "5:00pm - 6:30pm",
+    "Notes": "Case attended venue ",
+    "Added_date_dtm": "2021-06-03",
+    "Added_date": "03/06/2021",
+    "Added_time": "10:28:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:00:00",
+    "Exposure_time_end_24": "18:30:00",
+    "lat": -37.78203,
+    "lon": 144.93518
+  },
+  {
+    "_id": 293,
+    "Suburb": "Carlton North",
+    "Site_title": "Joeys Scouts Carlton",
+    "Site_streetaddress": "12 Shakespeare Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3054",
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "6:00pm - 7:30pm",
+    "Notes": "Case attended venue ",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "12:55:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "18:00:00",
+    "Exposure_time_end_24": "19:30:00",
+    "lat": -37.78781,
+    "lon": 144.9699
+  },
+  {
+    "_id": 294,
+    "Suburb": "Public Transport",
+    "Site_title": "PTV Bus Number 357",
+    "Site_streetaddress": "Epping Station/Cooper St to Harvest Home Rd/ Edgars Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-24",
+    "Exposure_date": "24/05/2021",
+    "Exposure_time": "4:44pm - 5:17pm",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "19:24:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "16:44:00",
+    "Exposure_time_end_24": "17:17:00",
+    "lat": -37.6221,
+    "lon": 145.01956
+  },
+  {
+    "_id": 295,
+    "Suburb": "Public Transport",
+    "Site_title": "PTV Bus Number 357",
+    "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station/Cooper Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "8:46am - 9:11am",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "19:26:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:46:00",
+    "Exposure_time_end_24": "09:11:00",
+    "lat": -37.6522484516566,
+    "lon": 145.03108821170733
+  },
+  {
+    "_id": 296,
+    "Suburb": "Public Transport",
+    "Site_title": "PTV Bus Number 357",
+    "Site_streetaddress": "Epping Station/ Cooper St to Harvest Home Rd/ Edgars Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "9:22pm - 9:46pm",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "19:28:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "21:22:00",
+    "Exposure_time_end_24": "21:46:00",
+    "lat": -37.6221,
+    "lon": 145.01956
+  },
+  {
+    "_id": 297,
+    "Suburb": "Public Transport",
+    "Site_title": "PTV Bus Number 357",
+    "Site_streetaddress": "Gammage Blvd/Edgars Rd to Epping Station",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "8:46am - 9:11am",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "19:30:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:46:00",
+    "Exposure_time_end_24": "09:11:00",
+    "lat": -37.62514,
+    "lon": 145.00619
+  },
+  {
+    "_id": 298,
+    "Suburb": "Public Transport",
+    "Site_title": "PTV Bus Number 357",
+    "Site_streetaddress": "Gammage Bvd/Edgars Rd to Memoral Ave/High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-28",
+    "Exposure_date": "28/05/2021",
+    "Exposure_time": "3:08pm - 3:18pm",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-02",
+    "Added_date": "02/06/2021",
+    "Added_time": "19:33:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "15:08:00",
+    "Exposure_time_end_24": "15:18:00",
+    "lat": -37.62500387476491,
+    "lon": 145.0050004708094
+  },
+  {
+    "_id": 299,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train - Mernda Line",
+    "Site_streetaddress": "Epping Station to Reservoir Station",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "9:16am - 9:28am",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-03",
+    "Added_date": "03/06/2021",
+    "Added_time": "16:07:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:16:00",
+    "Exposure_time_end_24": "09:28:00",
+    "lat": -37.68204,
+    "lon": 145.01349
+  },
+  {
+    "_id": 300,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train - Mernda Line",
+    "Site_streetaddress": "Reservoir Station to Epping Station",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "Exposure_date_dtm": "2021-05-25",
+    "Exposure_date": "25/05/2021",
+    "Exposure_time": "9:05pm - 9:17pm",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-03",
+    "Added_date": "03/06/2021",
+    "Added_time": "16:10:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "21:05:00",
+    "Exposure_time_end_24": "21:17:00",
+    "lat": -37.72958,
+    "lon": 145.00422
+  },
+  {
+    "_id": 301,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train - Mernda Line",
+    "Site_streetaddress": "Epping Station to Reservoir Station",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-05-26",
+    "Exposure_date": "26/05/2021",
+    "Exposure_time": "9:36am - 9:48am",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-03",
+    "Added_date": "03/06/2021",
+    "Added_time": "16:12:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:36:00",
+    "Exposure_time_end_24": "09:48:00",
+    "lat": -37.68204,
+    "lon": 145.01349
+  },
+  {
+    "_id": 302,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train - Mernda Line",
+    "Site_streetaddress": "South Morang Station to Epping Station",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "Exposure_date_dtm": "2021-05-24",
+    "Exposure_date": "24/05/2021",
+    "Exposure_time": "4:31pm - 4:35pm",
+    "Notes": "Case travelled on public transport\r\n",
+    "Added_date_dtm": "2021-06-03",
+    "Added_date": "03/06/2021",
+    "Added_time": "21:01:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:31:00",
+    "Exposure_time_end_24": "16:35:00",
+    "lat": -37.64900279029692,
+    "lon": 145.0679694982142
+  },
+  {
+    "_id": 304,
     "Suburb": "Point Cook",
     "Site_title": "Punjabi by Nature Restaurant Point Cook, Sanctuary Lakes Shopping Centre",
     "Site_streetaddress": "Shop 48, 300 Point Cook Road",
@@ -6447,7 +6384,7 @@
     "lon": 144.75407
   },
   {
-    "_id": 308,
+    "_id": 305,
     "Suburb": "Melbourne",
     "Site_title": "World Shiner",
     "Site_streetaddress": "227 Collins Street",
@@ -6468,7 +6405,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 309,
+    "_id": 306,
     "Suburb": "Melbourne",
     "Site_title": "OPSM 233 Collins Street",
     "Site_streetaddress": "Shop 2, 233-239 Collins Street",
@@ -6489,7 +6426,7 @@
     "lon": 144.96598
   },
   {
-    "_id": 310,
+    "_id": 307,
     "Suburb": "Brunswick",
     "Site_title": "Barkly Square Shopping Centre",
     "Site_streetaddress": "90-106 Sydney Road",
@@ -6510,7 +6447,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 311,
+    "_id": 308,
     "Suburb": "Brunswick",
     "Site_title": "Coles Barkly Square",
     "Site_streetaddress": "90-106 Sydney Road",
@@ -6531,7 +6468,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 312,
+    "_id": 309,
     "Suburb": "Brunswick",
     "Site_title": "Gangemi (Fruit and Vegetable Store)",
     "Site_streetaddress": "Shop 13, 90-106 Sydney Road",
@@ -6552,7 +6489,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 313,
+    "_id": 310,
     "Suburb": "Mickleham",
     "Site_title": "Merrifield City Shopping Centre",
     "Site_streetaddress": "270 Donnybrook Road",
@@ -6573,7 +6510,7 @@
     "lon": 144.9201
   },
   {
-    "_id": 314,
+    "_id": 311,
     "Suburb": "Melbourne",
     "Site_title": "55 Collins (office building)",
     "Site_streetaddress": "55 Collins Street",
@@ -6594,7 +6531,7 @@
     "lon": 144.97199
   },
   {
-    "_id": 315,
+    "_id": 312,
     "Suburb": "Docklands",
     "Site_title": "Costco Wholesale Docklands",
     "Site_streetaddress": "381 Footscray Road",
@@ -6615,7 +6552,7 @@
     "lon": 144.93792
   },
   {
-    "_id": 316,
+    "_id": 313,
     "Suburb": "Melbourne",
     "Site_title": "Shannakian Fine Jewellery",
     "Site_streetaddress": "Suite 505, 227 Collins St",
@@ -6636,7 +6573,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 317,
+    "_id": 314,
     "Suburb": "Craigieburn",
     "Site_title": "Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6657,7 +6594,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 318,
+    "_id": 315,
     "Suburb": "Craigieburn",
     "Site_title": "Quality Fresh Meats - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6678,7 +6615,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 319,
+    "_id": 316,
     "Suburb": "Craigieburn",
     "Site_title": "Fergusson Plarre Bakehouse - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6699,7 +6636,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 320,
+    "_id": 317,
     "Suburb": "Craigieburn",
     "Site_title": "HS Quality Food - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6720,7 +6657,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 321,
+    "_id": 318,
     "Suburb": "Craigieburn",
     "Site_title": "Pinoy Tayo Asian Grocery - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6741,7 +6678,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 322,
+    "_id": 319,
     "Suburb": "Craigieburn",
     "Site_title": "Fish Pier - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6762,7 +6699,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 323,
+    "_id": 320,
     "Suburb": "Melbourne",
     "Site_title": "Woolworths Metro Little Collins St",
     "Site_streetaddress": "360 Little Collins St",
@@ -6783,7 +6720,7 @@
     "lon": 144.96268
   },
   {
-    "_id": 324,
+    "_id": 321,
     "Suburb": "Melbourne",
     "Site_title": "Aki Sushi",
     "Site_streetaddress": "105 Queen St",
@@ -6804,7 +6741,7 @@
     "lon": 144.96092
   },
   {
-    "_id": 325,
+    "_id": 322,
     "Suburb": "Melbourne",
     "Site_title": "Aki Sushi",
     "Site_streetaddress": "105 Queen St",
@@ -6825,7 +6762,7 @@
     "lon": 144.96092
   },
   {
-    "_id": 326,
+    "_id": 323,
     "Suburb": "Melbourne",
     "Site_title": "Aki Sushi",
     "Site_streetaddress": "105 Queen St",
@@ -6846,7 +6783,7 @@
     "lon": 144.96092
   },
   {
-    "_id": 327,
+    "_id": 324,
     "Suburb": "Greenvale",
     "Site_title": "BP Greenvale",
     "Site_streetaddress": "910 Mickleham Rd",
@@ -6867,7 +6804,7 @@
     "lon": 144.88188
   },
   {
-    "_id": 328,
+    "_id": 325,
     "Suburb": "Melbourne",
     "Site_title": "Arna Setters and Jewellery",
     "Site_streetaddress": "Level 5, 227 Collins St",
@@ -6888,7 +6825,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 329,
+    "_id": 326,
     "Suburb": "Craigieburn",
     "Site_title": "Australia Post - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6909,7 +6846,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 330,
+    "_id": 327,
     "Suburb": "Craigieburn",
     "Site_title": "Australia Post - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Rd",
@@ -6930,7 +6867,7 @@
     "lon": 144.91556
   },
   {
-    "_id": 331,
+    "_id": 328,
     "Suburb": "Craigieburn",
     "Site_title": "Australia Post - Highlands Shopping Centre",
     "Site_streetaddress": "Shop 8/300-322 Grand Blvd",
@@ -6951,7 +6888,7 @@
     "lon": 144.92045
   },
   {
-    "_id": 332,
+    "_id": 329,
     "Suburb": "Campbellfield",
     "Site_title": "7-Eleven Campbellfield",
     "Site_streetaddress": "1603 Sydney Road",
@@ -6972,7 +6909,7 @@
     "lon": 144.95556
   },
   {
-    "_id": 333,
+    "_id": 330,
     "Suburb": "Thornbury",
     "Site_title": "Psarakos Market",
     "Site_streetaddress": "2/8 Clarendon Street",
@@ -6993,7 +6930,7 @@
     "lon": 145.00125
   },
   {
-    "_id": 334,
+    "_id": 331,
     "Suburb": "Greenvale",
     "Site_title": "Coles Greenvale",
     "Site_streetaddress": "1-11 Greenvale Drive",
@@ -7014,7 +6951,7 @@
     "lon": 144.88264
   },
   {
-    "_id": 335,
+    "_id": 332,
     "Suburb": "Preston South",
     "Site_title": "Woolworths Preston South & Attached BWS",
     "Site_streetaddress": "50 Plenty Road",
@@ -7035,7 +6972,7 @@
     "lon": 145.00273
   },
   {
-    "_id": 336,
+    "_id": 333,
     "Suburb": "Melbourne",
     "Site_title": "Levels 4 and 5 all areas",
     "Site_streetaddress": "227 Collins St",
@@ -7056,7 +6993,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 337,
+    "_id": 334,
     "Suburb": "Melbourne",
     "Site_title": "Levels 4 and 5 all areas",
     "Site_streetaddress": "227 Collins St",
@@ -7077,7 +7014,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 338,
+    "_id": 335,
     "Suburb": "Melbourne",
     "Site_title": "Levels 4 and 5 all areas",
     "Site_streetaddress": "227 Collins St",
@@ -7098,7 +7035,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 339,
+    "_id": 336,
     "Suburb": "Melbourne",
     "Site_title": "Levels 4 and 5 all areas",
     "Site_streetaddress": "227 Collins St",
@@ -7119,7 +7056,7 @@
     "lon": 144.96631
   },
   {
-    "_id": 340,
+    "_id": 337,
     "Suburb": "Moonee Ponds",
     "Site_title": "Chick Chick (Fried Chicken)/Sir Duke",
     "Site_streetaddress": "97-99 Puckle Street",
@@ -7140,7 +7077,7 @@
     "lon": 144.92119
   },
   {
-    "_id": 341,
+    "_id": 338,
     "Suburb": "Mickleham",
     "Site_title": "Everyday by BP x David Jones Food Merrifield",
     "Site_streetaddress": "470 Donnybrook Road",
@@ -7161,7 +7098,7 @@
     "lon": 144.89815
   },
   {
-    "_id": 342,
+    "_id": 339,
     "Suburb": "Melbourne",
     "Site_title": "Probuild Construction Site",
     "Site_streetaddress": "100 Queen Street",
@@ -7182,7 +7119,7 @@
     "lon": 144.96188
   },
   {
-    "_id": 343,
+    "_id": 340,
     "Suburb": "Melbourne",
     "Site_title": "Probuild Construction Site",
     "Site_streetaddress": "100 Queen Street",
@@ -7203,7 +7140,7 @@
     "lon": 144.96188
   },
   {
-    "_id": 344,
+    "_id": 341,
     "Suburb": "Melbourne",
     "Site_title": "Probuild Construction Site",
     "Site_streetaddress": "100 Queen Street",
@@ -7224,7 +7161,7 @@
     "lon": 144.96188
   },
   {
-    "_id": 345,
+    "_id": 342,
     "Suburb": "Melbourne",
     "Site_title": "Probuild Construction Site",
     "Site_streetaddress": "100 Queen Street",
@@ -7245,7 +7182,7 @@
     "lon": 144.96188
   },
   {
-    "_id": 346,
+    "_id": 343,
     "Suburb": "Melbourne",
     "Site_title": "Probuild Construction Site",
     "Site_streetaddress": "100 Queen Street",
@@ -7266,7 +7203,7 @@
     "lon": 144.96188
   },
   {
-    "_id": 347,
+    "_id": 344,
     "Suburb": "Melbourne",
     "Site_title": "Probuild Construction Site",
     "Site_streetaddress": "100 Queen Street",
@@ -7287,7 +7224,7 @@
     "lon": 144.96188
   },
   {
-    "_id": 348,
+    "_id": 345,
     "Suburb": "Somerton",
     "Site_title": "That's Alotta Donuts",
     "Site_streetaddress": "2/882 Cooper Street",
@@ -7308,10 +7245,10 @@
     "lon": 144.95368
   },
   {
-    "_id": 349,
+    "_id": 346,
     "Suburb": "Public Transport",
-    "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
-    "Site_streetaddress": null,
+    "Site_title": "Metro Train Upfield Line       ",
+    "Site_streetaddress": "Merlynston Station to Flinders Street Station",
     "Site_state": "VIC",
     "Site_postcode": null,
     "Exposure_date_dtm": "2021-06-02",
@@ -7325,74 +7262,74 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "06:03:00",
     "Exposure_time_end_24": "06:34:00",
+    "lat": -37.81821,
+    "lon": 144.9672
+  },
+  {
+    "_id": 347,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-06-02",
+    "Exposure_date": "02/06/2021",
+    "Exposure_time": "3:55pm - 4:19pm",
+    "Notes": "Case travelled on Public Transport\n",
+    "Added_date_dtm": "2021-06-06",
+    "Added_date": "06/06/2021",
+    "Added_time": "22:23:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:55:00",
+    "Exposure_time_end_24": "16:19:00",
+    "lat": -37.17099,
+    "lon": 144.75239
+  },
+  {
+    "_id": 348,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-06-03",
+    "Exposure_date": "03/06/2021",
+    "Exposure_time": "6:03am - 6:34am",
+    "Notes": "Case travelled on Public Transport\n",
+    "Added_date_dtm": "2021-06-06",
+    "Added_date": "06/06/2021",
+    "Added_time": "22:23:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "06:03:00",
+    "Exposure_time_end_24": "06:34:00",
+    "lat": -37.17099,
+    "lon": 144.75239
+  },
+  {
+    "_id": 349,
+    "Suburb": "Public Transport",
+    "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-06-03",
+    "Exposure_date": "03/06/2021",
+    "Exposure_time": "3:55pm - 4:19pm",
+    "Notes": "Case travelled on Public Transport\n",
+    "Added_date_dtm": "2021-06-06",
+    "Added_date": "06/06/2021",
+    "Added_time": "22:23:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:55:00",
+    "Exposure_time_end_24": "16:19:00",
     "lat": -37.17099,
     "lon": 144.75239
   },
   {
     "_id": 350,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-06-02",
-    "Exposure_date": "02/06/2021",
-    "Exposure_time": "3:55pm - 4:19pm",
-    "Notes": "Case travelled on Public Transport\n",
-    "Added_date_dtm": "2021-06-06",
-    "Added_date": "06/06/2021",
-    "Added_time": "22:23:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:55:00",
-    "Exposure_time_end_24": "16:19:00",
-    "lat": -37.17099,
-    "lon": 144.75239
-  },
-  {
-    "_id": 351,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-06-03",
-    "Exposure_date": "03/06/2021",
-    "Exposure_time": "6:03am - 6:34am",
-    "Notes": "Case travelled on Public Transport\n",
-    "Added_date_dtm": "2021-06-06",
-    "Added_date": "06/06/2021",
-    "Added_time": "22:23:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "06:03:00",
-    "Exposure_time_end_24": "06:34:00",
-    "lat": -37.17099,
-    "lon": 144.75239
-  },
-  {
-    "_id": 352,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-06-03",
-    "Exposure_date": "03/06/2021",
-    "Exposure_time": "3:55pm - 4:19pm",
-    "Notes": "Case travelled on Public Transport\n",
-    "Added_date_dtm": "2021-06-06",
-    "Added_date": "06/06/2021",
-    "Added_time": "22:23:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:55:00",
-    "Exposure_time_end_24": "16:19:00",
-    "lat": -37.17099,
-    "lon": 144.75239
-  },
-  {
-    "_id": 353,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
     "Site_streetaddress": null,
@@ -7413,7 +7350,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 354,
+    "_id": 351,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
     "Site_streetaddress": null,
