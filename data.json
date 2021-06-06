@@ -7309,7 +7309,7 @@
   },
   {
     "_id": 349,
-    "Suburb": null,
+    "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
     "Site_streetaddress": null,
     "Site_state": "VIC",
@@ -7330,7 +7330,7 @@
   },
   {
     "_id": 350,
-    "Suburb": null,
+    "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
     "Site_streetaddress": null,
     "Site_state": "VIC",
@@ -7351,7 +7351,7 @@
   },
   {
     "_id": 351,
-    "Suburb": null,
+    "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
     "Site_streetaddress": null,
     "Site_state": "VIC",
@@ -7372,7 +7372,7 @@
   },
   {
     "_id": 352,
-    "Suburb": null,
+    "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
     "Site_streetaddress": null,
     "Site_state": "VIC",
@@ -7393,7 +7393,7 @@
   },
   {
     "_id": 353,
-    "Suburb": null,
+    "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Merlynston Station to Flinders Street Station)\t",
     "Site_streetaddress": null,
     "Site_state": "VIC",
@@ -7414,7 +7414,7 @@
   },
   {
     "_id": 354,
-    "Suburb": null,
+    "Suburb": "Public Transport",
     "Site_title": "Metro Train Upfield Line (Melbourne Central Station to Merlynston Station)        ",
     "Site_streetaddress": null,
     "Site_state": "VIC",
