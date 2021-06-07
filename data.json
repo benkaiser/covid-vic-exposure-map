@@ -7262,8 +7262,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "06:03:00",
     "Exposure_time_end_24": "06:34:00",
-    "lat": -37.81821,
-    "lon": 144.9672
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   },
   {
     "_id": 347,
@@ -7283,8 +7283,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:55:00",
     "Exposure_time_end_24": "16:19:00",
-    "lat": -37.17099,
-    "lon": 144.75239
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   },
   {
     "_id": 348,
@@ -7304,8 +7304,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "06:03:00",
     "Exposure_time_end_24": "06:34:00",
-    "lat": -37.17099,
-    "lon": 144.75239
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   },
   {
     "_id": 349,
@@ -7325,8 +7325,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:55:00",
     "Exposure_time_end_24": "16:19:00",
-    "lat": -37.17099,
-    "lon": 144.75239
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   },
   {
     "_id": 350,
@@ -7346,8 +7346,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "06:03:00",
     "Exposure_time_end_24": "06:34:00",
-    "lat": -37.17099,
-    "lon": 144.75239
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   },
   {
     "_id": 351,
@@ -7367,7 +7367,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:55:00",
     "Exposure_time_end_24": "16:19:00",
-    "lat": -37.17099,
-    "lon": 144.75239
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   }
 ]

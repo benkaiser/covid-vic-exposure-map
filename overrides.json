@@ -738,5 +738,21 @@
     "Site_streetaddress": "South Morang Station to Epping Station",
     "Site_state": "VIC",
     "Site_postcode": "3752"
+  },
+  {
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "Merlynston Station to Flinders Street Station",
+    "Site_state": "VIC",
+    "Site_postcode": null
+  },
+  {
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null
   }
 ]
