@@ -987,6 +987,27 @@
     "lon": 144.92119
   },
   {
+    "_id": 84,
+    "Suburb": "Maidstone",
+    "Site_title": "Arcare Maidstone (Magnolia Unit)",
+    "Site_streetaddress": "31 Hampstead Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "Exposure_date_dtm": "2021-06-04",
+    "Exposure_date": "04/06/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Any person who has been on the Magnolia Unit since the morning of 7am on 26 May until 11:59pm on Saturday June 5",
+    "Added_date_dtm": "2021-06-09",
+    "Added_date": "09/06/2021",
+    "Added_time": "18:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": null,
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.77798,
+    "lon": 144.87613
+  },
+  {
     "_id": 48,
     "Suburb": "Mickleham",
     "Site_title": "Everyday by BP x David Jones Food Merrifield",
@@ -1722,27 +1743,6 @@
     "lon": 144.87613
   },
   {
-    "_id": 84,
-    "Suburb": "Maidstone",
-    "Site_title": "Arcare Maidstone (Magnolia Unit)",
-    "Site_streetaddress": "31 Hampstead Rd",
-    "Site_state": "VIC",
-    "Site_postcode": "3012",
-    "Exposure_date_dtm": "2021-06-04",
-    "Exposure_date": "04/06/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Any person who has been on the Magnolia Unit since the morning of 7am on 26 May until 11:59pm on Saturday June 5",
-    "Added_date_dtm": "2021-06-09",
-    "Added_date": "09/06/2021",
-    "Added_time": "18:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": null,
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.77798,
-    "lon": 144.87613
-  },
-  {
     "_id": 85,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
@@ -1867,6 +1867,27 @@
     "Exposure_time_end_24": "23:59:00",
     "lat": -37.77798,
     "lon": 144.87613
+  },
+  {
+    "_id": 103,
+    "Suburb": "Thomastown",
+    "Site_title": "BP Thomastown",
+    "Site_streetaddress": "72 Keon Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "Exposure_date_dtm": "2021-06-07",
+    "Exposure_date": "07/06/2021",
+    "Exposure_time": "6:00pm - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-09",
+    "Added_date": "09/06/2021",
+    "Added_time": "23:45:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "18:00:00",
+    "Exposure_time_end_24": "18:30:00",
+    "lat": -37.69595,
+    "lon": 145.02192
   },
   {
     "_id": 91,
@@ -2119,27 +2140,6 @@
     "Exposure_time_end_24": "12:30:00",
     "lat": -37.72504,
     "lon": 145.02636
-  },
-  {
-    "_id": 103,
-    "Suburb": "Thomastown",
-    "Site_title": "BP Thomastown",
-    "Site_streetaddress": "72 Keon Parade",
-    "Site_state": "VIC",
-    "Site_postcode": "3074",
-    "Exposure_date_dtm": "2021-06-07",
-    "Exposure_date": "07/06/2021",
-    "Exposure_time": "6:00pm - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-09",
-    "Added_date": "09/06/2021",
-    "Added_time": "23:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "18:00:00",
-    "Exposure_time_end_24": "18:30:00",
-    "lat": -37.69595,
-    "lon": 145.02192
   },
   {
     "_id": 104,
@@ -2542,48 +2542,6 @@
   },
   {
     "_id": 123,
-    "Suburb": "Melbourne",
-    "Site_title": "620 Collins Street",
-    "Site_streetaddress": "620 Collins Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-05-31",
-    "Exposure_date": "31/05/2021",
-    "Exposure_time": "8:00am - 3:35pm",
-    "Notes": "case attended venue",
-    "Added_date_dtm": "2021-06-11",
-    "Added_date": "11/06/2021",
-    "Added_time": "22:03:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "15:35:00",
-    "lat": -37.81877,
-    "lon": 144.95443
-  },
-  {
-    "_id": 124,
-    "Suburb": "Melbourne",
-    "Site_title": "620 Collins Street",
-    "Site_streetaddress": "620 Collins Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-02",
-    "Exposure_date": "02/06/2021",
-    "Exposure_time": "8:45am - 4:30pm",
-    "Notes": "case attended venue",
-    "Added_date_dtm": "2021-06-11",
-    "Added_date": "11/06/2021",
-    "Added_time": "22:04:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:45:00",
-    "Exposure_time_end_24": "16:30:00",
-    "lat": -37.81877,
-    "lon": 144.95443
-  },
-  {
-    "_id": 125,
     "Suburb": "Thomastown",
     "Site_title": "Rexel Aust",
     "Site_streetaddress": "1/161 Settlement Road",
@@ -2604,7 +2562,7 @@
     "lon": 145.04081
   },
   {
-    "_id": 126,
+    "_id": 124,
     "Suburb": "Thomastown",
     "Site_title": "Rexel Aust",
     "Site_streetaddress": "1/161 Settlement Road",
@@ -2625,7 +2583,7 @@
     "lon": 145.04081
   },
   {
-    "_id": 127,
+    "_id": 125,
     "Suburb": "Thomastown",
     "Site_title": "Rexel Aust",
     "Site_streetaddress": "1/161 Settlement Road",
@@ -2646,7 +2604,7 @@
     "lon": 145.04081
   },
   {
-    "_id": 128,
+    "_id": 126,
     "Suburb": "Docklands",
     "Site_title": "Potto Docklands",
     "Site_streetaddress": "Shop T1/201 Spencer St",
@@ -2667,7 +2625,7 @@
     "lon": 144.95544
   },
   {
-    "_id": 129,
+    "_id": 127,
     "Suburb": "Taylors Hill",
     "Site_title": "United Chemists Taylors Hill",
     "Site_streetaddress": "Shop 8, Corner Gourlay Road & Hume Drive",
@@ -2688,7 +2646,7 @@
     "lon": 144.74074
   },
   {
-    "_id": 130,
+    "_id": 128,
     "Suburb": "Taylors Hill",
     "Site_title": "Taylors Hill Medical Clinic",
     "Site_streetaddress": "Shop 1, Cnr Gourlay Rd & Hume Drive",
@@ -2709,7 +2667,7 @@
     "lon": 144.74074
   },
   {
-    "_id": 131,
+    "_id": 129,
     "Suburb": "Taylors Hill",
     "Site_title": "Taylors Hill Medical Clinic",
     "Site_streetaddress": "Shop 1, Cnr Gourlay Rd & Hume Drive",
@@ -2730,7 +2688,7 @@
     "lon": 144.74074
   },
   {
-    "_id": 132,
+    "_id": 130,
     "Suburb": "Taylors Hill",
     "Site_title": "Coles Express ",
     "Site_streetaddress": "127 Gourlay Road",
