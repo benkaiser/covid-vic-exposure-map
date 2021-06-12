@@ -2644,5 +2644,26 @@
     "Exposure_time_end_24": "16:30:00",
     "lat": -37.82555,
     "lon": 144.96093
+  },
+  {
+    "_id": 128,
+    "Suburb": "Docklands",
+    "Site_title": "Medibank - Docklands",
+    "Site_streetaddress": "Level 7, 720 Bourke St",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "Exposure_date_dtm": "2021-05-18",
+    "Exposure_date": "18/05/2021",
+    "Exposure_time": "7:45am - 4:15pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-12",
+    "Added_date": "12/06/2021",
+    "Added_time": "19:00:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "07:45:00",
+    "Exposure_time_end_24": "16:15:00",
+    "lat": -37.81807,
+    "lon": 144.94914
   }
 ]
