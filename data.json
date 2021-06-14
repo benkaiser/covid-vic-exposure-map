@@ -2728,5 +2728,26 @@
     "Exposure_time_end_24": "17:30:00",
     "lat": -37.82236,
     "lon": 144.96197
+  },
+  {
+    "_id": 132,
+    "Suburb": "Taylors Lakes",
+    "Site_title": "Coles Express Melton Highway",
+    "Site_streetaddress": "410 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3038",
+    "Exposure_date_dtm": "2021-05-21",
+    "Exposure_date": "21/05/2021",
+    "Exposure_time": "10:30am - 11:00am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-14",
+    "Added_date": "14/06/2021",
+    "Added_time": "09:55:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "10:30:00",
+    "Exposure_time_end_24": "11:00:00",
+    "lat": -37.69724,
+    "lon": 144.78213
   }
 ]
