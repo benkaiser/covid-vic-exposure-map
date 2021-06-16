@@ -754,5 +754,21 @@
     "Site_streetaddress": null,
     "Site_state": "VIC",
     "Site_postcode": null
+  },
+  {
+    "lat": -37.743105740802854,
+    "lon": 144.96639151761798,
+    "Suburb": "Public Transport",
+    "Site_streetaddress": "19 Tram to North Coburg (Collins St/Elizabeth St (stop #2) to Coburg Market/Sydney Rd (stop #33)",
+    "Site_state": "VIC",
+    "Site_postcode": "3000"
+  },
+  {
+    "lat": -37.832449432004886,
+    "lon": 144.96777734721454,
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "231 Kingsway",
+    "Site_state": "VIC",
+    "Site_postcode": "3205"
   }
 ]
