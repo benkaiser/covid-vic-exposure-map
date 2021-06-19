@@ -64,90 +64,6 @@
   },
   {
     "_id": 4,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train Upfield Line  ",
-    "Site_streetaddress": "Merlynston Station to Flinders Street Station",
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-06-04",
-    "Exposure_date": "04/06/2021",
-    "Exposure_time": "6:03am - 6:34am",
-    "Notes": "Case travelled on Public Transport\n",
-    "Added_date_dtm": "2021-06-06",
-    "Added_date": "06/06/2021",
-    "Added_time": "22:23:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "06:03:00",
-    "Exposure_time_end_24": "06:34:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
-    "_id": 5,
-    "Suburb": "Public Transport",
-    "Site_title": "Metro Train Upfield Line  ",
-    "Site_streetaddress": "Melbourne Central Station to Upfield Station",
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-06-04",
-    "Exposure_date": "04/06/2021",
-    "Exposure_time": "3:55pm - 4:29pm",
-    "Notes": "Case travelled on Public Transport\n",
-    "Added_date_dtm": "2021-06-06",
-    "Added_date": "06/06/2021",
-    "Added_time": "22:23:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:55:00",
-    "Exposure_time_end_24": "16:29:00",
-    "lat": -37.93489,
-    "lon": 145.03705
-  },
-  {
-    "_id": 6,
-    "Suburb": "Port Melbourne",
-    "Site_title": "United West Gate South (Soutbound)        ",
-    "Site_streetaddress": "2 West Gate Freeway",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-06-04",
-    "Exposure_date": "04/06/2021",
-    "Exposure_time": "2:00pm - 2:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-07",
-    "Added_date": "07/06/2021",
-    "Added_time": "19:12:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "14:00:00",
-    "Exposure_time_end_24": "14:30:00",
-    "lat": -37.83067,
-    "lon": 144.91902
-  },
-  {
-    "_id": 7,
-    "Suburb": "Maribyrnong",
-    "Site_title": "7 Eleven Maribyrnong\t",
-    "Site_streetaddress": "32 Raleigh Road & Navigator Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3032",
-    "Exposure_date_dtm": "2021-06-04",
-    "Exposure_date": "04/06/2021",
-    "Exposure_time": "8:05pm - 8:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-07",
-    "Added_date": "07/06/2021",
-    "Added_time": "19:12:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "20:05:00",
-    "Exposure_time_end_24": "20:20:00",
-    "lat": -37.76967,
-    "lon": 144.89776
-  },
-  {
-    "_id": 8,
     "Suburb": "Southbank",
     "Site_title": "Chemist Warehouse Southbank\t",
     "Site_streetaddress": "Shops 2 and 3, 153 to 159 Sturt Street",
@@ -168,7 +84,7 @@
     "lon": 144.96624
   },
   {
-    "_id": 9,
+    "_id": 5,
     "Suburb": "Southbank",
     "Site_title": "IGA Sturt Street Plus Liquor\t",
     "Site_streetaddress": "151 Sturt Street",
@@ -189,7 +105,7 @@
     "lon": 144.96637
   },
   {
-    "_id": 10,
+    "_id": 6,
     "Suburb": "Southbank",
     "Site_title": "Chemist Warehouse Southbank\t",
     "Site_streetaddress": "Shops 2 and 3, 153 to 159 Sturt Street",
@@ -210,7 +126,7 @@
     "lon": 144.96624
   },
   {
-    "_id": 11,
+    "_id": 7,
     "Suburb": "South Melbourne",
     "Site_title": "Chemist Warehouse South Melbourne\t",
     "Site_streetaddress": "310 Clarendon Street",
@@ -231,7 +147,7 @@
     "lon": 144.96066
   },
   {
-    "_id": 12,
+    "_id": 8,
     "Suburb": "South Wharf",
     "Site_title": "COVID-19 Vaccination Centre at Melbourne Convention and Exhibition Centre",
     "Site_streetaddress": "1 Convention Centre Pl",
@@ -252,7 +168,7 @@
     "lon": 144.95157
   },
   {
-    "_id": 13,
+    "_id": 9,
     "Suburb": "South Melbourne",
     "Site_title": "The Old Paper Shop Deli",
     "Site_streetaddress": "266-268 Clarendon Street ",
@@ -273,7 +189,7 @@
     "lon": 144.96012
   },
   {
-    "_id": 14,
+    "_id": 10,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -294,7 +210,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 15,
+    "_id": 11,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -315,7 +231,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 16,
+    "_id": 12,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -336,7 +252,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 17,
+    "_id": 13,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -357,7 +273,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 18,
+    "_id": 14,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -378,7 +294,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 19,
+    "_id": 15,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -399,7 +315,28 @@
     "lon": 144.87613
   },
   {
-    "_id": 20,
+    "_id": 63,
+    "Suburb": "Southbank",
+    "Site_title": "Kings Park Apartment Complex",
+    "Site_streetaddress": "Dodds & Wells St",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "Exposure_date_dtm": "2021-06-10",
+    "Exposure_date": "10/06/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-15",
+    "Added_date": "15/06/2021",
+    "Added_time": "12:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.83048,
+    "lon": 144.96711
+  },
+  {
+    "_id": 16,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -420,7 +357,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 21,
+    "_id": 17,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -441,7 +378,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 22,
+    "_id": 18,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -462,7 +399,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 23,
+    "_id": 19,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -483,7 +420,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 24,
+    "_id": 20,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -504,7 +441,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 25,
+    "_id": 21,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -525,7 +462,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 26,
+    "_id": 22,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -546,7 +483,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 27,
+    "_id": 23,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -567,7 +504,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 28,
+    "_id": 24,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -588,7 +525,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 29,
+    "_id": 25,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -609,7 +546,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 30,
+    "_id": 26,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -630,7 +567,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 31,
+    "_id": 27,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -651,7 +588,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 32,
+    "_id": 28,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -672,7 +609,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 33,
+    "_id": 29,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -693,7 +630,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 34,
+    "_id": 30,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Communal facilities)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -714,7 +651,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 35,
+    "_id": 31,
     "Suburb": "Maidstone",
     "Site_title": "Arcare Maidstone (Magnolia Unit)",
     "Site_streetaddress": "31 Hampstead Rd",
@@ -735,7 +672,7 @@
     "lon": 144.87613
   },
   {
-    "_id": 36,
+    "_id": 32,
     "Suburb": "Reservoir",
     "Site_title": "Marco Fine Food & Groceries - Reservoir Central",
     "Site_streetaddress": "Shop 8, 830 Plenty Rd",
@@ -756,7 +693,7 @@
     "lon": 145.02636
   },
   {
-    "_id": 37,
+    "_id": 33,
     "Suburb": "Thomastown",
     "Site_title": "BP Thomastown",
     "Site_streetaddress": "72 Keon Parade",
@@ -777,7 +714,7 @@
     "lon": 145.02192
   },
   {
-    "_id": 38,
+    "_id": 34,
     "Suburb": "Bundoora",
     "Site_title": "Coles Bundoora Square",
     "Site_streetaddress": "Settlement Rd & Plenty Rd, Bundoora Square Shopping Centre",
@@ -798,7 +735,7 @@
     "lon": 145.05004
   },
   {
-    "_id": 39,
+    "_id": 35,
     "Suburb": "Thomastown",
     "Site_title": "Bunnings Thomastown",
     "Site_streetaddress": "11 Dalton Rd",
@@ -819,7 +756,7 @@
     "lon": 145.02433
   },
   {
-    "_id": 40,
+    "_id": 36,
     "Suburb": "Bundoora",
     "Site_title": "Coles - Bundoora Square Shopping Centre",
     "Site_streetaddress": "Settlement Rd & Plenty Rd, Bundoora Square Shopping Centre",
@@ -840,7 +777,7 @@
     "lon": 145.05004
   },
   {
-    "_id": 41,
+    "_id": 37,
     "Suburb": "Heidelberg",
     "Site_title": "Coles - Warringal Shopping Centre",
     "Site_streetaddress": "Burgundy St & Rosanna Rd",
@@ -861,7 +798,7 @@
     "lon": 145.06963
   },
   {
-    "_id": 42,
+    "_id": 38,
     "Suburb": "Thomastown",
     "Site_title": "AMPOL",
     "Site_streetaddress": "Cnr of Dalton Rd & Wood St",
@@ -882,7 +819,7 @@
     "lon": 145.02632
   },
   {
-    "_id": 43,
+    "_id": 39,
     "Suburb": "Reservoir",
     "Site_title": "Summer Hill Shopping Village - Summerhill Medical Centre",
     "Site_streetaddress": "Shop 18A/830 Plenty Road",
@@ -903,7 +840,7 @@
     "lon": 145.02636
   },
   {
-    "_id": 44,
+    "_id": 40,
     "Suburb": "Thornbury",
     "Site_title": "Souvlaki GR Thornbury",
     "Site_streetaddress": "665 High Street",
@@ -924,7 +861,7 @@
     "lon": 145.00003
   },
   {
-    "_id": 45,
+    "_id": 41,
     "Suburb": "Thomastown",
     "Site_title": "Rexel Aust",
     "Site_streetaddress": "1/161 Settlement Road",
@@ -945,7 +882,7 @@
     "lon": 145.04081
   },
   {
-    "_id": 46,
+    "_id": 42,
     "Suburb": "Thomastown",
     "Site_title": "Rexel Aust",
     "Site_streetaddress": "1/161 Settlement Road",
@@ -966,7 +903,7 @@
     "lon": 145.04081
   },
   {
-    "_id": 47,
+    "_id": 43,
     "Suburb": "Thomastown",
     "Site_title": "Rexel Aust",
     "Site_streetaddress": "1/161 Settlement Road",
@@ -987,7 +924,7 @@
     "lon": 145.04081
   },
   {
-    "_id": 48,
+    "_id": 44,
     "Suburb": "Southbank",
     "Site_title": "Woolworths Melbourne Square",
     "Site_streetaddress": "Shop 1/10 Hoff Boulevard",
@@ -1008,7 +945,7 @@
     "lon": 144.96364
   },
   {
-    "_id": 49,
+    "_id": 45,
     "Suburb": "Southbank",
     "Site_title": "McDonald's Freshwater Place",
     "Site_streetaddress": "Freshwater Pl",
@@ -1029,7 +966,7 @@
     "lon": 144.96259
   },
   {
-    "_id": 50,
+    "_id": 46,
     "Suburb": "Southbank",
     "Site_title": "Boyd Community Hub",
     "Site_streetaddress": "207 City Rd",
@@ -1050,7 +987,7 @@
     "lon": 144.96093
   },
   {
-    "_id": 51,
+    "_id": 47,
     "Suburb": "Southbank",
     "Site_title": "Boyd Community Hub - Maternal Child & Family Health Services",
     "Site_streetaddress": "207 City Rd",
@@ -1071,7 +1008,7 @@
     "lon": 144.96093
   },
   {
-    "_id": 52,
+    "_id": 48,
     "Suburb": "Southbank",
     "Site_title": "Boyd Community Hub - Park play area",
     "Site_streetaddress": "207 City Rd",
@@ -1092,7 +1029,7 @@
     "lon": 144.96093
   },
   {
-    "_id": 53,
+    "_id": 49,
     "Suburb": "Southbank",
     "Site_title": "4 Freshwater Place (commercial/office building)",
     "Site_streetaddress": "4 Freshwater Place",
@@ -1113,7 +1050,7 @@
     "lon": 144.96197
   },
   {
-    "_id": 54,
+    "_id": 50,
     "Suburb": "Southbank",
     "Site_title": "4 Freshwater Place (commercial/office building)",
     "Site_streetaddress": "4 Freshwater Place",
@@ -1134,91 +1071,91 @@
     "lon": 144.96197
   },
   {
+    "_id": 51,
+    "Suburb": "Southbank",
+    "Site_title": "4 Freshwater Place (commercial/office building)",
+    "Site_streetaddress": "4 Freshwater Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "Exposure_date_dtm": "2021-06-10",
+    "Exposure_date": "10/06/2021",
+    "Exposure_time": "8:40am - 9:25am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-13",
+    "Added_date": "13/06/2021",
+    "Added_time": "16:49:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:40:00",
+    "Exposure_time_end_24": "09:25:00",
+    "lat": -37.82236,
+    "lon": 144.96197
+  },
+  {
+    "_id": 52,
+    "Suburb": "Southbank",
+    "Site_title": "4 Freshwater Place (commercial/office building)",
+    "Site_streetaddress": "4 Freshwater Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "Exposure_date_dtm": "2021-06-10",
+    "Exposure_date": "10/06/2021",
+    "Exposure_time": "4:35pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-13",
+    "Added_date": "13/06/2021",
+    "Added_time": "16:49:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:35:00",
+    "Exposure_time_end_24": "17:30:00",
+    "lat": -37.82236,
+    "lon": 144.96197
+  },
+  {
+    "_id": 53,
+    "Suburb": "Southbank",
+    "Site_title": "4 Freshwater Place (commercial/office building)",
+    "Site_streetaddress": "4 Freshwater Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "Exposure_date_dtm": "2021-06-09",
+    "Exposure_date": "09/06/2021",
+    "Exposure_time": "8:40am - 9:25am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-13",
+    "Added_date": "13/06/2021",
+    "Added_time": "16:49:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:40:00",
+    "Exposure_time_end_24": "09:25:00",
+    "lat": -37.82236,
+    "lon": 144.96197
+  },
+  {
+    "_id": 54,
+    "Suburb": "Southbank",
+    "Site_title": "4 Freshwater Place (commercial/office building)",
+    "Site_streetaddress": "4 Freshwater Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "Exposure_date_dtm": "2021-06-09",
+    "Exposure_date": "09/06/2021",
+    "Exposure_time": "4:35pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-13",
+    "Added_date": "13/06/2021",
+    "Added_time": "16:49:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:35:00",
+    "Exposure_time_end_24": "17:30:00",
+    "lat": -37.82236,
+    "lon": 144.96197
+  },
+  {
     "_id": 55,
-    "Suburb": "Southbank",
-    "Site_title": "4 Freshwater Place (commercial/office building)",
-    "Site_streetaddress": "4 Freshwater Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-10",
-    "Exposure_date": "10/06/2021",
-    "Exposure_time": "8:40am - 9:25am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-13",
-    "Added_date": "13/06/2021",
-    "Added_time": "16:49:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:40:00",
-    "Exposure_time_end_24": "09:25:00",
-    "lat": -37.82236,
-    "lon": 144.96197
-  },
-  {
-    "_id": 56,
-    "Suburb": "Southbank",
-    "Site_title": "4 Freshwater Place (commercial/office building)",
-    "Site_streetaddress": "4 Freshwater Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-10",
-    "Exposure_date": "10/06/2021",
-    "Exposure_time": "4:35pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-13",
-    "Added_date": "13/06/2021",
-    "Added_time": "16:49:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:35:00",
-    "Exposure_time_end_24": "17:30:00",
-    "lat": -37.82236,
-    "lon": 144.96197
-  },
-  {
-    "_id": 57,
-    "Suburb": "Southbank",
-    "Site_title": "4 Freshwater Place (commercial/office building)",
-    "Site_streetaddress": "4 Freshwater Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-09",
-    "Exposure_date": "09/06/2021",
-    "Exposure_time": "8:40am - 9:25am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-13",
-    "Added_date": "13/06/2021",
-    "Added_time": "16:49:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:40:00",
-    "Exposure_time_end_24": "09:25:00",
-    "lat": -37.82236,
-    "lon": 144.96197
-  },
-  {
-    "_id": 58,
-    "Suburb": "Southbank",
-    "Site_title": "4 Freshwater Place (commercial/office building)",
-    "Site_streetaddress": "4 Freshwater Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-09",
-    "Exposure_date": "09/06/2021",
-    "Exposure_time": "4:35pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-13",
-    "Added_date": "13/06/2021",
-    "Added_time": "16:49:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:35:00",
-    "Exposure_time_end_24": "17:30:00",
-    "lat": -37.82236,
-    "lon": 144.96197
-  },
-  {
-    "_id": 59,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1239,7 +1176,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 60,
+    "_id": 56,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1260,7 +1197,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 61,
+    "_id": 57,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1281,7 +1218,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 62,
+    "_id": 58,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1302,7 +1239,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 63,
+    "_id": 59,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1323,7 +1260,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 64,
+    "_id": 60,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1344,7 +1281,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 65,
+    "_id": 61,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1365,7 +1302,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 66,
+    "_id": 62,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1386,28 +1323,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 67,
-    "Suburb": "Southbank",
-    "Site_title": "Kings Park Apartment Complex",
-    "Site_streetaddress": "Dodds & Wells St",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-10",
-    "Exposure_date": "10/06/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "12:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.83048,
-    "lon": 144.96711
-  },
-  {
-    "_id": 68,
+    "_id": 64,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1428,7 +1344,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 69,
+    "_id": 65,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1449,7 +1365,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 70,
+    "_id": 66,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1470,7 +1386,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 71,
+    "_id": 67,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -1491,7 +1407,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 72,
+    "_id": 68,
     "Suburb": "Southbank",
     "Site_title": "IGA Plus Liquor",
     "Site_streetaddress": "151 Sturt St",
@@ -1512,7 +1428,7 @@
     "lon": 144.96637
   },
   {
-    "_id": 73,
+    "_id": 69,
     "Suburb": "Southbank",
     "Site_title": "Woolworths Melbourne Square",
     "Site_streetaddress": "Shop 1/10 Hoff Boulevard",
@@ -1533,7 +1449,7 @@
     "lon": 144.96364
   },
   {
-    "_id": 74,
+    "_id": 70,
     "Suburb": "Southbank",
     "Site_title": "Queenie's Restaurant and Cafe",
     "Site_streetaddress": "41 Coventry St",
@@ -1554,7 +1470,7 @@
     "lon": 144.96918
   },
   {
-    "_id": 75,
+    "_id": 71,
     "Suburb": "Southbank",
     "Site_title": "Queenie's Restaurant and Cafe",
     "Site_streetaddress": "41 Coventry St",
@@ -1575,7 +1491,7 @@
     "lon": 144.96918
   },
   {
-    "_id": 76,
+    "_id": 72,
     "Suburb": "Southbank",
     "Site_title": "IGA Plus Liquor",
     "Site_streetaddress": "151 Sturt St",
@@ -1596,7 +1512,7 @@
     "lon": 144.96637
   },
   {
-    "_id": 77,
+    "_id": 73,
     "Suburb": "Richmond",
     "Site_title": "IKEA Richmond",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -1617,7 +1533,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 78,
+    "_id": 74,
     "Suburb": "Richmond",
     "Site_title": "Kmart Richmond",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -1638,7 +1554,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 79,
+    "_id": 75,
     "Suburb": "Richmond",
     "Site_title": "Food Court at Victoria Gardens",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -1659,7 +1575,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 80,
+    "_id": 76,
     "Suburb": "Richmond",
     "Site_title": "Victoria Gardens Shopping Centre",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -1680,7 +1596,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 81,
+    "_id": 77,
     "Suburb": "Melbourne",
     "Site_title": "Sakura Kaiten Sushi II",
     "Site_streetaddress": "282 Lonsdale St",
@@ -1701,7 +1617,7 @@
     "lon": 144.964
   },
   {
-    "_id": 82,
+    "_id": 78,
     "Suburb": "Melbourne",
     "Site_title": "Melbourne Central - Axil Coffee Roasters",
     "Site_streetaddress": "Shop GD087, Melbourne Central Tower, 360 Elizabeth Street",
@@ -1722,7 +1638,7 @@
     "lon": 144.96193
   },
   {
-    "_id": 83,
+    "_id": 79,
     "Suburb": "Melbourne",
     "Site_title": "Kmart Melbourne CBD",
     "Site_streetaddress": "236 Bourke Street",
@@ -1743,7 +1659,7 @@
     "lon": 144.96655
   },
   {
-    "_id": 84,
+    "_id": 80,
     "Suburb": "Melbourne",
     "Site_title": "QV Melbourne - Dan Murphy's",
     "Site_streetaddress": "Corner of Lonsdale & Swanston Street, Level 1, Queen Victoria Building",
@@ -1764,7 +1680,7 @@
     "lon": 144.96214
   },
   {
-    "_id": 85,
+    "_id": 81,
     "Suburb": "Melbourne",
     "Site_title": "QV Melbourne - Woolworths",
     "Site_streetaddress": "Corner of Lonsdale & Swanston Street, Queen Victoria Building",
@@ -1785,7 +1701,7 @@
     "lon": 144.96523
   },
   {
-    "_id": 86,
+    "_id": 82,
     "Suburb": "Melbourne",
     "Site_title": "Melbourne Central - JB Hi Fi",
     "Site_streetaddress": "Shop 101B, Level 1, Melbourne Central, 211 La Trobe Street",
@@ -1806,7 +1722,7 @@
     "lon": 144.96239
   },
   {
-    "_id": 87,
+    "_id": 83,
     "Suburb": "South Yarra",
     "Site_title": "Jardin Tan ",
     "Site_streetaddress": "Royal Botanic Gardens, Birdwood Avenue",
@@ -1827,7 +1743,7 @@
     "lon": 144.98239
   },
   {
-    "_id": 88,
+    "_id": 84,
     "Suburb": "South Melbourne",
     "Site_title": "Officeworks",
     "Site_streetaddress": "231 Kingsway",
@@ -1848,7 +1764,7 @@
     "lon": 144.96777734721454
   },
   {
-    "_id": 89,
+    "_id": 85,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -1869,7 +1785,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 90,
+    "_id": 86,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -1890,7 +1806,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 91,
+    "_id": 87,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -1911,7 +1827,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 92,
+    "_id": 88,
     "Suburb": "South Melbourne",
     "Site_title": "Nine Yards Coffee Shop",
     "Site_streetaddress": "228-230 Dorcas St",
@@ -1932,7 +1848,7 @@
     "lon": 144.96003
   },
   {
-    "_id": 93,
+    "_id": 89,
     "Suburb": "South Melbourne",
     "Site_title": "Padre Coffee",
     "Site_streetaddress": "South Melbourne Market, 322-326 Coventry St",
@@ -1953,7 +1869,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 94,
+    "_id": 90,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -1974,7 +1890,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 95,
+    "_id": 91,
     "Suburb": "South Melbourne",
     "Site_title": "Fruits on Coventry",
     "Site_streetaddress": "South Melbourne Market - Stall 46, 322-326 Coventry Street",
@@ -1995,7 +1911,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 96,
+    "_id": 92,
     "Suburb": "South Melbourne",
     "Site_title": "South Melbourne Market",
     "Site_streetaddress": "322-326 Coventry Street",
@@ -2016,7 +1932,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 97,
+    "_id": 93,
     "Suburb": "South Melbourne",
     "Site_title": "Golden Dragon Asian Grocery",
     "Site_streetaddress": "South Melbourne Market - Stall 80-81, 322-326 Coventry Street",
@@ -2037,7 +1953,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 98,
+    "_id": 94,
     "Suburb": "South Melbourne",
     "Site_title": "Asian Grocery Store",
     "Site_streetaddress": "South Melbourne Market - Stall 38, 322-326 Coventry Street",
@@ -2058,7 +1974,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 99,
+    "_id": 95,
     "Suburb": "South Melbourne",
     "Site_title": "K and L Poultry",
     "Site_streetaddress": "South Melbourne Market - Stall 27, 322-326 Coventry Street",
@@ -2079,7 +1995,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 100,
+    "_id": 96,
     "Suburb": "South Melbourne",
     "Site_title": "Kirkpatrick's Meats",
     "Site_streetaddress": "South Melbourne Market - Stall 10, 322-326 Coventry Street",
@@ -2100,28 +2016,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 108,
-    "Suburb": "Brunswick",
-    "Site_title": "Mile End Bagels",
-    "Site_streetaddress": "1 Wilkinson Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "12:20pm - 12:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "12:20:00",
-    "Exposure_time_end_24": "12:50:00",
-    "lat": -37.76824,
-    "lon": 144.96128
-  },
-  {
-    "_id": 101,
+    "_id": 97,
     "Suburb": "South Melbourne",
     "Site_title": "Woolworths ",
     "Site_streetaddress": "South Melbourne Central, 113 Cecil Street",
@@ -2142,7 +2037,7 @@
     "lon": 144.95707
   },
   {
-    "_id": 102,
+    "_id": 98,
     "Suburb": "South Melbourne",
     "Site_title": "Male Bathrooms - Level 1 (upstairs), South Melbourne Central ",
     "Site_streetaddress": "South Melbourne Central, 113 Cecil Street",
@@ -2163,7 +2058,7 @@
     "lon": 144.95707
   },
   {
-    "_id": 103,
+    "_id": 99,
     "Suburb": "South Melbourne",
     "Site_title": "Mister Margherita",
     "Site_streetaddress": "1/52 Park Street",
@@ -2184,7 +2079,7 @@
     "lon": 144.96916
   },
   {
-    "_id": 104,
+    "_id": 100,
     "Suburb": "Melbourne",
     "Site_title": "MYER CBD (Ground Level to Level 5)",
     "Site_streetaddress": "314 - 336 Bourke Street",
@@ -2205,7 +2100,7 @@
     "lon": 144.96401
   },
   {
-    "_id": 105,
+    "_id": 101,
     "Suburb": "Brunswick",
     "Site_title": "Kmart Barkly Square",
     "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
@@ -2226,7 +2121,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 106,
+    "_id": 102,
     "Suburb": "Brunswick",
     "Site_title": "Coles Barkly Square",
     "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
@@ -2247,7 +2142,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 107,
+    "_id": 103,
     "Suburb": "Brunswick",
     "Site_title": "Chemist Warehouse Barkly Square",
     "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
@@ -2268,7 +2163,28 @@
     "lon": 144.96089
   },
   {
-    "_id": 109,
+    "_id": 104,
+    "Suburb": "Brunswick",
+    "Site_title": "Mile End Bagels",
+    "Site_streetaddress": "1 Wilkinson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "Exposure_date_dtm": "2021-06-13",
+    "Exposure_date": "13/06/2021",
+    "Exposure_time": "12:20pm - 12:50pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-16",
+    "Added_date": "16/06/2021",
+    "Added_time": "15:43:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "12:20:00",
+    "Exposure_time_end_24": "12:50:00",
+    "lat": -37.76824,
+    "lon": 144.96128
+  },
+  {
+    "_id": 105,
     "Suburb": "Airport West",
     "Site_title": "Chatime Westfield Airport West",
     "Site_streetaddress": "29/35 Louis Street ",
@@ -2289,7 +2205,7 @@
     "lon": 144.88816
   },
   {
-    "_id": 110,
+    "_id": 106,
     "Suburb": "Coburg North",
     "Site_title": "Coles Coburg North ",
     "Site_streetaddress": "Coburg North Village, 180 Gaffney Street",
@@ -2310,7 +2226,7 @@
     "lon": 144.95013
   },
   {
-    "_id": 111,
+    "_id": 107,
     "Suburb": "Hadfield",
     "Site_title": "Australia Post Hadfield LPO",
     "Site_streetaddress": "122 West Street",
@@ -2331,7 +2247,7 @@
     "lon": 144.9385
   },
   {
-    "_id": 112,
+    "_id": 108,
     "Suburb": "Pascoe Vale",
     "Site_title": "Speedway Automotive and Quick Stop Food Store (Petrol Station)",
     "Site_streetaddress": "105 Kent Road",
@@ -2352,7 +2268,7 @@
     "lon": 144.94085
   },
   {
-    "_id": 113,
+    "_id": 109,
     "Suburb": "Southbank",
     "Site_title": "Village Cinemas at Crown Casino - Screening of Cruella in Cinema 7 ",
     "Site_streetaddress": "Shop 5/8 Whiteman Street",
@@ -2373,7 +2289,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 114,
+    "_id": 110,
     "Suburb": "Southbank",
     "Site_title": "Village Cinemas at Crown Casino - General complex Foyer/snack bar",
     "Site_streetaddress": "Shop 5/8 Whiteman Street",
@@ -2394,7 +2310,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 115,
+    "_id": 111,
     "Suburb": "Southbank",
     "Site_title": "Village Cinemas at Crown Casino - General complex Foyer/snack bar",
     "Site_streetaddress": "Shop 5/8 Whiteman Street",
@@ -2415,7 +2331,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 116,
+    "_id": 112,
     "Suburb": "Southbank",
     "Site_title": "Public Toilets - Crown Casino, Level 1 Food Court (near KFC and Subway)",
     "Site_streetaddress": "8 Whiteman Street",
@@ -2436,9 +2352,9 @@
     "lon": 144.95889
   },
   {
-    "_id": 117,
+    "_id": 113,
     "Suburb": "Southbank",
-    "Site_title": "Gradi at Crown Casino (400 Gradi Crown) ",
+    "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "8 Whiteman Street",
     "Site_state": "VIC",
     "Site_postcode": "3006",
