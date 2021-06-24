@@ -107,48 +107,6 @@
   {
     "_id": 6,
     "Suburb": "Southbank",
-    "Site_title": "4 Freshwater Place (commercial/office building)",
-    "Site_streetaddress": "4 Freshwater Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-09",
-    "Exposure_date": "09/06/2021",
-    "Exposure_time": "8:40am - 9:25am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-13",
-    "Added_date": "13/06/2021",
-    "Added_time": "16:49:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:40:00",
-    "Exposure_time_end_24": "09:25:00",
-    "lat": -37.82236,
-    "lon": 144.96197
-  },
-  {
-    "_id": 7,
-    "Suburb": "Southbank",
-    "Site_title": "4 Freshwater Place (commercial/office building)",
-    "Site_streetaddress": "4 Freshwater Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-06-09",
-    "Exposure_date": "09/06/2021",
-    "Exposure_time": "4:35pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-13",
-    "Added_date": "13/06/2021",
-    "Added_time": "16:49:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:35:00",
-    "Exposure_time_end_24": "17:30:00",
-    "lat": -37.82236,
-    "lon": 144.96197
-  },
-  {
-    "_id": 8,
-    "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
     "Site_state": "VIC",
@@ -168,7 +126,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 9,
+    "_id": 7,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -189,7 +147,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 10,
+    "_id": 8,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -210,7 +168,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 11,
+    "_id": 9,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -231,7 +189,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 12,
+    "_id": 10,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -252,7 +210,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 13,
+    "_id": 11,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -273,7 +231,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 14,
+    "_id": 12,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -294,7 +252,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 15,
+    "_id": 13,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -315,7 +273,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 16,
+    "_id": 14,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -336,7 +294,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 17,
+    "_id": 15,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -357,7 +315,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 18,
+    "_id": 16,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -378,7 +336,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 19,
+    "_id": 17,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -399,7 +357,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 20,
+    "_id": 18,
     "Suburb": "Southbank",
     "Site_title": "Kings Park Apartment Complex",
     "Site_streetaddress": "Dodds & Wells St",
@@ -420,7 +378,7 @@
     "lon": 144.96711
   },
   {
-    "_id": 21,
+    "_id": 19,
     "Suburb": "Southbank",
     "Site_title": "IGA Plus Liquor",
     "Site_streetaddress": "151 Sturt St",
@@ -441,7 +399,7 @@
     "lon": 144.96637
   },
   {
-    "_id": 22,
+    "_id": 20,
     "Suburb": "Southbank",
     "Site_title": "Woolworths Melbourne Square",
     "Site_streetaddress": "Shop 1/10 Hoff Boulevard",
@@ -462,7 +420,7 @@
     "lon": 144.96364
   },
   {
-    "_id": 23,
+    "_id": 21,
     "Suburb": "Southbank",
     "Site_title": "Queenie's Restaurant and Cafe",
     "Site_streetaddress": "41 Coventry St",
@@ -483,7 +441,7 @@
     "lon": 144.96918
   },
   {
-    "_id": 24,
+    "_id": 22,
     "Suburb": "Southbank",
     "Site_title": "Queenie's Restaurant and Cafe",
     "Site_streetaddress": "41 Coventry St",
@@ -504,7 +462,7 @@
     "lon": 144.96918
   },
   {
-    "_id": 25,
+    "_id": 23,
     "Suburb": "Southbank",
     "Site_title": "IGA Plus Liquor",
     "Site_streetaddress": "151 Sturt St",
@@ -525,7 +483,7 @@
     "lon": 144.96637
   },
   {
-    "_id": 26,
+    "_id": 24,
     "Suburb": "Richmond",
     "Site_title": "IKEA Richmond",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -546,7 +504,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 27,
+    "_id": 25,
     "Suburb": "Richmond",
     "Site_title": "Kmart Richmond",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -567,7 +525,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 28,
+    "_id": 26,
     "Suburb": "Richmond",
     "Site_title": "Food Court at Victoria Gardens",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -588,7 +546,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 29,
+    "_id": 27,
     "Suburb": "Richmond",
     "Site_title": "Victoria Gardens Shopping Centre",
     "Site_streetaddress": "Victoria Gardens Shopping Centre, 630 Victoria St",
@@ -609,7 +567,7 @@
     "lon": 145.01139
   },
   {
-    "_id": 30,
+    "_id": 28,
     "Suburb": "Melbourne",
     "Site_title": "Sakura Kaiten Sushi II",
     "Site_streetaddress": "282 Lonsdale St",
@@ -630,7 +588,7 @@
     "lon": 144.964
   },
   {
-    "_id": 31,
+    "_id": 29,
     "Suburb": "Melbourne",
     "Site_title": "Melbourne Central - Axil Coffee Roasters",
     "Site_streetaddress": "Shop GD087, Melbourne Central Tower, 360 Elizabeth Street",
@@ -651,7 +609,7 @@
     "lon": 144.96193
   },
   {
-    "_id": 32,
+    "_id": 30,
     "Suburb": "Melbourne",
     "Site_title": "Kmart Melbourne CBD",
     "Site_streetaddress": "236 Bourke Street",
@@ -672,7 +630,7 @@
     "lon": 144.96655
   },
   {
-    "_id": 33,
+    "_id": 31,
     "Suburb": "Melbourne",
     "Site_title": "QV Melbourne - Dan Murphy's",
     "Site_streetaddress": "Corner of Lonsdale & Swanston Street, Level 1, Queen Victoria Building",
@@ -693,7 +651,7 @@
     "lon": 144.96214
   },
   {
-    "_id": 34,
+    "_id": 32,
     "Suburb": "Melbourne",
     "Site_title": "QV Melbourne - Woolworths",
     "Site_streetaddress": "Corner of Lonsdale & Swanston Street, Queen Victoria Building",
@@ -714,7 +672,7 @@
     "lon": 144.96523
   },
   {
-    "_id": 35,
+    "_id": 33,
     "Suburb": "Melbourne",
     "Site_title": "Melbourne Central - JB Hi Fi",
     "Site_streetaddress": "Shop 101B, Level 1, Melbourne Central, 211 La Trobe Street",
@@ -735,7 +693,7 @@
     "lon": 144.96239
   },
   {
-    "_id": 36,
+    "_id": 34,
     "Suburb": "South Yarra",
     "Site_title": "Jardin Tan ",
     "Site_streetaddress": "Royal Botanic Gardens, Birdwood Avenue",
@@ -756,7 +714,7 @@
     "lon": 144.98239
   },
   {
-    "_id": 37,
+    "_id": 35,
     "Suburb": "South Melbourne",
     "Site_title": "Officeworks",
     "Site_streetaddress": "231 Kingsway",
@@ -777,7 +735,7 @@
     "lon": 144.96777734721454
   },
   {
-    "_id": 38,
+    "_id": 36,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -798,7 +756,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 39,
+    "_id": 37,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -819,7 +777,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 40,
+    "_id": 38,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -840,7 +798,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 41,
+    "_id": 39,
     "Suburb": "South Melbourne",
     "Site_title": "Nine Yards Coffee Shop",
     "Site_streetaddress": "228-230 Dorcas St",
@@ -861,7 +819,7 @@
     "lon": 144.96003
   },
   {
-    "_id": 42,
+    "_id": 40,
     "Suburb": "South Melbourne",
     "Site_title": "Padre Coffee",
     "Site_streetaddress": "South Melbourne Market, 322-326 Coventry St",
@@ -882,7 +840,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 43,
+    "_id": 41,
     "Suburb": "Port Melbourne",
     "Site_title": "Bunnings",
     "Site_streetaddress": "501 Williamstown Road",
@@ -903,7 +861,7 @@
     "lon": 144.93937
   },
   {
-    "_id": 44,
+    "_id": 42,
     "Suburb": "South Melbourne",
     "Site_title": "Fruits on Coventry",
     "Site_streetaddress": "South Melbourne Market - Stall 46, 322-326 Coventry Street",
@@ -924,7 +882,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 45,
+    "_id": 43,
     "Suburb": "South Melbourne",
     "Site_title": "South Melbourne Market",
     "Site_streetaddress": "322-326 Coventry Street",
@@ -945,7 +903,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 46,
+    "_id": 44,
     "Suburb": "South Melbourne",
     "Site_title": "Golden Dragon Asian Grocery",
     "Site_streetaddress": "South Melbourne Market - Stall 80-81, 322-326 Coventry Street",
@@ -966,7 +924,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 47,
+    "_id": 45,
     "Suburb": "South Melbourne",
     "Site_title": "Asian Grocery Store",
     "Site_streetaddress": "South Melbourne Market - Stall 38, 322-326 Coventry Street",
@@ -987,7 +945,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 48,
+    "_id": 46,
     "Suburb": "South Melbourne",
     "Site_title": "K and L Poultry",
     "Site_streetaddress": "South Melbourne Market - Stall 27, 322-326 Coventry Street",
@@ -1008,7 +966,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 49,
+    "_id": 47,
     "Suburb": "South Melbourne",
     "Site_title": "Kirkpatrick's Meats",
     "Site_streetaddress": "South Melbourne Market - Stall 10, 322-326 Coventry Street",
@@ -1029,28 +987,7 @@
     "lon": 144.95644
   },
   {
-    "_id": 57,
-    "Suburb": "Brunswick",
-    "Site_title": "Mile End Bagels",
-    "Site_streetaddress": "1 Wilkinson Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "12:20pm - 12:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "12:20:00",
-    "Exposure_time_end_24": "12:50:00",
-    "lat": -37.76824,
-    "lon": 144.96128
-  },
-  {
-    "_id": 50,
+    "_id": 48,
     "Suburb": "South Melbourne",
     "Site_title": "Woolworths ",
     "Site_streetaddress": "South Melbourne Central, 113 Cecil Street",
@@ -1071,7 +1008,7 @@
     "lon": 144.95707
   },
   {
-    "_id": 51,
+    "_id": 49,
     "Suburb": "South Melbourne",
     "Site_title": "Male Bathrooms - Level 1 (upstairs), South Melbourne Central ",
     "Site_streetaddress": "South Melbourne Central, 113 Cecil Street",
@@ -1092,7 +1029,7 @@
     "lon": 144.95707
   },
   {
-    "_id": 52,
+    "_id": 50,
     "Suburb": "South Melbourne",
     "Site_title": "Mister Margherita",
     "Site_streetaddress": "1/52 Park Street",
@@ -1113,7 +1050,7 @@
     "lon": 144.96916
   },
   {
-    "_id": 53,
+    "_id": 51,
     "Suburb": "Melbourne",
     "Site_title": "MYER CBD (Ground Level to Level 5)",
     "Site_streetaddress": "314 - 336 Bourke Street",
@@ -1134,7 +1071,7 @@
     "lon": 144.96401
   },
   {
-    "_id": 54,
+    "_id": 52,
     "Suburb": "Brunswick",
     "Site_title": "Kmart Barkly Square",
     "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
@@ -1155,7 +1092,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 55,
+    "_id": 53,
     "Suburb": "Brunswick",
     "Site_title": "Coles Barkly Square",
     "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
@@ -1176,7 +1113,7 @@
     "lon": 144.96089
   },
   {
-    "_id": 56,
+    "_id": 54,
     "Suburb": "Brunswick",
     "Site_title": "Chemist Warehouse Barkly Square",
     "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
@@ -1197,7 +1134,28 @@
     "lon": 144.96089
   },
   {
-    "_id": 58,
+    "_id": 55,
+    "Suburb": "Brunswick",
+    "Site_title": "Mile End Bagels",
+    "Site_streetaddress": "1 Wilkinson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "Exposure_date_dtm": "2021-06-13",
+    "Exposure_date": "13/06/2021",
+    "Exposure_time": "12:20pm - 12:50pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-06-16",
+    "Added_date": "16/06/2021",
+    "Added_time": "15:43:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "12:20:00",
+    "Exposure_time_end_24": "12:50:00",
+    "lat": -37.76824,
+    "lon": 144.96128
+  },
+  {
+    "_id": 56,
     "Suburb": "Airport West",
     "Site_title": "Chatime Westfield Airport West",
     "Site_streetaddress": "29/35 Louis Street ",
@@ -1218,7 +1176,7 @@
     "lon": 144.88816
   },
   {
-    "_id": 59,
+    "_id": 57,
     "Suburb": "Coburg North",
     "Site_title": "Coles Coburg North ",
     "Site_streetaddress": "Coburg North Village, 180 Gaffney Street",
@@ -1239,7 +1197,7 @@
     "lon": 144.95013
   },
   {
-    "_id": 60,
+    "_id": 58,
     "Suburb": "Hadfield",
     "Site_title": "Australia Post Hadfield LPO",
     "Site_streetaddress": "122 West Street",
@@ -1260,7 +1218,7 @@
     "lon": 144.9385
   },
   {
-    "_id": 61,
+    "_id": 59,
     "Suburb": "Pascoe Vale",
     "Site_title": "Speedway Automotive and Quick Stop Food Store (Petrol Station)",
     "Site_streetaddress": "105 Kent Road",
@@ -1281,7 +1239,7 @@
     "lon": 144.94085
   },
   {
-    "_id": 62,
+    "_id": 60,
     "Suburb": "Southbank",
     "Site_title": "Village Cinemas at Crown Casino - Screening of Cruella in Cinema 7 ",
     "Site_streetaddress": "Shop 5/8 Whiteman Street",
@@ -1302,7 +1260,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 63,
+    "_id": 61,
     "Suburb": "Southbank",
     "Site_title": "Village Cinemas at Crown Casino - General complex Foyer/snack bar",
     "Site_streetaddress": "Shop 5/8 Whiteman Street",
@@ -1323,7 +1281,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 64,
+    "_id": 62,
     "Suburb": "Southbank",
     "Site_title": "Village Cinemas at Crown Casino - General complex Foyer/snack bar",
     "Site_streetaddress": "Shop 5/8 Whiteman Street",
@@ -1344,7 +1302,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 65,
+    "_id": 63,
     "Suburb": "Southbank",
     "Site_title": "Public Toilets - Crown Casino, Level 1 Food Court (near KFC and Subway)",
     "Site_streetaddress": "8 Whiteman Street",
@@ -1365,7 +1323,7 @@
     "lon": 144.95889
   },
   {
-    "_id": 66,
+    "_id": 64,
     "Suburb": "Southbank",
     "Site_title": "Gradi at Crown (400 Gradi Crown)",
     "Site_streetaddress": "8 Whiteman Street",
