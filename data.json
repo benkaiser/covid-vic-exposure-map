@@ -274,279 +274,6 @@
   },
   {
     "_id": 14,
-    "Suburb": "Melbourne",
-    "Site_title": "Sakura Kaiten Sushi II",
-    "Site_streetaddress": "282 Lonsdale St",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "12:30pm - 1:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "19:55:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "12:30:00",
-    "Exposure_time_end_24": "13:50:00",
-    "lat": -37.81156,
-    "lon": 144.964
-  },
-  {
-    "_id": 15,
-    "Suburb": "Melbourne",
-    "Site_title": "Melbourne Central - Axil Coffee Roasters",
-    "Site_streetaddress": "Shop GD087, Melbourne Central Tower, 360 Elizabeth Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "1:20pm - 1:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "19:55:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:20:00",
-    "Exposure_time_end_24": "13:45:00",
-    "lat": -37.81095,
-    "lon": 144.96193
-  },
-  {
-    "_id": 16,
-    "Suburb": "Melbourne",
-    "Site_title": "Kmart Melbourne CBD",
-    "Site_streetaddress": "236 Bourke Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "2:40pm - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "20:11:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "14:40:00",
-    "Exposure_time_end_24": "15:30:00",
-    "lat": -37.81306,
-    "lon": 144.96655
-  },
-  {
-    "_id": 17,
-    "Suburb": "Melbourne",
-    "Site_title": "QV Melbourne - Dan Murphy's",
-    "Site_streetaddress": "Corner of Lonsdale & Swanston Street, Level 1, Queen Victoria Building",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "3:50pm - 4:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "20:14:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:50:00",
-    "Exposure_time_end_24": "16:30:00",
-    "lat": -37.81877,
-    "lon": 144.96214
-  },
-  {
-    "_id": 18,
-    "Suburb": "Melbourne",
-    "Site_title": "QV Melbourne - Woolworths",
-    "Site_streetaddress": "Corner of Lonsdale & Swanston Street, Queen Victoria Building",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "4:10pm - 4:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "20:14:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:10:00",
-    "Exposure_time_end_24": "16:50:00",
-    "lat": -37.81253,
-    "lon": 144.96523
-  },
-  {
-    "_id": 19,
-    "Suburb": "Melbourne",
-    "Site_title": "Melbourne Central - JB Hi Fi",
-    "Site_streetaddress": "Shop 101B, Level 1, Melbourne Central, 211 La Trobe Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "1:35pm - 2:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "20:20:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:35:00",
-    "Exposure_time_end_24": "14:20:00",
-    "lat": -37.81011,
-    "lon": 144.96239
-  },
-  {
-    "_id": 20,
-    "Suburb": "Port Melbourne",
-    "Site_title": "Bunnings",
-    "Site_streetaddress": "501 Williamstown Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "11:45am - 12:15pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "20:42:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "11:45:00",
-    "Exposure_time_end_24": "12:15:00",
-    "lat": -37.83066,
-    "lon": 144.93937
-  },
-  {
-    "_id": 21,
-    "Suburb": "South Melbourne",
-    "Site_title": "Nine Yards Coffee Shop",
-    "Site_streetaddress": "228-230 Dorcas St",
-    "Site_state": "VIC",
-    "Site_postcode": "3205",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "11:35am - 12:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-15",
-    "Added_date": "15/06/2021",
-    "Added_time": "21:04:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "11:35:00",
-    "Exposure_time_end_24": "12:00:00",
-    "lat": -37.83295,
-    "lon": 144.96003
-  },
-  {
-    "_id": 22,
-    "Suburb": "Melbourne",
-    "Site_title": "MYER CBD (Ground Level to Level 5)",
-    "Site_streetaddress": "314 - 336 Bourke Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "1:55pm - 3:15pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "14:08:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:55:00",
-    "Exposure_time_end_24": "15:15:00",
-    "lat": -37.81379,
-    "lon": 144.96401
-  },
-  {
-    "_id": 23,
-    "Suburb": "Brunswick",
-    "Site_title": "Kmart Barkly Square",
-    "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "12:45pm - 1:15pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "12:45:00",
-    "Exposure_time_end_24": "13:15:00",
-    "lat": -37.77558,
-    "lon": 144.96089
-  },
-  {
-    "_id": 24,
-    "Suburb": "Brunswick",
-    "Site_title": "Coles Barkly Square",
-    "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "1:00pm - 1:40pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:00:00",
-    "Exposure_time_end_24": "13:40:00",
-    "lat": -37.77558,
-    "lon": 144.96089
-  },
-  {
-    "_id": 25,
-    "Suburb": "Brunswick",
-    "Site_title": "Chemist Warehouse Barkly Square",
-    "Site_streetaddress": "Barkly Square Shopping Centre, 90-106 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "1:20pm - 2:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:20:00",
-    "Exposure_time_end_24": "14:00:00",
-    "lat": -37.77558,
-    "lon": 144.96089
-  },
-  {
-    "_id": 26,
-    "Suburb": "Brunswick",
-    "Site_title": "Mile End Bagels",
-    "Site_streetaddress": "1 Wilkinson Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-06-13",
-    "Exposure_date": "13/06/2021",
-    "Exposure_time": "12:20pm - 12:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-16",
-    "Added_date": "16/06/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "12:20:00",
-    "Exposure_time_end_24": "12:50:00",
-    "lat": -37.76824,
-    "lon": 144.96128
-  },
-  {
-    "_id": 27,
     "Suburb": "Airport West",
     "Site_title": "Chatime Westfield Airport West",
     "Site_streetaddress": "29/35 Louis Street ",
@@ -567,7 +294,7 @@
     "lon": 144.88816
   },
   {
-    "_id": 28,
+    "_id": 15,
     "Suburb": "Coburg North",
     "Site_title": "Coles Coburg North ",
     "Site_streetaddress": "Coburg North Village, 180 Gaffney Street",
@@ -588,7 +315,7 @@
     "lon": 144.95013
   },
   {
-    "_id": 29,
+    "_id": 16,
     "Suburb": "Hadfield",
     "Site_title": "Australia Post Hadfield LPO",
     "Site_streetaddress": "122 West Street",
@@ -609,7 +336,7 @@
     "lon": 144.9385
   },
   {
-    "_id": 30,
+    "_id": 17,
     "Suburb": "Sandringham ",
     "Site_title": "Sandringham Dry Cleaners",
     "Site_streetaddress": "36 Bay Road",
@@ -630,7 +357,7 @@
     "lon": 145.00507
   },
   {
-    "_id": 31,
+    "_id": 18,
     "Suburb": "Sandringham ",
     "Site_title": "Sandringham Dry Cleaners",
     "Site_streetaddress": "36 Bay Road",
@@ -651,7 +378,7 @@
     "lon": 145.00507
   },
   {
-    "_id": 32,
+    "_id": 19,
     "Suburb": "Sandringham ",
     "Site_title": "Sandringham Dry Cleaners",
     "Site_streetaddress": "36 Bay Road",
@@ -672,7 +399,7 @@
     "lon": 145.00507
   },
   {
-    "_id": 33,
+    "_id": 20,
     "Suburb": "Flight",
     "Site_title": "Jetstar Flight JQ523 - SYD to MEL ",
     "Site_streetaddress": "Sydney Airport to Melbourne Airport (Tullamarine)",
@@ -693,7 +420,7 @@
     "lon": 144.86204
   },
   {
-    "_id": 34,
+    "_id": 21,
     "Suburb": "Melbourne Airport",
     "Site_title": "Terminal 4, Melbourne Airport (all public areas)",
     "Site_streetaddress": "Melbourne Airport (Tullamarine)",
@@ -714,7 +441,7 @@
     "lon": 144.86204
   },
   {
-    "_id": 35,
+    "_id": 22,
     "Suburb": "Oakleigh",
     "Site_title": "Coles Oakleigh Central",
     "Site_streetaddress": "Hanover St and Portman St",
@@ -735,7 +462,7 @@
     "lon": 145.09205
   },
   {
-    "_id": 37,
+    "_id": 24,
     "Suburb": "Burwood East",
     "Site_title": "Woolworths Burwood East - Burwood Heights Shopping Centre",
     "Site_streetaddress": "42-50 Burwood Hwy",
@@ -756,7 +483,7 @@
     "lon": 145.13494
   },
   {
-    "_id": 38,
+    "_id": 25,
     "Suburb": "Forest Hill",
     "Site_title": "Autograph - Forest Hill Chase Shopping Centre",
     "Site_streetaddress": "270 Canterbury Rd",
@@ -777,7 +504,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 39,
+    "_id": 26,
     "Suburb": "Forest Hill",
     "Site_title": "Colonial Fruit Company - Forest Hill Chase Shopping Centre",
     "Site_streetaddress": "270 Canterbury Rd",
@@ -798,7 +525,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 40,
+    "_id": 27,
     "Suburb": "Forest Hill",
     "Site_title": "Yang Yang Asian Grocery - Forest Hill Chase Shopping Centre",
     "Site_streetaddress": "270 Canterbury Rd",
@@ -819,7 +546,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 41,
+    "_id": 28,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train (inbound)",
     "Site_streetaddress": "Broadmeadows Station to Flinders St Station",
@@ -840,7 +567,7 @@
     "lon": 144.9672
   },
   {
-    "_id": 42,
+    "_id": 29,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train (outbound)",
     "Site_streetaddress": "Flinders St Station to Oakleigh Station",
@@ -861,7 +588,7 @@
     "lon": 144.9672
   },
   {
-    "_id": 43,
+    "_id": 30,
     "Suburb": "Black Rock",
     "Site_title": "Black Rock Convenience Store",
     "Site_streetaddress": "185 Bluff Rd",
@@ -882,7 +609,7 @@
     "lon": 145.01872
   },
   {
-    "_id": 44,
+    "_id": 31,
     "Suburb": "Black Rock",
     "Site_title": "Black Rock Convenience Store",
     "Site_streetaddress": "185 Bluff Rd",
@@ -903,7 +630,7 @@
     "lon": 145.01872
   },
   {
-    "_id": 45,
+    "_id": 32,
     "Suburb": "Public Transport",
     "Site_title": "Broadmeadows Train Station",
     "Site_streetaddress": "Pascoe Vale Rd, Broadmeadows",
@@ -924,7 +651,7 @@
     "lon": 144.92161
   },
   {
-    "_id": 46,
+    "_id": 33,
     "Suburb": "Public Transport",
     "Site_title": "Flinders St Train Station",
     "Site_streetaddress": "Flinders St and Swanston St, Melbourne",
@@ -945,7 +672,7 @@
     "lon": 144.96489
   },
   {
-    "_id": 47,
+    "_id": 34,
     "Suburb": "Public Transport",
     "Site_title": "Oakleigh Train Station",
     "Site_streetaddress": "Warrigal Rd/Haughton Rd, Oakleigh",
@@ -966,7 +693,7 @@
     "lon": 145.08743
   },
   {
-    "_id": 48,
+    "_id": 35,
     "Suburb": "Forest Hill",
     "Site_title": "Forest Hill Chase Shopping Centre (level 1 & 2 only)",
     "Site_streetaddress": "270 Canterbury Road",
@@ -987,7 +714,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 49,
+    "_id": 36,
     "Suburb": "Flight",
     "Site_title": "Virgin Flight VA334 Brisbane to Melbourne",
     "Site_streetaddress": "Brisbane Airport to Melbourne (Tullamarine)",
@@ -1008,7 +735,7 @@
     "lon": 144.86204
   },
   {
-    "_id": 50,
+    "_id": 37,
     "Suburb": "Melbourne Airport",
     "Site_title": "Melbourne Airport - Terminal 3 (all public areas)",
     "Site_streetaddress": "Melbourne Airport ",
@@ -1029,7 +756,7 @@
     "lon": 144.86564
   },
   {
-    "_id": 51,
+    "_id": 38,
     "Suburb": "Melbourne Airport",
     "Site_title": "Melbourne Airport - Terminal 3 (all public areas)",
     "Site_streetaddress": "Melbourne Airport ",
@@ -1050,7 +777,7 @@
     "lon": 144.86564
   },
   {
-    "_id": 52,
+    "_id": 39,
     "Suburb": "Melbourne Airport",
     "Site_title": "Axil Coffee Roasters - Melbourne Airport (T2)",
     "Site_streetaddress": "T2 LS02 Melbourne Airport",
@@ -1071,7 +798,7 @@
     "lon": 144.85087
   },
   {
-    "_id": 53,
+    "_id": 40,
     "Suburb": "Melbourne Airport",
     "Site_title": "Melbourne Airport - Terminal 2 (all public areas)",
     "Site_streetaddress": "Melbourne Airport ",
@@ -1092,7 +819,7 @@
     "lon": 144.86564
   },
   {
-    "_id": 54,
+    "_id": 41,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- Ground Floor Lobby and The Great Room Bar & Restaurant ",
     "Site_streetaddress": "35-47 City Road",
@@ -1113,7 +840,7 @@
     "lon": 144.9666
   },
   {
-    "_id": 55,
+    "_id": 42,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- Ground Floor Lobby and The Great Room Bar & Restaurant ",
     "Site_streetaddress": "35-47 City Road",
@@ -1134,7 +861,7 @@
     "lon": 144.9666
   },
   {
-    "_id": 56,
+    "_id": 43,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- 10th floor",
     "Site_streetaddress": "35-47 City Road",
@@ -1155,7 +882,7 @@
     "lon": 144.9666
   },
   {
-    "_id": 57,
+    "_id": 44,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- 10th floor",
     "Site_streetaddress": "35-47 City Road",
@@ -1176,7 +903,7 @@
     "lon": 144.9666
   },
   {
-    "_id": 58,
+    "_id": 45,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- any other areas in the hotel not listed",
     "Site_streetaddress": "35-47 City Road",
@@ -1197,7 +924,7 @@
     "lon": 144.9666
   },
   {
-    "_id": 59,
+    "_id": 46,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- any other areas in the hotel not listed",
     "Site_streetaddress": "35-47 City Road",
