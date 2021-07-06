@@ -6,27 +6,6 @@
     "Site_streetaddress": "36 Bay Road",
     "Site_state": "VIC",
     "Site_postcode": "3191",
-    "Exposure_date_dtm": "2021-06-21",
-    "Exposure_date": "21/06/2021",
-    "Exposure_time": "9:00am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-24",
-    "Added_date": "24/06/2021",
-    "Added_time": "15:36:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:00:00",
-    "lat": -37.95204,
-    "lon": 145.00507
-  },
-  {
-    "_id": 2,
-    "Suburb": "Sandringham ",
-    "Site_title": "Sandringham Dry Cleaners",
-    "Site_streetaddress": "36 Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3191",
     "Exposure_date_dtm": "2021-06-22",
     "Exposure_date": "22/06/2021",
     "Exposure_time": "10:00am - 3:00pm",
@@ -42,7 +21,7 @@
     "lon": 145.00507
   },
   {
-    "_id": 3,
+    "_id": 2,
     "Suburb": "Sandringham ",
     "Site_title": "Sandringham Dry Cleaners",
     "Site_streetaddress": "36 Bay Road",
@@ -63,28 +42,7 @@
     "lon": 145.00507
   },
   {
-    "_id": 4,
-    "Suburb": "Burwood East",
-    "Site_title": "Woolworths Burwood East - Burwood Heights Shopping Centre",
-    "Site_streetaddress": "42-50 Burwood Hwy",
-    "Site_state": "VIC",
-    "Site_postcode": "3151",
-    "Exposure_date_dtm": "2021-06-21",
-    "Exposure_date": "21/06/2021",
-    "Exposure_time": "5:30pm - 6:15pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-06-24",
-    "Added_date": "24/06/2021",
-    "Added_time": "22:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "17:30:00",
-    "Exposure_time_end_24": "18:15:00",
-    "lat": -37.85254,
-    "lon": 145.13494
-  },
-  {
-    "_id": 5,
+    "_id": 3,
     "Suburb": "Forest Hill",
     "Site_title": "Autograph - Forest Hill Chase Shopping Centre",
     "Site_streetaddress": "270 Canterbury Rd",
@@ -105,7 +63,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 6,
+    "_id": 4,
     "Suburb": "Forest Hill",
     "Site_title": "Colonial Fruit Company - Forest Hill Chase Shopping Centre",
     "Site_streetaddress": "270 Canterbury Rd",
@@ -126,7 +84,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 7,
+    "_id": 5,
     "Suburb": "Forest Hill",
     "Site_title": "Yang Yang Asian Grocery - Forest Hill Chase Shopping Centre",
     "Site_streetaddress": "270 Canterbury Rd",
@@ -147,7 +105,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 8,
+    "_id": 6,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train (inbound)",
     "Site_streetaddress": "Broadmeadows Station to Flinders St Station",
@@ -168,7 +126,7 @@
     "lon": 144.9672
   },
   {
-    "_id": 9,
+    "_id": 7,
     "Suburb": "Black Rock",
     "Site_title": "Black Rock Convenience Store",
     "Site_streetaddress": "185 Bluff Rd",
@@ -189,7 +147,7 @@
     "lon": 145.01872
   },
   {
-    "_id": 10,
+    "_id": 8,
     "Suburb": "Black Rock",
     "Site_title": "Black Rock Convenience Store",
     "Site_streetaddress": "185 Bluff Rd",
@@ -210,7 +168,7 @@
     "lon": 145.01872
   },
   {
-    "_id": 11,
+    "_id": 9,
     "Suburb": "Forest Hill",
     "Site_title": "Forest Hill Chase Shopping Centre (level 1 & 2 only)",
     "Site_streetaddress": "270 Canterbury Road",
@@ -231,7 +189,7 @@
     "lon": 145.16321
   },
   {
-    "_id": 12,
+    "_id": 10,
     "Suburb": "Flight",
     "Site_title": "Virgin Flight VA334 Brisbane to Melbourne",
     "Site_streetaddress": "Brisbane Airport to Melbourne (Tullamarine)",
@@ -252,7 +210,7 @@
     "lon": 144.86204
   },
   {
-    "_id": 13,
+    "_id": 11,
     "Suburb": "Melbourne Airport",
     "Site_title": "Melbourne Airport - Terminal 3 (all public areas)",
     "Site_streetaddress": "Melbourne Airport ",
@@ -273,7 +231,7 @@
     "lon": 144.85605
   },
   {
-    "_id": 14,
+    "_id": 12,
     "Suburb": "Melbourne Airport",
     "Site_title": "Melbourne Airport - Terminal 3 (all public areas)",
     "Site_streetaddress": "Melbourne Airport ",
@@ -294,7 +252,7 @@
     "lon": 144.85605
   },
   {
-    "_id": 15,
+    "_id": 13,
     "Suburb": "Melbourne Airport",
     "Site_title": "Axil Coffee Roasters - Melbourne Airport (T2)",
     "Site_streetaddress": "T2 LS02 Melbourne Airport",
@@ -315,7 +273,7 @@
     "lon": 144.85087
   },
   {
-    "_id": 16,
+    "_id": 14,
     "Suburb": "Melbourne Airport",
     "Site_title": "Melbourne Airport - Terminal 2 (all public areas)",
     "Site_streetaddress": "Melbourne Airport ",
@@ -336,7 +294,7 @@
     "lon": 144.85605
   },
   {
-    "_id": 17,
+    "_id": 15,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- Ground Floor Lobby and The Great Room Bar & Restaurant ",
     "Site_streetaddress": "35-47 City Road",
@@ -357,7 +315,7 @@
     "lon": 144.9664
   },
   {
-    "_id": 18,
+    "_id": 16,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- Ground Floor Lobby and The Great Room Bar & Restaurant ",
     "Site_streetaddress": "35-47 City Road",
@@ -378,7 +336,7 @@
     "lon": 144.9664
   },
   {
-    "_id": 19,
+    "_id": 17,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- 10th floor",
     "Site_streetaddress": "35-47 City Road",
@@ -399,7 +357,7 @@
     "lon": 144.9664
   },
   {
-    "_id": 20,
+    "_id": 18,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- 10th floor",
     "Site_streetaddress": "35-47 City Road",
@@ -420,7 +378,7 @@
     "lon": 144.9664
   },
   {
-    "_id": 21,
+    "_id": 19,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- any other areas in the hotel not listed",
     "Site_streetaddress": "35-47 City Road",
@@ -441,7 +399,7 @@
     "lon": 144.9664
   },
   {
-    "_id": 22,
+    "_id": 20,
     "Suburb": "Southbank",
     "Site_title": "Holiday Inn Express Melbourne Southbank- any other areas in the hotel not listed",
     "Site_streetaddress": "35-47 City Road",
