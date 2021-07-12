@@ -61,5 +61,26 @@
     "Exposure_time_end_24": "18:38:00",
     "lat": -37.58177,
     "lon": 144.92299
+  },
+  {
+    "_id": 4,
+    "Suburb": "Craigieburn",
+    "Site_title": "Craigieburn Central Shopping Centre",
+    "Site_streetaddress": "Craigieburn Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "Exposure_date_dtm": "2021-07-10",
+    "Exposure_date": "10/07/2021",
+    "Exposure_time": "5:28pm - 6:38pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-12",
+    "Added_date": "12/07/2021",
+    "Added_time": "19:45:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "17:28:00",
+    "Exposure_time_end_24": "18:38:00",
+    "lat": -37.59438,
+    "lon": 144.91134
   }
 ]
