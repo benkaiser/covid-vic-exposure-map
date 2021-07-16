@@ -2686,5 +2686,26 @@
     "Exposure_time_end_24": "12:45:00",
     "lat": -38.45542,
     "lon": 145.23871
+  },
+  {
+    "_id": 129,
+    "Suburb": "Cowes",
+    "Site_title": "The Jolly Lolly Trolley ",
+    "Site_streetaddress": "25 Thompson Ave",
+    "Site_state": "VIC",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "3:24pm - 4:05pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-16",
+    "Added_date": "16/07/2021",
+    "Added_time": "15:54:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:24:00",
+    "Exposure_time_end_24": "16:05:00",
+    "lat": -38.44905,
+    "lon": 145.23905
   }
 ]
