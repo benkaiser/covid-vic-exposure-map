@@ -1136,10 +1136,10 @@
   {
     "_id": 55,
     "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 70 (Flinders St/Swanston St to MCG)",
+    "Site_title": "Yarra Trams- Route 70 (Flinders St/Swanston St to MCG Gate 4-7/ John Cain Arena)",
     "Site_streetaddress": null,
     "Site_state": "VIC",
-    "Site_postcode": null,
+    "Site_postcode": "3001",
     "Exposure_date_dtm": "2021-07-10",
     "Exposure_date": "10/07/2021",
     "Exposure_time": "3:46pm - 3:53pm",
@@ -1151,8 +1151,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:46:00",
     "Exposure_time_end_24": "15:53:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
+    "lat": -37.17099,
+    "lon": 144.75239
   },
   {
     "_id": 56,
