@@ -2059,27 +2059,6 @@
   },
   {
     "_id": 99,
-    "Suburb": "Bundoora",
-    "Site_title": "Salvos Stores Bundoora",
-    "Site_streetaddress": "1/89 Plenty Road\t",
-    "Site_state": "VIC",
-    "Site_postcode": "3083",
-    "Exposure_date_dtm": "2021-07-13",
-    "Exposure_date": "13/07/2021",
-    "Exposure_time": "11:45am - 1:00pm",
-    "Notes": "Case attended",
-    "Added_date_dtm": "2021-07-15",
-    "Added_date": "15/07/2021",
-    "Added_time": "19:20:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "11:45:00",
-    "Exposure_time_end_24": "13:00:00",
-    "lat": -37.69499,
-    "lon": 145.05967
-  },
-  {
-    "_id": 100,
     "Suburb": "Moonee Ponds",
     "Site_title": "Australian Red Cross Moonee Ponds Op Shop",
     "Site_streetaddress": "64 Puckle Street\t",
@@ -2100,7 +2079,28 @@
     "lon": 144.92268
   },
   {
-    "_id": 101,
+    "_id": 106,
+    "Suburb": "Point Cook",
+    "Site_title": "Sanctuary Lakes Charcoal Chicken & Salad Bar",
+    "Site_streetaddress": "Shop 26/300 Point Cook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "12:46pm - 1:20pm",
+    "Notes": "Case attended venue\r\n",
+    "Added_date_dtm": "2021-07-15",
+    "Added_date": "15/07/2021",
+    "Added_time": "21:21:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "12:46:00",
+    "Exposure_time_end_24": "13:20:00",
+    "lat": -37.89559,
+    "lon": 144.75407
+  },
+  {
+    "_id": 100,
     "Suburb": "Richmond",
     "Site_title": "Victoria Gardens Shopping Centre - Basement level car park (Purple Zone)        ",
     "Site_streetaddress": "620 Victoria Street\t",
@@ -2121,7 +2121,7 @@
     "lon": 145.01091
   },
   {
-    "_id": 102,
+    "_id": 101,
     "Suburb": "Richmond",
     "Site_title": "Victoria Gardens Shopping Centre - Basement level car park (Purple Zone)        ",
     "Site_streetaddress": "620 Victoria Street\t",
@@ -2142,7 +2142,7 @@
     "lon": 145.01091
   },
   {
-    "_id": 103,
+    "_id": 102,
     "Suburb": "Richmond",
     "Site_title": "MCC Members' Reserve (all other staff and ticketholders, all levels), Carlton v Geelong game",
     "Site_streetaddress": "Melbourne Cricket Ground, Brunton Ave",
@@ -2163,7 +2163,7 @@
     "lon": 144.98165
   },
   {
-    "_id": 104,
+    "_id": 103,
     "Suburb": "Richmond",
     "Site_title": "Coles Victoria Gardens",
     "Site_streetaddress": "Victoria Street & Burnley Street\t",
@@ -2184,7 +2184,7 @@
     "lon": 145.00806
   },
   {
-    "_id": 105,
+    "_id": 104,
     "Suburb": "Richmond",
     "Site_title": "Soul Origin Victoria Gardens",
     "Site_streetaddress": "Kiosk K1008, 620 Victoria Street\t",
@@ -2205,7 +2205,7 @@
     "lon": 145.01091
   },
   {
-    "_id": 106,
+    "_id": 105,
     "Suburb": "Williamstown",
     "Site_title": "Coles Williamstown",
     "Site_streetaddress": "29 Douglas Parade",
@@ -2227,27 +2227,6 @@
   },
   {
     "_id": 107,
-    "Suburb": "Point Cook",
-    "Site_title": "Sanctuary Lakes Charcoal Chicken & Salad Bar",
-    "Site_streetaddress": "Shop 26/300 Point Cook Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "12:46pm - 1:20pm",
-    "Notes": "Case attended venue\r\n",
-    "Added_date_dtm": "2021-07-15",
-    "Added_date": "15/07/2021",
-    "Added_time": "21:21:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "12:46:00",
-    "Exposure_time_end_24": "13:20:00",
-    "lat": -37.89559,
-    "lon": 144.75407
-  },
-  {
-    "_id": 108,
     "Suburb": "Greensborough",
     "Site_title": "Greensborough Plaza- Level 3",
     "Site_streetaddress": "25 Main Street",
@@ -2268,7 +2247,7 @@
     "lon": 145.10303
   },
   {
-    "_id": 109,
+    "_id": 108,
     "Suburb": "Greensborough",
     "Site_title": "Greensborough Plaza- Food Court",
     "Site_streetaddress": "25 Main Street",
@@ -2289,7 +2268,7 @@
     "lon": 145.10303
   },
   {
-    "_id": 110,
+    "_id": 109,
     "Suburb": "Cheltenham",
     "Site_title": "Coles Westfield Southland ",
     "Site_streetaddress": "1239 Nepean Highway",
@@ -2310,7 +2289,7 @@
     "lon": 145.05251
   },
   {
-    "_id": 111,
+    "_id": 110,
     "Suburb": "Bundoora",
     "Site_title": "Dr Suguna Vimalanathan Dental Surgery",
     "Site_streetaddress": "U1-2 12/16 McLeans Road",
@@ -2331,7 +2310,7 @@
     "lon": 145.05914
   },
   {
-    "_id": 112,
+    "_id": 111,
     "Suburb": "Greensborough",
     "Site_title": "Banyule City Council Offices, Level 3",
     "Site_streetaddress": "1 Flintoff Street",
@@ -2352,7 +2331,7 @@
     "lon": 145.10503
   },
   {
-    "_id": 113,
+    "_id": 112,
     "Suburb": "Bundoora",
     "Site_title": "Salvos Stores Bundoora",
     "Site_streetaddress": "1/89 Plenty Road",
@@ -2373,7 +2352,7 @@
     "lon": 145.05967
   },
   {
-    "_id": 114,
+    "_id": 113,
     "Suburb": "Cremorne",
     "Site_title": "Ms Frankie",
     "Site_streetaddress": "24 Cremorne Street",
@@ -2394,7 +2373,7 @@
     "lon": 144.9908
   },
   {
-    "_id": 115,
+    "_id": 114,
     "Suburb": "Frankston",
     "Site_title": "Chemist Warehouse Karingal",
     "Site_streetaddress": "332-334 Cranbourne Road",
@@ -2415,7 +2394,7 @@
     "lon": 145.16592
   },
   {
-    "_id": 116,
+    "_id": 115,
     "Suburb": "Frankston",
     "Site_title": "Chemist Warehouse Karingal",
     "Site_streetaddress": "332-334 Cranbourne Road",
@@ -2436,7 +2415,7 @@
     "lon": 145.16592
   },
   {
-    "_id": 117,
+    "_id": 116,
     "Suburb": "Hastings",
     "Site_title": "KFC Hastings ",
     "Site_streetaddress": "2090 Frankston-Flinders Road",
@@ -2457,7 +2436,7 @@
     "lon": 145.1834
   },
   {
-    "_id": 118,
+    "_id": 117,
     "Suburb": "Melbourne",
     "Site_title": "AAMI Park, Level 1, Aisles 20, 21, 22, 23, Wallabies v France match",
     "Site_streetaddress": "Olympic Boulevard",
@@ -2478,7 +2457,7 @@
     "lon": 144.9825
   },
   {
-    "_id": 119,
+    "_id": 118,
     "Suburb": "Melbourne",
     "Site_title": "AAMI Park, Zone 2, all other patrons and staff, Wallabies v France match",
     "Site_streetaddress": "Olympic Boulevard",
@@ -2499,7 +2478,7 @@
     "lon": 144.9825
   },
   {
-    "_id": 120,
+    "_id": 119,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train - Hurstbridge Line (Montmorency Station to Greensborough Station)",
     "Site_streetaddress": null,
@@ -2520,7 +2499,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 121,
+    "_id": 120,
     "Suburb": "Public Transport",
     "Site_title": "Metro Train - Hurstbridge Line (Greensborough Station to Montmorency Station)",
     "Site_streetaddress": null,
@@ -2541,7 +2520,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 122,
+    "_id": 121,
     "Suburb": "Greensborough",
     "Site_title": "Greensborough Railway Station",
     "Site_streetaddress": "Poulter Ave",
@@ -2562,7 +2541,7 @@
     "lon": 145.10887
   },
   {
-    "_id": 123,
+    "_id": 122,
     "Suburb": "Greensborough",
     "Site_title": "Greensborough Railway Station",
     "Site_streetaddress": "Poulter Ave",
@@ -2583,7 +2562,7 @@
     "lon": 145.10887
   },
   {
-    "_id": 124,
+    "_id": 123,
     "Suburb": "Montmorency",
     "Site_title": "Montmorency Railway Station",
     "Site_streetaddress": "Station Rd",
@@ -2604,7 +2583,7 @@
     "lon": 145.11802
   },
   {
-    "_id": 125,
+    "_id": 124,
     "Suburb": "Montmorency",
     "Site_title": "Montmorency Railway Station",
     "Site_streetaddress": "Station Rd",
@@ -2625,7 +2604,7 @@
     "lon": 145.11802
   },
   {
-    "_id": 126,
+    "_id": 125,
     "Suburb": "Moonee Ponds",
     "Site_title": "Brotherhood of St Laurence",
     "Site_streetaddress": "24 Margaret Street",
