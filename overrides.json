@@ -778,5 +778,13 @@
     "Site_streetaddress": "Melbourne Airport/Grants Rd to Broadmeadows Station/Pascoe Vale Rd (Broadmeadows)",
     "Site_state": "VIC",
     "Site_postcode": "3045"
+  },
+  {
+    "lat": -37.560843650412444,
+    "lon": 144.2988861154256,
+    "Suburb": "School Bus",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null
   }
 ]
