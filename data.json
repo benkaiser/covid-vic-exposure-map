@@ -21,6 +21,27 @@
     "lon": 144.89299
   },
   {
+    "_id": 171,
+    "Suburb": "Cowes",
+    "Site_title": "Woolworths Cowes",
+    "Site_streetaddress": "133 Thompson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "12:25pm - 12:45pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-17",
+    "Added_date": "17/07/2021",
+    "Added_time": "15:46:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "12:25:00",
+    "Exposure_time_end_24": "12:45:00",
+    "lat": -38.4536,
+    "lon": 145.23925
+  },
+  {
     "_id": 2,
     "Suburb": "Maribyrnong",
     "Site_title": "Ariele Apartments",
@@ -273,6 +294,27 @@
     "lon": 144.98908
   },
   {
+    "_id": 21,
+    "Suburb": "Melbourne",
+    "Site_title": "Young & Jackson",
+    "Site_streetaddress": "1 Swanston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-07-10",
+    "Exposure_date": "10/07/2021",
+    "Exposure_time": "2:40pm - 4:10pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-14",
+    "Added_date": "14/07/2021",
+    "Added_time": "12:30:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "14:40:00",
+    "Exposure_time_end_24": "16:10:00",
+    "lat": -37.81732,
+    "lon": 144.96709
+  },
+  {
     "_id": 14,
     "Suburb": "Maribyrnong",
     "Site_title": "ALDI Maribyrnong",
@@ -420,27 +462,6 @@
     "lon": 145.08988
   },
   {
-    "_id": 21,
-    "Suburb": "Melbourne",
-    "Site_title": "Young & Jackson",
-    "Site_streetaddress": "1 Swanston Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-07-10",
-    "Exposure_date": "10/07/2021",
-    "Exposure_time": "2:40pm - 4:10pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-14",
-    "Added_date": "14/07/2021",
-    "Added_time": "12:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:40:00",
-    "Exposure_time_end_24": "16:10:00",
-    "lat": -37.81732,
-    "lon": 144.96709
-  },
-  {
     "_id": 22,
     "Suburb": "Maribyrnong",
     "Site_title": "Ferguson Plarre Bakehouses, Highpoint Shopping Centre Level 2",
@@ -460,27 +481,6 @@
     "Exposure_time_end_24": "10:40:00",
     "lat": -37.77342,
     "lon": 144.88641
-  },
-  {
-    "_id": 195,
-    "Suburb": "Cowes",
-    "Site_title": "Liquorland Cowes",
-    "Site_streetaddress": "114-122 Thompson Ave",
-    "Site_state": "VIC",
-    "Site_postcode": "3922",
-    "Exposure_date_dtm": "2021-07-12",
-    "Exposure_date": "12/07/2021",
-    "Exposure_time": "5:00pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-17",
-    "Added_date": "17/07/2021",
-    "Added_time": "20:01:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "17:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "lat": -38.45279,
-    "lon": 145.23872
   },
   {
     "_id": 23,
@@ -584,6 +584,27 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:30:00",
     "Exposure_time_end_24": "18:30:00",
+    "lat": -37.68209,
+    "lon": 145.0706
+  },
+  {
+    "_id": 47,
+    "Suburb": "Bundoora",
+    "Site_title": "Cotton On- DFO Uni Hill",
+    "Site_streetaddress": "2 Janefield Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "Exposure_date_dtm": "2021-07-09",
+    "Exposure_date": "09/07/2021",
+    "Exposure_time": "5:00pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-14",
+    "Added_date": "14/07/2021",
+    "Added_time": "20:08:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:00:00",
+    "Exposure_time_end_24": "17:30:00",
     "lat": -37.68209,
     "lon": 145.0706
   },
@@ -983,27 +1004,6 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "16:50:00",
     "Exposure_time_end_24": "17:20:00",
-    "lat": -37.68209,
-    "lon": 145.0706
-  },
-  {
-    "_id": 47,
-    "Suburb": "Bundoora",
-    "Site_title": "Cotton On- DFO Uni Hill",
-    "Site_streetaddress": "2 Janefield Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3083",
-    "Exposure_date_dtm": "2021-07-09",
-    "Exposure_date": "09/07/2021",
-    "Exposure_time": "5:00pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-14",
-    "Added_date": "14/07/2021",
-    "Added_time": "20:08:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "17:00:00",
-    "Exposure_time_end_24": "17:30:00",
     "lat": -37.68209,
     "lon": 145.0706
   },
@@ -1680,25 +1680,25 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 147,
-    "Suburb": "Melbourne",
-    "Site_title": "Yarra Yarra Rowing Club",
-    "Site_streetaddress": "2 Boathouse Drive",
+    "_id": 164,
+    "Suburb": "Cowes",
+    "Site_title": "Vinnies Cowes",
+    "Site_streetaddress": "1/144 Thompson Avenue",
     "Site_state": "VIC",
-    "Site_postcode": "3004",
-    "Exposure_date_dtm": "2021-07-15",
-    "Exposure_date": "15/07/2021",
-    "Exposure_time": "8:02am - 10:00am",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-13",
+    "Exposure_date": "13/07/2021",
+    "Exposure_time": "10:30am - 10:50am",
     "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-16",
-    "Added_date": "16/07/2021",
-    "Added_time": "20:12:00",
+    "Added_date_dtm": "2021-07-17",
+    "Added_date": "17/07/2021",
+    "Added_time": "15:13:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:02:00",
-    "Exposure_time_end_24": "10:00:00",
-    "lat": -37.73209,
-    "lon": 144.74755
+    "Exposure_time_start_24": "10:30:00",
+    "Exposure_time_end_24": "10:50:00",
+    "lat": -38.44834,
+    "lon": 145.23905
   },
   {
     "_id": 80,
@@ -2100,27 +2100,6 @@
     "lon": 144.92268
   },
   {
-    "_id": 105,
-    "Suburb": "Point Cook",
-    "Site_title": "Sanctuary Lakes Charcoal Chicken & Salad Bar",
-    "Site_streetaddress": "Shop 26/300 Point Cook Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "12:46pm - 1:20pm",
-    "Notes": "Case attended venue\r\n",
-    "Added_date_dtm": "2021-07-15",
-    "Added_date": "15/07/2021",
-    "Added_time": "21:21:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "12:46:00",
-    "Exposure_time_end_24": "13:20:00",
-    "lat": -37.89559,
-    "lon": 144.75407
-  },
-  {
     "_id": 99,
     "Suburb": "Richmond",
     "Site_title": "Victoria Gardens Shopping Centre - Basement level car park (Purple Zone)        ",
@@ -2245,6 +2224,27 @@
     "Exposure_time_end_24": "17:55:00",
     "lat": -37.85756,
     "lon": 144.89757
+  },
+  {
+    "_id": 105,
+    "Suburb": "Point Cook",
+    "Site_title": "Sanctuary Lakes Charcoal Chicken & Salad Bar",
+    "Site_streetaddress": "Shop 26/300 Point Cook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "12:46pm - 1:20pm",
+    "Notes": "Case attended venue\r\n",
+    "Added_date_dtm": "2021-07-15",
+    "Added_date": "15/07/2021",
+    "Added_time": "21:21:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "12:46:00",
+    "Exposure_time_end_24": "13:20:00",
+    "lat": -37.89559,
+    "lon": 144.75407
   },
   {
     "_id": 106,
@@ -3004,48 +3004,6 @@
   },
   {
     "_id": 142,
-    "Suburb": "Summerlands",
-    "Site_title": "The Nobbies, Phillip Island Nature Parks",
-    "Site_streetaddress": "1320 Ventnor Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3922",
-    "Exposure_date_dtm": "2021-07-13",
-    "Exposure_date": "13/07/2021",
-    "Exposure_time": "4:37pm - 5:10pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-16",
-    "Added_date": "16/07/2021",
-    "Added_time": "21:02:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:37:00",
-    "Exposure_time_end_24": "17:10:00",
-    "lat": -38.51724,
-    "lon": 145.11844
-  },
-  {
-    "_id": 143,
-    "Suburb": "Summerlands",
-    "Site_title": "The Nobbies, Phillip Island Nature Parks",
-    "Site_streetaddress": "1320 Ventnor Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3922",
-    "Exposure_date_dtm": "2021-07-12",
-    "Exposure_date": "12/07/2021",
-    "Exposure_time": "3:35pm - 4:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-16",
-    "Added_date": "16/07/2021",
-    "Added_time": "21:02:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:35:00",
-    "Exposure_time_end_24": "16:20:00",
-    "lat": -38.51724,
-    "lon": 145.11844
-  },
-  {
-    "_id": 144,
     "Suburb": "Bundoora",
     "Site_title": "VANS Outlet Bundoora, DFO Uni Hill ",
     "Site_streetaddress": "2 Janefield Drive",
@@ -3066,7 +3024,7 @@
     "lon": 145.0706
   },
   {
-    "_id": 145,
+    "_id": 143,
     "Suburb": "Camberwell",
     "Site_title": "Woolworths Camberwell",
     "Site_streetaddress": "5/57 Station Street",
@@ -3087,7 +3045,7 @@
     "lon": 145.05858
   },
   {
-    "_id": 146,
+    "_id": 144,
     "Suburb": "Hawthorn East",
     "Site_title": "Anaconda Hawthorn East",
     "Site_streetaddress": "3/742 Toorak Road",
@@ -3108,7 +3066,28 @@
     "lon": 145.04138
   },
   {
-    "_id": 148,
+    "_id": 145,
+    "Suburb": "Melbourne",
+    "Site_title": "Yarra Yarra Rowing Club",
+    "Site_streetaddress": "2 Boathouse Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "Exposure_date_dtm": "2021-07-15",
+    "Exposure_date": "15/07/2021",
+    "Exposure_time": "8:02am - 10:00am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-16",
+    "Added_date": "16/07/2021",
+    "Added_time": "20:12:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:02:00",
+    "Exposure_time_end_24": "10:00:00",
+    "lat": -37.73209,
+    "lon": 144.74755
+  },
+  {
+    "_id": 146,
     "Suburb": "Melbourne",
     "Site_title": "Yarra Yarra Rowing Club",
     "Site_streetaddress": "2 Boathouse Drive",
@@ -3129,7 +3108,7 @@
     "lon": 144.74755
   },
   {
-    "_id": 149,
+    "_id": 147,
     "Suburb": "Waurn Ponds",
     "Site_title": "Deakin University - Waurn Ponds Campus - All floors of buildings IB and IC",
     "Site_streetaddress": "75 Pigdons Road",
@@ -3150,7 +3129,7 @@
     "lon": 144.30464
   },
   {
-    "_id": 150,
+    "_id": 148,
     "Suburb": "Waurn Ponds",
     "Site_title": "Deakin University - Waurn Ponds Campus - Market Hall (cafeteria), Building JB",
     "Site_streetaddress": "75 Pigdons Road",
@@ -3171,7 +3150,7 @@
     "lon": 144.30464
   },
   {
-    "_id": 151,
+    "_id": 149,
     "Suburb": "Richmond",
     "Site_title": "F45 Richmond",
     "Site_streetaddress": "28 Cremorne Street",
@@ -3192,7 +3171,7 @@
     "lon": 144.99396
   },
   {
-    "_id": 152,
+    "_id": 150,
     "Suburb": "Richmond",
     "Site_title": "F45 Richmond",
     "Site_streetaddress": "28 Cremorne Street",
@@ -3213,7 +3192,7 @@
     "lon": 144.99396
   },
   {
-    "_id": 153,
+    "_id": 151,
     "Suburb": "Newhaven",
     "Site_title": "Phillip Island Chocolate Factory",
     "Site_streetaddress": "930 Phillip Island Road",
@@ -3234,7 +3213,7 @@
     "lon": 145.34552
   },
   {
-    "_id": 154,
+    "_id": 152,
     "Suburb": "Public Transport",
     "Site_title": "Metro Trains - Glen Waverley Line. Holmesglen Station to Richmond Station",
     "Site_streetaddress": null,
@@ -3255,7 +3234,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 155,
+    "_id": 153,
     "Suburb": "Public Transport",
     "Site_title": "Metro Trains- Glen Waverley Line. Richmond Station to Holmesglen Station",
     "Site_streetaddress": null,
@@ -3276,7 +3255,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 156,
+    "_id": 154,
     "Suburb": "Docklands",
     "Site_title": "Collins Square (Level 19, Tower 4)",
     "Site_streetaddress": "727 Collins St",
@@ -3297,7 +3276,7 @@
     "lon": 144.94996
   },
   {
-    "_id": 157,
+    "_id": 155,
     "Suburb": "Docklands",
     "Site_title": "Collins Square (Level 19, Tower 4)",
     "Site_streetaddress": "727 Collins St",
@@ -3318,7 +3297,7 @@
     "lon": 144.94996
   },
   {
-    "_id": 158,
+    "_id": 156,
     "Suburb": "Docklands",
     "Site_title": "Collins Square (Level 19, Tower 4)",
     "Site_streetaddress": "727 Collins St",
@@ -3339,7 +3318,7 @@
     "lon": 144.94996
   },
   {
-    "_id": 159,
+    "_id": 157,
     "Suburb": "Docklands",
     "Site_title": "End of Trip Facility in Collins Square (Car Park 1)",
     "Site_streetaddress": "727 Collins St",
@@ -3360,7 +3339,7 @@
     "lon": 144.94996
   },
   {
-    "_id": 160,
+    "_id": 158,
     "Suburb": "Docklands",
     "Site_title": "End of Trip Facility in Collins Square (Car Park 1)",
     "Site_streetaddress": "727 Collins St",
@@ -3381,7 +3360,7 @@
     "lon": 144.94996
   },
   {
-    "_id": 161,
+    "_id": 159,
     "Suburb": "Docklands",
     "Site_title": "Collins Square Ground Floor Foyer (Tower 4)",
     "Site_streetaddress": "727 Collins St",
@@ -3402,7 +3381,7 @@
     "lon": 144.94996
   },
   {
-    "_id": 162,
+    "_id": 160,
     "Suburb": "Public Transport",
     "Site_title": "Metro Trains - Glen Waverley Line. Holmesglen Station to Richmond Station",
     "Site_streetaddress": null,
@@ -3423,7 +3402,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 163,
+    "_id": 161,
     "Suburb": "Moonee Ponds",
     "Site_title": "Coles Moonee Ponds",
     "Site_streetaddress": "Cnr Homer Street & Eddy Street",
@@ -3444,7 +3423,7 @@
     "lon": 144.92178
   },
   {
-    "_id": 164,
+    "_id": 162,
     "Suburb": "Moonee Ponds",
     "Site_title": "Coles Moonee Ponds",
     "Site_streetaddress": "Cnr Homer Street & Eddy Street",
@@ -3465,7 +3444,7 @@
     "lon": 144.92178
   },
   {
-    "_id": 165,
+    "_id": 163,
     "Suburb": "Cowes",
     "Site_title": "Coles Cowes",
     "Site_streetaddress": "Cnr Church & Thompson Ave",
@@ -3486,28 +3465,7 @@
     "lon": 145.23899
   },
   {
-    "_id": 166,
-    "Suburb": "Cowes",
-    "Site_title": "Vinnies Cowes",
-    "Site_streetaddress": "1/144 Thompson Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3922",
-    "Exposure_date_dtm": "2021-07-13",
-    "Exposure_date": "13/07/2021",
-    "Exposure_time": "10:30am - 10:50am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-17",
-    "Added_date": "17/07/2021",
-    "Added_time": "15:13:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "10:30:00",
-    "Exposure_time_end_24": "10:50:00",
-    "lat": -38.44834,
-    "lon": 145.23905
-  },
-  {
-    "_id": 167,
+    "_id": 165,
     "Suburb": "Cowes",
     "Site_title": "Woolworths Cowes - including public toilets",
     "Site_streetaddress": "133 Thompson Avenue",
@@ -3528,7 +3486,7 @@
     "lon": 145.23925
   },
   {
-    "_id": 168,
+    "_id": 166,
     "Suburb": "Cowes",
     "Site_title": "One Stop Discount Shop",
     "Site_streetaddress": "83 Thompson Avenue",
@@ -3549,7 +3507,7 @@
     "lon": 145.23925
   },
   {
-    "_id": 169,
+    "_id": 167,
     "Suburb": "Cowes",
     "Site_title": "Youki's Japanese Restaurant",
     "Site_streetaddress": "1/68-80 Chapel Street",
@@ -3570,7 +3528,7 @@
     "lon": 145.23699
   },
   {
-    "_id": 170,
+    "_id": 168,
     "Suburb": "Cowes",
     "Site_title": "Xpress Gourmet Pizza and Pasta",
     "Site_streetaddress": "1/72 Chapel Street",
@@ -3591,7 +3549,7 @@
     "lon": 145.23821
   },
   {
-    "_id": 171,
+    "_id": 169,
     "Suburb": "Cowes",
     "Site_title": "Xpress Gourmet Pizza and Pasta",
     "Site_streetaddress": "1/72 Chapel Street",
@@ -3612,7 +3570,7 @@
     "lon": 145.23821
   },
   {
-    "_id": 172,
+    "_id": 170,
     "Suburb": "Cowes",
     "Site_title": "Aldi Cowes",
     "Site_streetaddress": "68-80 Thompson Avenue",
@@ -3633,28 +3591,7 @@
     "lon": 145.23872
   },
   {
-    "_id": 173,
-    "Suburb": "Cowes",
-    "Site_title": "Woolworths Cowes",
-    "Site_streetaddress": "133 Thompson Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3922",
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "12:25pm - 12:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-17",
-    "Added_date": "17/07/2021",
-    "Added_time": "15:46:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "12:25:00",
-    "Exposure_time_end_24": "12:45:00",
-    "lat": -38.4536,
-    "lon": 145.23925
-  },
-  {
-    "_id": 174,
+    "_id": 172,
     "Suburb": "Cowes",
     "Site_title": "Subway Cowes",
     "Site_streetaddress": "119-135 Thompson Avenue",
@@ -3675,7 +3612,7 @@
     "lon": 145.23925
   },
   {
-    "_id": 175,
+    "_id": 173,
     "Suburb": "Altona Meadows",
     "Site_title": "Altona Sports Centre",
     "Site_streetaddress": "290 Queen St",
@@ -3696,7 +3633,7 @@
     "lon": 144.79626
   },
   {
-    "_id": 176,
+    "_id": 174,
     "Suburb": "Melbourne",
     "Site_title": "Multiplex Construction Site - Bourke Street entrance, lobby, and lantern area",
     "Site_streetaddress": "405 Bourke St",
@@ -3717,7 +3654,7 @@
     "lon": 144.96192
   },
   {
-    "_id": 177,
+    "_id": 175,
     "Suburb": "Kew",
     "Site_title": "Frank & Harri",
     "Site_streetaddress": "259 High St",
@@ -3738,7 +3675,7 @@
     "lon": 145.0344
   },
   {
-    "_id": 178,
+    "_id": 176,
     "Suburb": "Kew",
     "Site_title": "Frank & Harri",
     "Site_streetaddress": "259 High St",
@@ -3759,7 +3696,7 @@
     "lon": 145.0344
   },
   {
-    "_id": 179,
+    "_id": 177,
     "Suburb": "Malvern East",
     "Site_title": "McDonalds Homesglen",
     "Site_streetaddress": "606 Warrigal Road",
@@ -3780,7 +3717,7 @@
     "lon": 145.09116
   },
   {
-    "_id": 180,
+    "_id": 178,
     "Suburb": "Cowes",
     "Site_title": "U-Neek Souvenirs Stores (see notes)",
     "Site_streetaddress": "Thompson Avenue",
@@ -3801,7 +3738,7 @@
     "lon": 145.23899
   },
   {
-    "_id": 181,
+    "_id": 179,
     "Suburb": "Melbourne",
     "Site_title": "The Crafty Squire ",
     "Site_streetaddress": "127 Russell St",
@@ -3822,7 +3759,7 @@
     "lon": 144.96821
   },
   {
-    "_id": 182,
+    "_id": 180,
     "Suburb": "Footscray",
     "Site_title": "Jesus is the Way Christian Church",
     "Site_streetaddress": "210 Nicholson Street",
@@ -3843,7 +3780,7 @@
     "lon": 144.89877
   },
   {
-    "_id": 183,
+    "_id": 181,
     "Suburb": "Dallas",
     "Site_title": "Foodworks ",
     "Site_streetaddress": "1 Dobell Place",
@@ -3864,7 +3801,7 @@
     "lon": 144.9302
   },
   {
-    "_id": 184,
+    "_id": 182,
     "Suburb": "Dallas",
     "Site_title": "Freshplus",
     "Site_streetaddress": "159 Blair Street",
@@ -3885,7 +3822,7 @@
     "lon": 144.93152
   },
   {
-    "_id": 185,
+    "_id": 183,
     "Suburb": "Albert Park",
     "Site_title": "Basketball Hall, Melbourne Sports and Acquatic Centre (MSAC)",
     "Site_streetaddress": "30 Aughtie Drive",
@@ -3906,7 +3843,7 @@
     "lon": 144.96084
   },
   {
-    "_id": 186,
+    "_id": 184,
     "Suburb": "Cowes",
     "Site_title": "Cowes Shopping Centre- Public Toilets",
     "Site_streetaddress": "117/113 Thompson Ave",
@@ -3927,7 +3864,7 @@
     "lon": 145.23935
   },
   {
-    "_id": 187,
+    "_id": 185,
     "Suburb": "Broadmeadows",
     "Site_title": "Olsen Place Pharmacy ",
     "Site_streetaddress": "13 Olsen Place",
@@ -3948,7 +3885,7 @@
     "lon": 144.9267
   },
   {
-    "_id": 188,
+    "_id": 186,
     "Suburb": "Keilor Downs",
     "Site_title": "Aldi Keilor Central",
     "Site_streetaddress": "80 Taylors Road",
@@ -3969,7 +3906,7 @@
     "lon": 144.80739
   },
   {
-    "_id": 189,
+    "_id": 187,
     "Suburb": "Tottenham",
     "Site_title": "Rocke Brothers Pty Ltd - Transportation",
     "Site_streetaddress": "Lot 2/29 Alick Rd",
@@ -3990,7 +3927,7 @@
     "lon": 144.85252
   },
   {
-    "_id": 190,
+    "_id": 188,
     "Suburb": "Tottenham",
     "Site_title": "Rocke Brothers Pty Ltd - Transportation",
     "Site_streetaddress": "Lot 2/29 Alick Rd",
@@ -4011,7 +3948,7 @@
     "lon": 144.85252
   },
   {
-    "_id": 191,
+    "_id": 189,
     "Suburb": "Cremorne",
     "Site_title": "Gaochi King Restaurant",
     "Site_streetaddress": "228 Swan St",
@@ -4032,7 +3969,7 @@
     "lon": 144.9973
   },
   {
-    "_id": 192,
+    "_id": 190,
     "Suburb": "Cowes",
     "Site_title": "Salvos Store Cowes",
     "Site_streetaddress": "2/144 Thompson Ave",
@@ -4053,7 +3990,7 @@
     "lon": 145.23893
   },
   {
-    "_id": 193,
+    "_id": 191,
     "Suburb": "Oakleigh",
     "Site_title": "National Australia Bank (NAB) Oakleigh Branch",
     "Site_streetaddress": "2 Eaton Mall",
@@ -4074,7 +4011,7 @@
     "lon": 145.09032
   },
   {
-    "_id": 194,
+    "_id": 192,
     "Suburb": "Oakleigh",
     "Site_title": "Atherton Road News & Lotto",
     "Site_streetaddress": "28 Atherton Road",
@@ -4095,7 +4032,28 @@
     "lon": 145.09071
   },
   {
-    "_id": 196,
+    "_id": 193,
+    "Suburb": "Cowes",
+    "Site_title": "Liquorland Cowes",
+    "Site_streetaddress": "114-122 Thompson Ave",
+    "Site_state": "VIC",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-12",
+    "Exposure_date": "12/07/2021",
+    "Exposure_time": "5:00pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-17",
+    "Added_date": "17/07/2021",
+    "Added_time": "20:01:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "lat": -38.45279,
+    "lon": 145.23872
+  },
+  {
+    "_id": 194,
     "Suburb": "Clayton",
     "Site_title": "Home Make It- Clayton",
     "Site_streetaddress": "4/158 Wellington Road",
@@ -4116,7 +4074,7 @@
     "lon": 145.12942
   },
   {
-    "_id": 197,
+    "_id": 195,
     "Suburb": "Kew",
     "Site_title": "Skinny Dog Hotel",
     "Site_streetaddress": "115 High Street ",
@@ -4137,7 +4095,7 @@
     "lon": 145.02926
   },
   {
-    "_id": 198,
+    "_id": 196,
     "Suburb": "Kew",
     "Site_title": "Augustus Gelato",
     "Site_streetaddress": "Shop 2/56 Cotham Road",
@@ -4158,7 +4116,7 @@
     "lon": 145.03234
   },
   {
-    "_id": 199,
+    "_id": 197,
     "Suburb": "Camberwell",
     "Site_title": "Chargrill Charlie's Camberwell",
     "Site_streetaddress": "(Ground Floor) 10 Prospect Hill Road",
@@ -4179,7 +4137,7 @@
     "lon": 145.05843
   },
   {
-    "_id": 200,
+    "_id": 198,
     "Suburb": "Point Cook",
     "Site_title": "Jamieson Way Community Health Centre Public Toilets",
     "Site_streetaddress": "59 Jamieson Way",
@@ -4200,7 +4158,7 @@
     "lon": 144.74748
   },
   {
-    "_id": 201,
+    "_id": 199,
     "Suburb": "Delahey",
     "Site_title": "McDonald's Delahey",
     "Site_streetaddress": "Kings Road",
@@ -4221,7 +4179,7 @@
     "lon": 144.7811
   },
   {
-    "_id": 202,
+    "_id": 200,
     "Suburb": "Delahey",
     "Site_title": "McDonald's Delahey",
     "Site_streetaddress": "Kings Road",
@@ -4242,7 +4200,7 @@
     "lon": 144.7811
   },
   {
-    "_id": 203,
+    "_id": 201,
     "Suburb": "Bacchus Marsh",
     "Site_title": "Christian's Bus Bacchus Marsh (Bacchus Marsh Coaches)- Ballan/ Greendale to Bacchus Marsh via Hallets Way",
     "Site_streetaddress": null,
@@ -4263,7 +4221,7 @@
     "lon": 144.43891
   },
   {
-    "_id": 204,
+    "_id": 202,
     "Suburb": "Bacchus Marsh",
     "Site_title": "Christian's Bus Bacchus Marsh (Bacchus Marsh Coaches)- Bacchus Marsh College to Bacchus Marsh Grammar",
     "Site_streetaddress": null,
@@ -4284,7 +4242,7 @@
     "lon": 144.43891
   },
   {
-    "_id": 205,
+    "_id": 203,
     "Suburb": "Bacchus Marsh",
     "Site_title": "Christian's Bus Service (Bacchus Marsh Coaches)- Bacchus Marsh to Ballan/ Greendale",
     "Site_streetaddress": null,
@@ -4305,7 +4263,7 @@
     "lon": 144.43891
   },
   {
-    "_id": 206,
+    "_id": 204,
     "Suburb": "Bacchus Marsh",
     "Site_title": "Bacchus Marsh College Bus Interchange",
     "Site_streetaddress": "Grant Street",
@@ -4326,7 +4284,7 @@
     "lon": 144.43472
   },
   {
-    "_id": 207,
+    "_id": 205,
     "Suburb": "Kew",
     "Site_title": "Now & Then Cafe",
     "Site_streetaddress": "204 High Street",
@@ -4347,7 +4305,7 @@
     "lon": 145.03224
   },
   {
-    "_id": 208,
+    "_id": 206,
     "Suburb": "Richmond",
     "Site_title": "F45 Richmond",
     "Site_streetaddress": "28 Cremorne Street",
@@ -4368,7 +4326,7 @@
     "lon": 144.99396
   },
   {
-    "_id": 209,
+    "_id": 207,
     "Suburb": "Melbourne",
     "Site_title": "Cookie",
     "Site_streetaddress": "252 Swanston Street",
@@ -4389,7 +4347,7 @@
     "lon": 144.96521
   },
   {
-    "_id": 210,
+    "_id": 208,
     "Suburb": "Melbourne",
     "Site_title": "The Emerald Peacock",
     "Site_streetaddress": "233 Lonsdale Street",
@@ -4410,7 +4368,7 @@
     "lon": 144.96548
   },
   {
-    "_id": 211,
+    "_id": 209,
     "Suburb": "Public Transport",
     "Site_title": "Yarra Trams- Route 109 (Charles Street & Cotham Road Stop 35 to Burke Road & Whitehorse Road Stop 42)",
     "Site_streetaddress": null,
@@ -4431,133 +4389,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 212,
-    "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 109 (Burke Road & Whitehorse Road Stop 42 to Kew Junction & High Street Stop 32)",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "5:25pm - 5:55pm",
-    "Notes": "Case travelled on tram",
-    "Added_date_dtm": "2021-07-18",
-    "Added_date": "18/07/2021",
-    "Added_time": "12:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "17:25:00",
-    "Exposure_time_end_24": "17:55:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
-    "_id": 213,
-    "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams-Route 72 (Cotham Road & Whitehorse Road Stop 70 to Camberwell Station & Burke Road Stop 64)",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "3:45pm - 4:15pm",
-    "Notes": "Case travelled on tram",
-    "Added_date_dtm": "2021-07-18",
-    "Added_date": "18/07/2021",
-    "Added_time": "12:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:45:00",
-    "Exposure_time_end_24": "16:15:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
-    "_id": 214,
-    "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 72 Camberwell Station & Burke Road Stop 64 to Cotham Road & Whitehorse Road Stop 70",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "5:21pm - 5:31pm",
-    "Notes": "Case travelled on tram",
-    "Added_date_dtm": "2021-07-18",
-    "Added_date": "18/07/2021",
-    "Added_time": "12:27:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "17:21:00",
-    "Exposure_time_end_24": "17:31:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
-    "_id": 215,
-    "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 11 or 48 (Batmans Hill D15 to William Street & Collins Street Stop 3)",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-07-15",
-    "Exposure_date": "15/07/2021",
-    "Exposure_time": "8:20am - 8:50am",
-    "Notes": "Case travelled on tram",
-    "Added_date_dtm": "2021-07-18",
-    "Added_date": "18/07/2021",
-    "Added_time": "12:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:20:00",
-    "Exposure_time_end_24": "08:50:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
     "_id": 216,
-    "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 11 or 48 (William Street & Collins Street Stop 3 to Batmans Hill D15)",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-07-15",
-    "Exposure_date": "15/07/2021",
-    "Exposure_time": "10:30am - 11:00am",
-    "Notes": "Case travelled on tram",
-    "Added_date_dtm": "2021-07-18",
-    "Added_date": "18/07/2021",
-    "Added_time": "12:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "10:30:00",
-    "Exposure_time_end_24": "11:00:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
-    "_id": 217,
-    "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 75 (Burnley Street & Bridge Street Stop 21 to The Goods Shed & McCrae Street D5)",
-    "Site_streetaddress": null,
-    "Site_state": "VIC",
-    "Site_postcode": null,
-    "Exposure_date_dtm": "2021-07-14",
-    "Exposure_date": "14/07/2021",
-    "Exposure_time": "8:15am - 9:15am",
-    "Notes": "Case travelled on tram",
-    "Added_date_dtm": "2021-07-18",
-    "Added_date": "18/07/2021",
-    "Added_time": "12:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:15:00",
-    "Exposure_time_end_24": "09:15:00",
-    "lat": -37.720932990471994,
-    "lon": 144.96134294776056
-  },
-  {
-    "_id": 218,
     "Suburb": "Public Transport",
     "Site_title": "Yarra Trams- Route 48 (Batmans Hill D15 to Burnley Street & Bridge Street Stop 21)",
     "Site_streetaddress": null,
@@ -4578,7 +4410,133 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 219,
+    "_id": 210,
+    "Suburb": "Public Transport",
+    "Site_title": "Yarra Trams- Route 109 (Burke Road & Whitehorse Road Stop 42 to Kew Junction & High Street Stop 32)",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "5:25pm - 5:55pm",
+    "Notes": "Case travelled on tram",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "12:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "17:25:00",
+    "Exposure_time_end_24": "17:55:00",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
+  },
+  {
+    "_id": 211,
+    "Suburb": "Public Transport",
+    "Site_title": "Yarra Trams-Route 72 (Cotham Road & Whitehorse Road Stop 70 to Camberwell Station & Burke Road Stop 64)",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "3:45pm - 4:15pm",
+    "Notes": "Case travelled on tram",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "12:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:45:00",
+    "Exposure_time_end_24": "16:15:00",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
+  },
+  {
+    "_id": 212,
+    "Suburb": "Public Transport",
+    "Site_title": "Yarra Trams- Route 72 Camberwell Station & Burke Road Stop 64 to Cotham Road & Whitehorse Road Stop 70",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "5:21pm - 5:31pm",
+    "Notes": "Case travelled on tram",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "12:27:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:21:00",
+    "Exposure_time_end_24": "17:31:00",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
+  },
+  {
+    "_id": 213,
+    "Suburb": "Public Transport",
+    "Site_title": "Yarra Trams- Route 11 or 48 (Batmans Hill D15 to William Street & Collins Street Stop 3)",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-07-15",
+    "Exposure_date": "15/07/2021",
+    "Exposure_time": "8:20am - 8:50am",
+    "Notes": "Case travelled on tram",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "12:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:20:00",
+    "Exposure_time_end_24": "08:50:00",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
+  },
+  {
+    "_id": 214,
+    "Suburb": "Public Transport",
+    "Site_title": "Yarra Trams- Route 11 or 48 (William Street & Collins Street Stop 3 to Batmans Hill D15)",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-07-15",
+    "Exposure_date": "15/07/2021",
+    "Exposure_time": "10:30am - 11:00am",
+    "Notes": "Case travelled on tram",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "12:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "10:30:00",
+    "Exposure_time_end_24": "11:00:00",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
+  },
+  {
+    "_id": 215,
+    "Suburb": "Public Transport",
+    "Site_title": "Yarra Trams- Route 75 (Burnley Street & Bridge Street Stop 21 to The Goods Shed & McCrae Street D5)",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "8:15am - 9:15am",
+    "Notes": "Case travelled on tram",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "12:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:15:00",
+    "Exposure_time_end_24": "09:15:00",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
+  },
+  {
+    "_id": 217,
     "Suburb": "Public Transport",
     "Site_title": "Yarra Trams- Route 75 (Burnley Street & Bridge Road Stop to Central Pier & Harbour Esplanade D4)",
     "Site_streetaddress": null,
@@ -4599,7 +4557,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 220,
+    "_id": 218,
     "Suburb": "Point Cook",
     "Site_title": "Coles - Sanctuary Lakes Shopping Centre",
     "Site_streetaddress": "300 Point Cook Road",
@@ -4620,7 +4578,7 @@
     "lon": 144.75407
   },
   {
-    "_id": 221,
+    "_id": 219,
     "Suburb": "Melbourne",
     "Site_title": "AAMI Park, Wallabies vs France match UPDATED: Anyone seated in Zone 2 (entering through Gate 7) in sections 22, 23 and 24 (Aisles 20-23, Rows A-U, Seats 378-457) ",
     "Site_streetaddress": "Olympic Boulevard",
@@ -4641,7 +4599,7 @@
     "lon": 144.9825
   },
   {
-    "_id": 222,
+    "_id": 220,
     "Suburb": "Melbourne",
     "Site_title": "AAMI Park, Wallabies vs France match UPDATED: Anyone who entered Gate 7 in specified time",
     "Site_streetaddress": "Olympic Boulevard",
@@ -4662,7 +4620,7 @@
     "lon": 144.9825
   },
   {
-    "_id": 223,
+    "_id": 221,
     "Suburb": "Cremorne",
     "Site_title": "Ms Frankie",
     "Site_streetaddress": "24 Cremorne Street",
@@ -4683,7 +4641,7 @@
     "lon": 144.9908
   },
   {
-    "_id": 224,
+    "_id": 222,
     "Suburb": "Maddingley",
     "Site_title": "Shape it Fitness ",
     "Site_streetaddress": "33 Griffith Street",
@@ -4704,7 +4662,7 @@
     "lon": 144.42381
   },
   {
-    "_id": 225,
+    "_id": 223,
     "Suburb": "Maddingley",
     "Site_title": "BP Service Station Maddingley ",
     "Site_streetaddress": "65 Grant Street",
@@ -4725,7 +4683,7 @@
     "lon": 144.43339
   },
   {
-    "_id": 226,
+    "_id": 224,
     "Suburb": "Cremorne",
     "Site_title": "Ms Frankie",
     "Site_streetaddress": "24 Cremorne Street",
@@ -4746,7 +4704,7 @@
     "lon": 144.9908
   },
   {
-    "_id": 227,
+    "_id": 225,
     "Suburb": "Cremorne",
     "Site_title": "Ms Frankie",
     "Site_streetaddress": "24 Cremorne Street",
@@ -4767,7 +4725,7 @@
     "lon": 144.9908
   },
   {
-    "_id": 228,
+    "_id": 226,
     "Suburb": "Cremorne",
     "Site_title": "Ms Frankie",
     "Site_streetaddress": "24 Cremorne Street",
@@ -4788,7 +4746,7 @@
     "lon": 144.9908
   },
   {
-    "_id": 229,
+    "_id": 227,
     "Suburb": "Melbourne",
     "Site_title": "AAMI Park, Wallabies v France match UPDATED: All others in Zone 2 (see notes)",
     "Site_streetaddress": "Olympic Boulevard",
@@ -4807,6 +4765,48 @@
     "Exposure_time_end_24": "22:00:00",
     "lat": -37.82387,
     "lon": 144.9825
+  },
+  {
+    "_id": 228,
+    "Suburb": "Summerlands",
+    "Site_title": "The Nobbies, Phillip Island Nature Parks",
+    "Site_streetaddress": "1320 Ventnor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-14",
+    "Exposure_date": "14/07/2021",
+    "Exposure_time": "4:30pm - 5:30pm",
+    "Notes": "NOTE: Updated day and time. Case attended venue",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "17:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:30:00",
+    "Exposure_time_end_24": "17:30:00",
+    "lat": -38.51724,
+    "lon": 145.11844
+  },
+  {
+    "_id": 229,
+    "Suburb": "Summerlands",
+    "Site_title": "The Nobbies, Phillip Island Nature Parks - Churchill Island Walk",
+    "Site_streetaddress": "1320 Ventnor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-13",
+    "Exposure_date": "13/07/2021",
+    "Exposure_time": "3:32pm - 4:06pm",
+    "Notes": "NOTE: Updated time. Case attended venue",
+    "Added_date_dtm": "2021-07-18",
+    "Added_date": "18/07/2021",
+    "Added_time": "17:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:32:00",
+    "Exposure_time_end_24": "16:06:00",
+    "lat": -38.51724,
+    "lon": 145.11844
   },
   {
     "_id": 230,
@@ -5531,15 +5531,15 @@
     "Site_postcode": null,
     "Exposure_date_dtm": "2021-07-15",
     "Exposure_date": "15/07/2021",
-    "Exposure_time": "5:12pm - 6:20pm",
+    "Exposure_time": "5:19pm - 5:50pm",
     "Notes": "Case travelled on train",
     "Added_date_dtm": "2021-07-18",
     "Added_date": "18/07/2021",
     "Added_time": "23:00:00",
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "17:12:00",
-    "Exposure_time_end_24": "18:20:00",
+    "Exposure_time_start_24": "17:19:00",
+    "Exposure_time_end_24": "17:50:00",
     "lat": -37.720932990471994,
     "lon": 144.96134294776056
   },
@@ -5552,15 +5552,15 @@
     "Site_postcode": null,
     "Exposure_date_dtm": "2021-07-14",
     "Exposure_date": "14/07/2021",
-    "Exposure_time": "7:10am - 8:20am",
+    "Exposure_time": "7:16am - 7:46am",
     "Notes": "Case travelled on train",
     "Added_date_dtm": "2021-07-18",
     "Added_date": "18/07/2021",
     "Added_time": "23:00:00",
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "07:10:00",
-    "Exposure_time_end_24": "08:20:00",
+    "Exposure_time_start_24": "07:16:00",
+    "Exposure_time_end_24": "07:46:00",
     "lat": -37.720932990471994,
     "lon": 144.96134294776056
   },
@@ -5573,7 +5573,7 @@
     "Site_postcode": null,
     "Exposure_date_dtm": "2021-07-14",
     "Exposure_date": "14/07/2021",
-    "Exposure_time": "5:37pm - 6:39pm",
+    "Exposure_time": "5:37pm - 6:08pm",
     "Notes": "Case travelled on train",
     "Added_date_dtm": "2021-07-18",
     "Added_date": "18/07/2021",
@@ -5581,7 +5581,7 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "17:37:00",
-    "Exposure_time_end_24": "18:39:00",
+    "Exposure_time_end_24": "18:08:00",
     "lat": -37.720932990471994,
     "lon": 144.96134294776056
   },
@@ -5836,5 +5836,26 @@
     "Exposure_time_end_24": "23:45:00",
     "lat": -37.80988,
     "lon": 144.99578
+  },
+  {
+    "_id": 279,
+    "Suburb": "Cowes",
+    "Site_title": "Coles Cowes",
+    "Site_streetaddress": "Cnr Church & Thompson Ave",
+    "Site_state": "VIC",
+    "Site_postcode": "3922",
+    "Exposure_date_dtm": "2021-07-13",
+    "Exposure_date": "13/07/2021",
+    "Exposure_time": "5:00pm - 5:20pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-19",
+    "Added_date": "19/07/2021",
+    "Added_time": "00:07:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:00:00",
+    "Exposure_time_end_24": "17:20:00",
+    "lat": -38.45587,
+    "lon": 145.23899
   }
 ]
