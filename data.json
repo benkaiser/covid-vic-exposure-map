@@ -611,7 +611,7 @@
   {
     "_id": 41,
     "Suburb": "Bundoora",
-    "Site_title": "Puma Australia- DFO Uni Hill",
+    "Site_title": "Puma Australia - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -737,7 +737,7 @@
   {
     "_id": 42,
     "Suburb": "Bundoora",
-    "Site_title": "Fila- DFO Uni Hill",
+    "Site_title": "Fila - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -821,7 +821,7 @@
   {
     "_id": 38,
     "Suburb": "Campbellfield",
-    "Site_title": "Bizzler Take-Away Food",
+    "Site_title": "Bizzler Take - Away Food",
     "Site_streetaddress": "337 Barry Road",
     "Site_state": "VIC",
     "Site_postcode": "3061",
@@ -863,7 +863,7 @@
   {
     "_id": 40,
     "Suburb": "Bundoora",
-    "Site_title": "New Balance- DFO Uni Hill",
+    "Site_title": "New Balance - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -884,7 +884,7 @@
   {
     "_id": 43,
     "Suburb": "Bundoora",
-    "Site_title": "ASICS- DFO Uni Hill ",
+    "Site_title": "ASICS - DFO Uni Hill ",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -905,7 +905,7 @@
   {
     "_id": 44,
     "Suburb": "Bundoora",
-    "Site_title": "Nike- DFO Uni Hill",
+    "Site_title": "Nike - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -926,7 +926,7 @@
   {
     "_id": 45,
     "Suburb": "Bundoora",
-    "Site_title": "Under Armour- DFO Uni Hill",
+    "Site_title": "Under Armour - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -947,7 +947,7 @@
   {
     "_id": 46,
     "Suburb": "Bundoora",
-    "Site_title": "yd- DFO Uni Hill",
+    "Site_title": "yd - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -968,7 +968,7 @@
   {
     "_id": 47,
     "Suburb": "Bundoora",
-    "Site_title": "Cotton On- DFO Uni Hill",
+    "Site_title": "Cotton On - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -989,7 +989,7 @@
   {
     "_id": 48,
     "Suburb": "Bundoora",
-    "Site_title": "Adidas- DFO Uni Hill",
+    "Site_title": "Adidas - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -1010,7 +1010,7 @@
   {
     "_id": 49,
     "Suburb": "Bundoora",
-    "Site_title": "Rivers- DFO Uni Hill",
+    "Site_title": "Rivers - DFO Uni Hill",
     "Site_streetaddress": "2 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
@@ -2228,7 +2228,7 @@
   {
     "_id": 106,
     "Suburb": "Greensborough",
-    "Site_title": "Greensborough Plaza- Level 3",
+    "Site_title": "Greensborough Plaza - Level 3",
     "Site_streetaddress": "25 Main Street",
     "Site_state": "VIC",
     "Site_postcode": "3088",
@@ -2249,7 +2249,7 @@
   {
     "_id": 107,
     "Suburb": "Greensborough",
-    "Site_title": "Greensborough Plaza- Food Court",
+    "Site_title": "Greensborough Plaza - Food Court",
     "Site_streetaddress": "25 Main Street",
     "Site_state": "VIC",
     "Site_postcode": "3088",
@@ -3215,7 +3215,7 @@
   {
     "_id": 152,
     "Suburb": "Public Transport",
-    "Site_title": "Metro Trains - Glen Waverley Line. Holmesglen Station to Richmond Station",
+    "Site_title": "Metro Trains - Glen Waverley Line (Holmesglen Station to Richmond Station)",
     "Site_streetaddress": null,
     "Site_state": "VIC",
     "Site_postcode": null,
@@ -3236,7 +3236,7 @@
   {
     "_id": 153,
     "Suburb": "Public Transport",
-    "Site_title": "Metro Trains- Glen Waverley Line. Richmond Station to Holmesglen Station",
+    "Site_title": "Metro Trains - Glen Waverley Line (Richmond Station to Holmesglen Station)",
     "Site_streetaddress": null,
     "Site_state": "VIC",
     "Site_postcode": null,
@@ -3404,7 +3404,7 @@
   {
     "_id": 160,
     "Suburb": "Public Transport",
-    "Site_title": "Metro Trains - Glen Waverley Line. Holmesglen Station to Richmond Station",
+    "Site_title": "Metro Trains - Glen Waverley Line (Holmesglen Station to Richmond Station)",
     "Site_streetaddress": null,
     "Site_state": "VIC",
     "Site_postcode": null,
@@ -4391,7 +4391,7 @@
   {
     "_id": 210,
     "Suburb": "Public Transport",
-    "Site_title": "Yarra Trams- Route 72 Camberwell Station & Burke Road Stop 64 to Cotham Road & Whitehorse Road Stop 70",
+    "Site_title": "Yarra Trams- Route 72 (Camberwell Station & Burke Road Stop 64 to Cotham Road & Whitehorse Road Stop 70)",
     "Site_streetaddress": null,
     "Site_state": "VIC",
     "Site_postcode": null,
