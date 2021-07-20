@@ -1807,7 +1807,7 @@
   },
   {
     "_id": 86,
-    "Suburb": "Chadstone",
+    "Suburb": "Malvern East (Chadstone)",
     "Site_title": "ZiNG Pop Culture - Chadstone Shopping Centre",
     "Site_streetaddress": "1341 Dandenong Road",
     "Site_state": "VIC",
@@ -1828,7 +1828,7 @@
   },
   {
     "_id": 87,
-    "Suburb": "Chadstone",
+    "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Target - Chadstone Shopping Centre",
     "Site_streetaddress": "1341 Dandenong Road",
     "Site_state": "VIC",
@@ -1849,7 +1849,7 @@
   },
   {
     "_id": 88,
-    "Suburb": "Chadstone",
+    "Suburb": "Malvern East (Chadstone)",
     "Site_title": "Kmart - Chadstone Shopping Centre",
     "Site_streetaddress": "1341 Dandenong Road",
     "Site_state": "VIC",
@@ -6681,7 +6681,7 @@
     "_id": 319,
     "Suburb": "Fitzroy",
     "Site_title": "Cafe Marion",
-    "Site_streetaddress": "53 Gertrude St\t",
+    "Site_streetaddress": "53 Gertrude St",
     "Site_state": "VIC",
     "Site_postcode": "3065",
     "Exposure_date_dtm": "2021-07-16",
@@ -6701,8 +6701,8 @@
   {
     "_id": 320,
     "Suburb": "Ringwood",
-    "Site_title": "Ringwood Mazda\t",
-    "Site_streetaddress": "395 Maroondah Hwy\t",
+    "Site_title": "Ringwood Mazda",
+    "Site_streetaddress": "395 Maroondah Hwy",
     "Site_state": "VIC",
     "Site_postcode": "3134",
     "Exposure_date_dtm": "2021-07-14",
