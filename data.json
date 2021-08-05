@@ -252,6 +252,27 @@
     "lon": 144.74206
   },
   {
+    "_id": 19,
+    "Suburb": "Spotswood",
+    "Site_title": "Elite Sports Performance Gym",
+    "Site_streetaddress": "14/2 Burleigh Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "6:50am - 8:20am",
+    "Notes": "Case attended venue ",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "10:20:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "06:50:00",
+    "Exposure_time_end_24": "08:20:00",
+    "lat": -37.83514,
+    "lon": 144.88602
+  },
+  {
     "_id": 13,
     "Suburb": "Altona North",
     "Site_title": "Newport Football Club (A W Langshaw Reserve)",
@@ -376,27 +397,6 @@
     "Exposure_time_end_24": "11:35:00",
     "lat": -37.82691,
     "lon": 144.84776
-  },
-  {
-    "_id": 19,
-    "Suburb": "Spotswood",
-    "Site_title": "Elite Sports Performance Gym",
-    "Site_streetaddress": "14/2 Burleigh Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3025",
-    "Exposure_date_dtm": "2021-08-03",
-    "Exposure_date": "03/08/2021",
-    "Exposure_time": "6:50am - 8:20am",
-    "Notes": "Case attended venue ",
-    "Added_date_dtm": "2021-08-05",
-    "Added_date": "05/08/2021",
-    "Added_time": "10:20:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "06:50:00",
-    "Exposure_time_end_24": "08:20:00",
-    "lat": -37.83514,
-    "lon": 144.88602
   },
   {
     "_id": 20,
@@ -715,6 +715,27 @@
   },
   {
     "_id": 35,
+    "Suburb": "Maribyrnong",
+    "Site_title": "Highpoint Food Court (Level 3)",
+    "Site_streetaddress": "120-200 Rosamond Road\t",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "Exposure_date_dtm": "2021-07-31",
+    "Exposure_date": "31/07/2021",
+    "Exposure_time": "12:30pm - 2:00pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "05:20:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "12:30:00",
+    "Exposure_time_end_24": "14:00:00",
+    "lat": -37.77342,
+    "lon": 144.88641
+  },
+  {
+    "_id": 36,
     "Suburb": "Braybrook",
     "Site_title": "One Stop WorkWear",
     "Site_streetaddress": "306A Ballarat Road",
@@ -735,7 +756,7 @@
     "lon": 144.85264
   },
   {
-    "_id": 36,
+    "_id": 37,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Shopping Centre (Level 2)",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -756,7 +777,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 37,
+    "_id": 38,
     "Suburb": "Maribyrnong",
     "Site_title": "Lowes - Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -777,7 +798,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 38,
+    "_id": 39,
     "Suburb": "Maribyrnong",
     "Site_title": "Bad Workwear - Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -798,7 +819,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 39,
+    "_id": 40,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -819,7 +840,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 40,
+    "_id": 41,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -840,7 +861,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 41,
+    "_id": 42,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -861,7 +882,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 42,
+    "_id": 43,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -882,7 +903,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 43,
+    "_id": 44,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -903,7 +924,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 44,
+    "_id": 45,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -924,7 +945,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 45,
+    "_id": 46,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -945,7 +966,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 46,
+    "_id": 47,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -966,7 +987,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 47,
+    "_id": 48,
     "Suburb": "Yarraville",
     "Site_title": "Coles (Yarraville)",
     "Site_streetaddress": "Williamstown Road and High Street",
@@ -987,7 +1008,7 @@
     "lon": 144.88256
   },
   {
-    "_id": 48,
+    "_id": 49,
     "Suburb": "Altona North",
     "Site_title": "Body Fit Training Altona North",
     "Site_streetaddress": "18 Bennett Drive",
@@ -1008,7 +1029,7 @@
     "lon": 144.84232
   },
   {
-    "_id": 49,
+    "_id": 50,
     "Suburb": "Doncaster",
     "Site_title": "Woolworths Doncaster - Devon Plaza",
     "Site_streetaddress": "958/978 Doncaster Road",
@@ -1029,7 +1050,7 @@
     "lon": 145.12406
   },
   {
-    "_id": 50,
+    "_id": 51,
     "Suburb": "Hawthorn",
     "Site_title": "Balmoral Apartment Complex Hawthorn (Robinson Road Building)",
     "Site_streetaddress": "190 Riversdale Road",
@@ -1050,7 +1071,7 @@
     "lon": 145.04224
   },
   {
-    "_id": 51,
+    "_id": 52,
     "Suburb": "Hawthorn",
     "Site_title": "Balmoral Apartment Complex Hawthorn (Robinson Road Building)",
     "Site_streetaddress": "190 Riversdale Road",
@@ -1071,7 +1092,7 @@
     "lon": 145.04224
   },
   {
-    "_id": 52,
+    "_id": 53,
     "Suburb": "Hawthorn",
     "Site_title": "Balmoral Apartment Complex Hawthorn (Robinson Road Building)",
     "Site_streetaddress": "190 Riversdale Road",
@@ -1092,7 +1113,7 @@
     "lon": 145.04224
   },
   {
-    "_id": 53,
+    "_id": 54,
     "Suburb": "Moonee Ponds",
     "Site_title": "Moonee Valley Racecourse Drive-Through Testing Site",
     "Site_streetaddress": "1 McPherson Street",
@@ -1113,7 +1134,7 @@
     "lon": 144.92721
   },
   {
-    "_id": 54,
+    "_id": 55,
     "Suburb": "Moonee Ponds",
     "Site_title": "Moonee Valley Racecourse Drive-Through Testing Site",
     "Site_streetaddress": "1 McPherson Street",
@@ -1134,7 +1155,7 @@
     "lon": 144.92721
   },
   {
-    "_id": 55,
+    "_id": 56,
     "Suburb": "Frankston South",
     "Site_title": "Chemist Warehouse Baxter",
     "Site_streetaddress": "284/286 Frankston - Flinders Road",
@@ -1155,7 +1176,7 @@
     "lon": 145.14166
   },
   {
-    "_id": 56,
+    "_id": 57,
     "Suburb": "Frankston",
     "Site_title": "Ritchies IGA Liquor (Towerhill)",
     "Site_streetaddress": "6/145 Moorooduc Highway",
@@ -1176,7 +1197,7 @@
     "lon": 145.13954
   },
   {
-    "_id": 57,
+    "_id": 58,
     "Suburb": "Altona North",
     "Site_title": "Woolworths (Borrack Square)",
     "Site_streetaddress": "2/32 Borrack Square",
@@ -1197,7 +1218,7 @@
     "lon": 144.84642
   },
   {
-    "_id": 58,
+    "_id": 59,
     "Suburb": "Yarraville",
     "Site_title": "7-Eleven (Yarraville)",
     "Site_streetaddress": "Corner of Williamstown Road and Somerville Road",
@@ -1218,7 +1239,7 @@
     "lon": 144.88347
   },
   {
-    "_id": 59,
+    "_id": 60,
     "Suburb": "Frankston",
     "Site_title": "Karingal Hub Shopping Centre",
     "Site_streetaddress": "330 Cranbourne Road",
@@ -1239,7 +1260,7 @@
     "lon": 145.16555
   },
   {
-    "_id": 60,
+    "_id": 61,
     "Suburb": "Frankston",
     "Site_title": "Coles Supermarket (Karingal Hub Shopping Centre)",
     "Site_streetaddress": "Corner of Cranbourne Road and Karingal Drive",
@@ -1260,7 +1281,7 @@
     "lon": 145.16221
   },
   {
-    "_id": 61,
+    "_id": 62,
     "Suburb": "Frankston South",
     "Site_title": "United Petroleum Baxter",
     "Site_streetaddress": "284 Frankston-Flinders Road",
@@ -1281,7 +1302,7 @@
     "lon": 145.14084
   },
   {
-    "_id": 62,
+    "_id": 63,
     "Suburb": "Hawthorn ",
     "Site_title": "H Hawthorn Apartment Complex",
     "Site_streetaddress": "147 Riversdale Road\t",
@@ -1302,7 +1323,7 @@
     "lon": 145.0389
   },
   {
-    "_id": 63,
+    "_id": 64,
     "Suburb": "Docklands",
     "Site_title": "LaCrosse Building",
     "Site_streetaddress": "673 La Trobe Street",
@@ -1310,27 +1331,6 @@
     "Site_postcode": "3008",
     "Exposure_date_dtm": "2021-07-21",
     "Exposure_date": "21/07/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Tier 1 - Case attended venue. NOTE: Get tested immediately and quarantine for 14 days from exposure. Anyone who has visited this location during these times should urgently get tested, then isolate until you receive further advice from the department. The current risk tier is subject to review as more information comes to hand. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Added_date_dtm": "2021-07-23",
-    "Added_date": "23/07/2021",
-    "Added_time": "22:50:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.8146,
-    "lon": 144.94731
-  },
-  {
-    "_id": 64,
-    "Suburb": "Docklands",
-    "Site_title": "LaCrosse Building",
-    "Site_streetaddress": "673 La Trobe Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3008",
-    "Exposure_date_dtm": "2021-07-22",
-    "Exposure_date": "22/07/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Tier 1 - Case attended venue. NOTE: Get tested immediately and quarantine for 14 days from exposure. Anyone who has visited this location during these times should urgently get tested, then isolate until you receive further advice from the department. The current risk tier is subject to review as more information comes to hand. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Added_date_dtm": "2021-07-23",
@@ -1350,8 +1350,8 @@
     "Site_streetaddress": "673 La Trobe Street",
     "Site_state": "VIC",
     "Site_postcode": "3008",
-    "Exposure_date_dtm": "2021-07-23",
-    "Exposure_date": "23/07/2021",
+    "Exposure_date_dtm": "2021-07-22",
+    "Exposure_date": "22/07/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Tier 1 - Case attended venue. NOTE: Get tested immediately and quarantine for 14 days from exposure. Anyone who has visited this location during these times should urgently get tested, then isolate until you receive further advice from the department. The current risk tier is subject to review as more information comes to hand. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Added_date_dtm": "2021-07-23",
@@ -1365,112 +1365,7 @@
     "lon": 144.94731
   },
   {
-    "_id": 66,
-    "Suburb": "Hawthorn",
-    "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
-    "Site_streetaddress": "190 Riversdale Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3122",
-    "Exposure_date_dtm": "2021-07-21",
-    "Exposure_date": "21/07/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-23",
-    "Added_date": "23/07/2021",
-    "Added_time": "21:30:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.82985,
-    "lon": 145.04224
-  },
-  {
-    "_id": 67,
-    "Suburb": "Hawthorn",
-    "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
-    "Site_streetaddress": "190 Riversdale Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3122",
-    "Exposure_date_dtm": "2021-07-22",
-    "Exposure_date": "22/07/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-23",
-    "Added_date": "23/07/2021",
-    "Added_time": "21:30:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.82985,
-    "lon": 145.04224
-  },
-  {
-    "_id": 68,
-    "Suburb": "Hawthorn",
-    "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
-    "Site_streetaddress": "190 Riversdale Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3122",
-    "Exposure_date_dtm": "2021-07-23",
-    "Exposure_date": "23/07/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-23",
-    "Added_date": "23/07/2021",
-    "Added_time": "21:30:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "lat": -37.82985,
-    "lon": 145.04224
-  },
-  {
-    "_id": 69,
-    "Suburb": "Hawthorn East",
-    "Site_title": "Shell Coles Express Auburndale",
-    "Site_streetaddress": "185 Riversdale Road (Corner Hunter Street)",
-    "Site_state": "VIC",
-    "Site_postcode": "3123",
-    "Exposure_date_dtm": "2021-07-21",
-    "Exposure_date": "21/07/2021",
-    "Exposure_time": "6:30pm - 7:15pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-23",
-    "Added_date": "23/07/2021",
-    "Added_time": "20:38:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "18:30:00",
-    "Exposure_time_end_24": "19:15:00",
-    "lat": -37.83065,
-    "lon": 145.05012
-  },
-  {
-    "_id": 70,
-    "Suburb": "Hawthorn East",
-    "Site_title": "Thirsty Camel Bottleshop",
-    "Site_streetaddress": "238 Riversdale Road\t",
-    "Site_state": "VIC",
-    "Site_postcode": "3123",
-    "Exposure_date_dtm": "2021-07-21",
-    "Exposure_date": "21/07/2021",
-    "Exposure_time": "6:30pm - 7:10pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-07-23",
-    "Added_date": "23/07/2021",
-    "Added_time": "20:38:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "18:30:00",
-    "Exposure_time_end_24": "19:10:00",
-    "lat": -37.83006,
-    "lon": 145.04477
-  },
-  {
-    "_id": 71,
+    "_id": 72,
     "Suburb": "Camberwell",
     "Site_title": "Woolworths Camberwell",
     "Site_streetaddress": "5/57 Station Street\t",
@@ -1491,7 +1386,133 @@
     "lon": 145.05858
   },
   {
-    "_id": 72,
+    "_id": 66,
+    "Suburb": "Docklands",
+    "Site_title": "LaCrosse Building",
+    "Site_streetaddress": "673 La Trobe Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "Exposure_date_dtm": "2021-07-23",
+    "Exposure_date": "23/07/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Tier 1 - Case attended venue. NOTE: Get tested immediately and quarantine for 14 days from exposure. Anyone who has visited this location during these times should urgently get tested, then isolate until you receive further advice from the department. The current risk tier is subject to review as more information comes to hand. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Added_date_dtm": "2021-07-23",
+    "Added_date": "23/07/2021",
+    "Added_time": "22:50:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.8146,
+    "lon": 144.94731
+  },
+  {
+    "_id": 67,
+    "Suburb": "Hawthorn",
+    "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
+    "Site_streetaddress": "190 Riversdale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3122",
+    "Exposure_date_dtm": "2021-07-21",
+    "Exposure_date": "21/07/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-23",
+    "Added_date": "23/07/2021",
+    "Added_time": "21:30:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.82985,
+    "lon": 145.04224
+  },
+  {
+    "_id": 68,
+    "Suburb": "Hawthorn",
+    "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
+    "Site_streetaddress": "190 Riversdale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3122",
+    "Exposure_date_dtm": "2021-07-22",
+    "Exposure_date": "22/07/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-23",
+    "Added_date": "23/07/2021",
+    "Added_time": "21:30:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.82985,
+    "lon": 145.04224
+  },
+  {
+    "_id": 69,
+    "Suburb": "Hawthorn",
+    "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
+    "Site_streetaddress": "190 Riversdale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3122",
+    "Exposure_date_dtm": "2021-07-23",
+    "Exposure_date": "23/07/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-23",
+    "Added_date": "23/07/2021",
+    "Added_time": "21:30:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -37.82985,
+    "lon": 145.04224
+  },
+  {
+    "_id": 70,
+    "Suburb": "Hawthorn East",
+    "Site_title": "Shell Coles Express Auburndale",
+    "Site_streetaddress": "185 Riversdale Road (Corner Hunter Street)",
+    "Site_state": "VIC",
+    "Site_postcode": "3123",
+    "Exposure_date_dtm": "2021-07-21",
+    "Exposure_date": "21/07/2021",
+    "Exposure_time": "6:30pm - 7:15pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-23",
+    "Added_date": "23/07/2021",
+    "Added_time": "20:38:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "18:30:00",
+    "Exposure_time_end_24": "19:15:00",
+    "lat": -37.83065,
+    "lon": 145.05012
+  },
+  {
+    "_id": 71,
+    "Suburb": "Hawthorn East",
+    "Site_title": "Thirsty Camel Bottleshop",
+    "Site_streetaddress": "238 Riversdale Road\t",
+    "Site_state": "VIC",
+    "Site_postcode": "3123",
+    "Exposure_date_dtm": "2021-07-21",
+    "Exposure_date": "21/07/2021",
+    "Exposure_time": "6:30pm - 7:10pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-07-23",
+    "Added_date": "23/07/2021",
+    "Added_time": "20:38:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "18:30:00",
+    "Exposure_time_end_24": "19:10:00",
+    "lat": -37.83006,
+    "lon": 145.04477
+  },
+  {
+    "_id": 73,
     "Suburb": "Hawthorn",
     "Site_title": "Renaissance Hawthorn IGA Plus Liquor",
     "Site_streetaddress": "550 Glenferrie Road",
@@ -1512,7 +1533,7 @@
     "lon": 145.0345
   },
   {
-    "_id": 73,
+    "_id": 74,
     "Suburb": "Public Transport",
     "Site_title": "Yarra Trams - Route 86 (La Trobe/Spencer Street, Stop 119 to Swanston/Bourke Street, Stop 6)",
     "Site_streetaddress": null,
@@ -1533,7 +1554,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 74,
+    "_id": 75,
     "Suburb": "Public Transport",
     "Site_title": "Yarra Trams - Route 86 (Elizabeth/Bourke Street, Stop 5 to La Trobe/Spencer Street, Stop 119)",
     "Site_streetaddress": null,
@@ -1554,7 +1575,7 @@
     "lon": 144.96134294776056
   },
   {
-    "_id": 75,
+    "_id": 76,
     "Suburb": "Richmond",
     "Site_title": "ARK Richmond Apartment Complex",
     "Site_streetaddress": "253 Bridge Road\t",
@@ -1575,7 +1596,7 @@
     "lon": 144.9979
   },
   {
-    "_id": 76,
+    "_id": 77,
     "Suburb": "Hawthorn",
     "Site_title": "H Hawthorn Apartment Complex",
     "Site_streetaddress": "147 Riversdale Road\t",
@@ -1596,7 +1617,7 @@
     "lon": 145.0389
   },
   {
-    "_id": 77,
+    "_id": 78,
     "Suburb": "Cremorne",
     "Site_title": "Aparthotel Cremorne Apartment Complex",
     "Site_streetaddress": "381 Punt Road",
@@ -1617,7 +1638,7 @@
     "lon": 144.98891
   },
   {
-    "_id": 78,
+    "_id": 79,
     "Suburb": "Cremorne",
     "Site_title": "Aparthotel Cremorne Apartment Complex",
     "Site_streetaddress": "381 Punt Road",
@@ -1638,7 +1659,7 @@
     "lon": 144.98891
   },
   {
-    "_id": 79,
+    "_id": 80,
     "Suburb": "Camberwell",
     "Site_title": "Anderson Park Apartment Complex",
     "Site_streetaddress": "585 Burke Road",
@@ -1659,7 +1680,7 @@
     "lon": 145.05457
   },
   {
-    "_id": 80,
+    "_id": 81,
     "Suburb": "Camberwell",
     "Site_title": "Anderson Park Apartment Complex",
     "Site_streetaddress": "585 Burke Road",
