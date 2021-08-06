@@ -1,6 +1,69 @@
 [
   {
     "_id": 1,
+    "Suburb": "Tarneit",
+    "Site_title": "Coles - Tarneit Shopping Centre",
+    "Site_streetaddress": "540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
+    "Exposure_time": "6:25pm - 6:55pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "22:15:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "18:25:00",
+    "Exposure_time_end_24": "18:55:00",
+    "lat": -37.83541,
+    "lon": 144.6952
+  },
+  {
+    "_id": 2,
+    "Suburb": "Tarneit",
+    "Site_title": "Aldi Tarneit",
+    "Site_streetaddress": "380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-04",
+    "Exposure_date": "04/08/2021",
+    "Exposure_time": "4:45pm - 5:30pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "22:10:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:45:00",
+    "Exposure_time_end_24": "17:30:00",
+    "lat": -37.85001,
+    "lon": 144.70482
+  },
+  {
+    "_id": 3,
+    "Suburb": "Tarneit",
+    "Site_title": "Western Fresh Fruit & Veg - Wyndham Village Shopping Centre\n",
+    "Site_streetaddress": "12/380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "4:15pm - 4:55pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "21:40:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:15:00",
+    "Exposure_time_end_24": "16:55:00",
+    "lat": -37.85001,
+    "lon": 144.70482
+  },
+  {
+    "_id": 4,
     "Suburb": "Truganina",
     "Site_title": "United Petroleum Truganina",
     "Site_streetaddress": "451 Leakes Road",
@@ -21,10 +84,10 @@
     "lon": 144.73026
   },
   {
-    "_id": 2,
+    "_id": 5,
     "Suburb": "Tarneit",
     "Site_title": "Oporto - Tarneit Shopping Centre",
-    "Site_streetaddress": "Pad Site 2, 540 Derrimut Rd",
+    "Site_streetaddress": "Pad Site 2, 540 Derrimut Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
     "Exposure_date_dtm": "2021-08-02",
@@ -42,7 +105,7 @@
     "lon": 144.6952
   },
   {
-    "_id": 3,
+    "_id": 6,
     "Suburb": "Caroline Springs",
     "Site_title": "Dorevitch Pathology Collection Caroline Springs",
     "Site_streetaddress": "228-232 Caroline Spring Blvd",
@@ -63,7 +126,7 @@
     "lon": 144.74184
   },
   {
-    "_id": 4,
+    "_id": 7,
     "Suburb": "Caroline Springs",
     "Site_title": "Active Medical Centre Caroline Springs",
     "Site_streetaddress": "228-232 Caroline Spring Blvd",
@@ -84,75 +147,12 @@
     "lon": 144.74184
   },
   {
-    "_id": 5,
-    "Suburb": "Werribee",
-    "Site_title": "Heathdale Christian College (Werribee Campus)",
-    "Site_streetaddress": "175 Derrimut Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-08-03",
-    "Exposure_date": "03/08/2021",
-    "Exposure_time": "8:30am - 4:00pm",
-    "Notes": "Case attended venue. Includes all staff, students, families and visitors. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-08-06",
-    "Added_date": "06/08/2021",
-    "Added_time": "17:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "16:00:00",
-    "lat": -37.88076,
-    "lon": 144.682
-  },
-  {
-    "_id": 6,
-    "Suburb": "Werribee",
-    "Site_title": "Heathdale Christian College (Werribee Campus)",
-    "Site_streetaddress": "175 Derrimut Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-08-04",
-    "Exposure_date": "04/08/2021",
-    "Exposure_time": "8:30am - 4:00pm",
-    "Notes": "Case attended venue. Includes all staff, students, families and visitors. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-08-06",
-    "Added_date": "06/08/2021",
-    "Added_time": "17:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "16:00:00",
-    "lat": -37.88076,
-    "lon": 144.682
-  },
-  {
-    "_id": 7,
-    "Suburb": "Werribee",
-    "Site_title": "Heathdale Christian College (Werribee Campus)",
-    "Site_streetaddress": "175 Derrimut Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-08-05",
-    "Exposure_date": "05/08/2021",
-    "Exposure_time": "8:30am - 4:00pm",
-    "Notes": "Case attended venue. Includes all staff, students, families and visitors. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-08-06",
-    "Added_date": "06/08/2021",
-    "Added_time": "17:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "16:00:00",
-    "lat": -37.88076,
-    "lon": 144.682
-  },
-  {
     "_id": 8,
-    "Suburb": "Hoppers Crossing",
-    "Site_title": "Warringa Park School (Warringa Crescent Campus)",
-    "Site_streetaddress": "81-85 Warringa Crescent",
+    "Suburb": "Werribee",
+    "Site_title": "Heathdale Christian College (Werribee Campus)",
+    "Site_streetaddress": "175 Derrimut Road",
     "Site_state": "VIC",
-    "Site_postcode": "3029",
+    "Site_postcode": "3030",
     "Exposure_date_dtm": "2021-08-03",
     "Exposure_date": "03/08/2021",
     "Exposure_time": "8:30am - 4:00pm",
@@ -164,16 +164,16 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "08:30:00",
     "Exposure_time_end_24": "16:00:00",
-    "lat": -37.88396,
-    "lon": 144.68761
+    "lat": -37.88076,
+    "lon": 144.682
   },
   {
     "_id": 9,
-    "Suburb": "Hoppers Crossing",
-    "Site_title": "Warringa Park School (Warringa Crescent Campus)",
-    "Site_streetaddress": "81-85 Warringa Crescent",
+    "Suburb": "Werribee",
+    "Site_title": "Heathdale Christian College (Werribee Campus)",
+    "Site_streetaddress": "175 Derrimut Road",
     "Site_state": "VIC",
-    "Site_postcode": "3029",
+    "Site_postcode": "3030",
     "Exposure_date_dtm": "2021-08-04",
     "Exposure_date": "04/08/2021",
     "Exposure_time": "8:30am - 4:00pm",
@@ -185,16 +185,16 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "08:30:00",
     "Exposure_time_end_24": "16:00:00",
-    "lat": -37.88396,
-    "lon": 144.68761
+    "lat": -37.88076,
+    "lon": 144.682
   },
   {
     "_id": 10,
-    "Suburb": "Hoppers Crossing",
-    "Site_title": "Warringa Park School (Warringa Crescent Campus)",
-    "Site_streetaddress": "81-85 Warringa Crescent",
+    "Suburb": "Werribee",
+    "Site_title": "Heathdale Christian College (Werribee Campus)",
+    "Site_streetaddress": "175 Derrimut Road",
     "Site_state": "VIC",
-    "Site_postcode": "3029",
+    "Site_postcode": "3030",
     "Exposure_date_dtm": "2021-08-05",
     "Exposure_date": "05/08/2021",
     "Exposure_time": "8:30am - 4:00pm",
@@ -206,53 +206,11 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "08:30:00",
     "Exposure_time_end_24": "16:00:00",
-    "lat": -37.88396,
-    "lon": 144.68761
+    "lat": -37.88076,
+    "lon": 144.682
   },
   {
-    "_id": 11,
-    "Suburb": "Altona North",
-    "Site_title": "Bayfit Leisure Centre",
-    "Site_streetaddress": "257 Mason Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3025",
-    "Exposure_date_dtm": "2021-08-02",
-    "Exposure_date": "02/08/2021",
-    "Exposure_time": "8:54am - 10:30am",
-    "Notes": "Case attended venue. Applies to all other areas of the centre not detailed in the separate Tier 1 exposure listing.",
-    "Added_date_dtm": "2021-08-06",
-    "Added_date": "06/08/2021",
-    "Added_time": "16:11:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:54:00",
-    "Exposure_time_end_24": "10:30:00",
-    "lat": -37.84011,
-    "lon": 144.85609
-  },
-  {
-    "_id": 12,
-    "Suburb": "Altona North",
-    "Site_title": "Bayfit Leisure Centre",
-    "Site_streetaddress": " 257 Mason Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3025",
-    "Exposure_date_dtm": "2021-08-02",
-    "Exposure_date": "02/08/2021",
-    "Exposure_time": "8:54am - 10:30am",
-    "Notes": "\nUPDATED: Applies to anyone who entered the 25m swimming pool from 8:55-10:15 OR the female change rooms from 9:45-10:30. Case attended venue.",
-    "Added_date_dtm": "2021-08-06",
-    "Added_date": "06/08/2021",
-    "Added_time": "15:53:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:54:00",
-    "Exposure_time_end_24": "10:30:00",
-    "lat": -37.84011,
-    "lon": 144.85609
-  },
-  {
-    "_id": 13,
+    "_id": 16,
     "Suburb": "Newport",
     "Site_title": "Newport 1881 Coffee - Pastries",
     "Site_streetaddress": "34A Mason Street\t",
@@ -273,7 +231,112 @@
     "lon": 144.8797
   },
   {
+    "_id": 11,
+    "Suburb": "Hoppers Crossing",
+    "Site_title": "Warringa Park School (Warringa Crescent Campus)",
+    "Site_streetaddress": "81-85 Warringa Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "8:30am - 4:00pm",
+    "Notes": "Case attended venue. Includes all staff, students, families and visitors. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "17:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "16:00:00",
+    "lat": -37.88396,
+    "lon": 144.68761
+  },
+  {
+    "_id": 12,
+    "Suburb": "Hoppers Crossing",
+    "Site_title": "Warringa Park School (Warringa Crescent Campus)",
+    "Site_streetaddress": "81-85 Warringa Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-04",
+    "Exposure_date": "04/08/2021",
+    "Exposure_time": "8:30am - 4:00pm",
+    "Notes": "Case attended venue. Includes all staff, students, families and visitors. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "17:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "16:00:00",
+    "lat": -37.88396,
+    "lon": 144.68761
+  },
+  {
+    "_id": 13,
+    "Suburb": "Hoppers Crossing",
+    "Site_title": "Warringa Park School (Warringa Crescent Campus)",
+    "Site_streetaddress": "81-85 Warringa Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-05",
+    "Exposure_date": "05/08/2021",
+    "Exposure_time": "8:30am - 4:00pm",
+    "Notes": "Case attended venue. Includes all staff, students, families and visitors. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "17:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "16:00:00",
+    "lat": -37.88396,
+    "lon": 144.68761
+  },
+  {
     "_id": 14,
+    "Suburb": "Altona North",
+    "Site_title": "Bayfit Leisure Centre",
+    "Site_streetaddress": "257 Mason Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
+    "Exposure_time": "8:54am - 10:30am",
+    "Notes": "Case attended venue. Applies to all other areas of the centre not detailed in the separate Tier 1 exposure listing.",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "16:11:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:54:00",
+    "Exposure_time_end_24": "10:30:00",
+    "lat": -37.84011,
+    "lon": 144.85609
+  },
+  {
+    "_id": 15,
+    "Suburb": "Altona North",
+    "Site_title": "Bayfit Leisure Centre",
+    "Site_streetaddress": " 257 Mason Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
+    "Exposure_time": "8:54am - 10:30am",
+    "Notes": "\nUPDATED: Applies to anyone who entered the 25m swimming pool from 8:55-10:15 OR the female change rooms from 9:45-10:30. Case attended venue.",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "15:53:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:54:00",
+    "Exposure_time_end_24": "10:30:00",
+    "lat": -37.84011,
+    "lon": 144.85609
+  },
+  {
+    "_id": 17,
     "Suburb": "Flight",
     "Site_title": "Virgin Flight VA808 Sydney to Melbourne\t",
     "Site_streetaddress": null,
@@ -294,7 +357,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 15,
+    "_id": 18,
     "Suburb": "Flight",
     "Site_title": "Virgin Flight VA1364 Melbourne to Launceston        ",
     "Site_streetaddress": null,
@@ -315,7 +378,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 16,
+    "_id": 19,
     "Suburb": "Flight",
     "Site_title": "Melbourne Airport Terminal 3\t",
     "Site_streetaddress": null,
@@ -336,7 +399,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 17,
+    "_id": 20,
     "Suburb": "Braybrook",
     "Site_title": "ALDI West Footscray - Central West Shopping Centre",
     "Site_streetaddress": "67 Ashley Street",
@@ -357,7 +420,7 @@
     "lon": 144.86279
   },
   {
-    "_id": 18,
+    "_id": 21,
     "Suburb": "Footscray",
     "Site_title": "Kmart Footscray",
     "Site_streetaddress": "51 Paisley Street",
@@ -378,7 +441,7 @@
     "lon": 144.89771
   },
   {
-    "_id": 19,
+    "_id": 22,
     "Suburb": "Braybrook",
     "Site_title": "Metro Petroleum (Petrol Station)",
     "Site_streetaddress": "263 Ballarat Road\t",
@@ -399,7 +462,7 @@
     "lon": 144.859
   },
   {
-    "_id": 20,
+    "_id": 23,
     "Suburb": "Braybrook",
     "Site_title": "Eco Laundry - Central West Shopping Centre",
     "Site_streetaddress": "T36/67 Ashley Street",
@@ -420,7 +483,7 @@
     "lon": 144.86279
   },
   {
-    "_id": 21,
+    "_id": 24,
     "Suburb": "Braybrook",
     "Site_title": "ALDI West Footscray - Central West Shopping Centre",
     "Site_streetaddress": "67 Ashley Street",
@@ -441,7 +504,7 @@
     "lon": 144.86279
   },
   {
-    "_id": 22,
+    "_id": 25,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Food Court (Level 3)",
     "Site_streetaddress": "120-200 Rosamond Road\t",
@@ -462,7 +525,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 23,
+    "_id": 26,
     "Suburb": "Braybrook",
     "Site_title": "One Stop WorkWear",
     "Site_streetaddress": "306A Ballarat Road",
@@ -483,7 +546,7 @@
     "lon": 144.85264
   },
   {
-    "_id": 24,
+    "_id": 27,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Shopping Centre (Level 2)",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -504,7 +567,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 25,
+    "_id": 28,
     "Suburb": "Maribyrnong",
     "Site_title": "Lowes - Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -525,7 +588,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 26,
+    "_id": 29,
     "Suburb": "Maribyrnong",
     "Site_title": "Bad Workwear - Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -546,7 +609,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 27,
+    "_id": 30,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -567,7 +630,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 28,
+    "_id": 31,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -588,7 +651,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 29,
+    "_id": 32,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -609,91 +672,91 @@
     "lon": 144.76173
   },
   {
-    "_id": 30,
-    "Suburb": "Derrimut",
-    "Site_title": "National Auto Glass Supplies (Derrimut)",
-    "Site_streetaddress": "31 Benn Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3026",
-    "Exposure_date_dtm": "2021-08-02",
-    "Exposure_date": "02/08/2021",
-    "Exposure_time": "7:00am - 3:45pm",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-08-05",
-    "Added_date": "05/08/2021",
-    "Added_time": "17:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:45:00",
-    "lat": -37.80602,
-    "lon": 144.76173
-  },
-  {
-    "_id": 31,
-    "Suburb": "Derrimut",
-    "Site_title": "National Auto Glass Supplies (Derrimut)",
-    "Site_streetaddress": "31 Benn Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3026",
-    "Exposure_date_dtm": "2021-08-03",
-    "Exposure_date": "03/08/2021",
-    "Exposure_time": "7:00am - 3:45pm",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-08-05",
-    "Added_date": "05/08/2021",
-    "Added_time": "17:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:45:00",
-    "lat": -37.80602,
-    "lon": 144.76173
-  },
-  {
-    "_id": 32,
-    "Suburb": "Truganina",
-    "Site_title": "Al-Taqwa College",
-    "Site_streetaddress": "201 Sayers Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-08-02",
-    "Exposure_date": "02/08/2021",
-    "Exposure_time": "8:30am - 5:00pm",
-    "Notes": "Includes all staff, students, families and visitors",
-    "Added_date_dtm": "2021-08-05",
-    "Added_date": "05/08/2021",
-    "Added_time": "15:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "17:00:00",
-    "lat": -37.85227,
-    "lon": 144.72199
-  },
-  {
     "_id": 33,
-    "Suburb": "Truganina",
-    "Site_title": "Al-Taqwa College",
-    "Site_streetaddress": "201 Sayers Road",
+    "Suburb": "Derrimut",
+    "Site_title": "National Auto Glass Supplies (Derrimut)",
+    "Site_streetaddress": "31 Benn Court",
     "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-08-03",
-    "Exposure_date": "03/08/2021",
-    "Exposure_time": "8:30am - 5:00pm",
-    "Notes": "Includes all staff, students, families and visitors",
+    "Site_postcode": "3026",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
+    "Exposure_time": "7:00am - 3:45pm",
+    "Notes": "Case attended venue\r",
     "Added_date_dtm": "2021-08-05",
     "Added_date": "05/08/2021",
-    "Added_time": "15:10:00",
+    "Added_time": "17:10:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "17:00:00",
-    "lat": -37.85227,
-    "lon": 144.72199
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "15:45:00",
+    "lat": -37.80602,
+    "lon": 144.76173
   },
   {
     "_id": 34,
+    "Suburb": "Derrimut",
+    "Site_title": "National Auto Glass Supplies (Derrimut)",
+    "Site_streetaddress": "31 Benn Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "7:00am - 3:45pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "17:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "15:45:00",
+    "lat": -37.80602,
+    "lon": 144.76173
+  },
+  {
+    "_id": 35,
+    "Suburb": "Truganina",
+    "Site_title": "Al-Taqwa College",
+    "Site_streetaddress": "201 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
+    "Exposure_time": "8:30am - 5:00pm",
+    "Notes": "Includes all staff, students, families and visitors",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "15:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "17:00:00",
+    "lat": -37.85227,
+    "lon": 144.72199
+  },
+  {
+    "_id": 36,
+    "Suburb": "Truganina",
+    "Site_title": "Al-Taqwa College",
+    "Site_streetaddress": "201 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "8:30am - 5:00pm",
+    "Notes": "Includes all staff, students, families and visitors",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "15:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "17:00:00",
+    "lat": -37.85227,
+    "lon": 144.72199
+  },
+  {
+    "_id": 37,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -714,7 +777,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 35,
+    "_id": 38,
     "Suburb": "Altona North",
     "Site_title": "Aldi - Millers Junction Village",
     "Site_streetaddress": "302/330 Millers Road",
@@ -735,7 +798,7 @@
     "lon": 144.84571
   },
   {
-    "_id": 36,
+    "_id": 39,
     "Suburb": "Laverton North",
     "Site_title": "Poultry Palace",
     "Site_streetaddress": "74 Pipe Road",
@@ -756,7 +819,7 @@
     "lon": 144.80452
   },
   {
-    "_id": 37,
+    "_id": 40,
     "Suburb": "Caroline Springs",
     "Site_title": "Spectacle Hub - CS Square",
     "Site_streetaddress": "29 - 35 Lake Street",
@@ -777,7 +840,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 38,
+    "_id": 41,
     "Suburb": "Caroline Springs",
     "Site_title": "Spectacle Hub - CS Square",
     "Site_streetaddress": "29 - 35 Lake Street",
@@ -798,7 +861,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 39,
+    "_id": 42,
     "Suburb": "Caroline Springs",
     "Site_title": "Male Toilets next to Aldi (CS Square Centre, Caroline Springs)",
     "Site_streetaddress": "29-35 Lake Street",
@@ -819,7 +882,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 40,
+    "_id": 43,
     "Suburb": "Caroline Springs",
     "Site_title": "Male Toilets next to Aldi (CS Square Centre, Caroline Springs)",
     "Site_streetaddress": "29-35 Lake Street",
@@ -840,7 +903,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 41,
+    "_id": 44,
     "Suburb": "Caroline Springs",
     "Site_title": "Male Toilets next to Aldi (CS Square Centre, Caroline Springs)",
     "Site_streetaddress": "29-35 Lake Street",
@@ -861,7 +924,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 42,
+    "_id": 45,
     "Suburb": "Caroline Springs",
     "Site_title": "Male Toilets next to Aldi (CS Square Centre, Caroline Springs)",
     "Site_streetaddress": "29-35 Lake Street",
@@ -882,7 +945,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 43,
+    "_id": 46,
     "Suburb": "Altona North",
     "Site_title": "Newport Football Club (A W Langshaw Reserve)",
     "Site_streetaddress": "Fifth Avenue\r\n",
@@ -903,7 +966,7 @@
     "lon": 144.85038
   },
   {
-    "_id": 44,
+    "_id": 47,
     "Suburb": "West Footscray",
     "Site_title": "Shorten Reserve - Newport Football Club VS West Footscray Football Club match",
     "Site_streetaddress": "81 Essex Street",
@@ -924,7 +987,7 @@
     "lon": 144.87862
   },
   {
-    "_id": 45,
+    "_id": 48,
     "Suburb": "Altona North",
     "Site_title": "Pharmacy 4 Less",
     "Site_streetaddress": "290-330 Millers Road Miller's Junction Retail Shop T01A",
@@ -945,7 +1008,7 @@
     "lon": 144.84587
   },
   {
-    "_id": 46,
+    "_id": 49,
     "Suburb": "Caroline Springs",
     "Site_title": "Da Barber House - CS Square",
     "Site_streetaddress": "Shop 30/52 Lake Street",
@@ -966,7 +1029,7 @@
     "lon": 144.745
   },
   {
-    "_id": 47,
+    "_id": 50,
     "Suburb": "Altona North",
     "Site_title": "Wolf Cafe & Eatery",
     "Site_streetaddress": "21 Lobelia Drive",
@@ -987,7 +1050,7 @@
     "lon": 144.84193
   },
   {
-    "_id": 48,
+    "_id": 51,
     "Suburb": "Altona North",
     "Site_title": "Caltex Woolworths Altona North",
     "Site_streetaddress": "Corner Duosa Road and Langshaw Street",
@@ -1008,7 +1071,7 @@
     "lon": 144.84776
   },
   {
-    "_id": 49,
+    "_id": 52,
     "Suburb": "Spotswood",
     "Site_title": "Elite Sports Performance Gym",
     "Site_streetaddress": "14/2 Burleigh Street",
@@ -1029,7 +1092,7 @@
     "lon": 144.88602
   },
   {
-    "_id": 50,
+    "_id": 53,
     "Suburb": "Altona North",
     "Site_title": "Elm Rd Family Clinic",
     "Site_streetaddress": "290-330 Millers road Millers Junction Village",
@@ -1050,7 +1113,7 @@
     "lon": 144.84587
   },
   {
-    "_id": 51,
+    "_id": 54,
     "Suburb": "Newport",
     "Site_title": "Star Pizza & Pasta Cafe",
     "Site_streetaddress": "206 Mason Street\t",
@@ -1071,7 +1134,7 @@
     "lon": 144.86528
   },
   {
-    "_id": 52,
+    "_id": 55,
     "Suburb": "Caroline Springs",
     "Site_title": "NAB Branch - CS Square",
     "Site_streetaddress": "Shop 40/29-35 Lake street\t",
@@ -1092,7 +1155,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 53,
+    "_id": 56,
     "Suburb": "Newport",
     "Site_title": "Newport 1881 Coffee - Pastries",
     "Site_streetaddress": "34A Mason Street\t",
@@ -1113,7 +1176,7 @@
     "lon": 144.8797
   },
   {
-    "_id": 54,
+    "_id": 57,
     "Suburb": "Caroline Springs",
     "Site_title": "Woolworths Caroline Springs",
     "Site_streetaddress": "8 Commercial Road",
@@ -1134,7 +1197,7 @@
     "lon": 144.74258
   },
   {
-    "_id": 55,
+    "_id": 58,
     "Suburb": "Newport",
     "Site_title": "Newport 1881 Coffee - Pastries",
     "Site_streetaddress": "34A Mason Street\t",
@@ -1155,7 +1218,7 @@
     "lon": 144.8797
   },
   {
-    "_id": 56,
+    "_id": 59,
     "Suburb": "Caroline Springs",
     "Site_title": "Spectacle Hub - CS Square",
     "Site_streetaddress": "L01 063, 29 -35 Lake Street",
@@ -1176,7 +1239,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 57,
+    "_id": 60,
     "Suburb": "Caroline Springs",
     "Site_title": "Spectacle Hub - CS Square",
     "Site_streetaddress": "L01 063, 29 -35 Lake Street",
@@ -1197,7 +1260,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 58,
+    "_id": 61,
     "Suburb": "Caroline Springs",
     "Site_title": "Spectacle Hub - CS Square",
     "Site_streetaddress": "L01 063, 29 -35 Lake Street",
@@ -1218,7 +1281,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 59,
+    "_id": 62,
     "Suburb": "Caroline Springs",
     "Site_title": "Spectacle Hub - CS Square",
     "Site_streetaddress": "L01 063, 29 -35 Lake Street",
@@ -1239,7 +1302,7 @@
     "lon": 144.74206
   },
   {
-    "_id": 60,
+    "_id": 63,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -1260,7 +1323,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 61,
+    "_id": 64,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -1281,7 +1344,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 62,
+    "_id": 65,
     "Suburb": "Truganina",
     "Site_title": "Al-Taqwa College",
     "Site_streetaddress": "201 Sayers Road",
@@ -1302,7 +1365,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 63,
+    "_id": 66,
     "Suburb": "Yarraville",
     "Site_title": "Coles (Yarraville)",
     "Site_streetaddress": "Williamstown Road and High Street",
@@ -1323,7 +1386,7 @@
     "lon": 144.88256
   },
   {
-    "_id": 64,
+    "_id": 67,
     "Suburb": "Altona North",
     "Site_title": "Body Fit Training Altona North",
     "Site_streetaddress": "18 Bennett Drive",
@@ -1344,7 +1407,7 @@
     "lon": 144.84232
   },
   {
-    "_id": 65,
+    "_id": 68,
     "Suburb": "Doncaster",
     "Site_title": "Woolworths Doncaster - Devon Plaza",
     "Site_streetaddress": "958/978 Doncaster Road",
@@ -1365,7 +1428,7 @@
     "lon": 145.12406
   },
   {
-    "_id": 66,
+    "_id": 69,
     "Suburb": "Hawthorn",
     "Site_title": "Balmoral Apartment Complex Hawthorn (Robinson Road Building)",
     "Site_streetaddress": "190 Riversdale Road",
@@ -1386,7 +1449,7 @@
     "lon": 145.04224
   },
   {
-    "_id": 67,
+    "_id": 70,
     "Suburb": "Moonee Ponds",
     "Site_title": "Moonee Valley Racecourse Drive-Through Testing Site",
     "Site_streetaddress": "1 McPherson Street",
@@ -1407,7 +1470,7 @@
     "lon": 144.92721
   },
   {
-    "_id": 68,
+    "_id": 71,
     "Suburb": "Moonee Ponds",
     "Site_title": "Moonee Valley Racecourse Drive-Through Testing Site",
     "Site_streetaddress": "1 McPherson Street",
@@ -1428,7 +1491,7 @@
     "lon": 144.92721
   },
   {
-    "_id": 69,
+    "_id": 72,
     "Suburb": "Frankston South",
     "Site_title": "Chemist Warehouse Baxter",
     "Site_streetaddress": "284/286 Frankston - Flinders Road",
@@ -1449,7 +1512,7 @@
     "lon": 145.14166
   },
   {
-    "_id": 70,
+    "_id": 73,
     "Suburb": "Frankston",
     "Site_title": "Ritchies IGA Liquor (Towerhill)",
     "Site_streetaddress": "6/145 Moorooduc Highway",
@@ -1470,7 +1533,7 @@
     "lon": 145.13954
   },
   {
-    "_id": 71,
+    "_id": 74,
     "Suburb": "Altona North",
     "Site_title": "Woolworths (Borrack Square)",
     "Site_streetaddress": "2/32 Borrack Square",
@@ -1491,7 +1554,7 @@
     "lon": 144.84642
   },
   {
-    "_id": 72,
+    "_id": 75,
     "Suburb": "Yarraville",
     "Site_title": "7-Eleven (Yarraville)",
     "Site_streetaddress": "Corner of Williamstown Road and Somerville Road",
@@ -1512,7 +1575,7 @@
     "lon": 144.88347
   },
   {
-    "_id": 73,
+    "_id": 76,
     "Suburb": "Frankston",
     "Site_title": "Karingal Hub Shopping Centre",
     "Site_streetaddress": "330 Cranbourne Road",
@@ -1533,7 +1596,7 @@
     "lon": 145.16555
   },
   {
-    "_id": 74,
+    "_id": 77,
     "Suburb": "Frankston",
     "Site_title": "Coles Supermarket (Karingal Hub Shopping Centre)",
     "Site_streetaddress": "Corner of Cranbourne Road and Karingal Drive",
@@ -1554,7 +1617,7 @@
     "lon": 145.16221
   },
   {
-    "_id": 75,
+    "_id": 78,
     "Suburb": "Frankston South",
     "Site_title": "United Petroleum Baxter",
     "Site_streetaddress": "284 Frankston-Flinders Road",
@@ -1575,7 +1638,7 @@
     "lon": 145.14084
   },
   {
-    "_id": 76,
+    "_id": 79,
     "Suburb": "Docklands",
     "Site_title": "LaCrosse Building",
     "Site_streetaddress": "673 La Trobe Street",
@@ -1596,7 +1659,7 @@
     "lon": 144.94731
   },
   {
-    "_id": 77,
+    "_id": 80,
     "Suburb": "Hawthorn",
     "Site_title": "Balmoral Apartment Complex Hawthorn (Riversdale Road Building & Inverleith Road Building)",
     "Site_streetaddress": "190 Riversdale Road",
@@ -1617,7 +1680,7 @@
     "lon": 145.04224
   },
   {
-    "_id": 78,
+    "_id": 81,
     "Suburb": "Camberwell",
     "Site_title": "Anderson Park Apartment Complex",
     "Site_streetaddress": "585 Burke Road",
@@ -1638,7 +1701,7 @@
     "lon": 145.05457
   },
   {
-    "_id": 79,
+    "_id": 82,
     "Suburb": "Camberwell",
     "Site_title": "Anderson Park Apartment Complex",
     "Site_streetaddress": "585 Burke Road",
