@@ -1,6 +1,27 @@
 [
   {
     "_id": 1,
+    "Suburb": "Altona North",
+    "Site_title": "Bayfit Leisure Centre",
+    "Site_streetaddress": " 257 Mason Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
+    "Exposure_time": "8:54am - 10:30am",
+    "Notes": "\nUPDATED: Applies to anyone who entered the 25m swimming pool from 8:55-10:15 OR the female change rooms from 9:45-10:30. Case attended venue.",
+    "Added_date_dtm": "2021-08-06",
+    "Added_date": "06/08/2021",
+    "Added_time": "15:53:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:54:00",
+    "Exposure_time_end_24": "10:30:00",
+    "lat": -37.84011,
+    "lon": 144.85609
+  },
+  {
+    "_id": 2,
     "Suburb": "Newport",
     "Site_title": "Newport 1881 Coffee - Pastries",
     "Site_streetaddress": "34A Mason Street\t",
@@ -21,7 +42,7 @@
     "lon": 144.8797
   },
   {
-    "_id": 2,
+    "_id": 3,
     "Suburb": "Flight",
     "Site_title": "Virgin Flight VA808 Sydney to Melbourne\t",
     "Site_streetaddress": null,
@@ -42,7 +63,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 3,
+    "_id": 4,
     "Suburb": "Flight",
     "Site_title": "Virgin Flight VA1364 Melbourne to Launceston        ",
     "Site_streetaddress": null,
@@ -63,7 +84,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 4,
+    "_id": 5,
     "Suburb": "Flight",
     "Site_title": "Melbourne Airport Terminal 3\t",
     "Site_streetaddress": null,
@@ -84,7 +105,7 @@
     "lon": 144.75239
   },
   {
-    "_id": 5,
+    "_id": 6,
     "Suburb": "West Footscray",
     "Site_title": "ALDI West Footscray - Central West Shopping Centre",
     "Site_streetaddress": "67 Ashley Street",
@@ -105,7 +126,7 @@
     "lon": 144.86295
   },
   {
-    "_id": 6,
+    "_id": 7,
     "Suburb": "Footscray",
     "Site_title": "Kmart Footscray",
     "Site_streetaddress": "51 Paisley Street",
@@ -126,7 +147,7 @@
     "lon": 144.89771
   },
   {
-    "_id": 7,
+    "_id": 8,
     "Suburb": "Braybrook",
     "Site_title": "Metro Petroleum (Petrol Station)",
     "Site_streetaddress": "263 Ballarat Road\t",
@@ -147,7 +168,7 @@
     "lon": 144.859
   },
   {
-    "_id": 8,
+    "_id": 9,
     "Suburb": "West Footscray",
     "Site_title": "Eco Laundry - Central West Shopping Centre",
     "Site_streetaddress": "T36/67 Ashley Street",
@@ -168,7 +189,7 @@
     "lon": 144.86305
   },
   {
-    "_id": 9,
+    "_id": 10,
     "Suburb": "West Footscray",
     "Site_title": "ALDI West Footscray - Central West Shopping Centre",
     "Site_streetaddress": "67 Ashley Street",
@@ -189,7 +210,7 @@
     "lon": 144.86295
   },
   {
-    "_id": 10,
+    "_id": 11,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Food Court (Level 3)",
     "Site_streetaddress": "120-200 Rosamond Road\t",
@@ -210,7 +231,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 11,
+    "_id": 12,
     "Suburb": "Braybrook",
     "Site_title": "One Stop WorkWear",
     "Site_streetaddress": "306A Ballarat Road",
@@ -231,7 +252,7 @@
     "lon": 144.85264
   },
   {
-    "_id": 12,
+    "_id": 13,
     "Suburb": "Maribyrnong",
     "Site_title": "Highpoint Shopping Centre (Level 2)",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -252,7 +273,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 13,
+    "_id": 14,
     "Suburb": "Maribyrnong",
     "Site_title": "Lowes - Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -273,7 +294,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 14,
+    "_id": 15,
     "Suburb": "Maribyrnong",
     "Site_title": "Bad Workwear - Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -294,7 +315,7 @@
     "lon": 144.88641
   },
   {
-    "_id": 15,
+    "_id": 16,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -315,7 +336,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 16,
+    "_id": 17,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -336,7 +357,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 17,
+    "_id": 18,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -357,7 +378,7 @@
     "lon": 144.76173
   },
   {
-    "_id": 18,
+    "_id": 19,
     "Suburb": "Derrimut",
     "Site_title": "National Auto Glass Supplies (Derrimut)",
     "Site_streetaddress": "31 Benn Court",
@@ -365,27 +386,6 @@
     "Site_postcode": "3026",
     "Exposure_date_dtm": "2021-08-02",
     "Exposure_date": "02/08/2021",
-    "Exposure_time": "9:00am - 3:45pm",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-08-05",
-    "Added_date": "05/08/2021",
-    "Added_time": "17:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "15:45:00",
-    "lat": -37.80602,
-    "lon": 144.76173
-  },
-  {
-    "_id": 19,
-    "Suburb": "Derrimut",
-    "Site_title": "National Auto Glass Supplies (Derrimut)",
-    "Site_streetaddress": "31 Benn Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3026",
-    "Exposure_date_dtm": "2021-08-03",
-    "Exposure_date": "03/08/2021",
     "Exposure_time": "9:00am - 3:45pm",
     "Notes": "Case attended venue\r",
     "Added_date_dtm": "2021-08-05",
@@ -400,24 +400,24 @@
   },
   {
     "_id": 20,
-    "Suburb": "Truganina",
-    "Site_title": "Al-Taqwa College",
-    "Site_streetaddress": "201 Sayers Road",
+    "Suburb": "Derrimut",
+    "Site_title": "National Auto Glass Supplies (Derrimut)",
+    "Site_streetaddress": "31 Benn Court",
     "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-08-02",
-    "Exposure_date": "02/08/2021",
-    "Exposure_time": "8:30am - 5:00pm",
-    "Notes": "Includes all staff, students, families and visitors",
+    "Site_postcode": "3026",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "9:00am - 3:45pm",
+    "Notes": "Case attended venue\r",
     "Added_date_dtm": "2021-08-05",
     "Added_date": "05/08/2021",
-    "Added_time": "15:10:00",
+    "Added_time": "17:10:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "17:00:00",
-    "lat": -37.85227,
-    "lon": 144.72199
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "15:45:00",
+    "lat": -37.80602,
+    "lon": 144.76173
   },
   {
     "_id": 21,
@@ -426,8 +426,8 @@
     "Site_streetaddress": "201 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-08-03",
-    "Exposure_date": "03/08/2021",
+    "Exposure_date_dtm": "2021-08-02",
+    "Exposure_date": "02/08/2021",
     "Exposure_time": "8:30am - 5:00pm",
     "Notes": "Includes all staff, students, families and visitors",
     "Added_date_dtm": "2021-08-05",
@@ -447,6 +447,27 @@
     "Site_streetaddress": "201 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-08-03",
+    "Exposure_date": "03/08/2021",
+    "Exposure_time": "8:30am - 5:00pm",
+    "Notes": "Includes all staff, students, families and visitors",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "15:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "17:00:00",
+    "lat": -37.85227,
+    "lon": 144.72199
+  },
+  {
+    "_id": 23,
+    "Suburb": "Truganina",
+    "Site_title": "Al-Taqwa College",
+    "Site_streetaddress": "201 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
     "Exposure_date_dtm": "2021-08-04",
     "Exposure_date": "04/08/2021",
     "Exposure_time": "8:30am - 5:00pm",
@@ -462,7 +483,7 @@
     "lon": 144.72199
   },
   {
-    "_id": 23,
+    "_id": 24,
     "Suburb": "Altona North",
     "Site_title": "Aldi - Millers Junction Village",
     "Site_streetaddress": "302/330 Millers Road",
@@ -481,27 +502,6 @@
     "Exposure_time_end_24": "16:30:00",
     "lat": -37.84546,
     "lon": 144.84571
-  },
-  {
-    "_id": 24,
-    "Suburb": "Altona North",
-    "Site_title": "Bayfit Leisure Centre",
-    "Site_streetaddress": " 257 Mason Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3025",
-    "Exposure_date_dtm": "2021-08-02",
-    "Exposure_date": "02/08/2021",
-    "Exposure_time": "8:54am - 10:30am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-05",
-    "Added_date": "05/08/2021",
-    "Added_time": "14:14:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:54:00",
-    "Exposure_time_end_24": "10:30:00",
-    "lat": -37.84011,
-    "lon": 144.85609
   },
   {
     "_id": 25,
