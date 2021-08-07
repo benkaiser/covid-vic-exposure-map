@@ -44,7 +44,7 @@
   {
     "_id": 3,
     "Suburb": "Caroline Springs",
-    "Site_title": "Nando's - Caroline Springs Shopping Centre",
+    "Site_title": "Nando's - Central Shopping Centre",
     "Site_streetaddress": "Shop 8, 13-19 Lake Street",
     "Site_state": "VIC",
     "Site_postcode": "3023",
@@ -87,7 +87,7 @@
     "_id": 7,
     "Suburb": "St Kilda",
     "Site_title": "Citipower Centre Junction Oval Indoor Cricket Centre",
-    "Site_streetaddress": "Lakeside drive",
+    "Site_streetaddress": "Lakeside Drive",
     "Site_state": "VIC",
     "Site_postcode": "3128",
     "Exposure_date_dtm": "2021-08-04",
