@@ -8400,6 +8400,27 @@
     "lon": 144.88602
   },
   {
+    "_id": 406,
+    "Suburb": "Altona North",
+    "Site_title": "Elm Rd Family Clinic",
+    "Site_streetaddress": "290-330 Millers road Millers Junction Village",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "Exposure_date_dtm": "2021-07-31",
+    "Exposure_date": "31/07/2021",
+    "Exposure_time": "10:00am - 11:00am",
+    "Notes": "Case attended venue ",
+    "Added_date_dtm": "2021-08-05",
+    "Added_date": "05/08/2021",
+    "Added_time": "10:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "11:00:00",
+    "lat": -37.84368,
+    "lon": 144.84587
+  },
+  {
     "_id": 407,
     "Suburb": "Newport",
     "Site_title": "Star Pizza & Pasta Cafe",
