@@ -3885,6 +3885,27 @@
     "lon": 145.40958
   },
   {
+    "_id": 186,
+    "Suburb": "Shepparton",
+    "Site_title": "Greater Shepparton Secondary College - McGuire Campus",
+    "Site_streetaddress": "92-100 Wilmot Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-08-20",
+    "Exposure_date": "20/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-21",
+    "Added_date": "21/08/2021",
+    "Added_time": "16:30:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "lat": -36.39868,
+    "lon": 145.40958
+  },
+  {
     "_id": 187,
     "Suburb": "Shepparton",
     "Site_title": "Greater Shepparton Secondary College - Wanganui Campus",
