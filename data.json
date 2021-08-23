@@ -3200,7 +3200,7 @@
     "Site_postcode": "3025",
     "Exposure_date_dtm": "2021-08-15",
     "Exposure_date": "15/08/2021",
-    "Exposure_time": "9:15am - 10:35am",
+    "Exposure_time": "9:15am - 10:50am",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-08-21",
     "Added_date": "21/08/2021",
@@ -3208,7 +3208,7 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:15:00",
-    "Exposure_time_end_24": "10:35:00",
+    "Exposure_time_end_24": "10:50:00",
     "lat": -37.82865,
     "lon": 144.84745
   },
