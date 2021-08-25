@@ -786,5 +786,15 @@
     "Site_streetaddress": null,
     "Site_state": "VIC",
     "Site_postcode": null
+  },
+  {
+    "Suburb": "Public Transport",
+    "Site_title": "V/Line Train - Footscray Station to Melton Station",
+    "Site_streetaddress": null,
+    "Site_state": "VIC",
+    "Site_postcode": null,
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "lat": -37.720932990471994,
+    "lon": 144.96134294776056
   }
 ]

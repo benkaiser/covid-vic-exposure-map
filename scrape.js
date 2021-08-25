@@ -32,14 +32,16 @@ async function geocode(result) {
 }
 
 function overrideLookup(freshItem) {
-  return overrides.filter(override => itemsEqualGeo(override, freshItem))[0];
+  const strictTitle = overrides.filter(override => itemsEqualGeo(override, freshItem, true))[0];
+  return strictTitle || overrides.filter(override => itemsEqualGeo(override, freshItem, false))[0];
 }
 
-function itemsEqualGeo(item1, item2) {
+function itemsEqualGeo(item1, item2, strictTitle) {
   return item1.Suburb === item2.Suburb &&
   item1.Site_streetaddress === item2.Site_streetaddress &&
   item1.Site_state === item2.Site_state &&
-  item1.Site_postcode === item2.Site_postcode;
+  item1.Site_postcode === item2.Site_postcode &&
+  (!strictTitle || item1.Site_title === item2.Site_title);
 }
 
 fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2b-9110-74c920bede77&limit=10000')
@@ -56,6 +58,10 @@ fetch('https://www.coronavirus.vic.gov.au/sdp-ckan?resource_id=afb52611-6061-4a2
     return item;
   }).map(item => {
     const override = overrideLookup(item);
+
+    if (item._id === 28) {
+      console.log(override);
+    }
     if (override) {
       return {
         ...item,
