@@ -1178,7 +1178,7 @@
   {
     "_id": 54,
     "Suburb": "Lara",
-    "Site_title": "Lara Post Office",
+    "Site_title": "Australia Post - Lara LPO",
     "Site_streetaddress": "16A The Centreway",
     "Site_state": "VIC",
     "Site_postcode": "3212",
@@ -1199,7 +1199,7 @@
   {
     "_id": 55,
     "Suburb": "Lara",
-    "Site_title": "Lara Post Office",
+    "Site_title": "Australia Post - Lara LPO",
     "Site_streetaddress": "16A The Centreway",
     "Site_state": "VIC",
     "Site_postcode": "3212",
@@ -3677,7 +3677,7 @@
   {
     "_id": 173,
     "Suburb": "Hoppers Crossing",
-    "Site_title": "Advantage Pharmacy - Hoppers Crossing Shopping Centre\t",
+    "Site_title": "Advantage Pharmacy - Hoppers Crossing Shopping Centre",
     "Site_streetaddress": "24-48 Old Geelong Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
@@ -5420,7 +5420,7 @@
   {
     "_id": 253,
     "Suburb": "Hoppers Crossing",
-    "Site_title": "Advantage Pharmacy Hoppers Crossing",
+    "Site_title": "Advantage Pharmacy - Hoppers Crossing Shopping Centre",
     "Site_streetaddress": "Shop 1 Hoppers Crossing Shopping Centre, 24-48 Old Geelong Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
@@ -7206,7 +7206,7 @@
     "_id": 335,
     "Suburb": "Lara",
     "Site_title": "Australia Post - Lara LPO",
-    "Site_streetaddress": "16a The Centreway",
+    "Site_streetaddress": "16A The Centreway",
     "Site_state": "VIC",
     "Site_postcode": "3212",
     "Exposure_date_dtm": "2021-08-17",
@@ -9306,7 +9306,7 @@
     "_id": 443,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Poultry N More",
-    "Site_streetaddress": "Factory 2, 220 Old Geelong Road",
+    "Site_streetaddress": "2/220 Old Geelong Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
     "Exposure_date_dtm": "2021-08-19",
@@ -9320,8 +9320,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "14:35:00",
     "Exposure_time_end_24": "15:25:00",
-    "lat": -37.8753,
-    "lon": 144.71846
+    "lat": -37.88208,
+    "lon": 144.70126
   },
   {
     "_id": 444,
