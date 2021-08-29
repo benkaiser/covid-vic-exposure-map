@@ -5797,7 +5797,7 @@
   },
   {
     "_id": 274,
-    "Suburb": "Maribyrnong",
+    "Suburb": "Moonee Ponds",
     "Site_title": "Coles Express - Moonee Ponds",
     "Site_streetaddress": "783-795 Mt Alexander Road",
     "Site_state": "VIC",
@@ -5813,8 +5813,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "17:45:00",
     "Exposure_time_end_24": "18:20:00",
-    "lat": -37.77269,
-    "lon": 144.92686
+    "lat": -37.75991,
+    "lon": 144.92013
   },
   {
     "_id": 275,
