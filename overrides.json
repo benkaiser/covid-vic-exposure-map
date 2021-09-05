@@ -796,5 +796,21 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "lat": -37.720932990471994,
     "lon": 144.96134294776056
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "Building 8, 658 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "lat": -37.833097965513716,
+    "lon": 144.99621176742008
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "building 8, 658 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "lat": -37.833097965513716,
+    "lon": 144.99621176742008
   }
 ]
