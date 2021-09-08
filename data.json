@@ -4166,7 +4166,7 @@
     "Site_postcode": "3059",
     "Exposure_date_dtm": "2021-09-03",
     "Exposure_date": "03/09/2021",
-    "Exposure_time": "6:00am - 7:00am",
+    "Exposure_time": "6:00am - 3:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-05",
     "Added_date": "05/09/2021",
@@ -4174,7 +4174,7 @@
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:00:00",
-    "Exposure_time_end_24": "07:00:00",
+    "Exposure_time_end_24": "15:30:00",
     "lat": -37.65122,
     "lon": 144.89093
   },
