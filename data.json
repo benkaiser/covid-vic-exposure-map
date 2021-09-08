@@ -274,7 +274,7 @@
   },
   {
     "_id": 13,
-    "Suburb": "Craigeburn",
+    "Suburb": "Craigieburn",
     "Site_title": "Coles - Craigieburn Central",
     "Site_streetaddress": "Craigieburn Road and Windrock Avenue",
     "Site_state": "VIC",
@@ -3951,7 +3951,7 @@
     "_id": 186,
     "Suburb": "Werribee",
     "Site_title": "Woolworths Pacific Werribee",
-    "Site_streetaddress": "Shop 128, Cnr Derrimut Road and Heaths Road",
+    "Site_streetaddress": "Shop 128, Corner Derrimut Road and Heaths Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
     "Exposure_date_dtm": "2021-08-31",
