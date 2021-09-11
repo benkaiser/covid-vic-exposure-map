@@ -1116,7 +1116,7 @@
     "_id": 53,
     "Suburb": "Mildura",
     "Site_title": "Ontario Heights Playground",
-    "Site_streetaddress": "17 Rita Drive",
+    "Site_streetaddress": "31 Sherring Way",
     "Site_state": "VIC",
     "Site_postcode": "3500",
     "Exposure_date_dtm": "2021-09-04",
@@ -1130,8 +1130,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:30:00",
     "Exposure_time_end_24": "18:00:00",
-    "lat": -34.20383,
-    "lon": 142.11693
+    "lat": -34.20218,
+    "lon": 142.11864
   },
   {
     "_id": 54,
