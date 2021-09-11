@@ -20706,6 +20706,27 @@
     "lon": 144.34826
   },
   {
+    "_id": 986,
+    "Suburb": "Geelong West",
+    "Site_title": "Poco Cafe Expres",
+    "Site_streetaddress": "111 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "Exposure_date_dtm": "2021-08-29",
+    "Exposure_date": "29/08/2021",
+    "Exposure_time": "11:00am - 12:10pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-01",
+    "Added_date": "01/09/2021",
+    "Added_time": "19:20:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "11:00:00",
+    "Exposure_time_end_24": "12:10:00",
+    "lat": -38.13841,
+    "lon": 144.34853
+  },
+  {
     "_id": 987,
     "Suburb": "Southbank",
     "Site_title": "Woolworths Melbourne Square Southbank",
