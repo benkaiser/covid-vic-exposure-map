@@ -19215,6 +19215,27 @@
     "lon": 144.99699
   },
   {
+    "_id": 916,
+    "Suburb": "Rockbank",
+    "Site_title": "BP Truckstop - Western Freeway Rockbank",
+    "Site_streetaddress": "2540 Western Freeway",
+    "Site_state": "VIC",
+    "Site_postcode": "3335",
+    "Exposure_date_dtm": "2021-08-29",
+    "Exposure_date": "29/08/2021",
+    "Exposure_time": "4:50pm - 5:50pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-02",
+    "Added_date": "02/09/2021",
+    "Added_time": "14:33:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:50:00",
+    "Exposure_time_end_24": "17:50:00",
+    "lat": -37.7187,
+    "lon": 144.64422
+  },
+  {
     "_id": 917,
     "Suburb": "Mickleham",
     "Site_title": "Merrifield City Shopping Centre Mickleham",
