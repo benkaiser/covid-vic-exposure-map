@@ -420,7 +420,7 @@
   {
     "_id": 20,
     "Suburb": "Ocean Grove",
-    "Site_title": "Coles- Ocean Grove",
+    "Site_title": "Coles - Ocean Grove",
     "Site_streetaddress": "77 The Terrace",
     "Site_state": "VIC",
     "Site_postcode": "3226",
@@ -684,7 +684,7 @@
   {
     "_id": 32,
     "Suburb": "Craigieburn",
-    "Site_title": "Greenlands Fruit & Veg- Craigieburn Central",
+    "Site_title": "Greenlands Fruit & Veg - Craigieburn Central",
     "Site_streetaddress": "340 Craigieburn Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
@@ -1366,7 +1366,7 @@
   {
     "_id": 62,
     "Suburb": "Carlton North",
-    "Site_title": "A Treat of France Caf",
+    "Site_title": "A Treat of France Cafe",
     "Site_streetaddress": "765 Nicholson Street",
     "Site_state": "VIC",
     "Site_postcode": "3054",
@@ -1388,7 +1388,7 @@
   {
     "_id": 63,
     "Suburb": "Carlton North",
-    "Site_title": "A Treat of France Caf",
+    "Site_title": "A Treat of France Cafe",
     "Site_streetaddress": "765 Nicholson Street",
     "Site_state": "VIC",
     "Site_postcode": "3054",
@@ -1410,7 +1410,7 @@
   {
     "_id": 64,
     "Suburb": "Carlton North",
-    "Site_title": "A Treat of France Caf",
+    "Site_title": "A Treat of France Cafe",
     "Site_streetaddress": "765 Nicholson Street",
     "Site_state": "VIC",
     "Site_postcode": "3054",
