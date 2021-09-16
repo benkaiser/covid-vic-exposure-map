@@ -595,7 +595,7 @@
   },
   {
     "_id": 27,
-    "Suburb": "Sebastapol",
+    "Suburb": "Sebastopol",
     "Site_title": "Chemist Warehouse",
     "Site_streetaddress": "112 Albert Street",
     "Site_state": "VIC",
@@ -639,7 +639,7 @@
   },
   {
     "_id": 29,
-    "Suburb": "Sebastapol",
+    "Suburb": "Sebastopol",
     "Site_title": "Ballarat Brick Cleaning",
     "Site_streetaddress": "109 Hertford Street",
     "Site_state": "VIC",
