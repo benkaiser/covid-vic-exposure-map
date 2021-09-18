@@ -420,8 +420,8 @@
   {
     "_id": 20,
     "Suburb": "Bentleigh East",
-    "Site_title": "Guardian Childcare & Education Bentleigh East",
-    "Site_streetaddress": "236 East Boundary Road",
+    "Site_title": "Guardian Childcare & Education Bentleigh",
+    "Site_streetaddress": "31 E Boundary Road",
     "Site_state": "VIC",
     "Site_postcode": "3165",
     "Exposure_date_dtm": "2021-09-14",
@@ -436,8 +436,8 @@
     "Exposure_time_start_24": "08:30:00",
     "Exposure_time_end_24": "16:45:00",
     "dhid": "E4X8",
-    "lat": -37.91067,
-    "lon": 145.06137
+    "lat": -37.93268,
+    "lon": 145.05638
   },
   {
     "_id": 21,
