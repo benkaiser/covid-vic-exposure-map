@@ -1210,6 +1210,28 @@
     "lon": 144.72843
   },
   {
+    "_id": 69,
+    "Suburb": "Cheltenham",
+    "Site_title": "Kids House Early Learning Cheltenham ",
+    "Site_streetaddress": "337 Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3192",
+    "Exposure_date_dtm": "2021-09-10",
+    "Exposure_date": "10/09/2021",
+    "Exposure_time": "9:50am - 6:10pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-17",
+    "Added_date": "17/09/2021",
+    "Added_time": "21:20:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:50:00",
+    "Exposure_time_end_24": "18:10:00",
+    "dhid": "B8P8",
+    "lat": -37.95585,
+    "lon": 145.04012
+  },
+  {
     "_id": 56,
     "Suburb": "Sunbury",
     "Site_title": "McDonald's Sunbury",
@@ -1496,28 +1518,6 @@
     "lon": 144.9794
   },
   {
-    "_id": 69,
-    "Suburb": "Cheltenham",
-    "Site_title": "Kids House Early Learning Cheltenham ",
-    "Site_streetaddress": "337 Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3192",
-    "Exposure_date_dtm": "2021-09-10",
-    "Exposure_date": "10/09/2021",
-    "Exposure_time": "9:50am - 6:10pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-17",
-    "Added_date": "17/09/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:50:00",
-    "Exposure_time_end_24": "18:10:00",
-    "dhid": "B8P8",
-    "lat": -37.95585,
-    "lon": 145.04012
-  },
-  {
     "_id": 70,
     "Suburb": "Cheltenham",
     "Site_title": "Kids House Early Learning Cheltenham ",
@@ -1670,6 +1670,28 @@
     "dhid": "E4X8",
     "lat": -37.93268,
     "lon": 145.05638
+  },
+  {
+    "_id": 94,
+    "Suburb": "Clyde North",
+    "Site_title": "Ramlegh Park Primary School",
+    "Site_streetaddress": "34 Thoroughbred Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3978",
+    "Exposure_date_dtm": "2021-09-08",
+    "Exposure_date": "08/09/2021",
+    "Exposure_time": "8:30am - 3:25pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-17",
+    "Added_date": "17/09/2021",
+    "Added_time": "13:25:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "15:25:00",
+    "dhid": "A2A4",
+    "lat": -38.11512,
+    "lon": 145.34003
   },
   {
     "_id": 77,
@@ -1914,26 +1936,26 @@
     "lon": 144.95359
   },
   {
-    "_id": 94,
-    "Suburb": "Clyde North",
-    "Site_title": "Ramlegh Park Primary School",
-    "Site_streetaddress": "34 Thoroughbred Drive",
+    "_id": 150,
+    "Suburb": "Heidelberg West",
+    "Site_title": "TopGear Wheels and Tyres",
+    "Site_streetaddress": "619 Waterdale Road",
     "Site_state": "VIC",
-    "Site_postcode": "3978",
-    "Exposure_date_dtm": "2021-09-08",
-    "Exposure_date": "08/09/2021",
-    "Exposure_time": "8:30am - 3:25pm",
+    "Site_postcode": "3081",
+    "Exposure_date_dtm": "2021-09-09",
+    "Exposure_date": "09/09/2021",
+    "Exposure_time": "8:00am - 5:30pm",
     "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-17",
-    "Added_date": "17/09/2021",
-    "Added_time": "13:25:00",
+    "Added_date_dtm": "2021-09-16",
+    "Added_date": "16/09/2021",
+    "Added_time": "15:50:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "15:25:00",
-    "dhid": "A2A4",
-    "lat": -38.11512,
-    "lon": 145.34003
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "A9K9",
+    "lat": -37.73266,
+    "lon": 145.04914
   },
   {
     "_id": 88,
@@ -3168,14 +3190,14 @@
     "lon": 144.83296
   },
   {
-    "_id": 150,
+    "_id": 151,
     "Suburb": "Heidelberg West",
     "Site_title": "TopGear Wheels and Tyres",
     "Site_streetaddress": "619 Waterdale Road",
     "Site_state": "VIC",
     "Site_postcode": "3081",
-    "Exposure_date_dtm": "2021-09-09",
-    "Exposure_date": "09/09/2021",
+    "Exposure_date_dtm": "2021-09-10",
+    "Exposure_date": "10/09/2021",
     "Exposure_time": "8:00am - 5:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-16",
@@ -3185,7 +3207,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "17:30:00",
-    "dhid": "A9K9",
+    "dhid": "C2Y8",
     "lat": -37.73266,
     "lon": 145.04914
   },
@@ -3320,28 +3342,6 @@
     "dhid": "D4A9",
     "lat": -37.66753,
     "lon": 144.96014
-  },
-  {
-    "_id": 151,
-    "Suburb": "Heidelberg West",
-    "Site_title": "TopGear Wheels and Tyres",
-    "Site_streetaddress": "619 Waterdale Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3081",
-    "Exposure_date_dtm": "2021-09-10",
-    "Exposure_date": "10/09/2021",
-    "Exposure_time": "8:00am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-16",
-    "Added_date": "16/09/2021",
-    "Added_time": "15:50:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "C2Y8",
-    "lat": -37.73266,
-    "lon": 145.04914
   },
   {
     "_id": 152,
@@ -3916,6 +3916,28 @@
     "lon": 144.94774
   },
   {
+    "_id": 185,
+    "Suburb": "Delacombe",
+    "Site_title": "Construction Site",
+    "Site_streetaddress": "155 Majestic Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "Exposure_date_dtm": "2021-09-09",
+    "Exposure_date": "09/09/2021",
+    "Exposure_time": "9:00am - 3:30pm",
+    "Notes": "Case attended site",
+    "Added_date_dtm": "2021-09-15",
+    "Added_date": "15/09/2021",
+    "Added_time": "21:08:47",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "15:30:00",
+    "dhid": "E4S7",
+    "lat": -37.57742,
+    "lon": 143.80001
+  },
+  {
     "_id": 179,
     "Suburb": "Melbourne",
     "Site_title": "The Alfred Hospital Emergency Department Main Waiting Room",
@@ -4044,28 +4066,6 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "15:30:00",
     "dhid": "C9M5",
-    "lat": -37.57742,
-    "lon": 143.80001
-  },
-  {
-    "_id": 185,
-    "Suburb": "Delacombe",
-    "Site_title": "Construction Site",
-    "Site_streetaddress": "155 Majestic Way",
-    "Site_state": "VIC",
-    "Site_postcode": "3356",
-    "Exposure_date_dtm": "2021-09-09",
-    "Exposure_date": "09/09/2021",
-    "Exposure_time": "9:00am - 3:30pm",
-    "Notes": "Case attended site",
-    "Added_date_dtm": "2021-09-15",
-    "Added_date": "15/09/2021",
-    "Added_time": "21:08:47",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "dhid": "E4S7",
     "lat": -37.57742,
     "lon": 143.80001
   },
@@ -4202,6 +4202,28 @@
     "lon": 144.96134294776056
   },
   {
+    "_id": 202,
+    "Suburb": "Ravenhall",
+    "Site_title": "Kool Kidz Childcare Ravenhall",
+    "Site_streetaddress": "3 Nexus Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "Exposure_date_dtm": "2021-09-07",
+    "Exposure_date": "07/09/2021",
+    "Exposure_time": "8:00am - 4:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-15",
+    "Added_date": "15/09/2021",
+    "Added_time": "19:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "16:30:00",
+    "dhid": "B9K6",
+    "lat": -37.77476,
+    "lon": 144.75485
+  },
+  {
     "_id": 192,
     "Suburb": "Public Transport",
     "Site_title": "Bus Route 152 Palmers Road / Sawyers Road to Tarneit Station",
@@ -4268,6 +4290,28 @@
     "lon": 144.92165
   },
   {
+    "_id": 751,
+    "Suburb": "Malvern",
+    "Site_title": "Malvern Health & Fitness",
+    "Site_streetaddress": "1291 Malvern Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3144",
+    "Exposure_date_dtm": "2021-09-04",
+    "Exposure_date": "04/09/2021",
+    "Exposure_time": "9:00am - 8:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-07",
+    "Added_date": "07/09/2021",
+    "Added_time": "13:41:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "20:30:00",
+    "dhid": "B9J4",
+    "lat": -37.85236,
+    "lon": 145.03672
+  },
+  {
     "_id": 195,
     "Suburb": "Broadmeadows",
     "Site_title": "Gloria Jean's Coffees Broadmeadows Shopping Centre",
@@ -4310,28 +4354,6 @@
     "dhid": "C4N6",
     "lat": -37.67809,
     "lon": 144.92165
-  },
-  {
-    "_id": 202,
-    "Suburb": "Ravenhall",
-    "Site_title": "Kool Kidz Childcare Ravenhall",
-    "Site_streetaddress": "3 Nexus Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-09-07",
-    "Exposure_date": "07/09/2021",
-    "Exposure_time": "8:00am - 4:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-15",
-    "Added_date": "15/09/2021",
-    "Added_time": "19:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": "B9K6",
-    "lat": -37.77476,
-    "lon": 144.75485
   },
   {
     "_id": 197,
@@ -14352,16 +14374,16 @@
     "Site_postcode": "3064",
     "Exposure_date_dtm": "2021-09-06",
     "Exposure_date": "06/09/2021",
-    "Exposure_time": "7:00am - 9:30am",
+    "Exposure_time": "2:50pm - 4:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-07",
     "Added_date": "07/09/2021",
     "Added_time": "18:04:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "09:30:00",
-    "dhid": "E4M8",
+    "Exposure_time_start_24": "14:50:00",
+    "Exposure_time_end_24": "16:30:00",
+    "dhid": "D9M4",
     "lat": -37.61456,
     "lon": 144.94352
   },
@@ -16418,28 +16440,6 @@
     "Site_streetaddress": "8 Pearl River Road",
     "Site_state": "VIC",
     "Site_postcode": "3008",
-    "Exposure_date_dtm": "2021-09-04",
-    "Exposure_date": "04/09/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-07",
-    "Added_date": "07/09/2021",
-    "Added_time": "18:04:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "dhid": "C2F7",
-    "lat": -37.81533,
-    "lon": 144.93801
-  },
-  {
-    "_id": 747,
-    "Suburb": "Docklands",
-    "Site_title": "Apartment Complex",
-    "Site_streetaddress": "8 Pearl River Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3008",
     "Exposure_date_dtm": "2021-09-05",
     "Exposure_date": "05/09/2021",
     "Exposure_time": "12:00am - 11:59pm",
@@ -16456,7 +16456,7 @@
     "lon": 144.93801
   },
   {
-    "_id": 748,
+    "_id": 747,
     "Suburb": "Docklands",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "8 Pearl River Road",
@@ -16478,7 +16478,7 @@
     "lon": 144.93801
   },
   {
-    "_id": 749,
+    "_id": 748,
     "Suburb": "Craigieburn",
     "Site_title": "WI Building Systems",
     "Site_streetaddress": "93-95 Yellowbox Drive",
@@ -16500,7 +16500,7 @@
     "lon": 144.94352
   },
   {
-    "_id": 751,
+    "_id": 749,
     "Suburb": "Craigieburn",
     "Site_title": "WI Building Systems",
     "Site_streetaddress": "93-95 Yellowbox Drive",
@@ -16508,43 +16508,21 @@
     "Site_postcode": "3064",
     "Exposure_date_dtm": "2021-09-06",
     "Exposure_date": "06/09/2021",
-    "Exposure_time": "2:50pm - 4:30pm",
+    "Exposure_time": "7:00am - 9:30am",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-07",
     "Added_date": "07/09/2021",
     "Added_time": "18:04:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:50:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": "D9M4",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "09:30:00",
+    "dhid": "E4M8",
     "lat": -37.61456,
     "lon": 144.94352
   },
   {
     "_id": 752,
-    "Suburb": "Malvern",
-    "Site_title": "Malvern Health & Fitness",
-    "Site_streetaddress": "1291 Malvern Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3144",
-    "Exposure_date_dtm": "2021-09-04",
-    "Exposure_date": "04/09/2021",
-    "Exposure_time": "9:00am - 8:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-07",
-    "Added_date": "07/09/2021",
-    "Added_time": "13:41:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "20:30:00",
-    "dhid": "B9J4",
-    "lat": -37.85236,
-    "lon": 145.03672
-  },
-  {
-    "_id": 753,
     "Suburb": "Keilor Park",
     "Site_title": "Ferguson Plarre Bakehouse Factory",
     "Site_streetaddress": "35 Harrick Road",
@@ -16566,7 +16544,7 @@
     "lon": 144.84584
   },
   {
-    "_id": 754,
+    "_id": 753,
     "Suburb": "Chelsea",
     "Site_title": "Woolworths Chelsea",
     "Site_streetaddress": "31-33 Bath Street",
@@ -16588,7 +16566,7 @@
     "lon": 145.11572
   },
   {
-    "_id": 755,
+    "_id": 754,
     "Suburb": "Greenvale",
     "Site_title": "Construction Site Greenvale Secondary School",
     "Site_streetaddress": "2 Glencairn Drive",
@@ -16610,7 +16588,7 @@
     "lon": 144.89093
   },
   {
-    "_id": 756,
+    "_id": 755,
     "Suburb": "Campbellfield",
     "Site_title": "Coles Campbellfield Plaza",
     "Site_streetaddress": "Mahoneys Road",
@@ -16632,7 +16610,7 @@
     "lon": 144.96208
   },
   {
-    "_id": 757,
+    "_id": 756,
     "Suburb": "Moonee Ponds",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "21 Moore Street",
@@ -16654,7 +16632,7 @@
     "lon": 144.92004
   },
   {
-    "_id": 758,
+    "_id": 757,
     "Suburb": "Moonee Ponds",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "21 Moore Street",
@@ -16676,7 +16654,7 @@
     "lon": 144.92004
   },
   {
-    "_id": 759,
+    "_id": 758,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Q1 Medical Hoppers Crossing",
     "Site_streetaddress": "286-288 Derrimut Road",
@@ -16698,7 +16676,7 @@
     "lon": 144.68661
   },
   {
-    "_id": 760,
+    "_id": 759,
     "Suburb": "Docklands",
     "Site_title": "Victoria Point Apartments Docklands",
     "Site_streetaddress": "100 Harbour Esplanade",
@@ -16720,7 +16698,7 @@
     "lon": 144.94697
   },
   {
-    "_id": 761,
+    "_id": 760,
     "Suburb": "Docklands",
     "Site_title": "Victoria Point Apartments Docklands",
     "Site_streetaddress": "100 Harbour Esplanade",
@@ -16742,7 +16720,7 @@
     "lon": 144.94697
   },
   {
-    "_id": 762,
+    "_id": 761,
     "Suburb": "North Melbourne",
     "Site_title": "Nord Apartments North Melbourne",
     "Site_streetaddress": "83 Flemington Road",
@@ -16764,7 +16742,7 @@
     "lon": 144.95324
   },
   {
-    "_id": 763,
+    "_id": 762,
     "Suburb": "Doncaster",
     "Site_title": "Doncaster Land Rover",
     "Site_streetaddress": "573 Doncaster Road",
@@ -16786,7 +16764,7 @@
     "lon": 145.12167
   },
   {
-    "_id": 764,
+    "_id": 763,
     "Suburb": "Bundoora",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "21 Plenty Road",
@@ -16808,7 +16786,7 @@
     "lon": 145.05858
   },
   {
-    "_id": 765,
+    "_id": 764,
     "Suburb": "Bundoora",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "21 Plenty Road",
@@ -16830,7 +16808,7 @@
     "lon": 145.05858
   },
   {
-    "_id": 766,
+    "_id": 765,
     "Suburb": "Glenroy",
     "Site_title": "Al Haj Halal Meats",
     "Site_streetaddress": "78D Wheatsheaf Road",
@@ -16852,7 +16830,7 @@
     "lon": 144.91986
   },
   {
-    "_id": 767,
+    "_id": 766,
     "Suburb": "Rowville",
     "Site_title": "Chemist Warehouse Rowville",
     "Site_streetaddress": "1091 Stud Road",
