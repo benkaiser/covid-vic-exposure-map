@@ -1,7 +1,7 @@
 [
   {
     "_id": 1,
-    "Suburb": "Soldiers Hill",
+    "Suburb": "Ballarat",
     "Site_title": "The Cheesecake Shop Ballarat",
     "Site_streetaddress": "1213 Sturt Street",
     "Site_state": "VIC",
@@ -18,8 +18,8 @@
     "Exposure_time_start_24": "14:50:00",
     "Exposure_time_end_24": "15:35:00",
     "dhid": "C6E2",
-    "lat": -37.5513,
-    "lon": 143.86105
+    "lat": -37.5605,
+    "lon": 143.84221
   },
   {
     "_id": 2,
