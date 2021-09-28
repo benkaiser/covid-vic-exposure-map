@@ -596,7 +596,7 @@
   {
     "_id": 27,
     "Suburb": "Moonee Ponds",
-    "Site_title": "Godfrey's Butcher - Monee Ponds Central Shopping Centre",
+    "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
     "Site_streetaddress": "20 Homer Street",
     "Site_state": "VIC",
     "Site_postcode": "3039",
@@ -618,7 +618,7 @@
   {
     "_id": 28,
     "Suburb": "Moonee Ponds",
-    "Site_title": "Godfrey's Butcher - Monee Ponds Central Shopping Centre",
+    "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
     "Site_streetaddress": "20 Homer Street",
     "Site_state": "VIC",
     "Site_postcode": "3039",
@@ -1328,7 +1328,7 @@
     "Site_postcode": "3218",
     "Exposure_date_dtm": "2021-09-18",
     "Exposure_date": "18/09/2021",
-    "Exposure_time": "2:00pm - 4:30pm",
+    "Exposure_time": "2:00pm - 5:35pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-27",
     "Added_date": "27/09/2021",
@@ -1336,7 +1336,7 @@
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:00:00",
-    "Exposure_time_end_24": "16:30:00",
+    "Exposure_time_end_24": "17:35:00",
     "dhid": "A6P8",
     "lat": -38.13764,
     "lon": 144.34865
