@@ -399,7 +399,7 @@
     "_id": 16,
     "Suburb": "Traralgon",
     "Site_title": "Woolworths Traralgon",
-    "Site_streetaddress": "116 Hotham Street",
+    "Site_streetaddress": "Seymour Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
     "Exposure_date_dtm": "2021-09-26",
@@ -414,8 +414,8 @@
     "Exposure_time_start_24": "17:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "A3N6",
-    "lat": -38.19685,
-    "lon": 146.53371
+    "lat": -38.19601,
+    "lon": 146.53541
   },
   {
     "_id": 17,
