@@ -180,7 +180,12 @@ const tierMarker = {
 function getWorstTier(resultGroup) {
   let tier = 3;
   resultGroup.forEach(result => {
-    const resultTier = parseInt(result.Advice_title.match(/(\d+)/)[0]);
+    let resultTier = 3;
+    try {
+      resultTier = parseInt(result.Advice_title.match(/(\d+)/)[0]);
+    } catch (e) {
+      console.log(e);
+    }
     tier = Math.min(resultTier, tier);
   });
   return 'tier' + tier;

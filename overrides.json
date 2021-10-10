@@ -812,5 +812,14 @@
     "Site_postcode": "3121",
     "lat": -37.833097965513716,
     "lon": 144.99621176742008
+  },
+  {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "16-22 Hutton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "lat": -37.75541,
+    "lon": 144.99622
   }
 ]
