@@ -267,7 +267,7 @@
     "_id": 13,
     "Suburb": "Halls Gap",
     "Site_title": "Grampians Adventure Golf, Cafe & MOCO Gallery",
-    "Site_streetaddress": "Halls Gap",
+    "Site_streetaddress": "475-481 Grampians Road",
     "Site_state": "VIC",
     "Site_postcode": "3381",
     "Exposure_date_dtm": "2021-10-10",
@@ -282,8 +282,8 @@
     "Exposure_time_start_24": "11:15:00",
     "Exposure_time_end_24": "13:00:00",
     "dhid": null,
-    "lat": -37.19407,
-    "lon": 142.60899
+    "lat": -37.17181,
+    "lon": 142.53777
   },
   {
     "_id": 14,
@@ -530,7 +530,7 @@
   {
     "_id": 27,
     "Suburb": "Shepparton",
-    "Site_title": "IGA Caf - Fairley's SUPA IGA",
+    "Site_title": "IGA Cafe - Fairley's SUPA IGA",
     "Site_streetaddress": "177-193 Numurkah Road",
     "Site_state": "VIC",
     "Site_postcode": "3630",
