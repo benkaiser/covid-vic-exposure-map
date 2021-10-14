@@ -1,6 +1,28 @@
 [
   {
     "_id": 1,
+    "Suburb": "Torquay",
+    "Site_title": "Two Sugars on The Esplanade",
+    "Site_streetaddress": "1-2/40 The Esplanade",
+    "Site_state": "VIC",
+    "Site_postcode": "3228",
+    "Exposure_date_dtm": "2021-10-09",
+    "Exposure_date": "09/10/2021",
+    "Exposure_time": "8:00pm - 10:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-14",
+    "Added_date": "14/10/2021",
+    "Added_time": "11:55:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "20:00:00",
+    "Exposure_time_end_24": "22:00:00",
+    "dhid": null,
+    "lat": -38.33912,
+    "lon": 144.32448
+  },
+  {
+    "_id": 2,
     "Suburb": "Warrnambool",
     "Site_title": "Pavillion Cafe and Bar",
     "Site_streetaddress": "50 Viaduct Road",
@@ -22,7 +44,7 @@
     "lon": 142.47894
   },
   {
-    "_id": 2,
+    "_id": 3,
     "Suburb": "Warrnambool",
     "Site_title": "Ichiban Izakaya Japanese Restaurant",
     "Site_streetaddress": "134 Koroit Street",
@@ -44,7 +66,7 @@
     "lon": 142.48333
   },
   {
-    "_id": 3,
+    "_id": 4,
     "Suburb": "Geelong",
     "Site_title": "Golden Dragon Restaurant",
     "Site_streetaddress": "154A Moorabool Street",
@@ -66,7 +88,7 @@
     "lon": 144.35948
   },
   {
-    "_id": 4,
+    "_id": 5,
     "Suburb": "Geelong",
     "Site_title": "Village Cinema - Screening of \"Candy Man\"",
     "Site_streetaddress": "194-200 Ryrie Street",
@@ -88,7 +110,7 @@
     "lon": 144.36104
   },
   {
-    "_id": 5,
+    "_id": 6,
     "Suburb": "Warragul",
     "Site_title": "La Passion Cafe and Restaurant",
     "Site_streetaddress": "71 Queen Street",
@@ -110,7 +132,7 @@
     "lon": 145.93065
   },
   {
-    "_id": 6,
+    "_id": 7,
     "Suburb": "Geelong",
     "Site_title": "The Commun Ne Feine Hotel",
     "Site_streetaddress": "209 Bellerine Street",
@@ -132,7 +154,7 @@
     "lon": 144.36212
   },
   {
-    "_id": 7,
+    "_id": 8,
     "Suburb": "Geelong",
     "Site_title": "The Commun Ne Feine Hotel",
     "Site_streetaddress": "209 Bellerine Street",
@@ -154,7 +176,7 @@
     "lon": 144.36212
   },
   {
-    "_id": 8,
+    "_id": 9,
     "Suburb": "Stawell",
     "Site_title": "Industry & Co. Barbering and Hairdressing",
     "Site_streetaddress": "112 Main Street",
@@ -176,7 +198,7 @@
     "lon": 142.78099
   },
   {
-    "_id": 9,
+    "_id": 10,
     "Suburb": "Halls Gap",
     "Site_title": "Spirit of Punjab",
     "Site_streetaddress": "161-163 Grampians Road",
@@ -198,7 +220,7 @@
     "lon": 142.52177
   },
   {
-    "_id": 10,
+    "_id": 11,
     "Suburb": "Halls Gap",
     "Site_title": "Paper Scissors Rock Brew Co.",
     "Site_streetaddress": "119 Grampians Road",
@@ -220,7 +242,7 @@
     "lon": 142.51932
   },
   {
-    "_id": 11,
+    "_id": 12,
     "Suburb": "Halls Gap",
     "Site_title": "Livefast Cafe",
     "Site_streetaddress": "97 Grampians Road",
@@ -242,7 +264,7 @@
     "lon": 142.5193
   },
   {
-    "_id": 12,
+    "_id": 13,
     "Suburb": "Halls Gap",
     "Site_title": "Flame Brothers Restaurant & Bar",
     "Site_streetaddress": "10/97 Grampians Road",
@@ -264,7 +286,7 @@
     "lon": 142.52099
   },
   {
-    "_id": 13,
+    "_id": 14,
     "Suburb": "Halls Gap",
     "Site_title": "Grampians Adventure Golf, Cafe & MOCO Gallery",
     "Site_streetaddress": "475-481 Grampians Road",
@@ -286,7 +308,7 @@
     "lon": 142.53777
   },
   {
-    "_id": 14,
+    "_id": 15,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -308,7 +330,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 15,
+    "_id": 16,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -330,7 +352,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 16,
+    "_id": 17,
     "Suburb": "Geelong",
     "Site_title": "Upstate Studios Geelong",
     "Site_streetaddress": "205 Moorabool Street",
@@ -352,7 +374,7 @@
     "lon": 144.35947
   },
   {
-    "_id": 17,
+    "_id": 18,
     "Suburb": "Geelong",
     "Site_title": "Upstate Studios Geelong",
     "Site_streetaddress": "205 Moorabool Street",
@@ -374,7 +396,7 @@
     "lon": 144.35947
   },
   {
-    "_id": 18,
+    "_id": 19,
     "Suburb": "Swan Hill",
     "Site_title": "Clikk Hair Design by Stacey",
     "Site_streetaddress": "137 Campbell Street",
@@ -396,7 +418,7 @@
     "lon": 143.55953
   },
   {
-    "_id": 19,
+    "_id": 20,
     "Suburb": "Torquay",
     "Site_title": "Bomboras Torquay",
     "Site_streetaddress": "37 The Esplanade",
@@ -418,7 +440,7 @@
     "lon": 144.32603
   },
   {
-    "_id": 20,
+    "_id": 21,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars Torquay",
     "Site_streetaddress": "Shop 1-2/40 The Esplanade",
@@ -440,7 +462,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 23,
+    "_id": 24,
     "Suburb": "South Ballarat",
     "Site_title": "Ballarat Body and Soul Genesis 24/7 Gym",
     "Site_streetaddress": "950 Humffray Street",
@@ -462,7 +484,7 @@
     "lon": 143.8496
   },
   {
-    "_id": 24,
+    "_id": 25,
     "Suburb": "Geelong",
     "Site_title": "Biryani King",
     "Site_streetaddress": "39 Malop Street",
@@ -484,7 +506,7 @@
     "lon": 144.36009
   },
   {
-    "_id": 25,
+    "_id": 26,
     "Suburb": "Geelong",
     "Site_title": "Biryani King",
     "Site_streetaddress": "39 Malop Street",
@@ -506,7 +528,7 @@
     "lon": 144.36009
   },
   {
-    "_id": 26,
+    "_id": 27,
     "Suburb": "Geelong",
     "Site_title": "2Cousins Shisha Hookah Lounge and Cafe",
     "Site_streetaddress": "130 Moorabool Street",
@@ -528,7 +550,7 @@
     "lon": 144.35994
   },
   {
-    "_id": 27,
+    "_id": 28,
     "Suburb": "Shepparton",
     "Site_title": "IGA Cafe - Fairley's SUPA IGA",
     "Site_streetaddress": "177-193 Numurkah Road",
@@ -550,7 +572,7 @@
     "lon": 145.40248
   },
   {
-    "_id": 28,
+    "_id": 29,
     "Suburb": "Wangaratta",
     "Site_title": "Wangaratta RSL",
     "Site_streetaddress": "2-4 Templeton Street",
@@ -572,7 +594,7 @@
     "lon": 146.32665
   },
   {
-    "_id": 29,
+    "_id": 30,
     "Suburb": "Wangaratta",
     "Site_title": "Pinsent Hotel",
     "Site_streetaddress": "20 Reid Street",
@@ -594,7 +616,7 @@
     "lon": 146.32781
   },
   {
-    "_id": 30,
+    "_id": 31,
     "Suburb": "Wangaratta",
     "Site_title": "The Old 'N' Country Tavern",
     "Site_streetaddress": "182/174 Greta Road",
@@ -614,28 +636,6 @@
     "dhid": null,
     "lat": -36.37684,
     "lon": 146.30726
-  },
-  {
-    "_id": 31,
-    "Suburb": "Trafalgar",
-    "Site_title": "Alto Motor",
-    "Site_streetaddress": "Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3824",
-    "Exposure_date_dtm": "2021-10-08",
-    "Exposure_date": "08/10/2021",
-    "Exposure_time": "8:00am - 4:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-12",
-    "Added_date": "12/10/2021",
-    "Added_time": "22:47:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": null,
-    "lat": -38.20889,
-    "lon": 146.14559
   },
   {
     "_id": 32,
