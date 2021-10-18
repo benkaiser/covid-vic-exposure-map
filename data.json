@@ -353,28 +353,6 @@
   },
   {
     "_id": 17,
-    "Suburb": "Geelong West",
-    "Site_title": "Squires Loft and Yeah Boy",
-    "Site_streetaddress": "76 Preston Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3218",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "7:30pm - 10:15pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-15",
-    "Added_date": "15/10/2021",
-    "Added_time": "22:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "19:30:00",
-    "Exposure_time_end_24": "22:15:00",
-    "dhid": null,
-    "lat": -38.1398,
-    "lon": 144.34887
-  },
-  {
-    "_id": 18,
     "Suburb": "Ballarat Central",
     "Site_title": "Oscar's Hotel and Caf Bar ",
     "Site_streetaddress": "18 Doveton Street South",
@@ -396,7 +374,7 @@
     "lon": 143.85449
   },
   {
-    "_id": 19,
+    "_id": 18,
     "Suburb": "Point Wilson",
     "Site_title": "Austrak Concrete Factory",
     "Site_streetaddress": "570 Dandos Road",
@@ -418,7 +396,7 @@
     "lon": 144.48264
   },
   {
-    "_id": 20,
+    "_id": 19,
     "Suburb": "Avenel",
     "Site_title": "Imperial Hotel Avenel - Hop Back Brewery",
     "Site_streetaddress": "17 Mitchell Street",
@@ -440,7 +418,7 @@
     "lon": 145.23593
   },
   {
-    "_id": 21,
+    "_id": 20,
     "Suburb": "Colac",
     "Site_title": "Piano Bar Colac",
     "Site_streetaddress": "47-49 Hesse Street",
@@ -462,7 +440,7 @@
     "lon": 143.58948
   },
   {
-    "_id": 22,
+    "_id": 21,
     "Suburb": "Winchelsea",
     "Site_title": "Winchelsea Hotel",
     "Site_streetaddress": "20 Willis Street",
@@ -484,7 +462,7 @@
     "lon": 143.99298
   },
   {
-    "_id": 23,
+    "_id": 22,
     "Suburb": "Essendon",
     "Site_title": "KFC Niddrie",
     "Site_streetaddress": "99-101A Keilor Road",
@@ -506,7 +484,7 @@
     "lon": 144.90355
   },
   {
-    "_id": 24,
+    "_id": 23,
     "Suburb": "Grovedale",
     "Site_title": "The Grovedale Hotel Gaming Room",
     "Site_streetaddress": "236-258 Torquay Road",
@@ -528,7 +506,7 @@
     "lon": 144.34117
   },
   {
-    "_id": 25,
+    "_id": 24,
     "Suburb": "Newtown",
     "Site_title": "St Lord's Gaming Room (Lord of the Isles)",
     "Site_streetaddress": "3 West Fyans Street",
@@ -550,7 +528,7 @@
     "lon": 144.34982
   },
   {
-    "_id": 26,
+    "_id": 25,
     "Suburb": "Soldiers Hill",
     "Site_title": "The North Star Hotel",
     "Site_streetaddress": "302 Lydiard Street North",
@@ -572,7 +550,7 @@
     "lon": 143.85923
   },
   {
-    "_id": 27,
+    "_id": 26,
     "Suburb": "Shepparton",
     "Site_title": "Goulburn Valley Grammar School Bus - Tongala to Goulburn Valley Grammar",
     "Site_streetaddress": null,
@@ -594,7 +572,7 @@
     "lon": 145.40342
   },
   {
-    "_id": 28,
+    "_id": 27,
     "Suburb": "Shepparton",
     "Site_title": "Goulburn Valley Grammar School Bus - Goulburn Valley Grammar to Tongala",
     "Site_streetaddress": null,
@@ -616,7 +594,7 @@
     "lon": 145.40342
   },
   {
-    "_id": 29,
+    "_id": 28,
     "Suburb": "South Geelong",
     "Site_title": "Ultimate Geelong Muay Thai - Everlasting Gym",
     "Site_streetaddress": "1 Victoria Street",
@@ -638,7 +616,7 @@
     "lon": 144.35798
   },
   {
-    "_id": 30,
+    "_id": 29,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars on The Esplanade",
     "Site_streetaddress": "1-2/40 The Esplanade",
@@ -660,7 +638,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 31,
+    "_id": 30,
     "Suburb": "Geelong",
     "Site_title": "The Commun Ne Feine Hotel",
     "Site_streetaddress": "209 Bellerine Street",
@@ -682,7 +660,7 @@
     "lon": 144.36212
   },
   {
-    "_id": 32,
+    "_id": 31,
     "Suburb": "Geelong",
     "Site_title": "The Commun Ne Feine Hotel",
     "Site_streetaddress": "209 Bellerine Street",
@@ -704,7 +682,7 @@
     "lon": 144.36212
   },
   {
-    "_id": 33,
+    "_id": 32,
     "Suburb": "Stawell",
     "Site_title": "Industry & Co. Barbering and Hairdressing",
     "Site_streetaddress": "112 Main Street",
@@ -726,7 +704,7 @@
     "lon": 142.78099
   },
   {
-    "_id": 34,
+    "_id": 33,
     "Suburb": "Halls Gap",
     "Site_title": "Spirit of Punjab",
     "Site_streetaddress": "161-163 Grampians Road",
@@ -748,7 +726,7 @@
     "lon": 142.52177
   },
   {
-    "_id": 35,
+    "_id": 34,
     "Suburb": "Halls Gap",
     "Site_title": "Paper Scissors Rock Brew Co.",
     "Site_streetaddress": "119 Grampians Road",
@@ -770,7 +748,7 @@
     "lon": 142.51932
   },
   {
-    "_id": 36,
+    "_id": 35,
     "Suburb": "Halls Gap",
     "Site_title": "Livefast Cafe",
     "Site_streetaddress": "97 Grampians Road",
@@ -792,7 +770,7 @@
     "lon": 142.5193
   },
   {
-    "_id": 37,
+    "_id": 36,
     "Suburb": "Halls Gap",
     "Site_title": "Flame Brothers Restaurant & Bar",
     "Site_streetaddress": "10/97 Grampians Road",
@@ -814,7 +792,7 @@
     "lon": 142.52099
   },
   {
-    "_id": 38,
+    "_id": 37,
     "Suburb": "Halls Gap",
     "Site_title": "Grampians Adventure Golf, Cafe & MOCO Gallery",
     "Site_streetaddress": "475-481 Grampians Road",
@@ -836,7 +814,7 @@
     "lon": 142.53777
   },
   {
-    "_id": 39,
+    "_id": 38,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -858,7 +836,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 40,
+    "_id": 39,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -880,7 +858,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 41,
+    "_id": 40,
     "Suburb": "Geelong",
     "Site_title": "Upstate Studios Geelong",
     "Site_streetaddress": "205 Moorabool Street",
@@ -902,7 +880,7 @@
     "lon": 144.35947
   },
   {
-    "_id": 42,
+    "_id": 41,
     "Suburb": "Geelong",
     "Site_title": "Upstate Studios Geelong",
     "Site_streetaddress": "205 Moorabool Street",
@@ -924,7 +902,7 @@
     "lon": 144.35947
   },
   {
-    "_id": 43,
+    "_id": 42,
     "Suburb": "Swan Hill",
     "Site_title": "Clikk Hair Design by Stacey",
     "Site_streetaddress": "137 Campbell Street",
@@ -946,7 +924,7 @@
     "lon": 143.55953
   },
   {
-    "_id": 44,
+    "_id": 43,
     "Suburb": "Torquay",
     "Site_title": "Bomboras Torquay",
     "Site_streetaddress": "37 The Esplanade",
@@ -968,7 +946,7 @@
     "lon": 144.32603
   },
   {
-    "_id": 45,
+    "_id": 44,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars Torquay",
     "Site_streetaddress": "Shop 1-2/40 The Esplanade",
@@ -990,7 +968,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 48,
+    "_id": 47,
     "Suburb": "South Ballarat",
     "Site_title": "Ballarat Body and Soul Genesis 24/7 Gym",
     "Site_streetaddress": "950 Humffray Street",
@@ -1012,7 +990,7 @@
     "lon": 143.8496
   },
   {
-    "_id": 49,
+    "_id": 48,
     "Suburb": "Geelong",
     "Site_title": "Biryani King",
     "Site_streetaddress": "39 Malop Street",
@@ -1034,7 +1012,7 @@
     "lon": 144.36009
   },
   {
-    "_id": 50,
+    "_id": 49,
     "Suburb": "Geelong",
     "Site_title": "Biryani King",
     "Site_streetaddress": "39 Malop Street",
@@ -1056,7 +1034,7 @@
     "lon": 144.36009
   },
   {
-    "_id": 51,
+    "_id": 50,
     "Suburb": "Geelong",
     "Site_title": "2Cousins Shisha Hookah Lounge and Cafe",
     "Site_streetaddress": "130 Moorabool Street",
@@ -1078,7 +1056,7 @@
     "lon": 144.35994
   },
   {
-    "_id": 52,
+    "_id": 51,
     "Suburb": "Wangaratta",
     "Site_title": "Wangaratta RSL",
     "Site_streetaddress": "2-4 Templeton Street",
@@ -1100,7 +1078,7 @@
     "lon": 146.32665
   },
   {
-    "_id": 53,
+    "_id": 52,
     "Suburb": "Wangaratta",
     "Site_title": "Pinsent Hotel",
     "Site_streetaddress": "20 Reid Street",
@@ -1122,7 +1100,7 @@
     "lon": 146.32781
   },
   {
-    "_id": 54,
+    "_id": 53,
     "Suburb": "Wangaratta",
     "Site_title": "The Old 'N' Country Tavern",
     "Site_streetaddress": "182/174 Greta Road",
@@ -1144,7 +1122,7 @@
     "lon": 146.30726
   },
   {
-    "_id": 55,
+    "_id": 54,
     "Suburb": "Kotupna",
     "Site_title": "Wakiti Creek Resort - Caravan Park Shower Block",
     "Site_streetaddress": "500 Yambuna Bridge Road",
@@ -1166,7 +1144,7 @@
     "lon": 145.02906
   },
   {
-    "_id": 56,
+    "_id": 55,
     "Suburb": "Kotupna",
     "Site_title": "Wakiti Creek Resort - Caravan Park Shower Block",
     "Site_streetaddress": "500 Yambuna Bridge Road",
@@ -1188,7 +1166,7 @@
     "lon": 145.02906
   },
   {
-    "_id": 57,
+    "_id": 56,
     "Suburb": "Bendigo",
     "Site_title": "The National Hotel Complex",
     "Site_streetaddress": "182/183 High Street",
@@ -1210,7 +1188,7 @@
     "lon": 144.26928
   },
   {
-    "_id": 58,
+    "_id": 57,
     "Suburb": "Torquay",
     "Site_title": "Bomboras Torquay",
     "Site_streetaddress": "37 The Esplanade",
@@ -1232,7 +1210,7 @@
     "lon": 144.32603
   },
   {
-    "_id": 59,
+    "_id": 58,
     "Suburb": "Wangaratta",
     "Site_title": "The Old 'N' Country Tavern",
     "Site_streetaddress": "182/174 Greta Road",
@@ -1254,7 +1232,7 @@
     "lon": 146.30726
   },
   {
-    "_id": 60,
+    "_id": 59,
     "Suburb": "Maiden Gully",
     "Site_title": "Shine Bright - Maiden Gully Early Years Hub",
     "Site_streetaddress": "Westbury Boulevard",
@@ -1276,7 +1254,7 @@
     "lon": 144.23179
   },
   {
-    "_id": 61,
+    "_id": 60,
     "Suburb": "Maiden Gully",
     "Site_title": "Shine Bright - Maiden Gully Early Years Hub",
     "Site_streetaddress": "Westbury Boulevard",
@@ -1298,7 +1276,7 @@
     "lon": 144.23179
   },
   {
-    "_id": 62,
+    "_id": 61,
     "Suburb": "Geelong",
     "Site_title": "BB Chicken & Pub",
     "Site_streetaddress": "116 Moorabool Street",
@@ -1320,7 +1298,7 @@
     "lon": 144.36011
   },
   {
-    "_id": 63,
+    "_id": 62,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater",
     "Site_streetaddress": "96 Pall Mall",
@@ -1342,7 +1320,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 64,
+    "_id": 63,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater",
     "Site_streetaddress": "96 Pall Mall",
@@ -1364,7 +1342,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 65,
+    "_id": 64,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater",
     "Site_streetaddress": "96 Pall Mall",
@@ -1386,7 +1364,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 66,
+    "_id": 65,
     "Suburb": "Bendigo",
     "Site_title": "Lush Barber",
     "Site_streetaddress": "238 Hargreaves Street",
@@ -1408,7 +1386,7 @@
     "lon": 144.28159
   },
   {
-    "_id": 67,
+    "_id": 66,
     "Suburb": "Bendigo",
     "Site_title": "Lush Barber",
     "Site_streetaddress": "238 Hargreaves Street",
@@ -1430,7 +1408,7 @@
     "lon": 144.28159
   },
   {
-    "_id": 68,
+    "_id": 67,
     "Suburb": "Bendigo",
     "Site_title": "Lush Barber",
     "Site_streetaddress": "238 Hargreaves Street",
@@ -1452,7 +1430,7 @@
     "lon": 144.28159
   },
   {
-    "_id": 69,
+    "_id": 68,
     "Suburb": "Drouin West",
     "Site_title": "The Robin Hood Inn",
     "Site_streetaddress": "655 Princes Way",
@@ -1474,7 +1452,7 @@
     "lon": 145.83126
   },
   {
-    "_id": 70,
+    "_id": 69,
     "Suburb": "Mooroolbark",
     "Site_title": "KingKids Early Learning Centre and Kindergarten Mooroolbark",
     "Site_streetaddress": "101-103 Manchester Road",
@@ -1496,7 +1474,7 @@
     "lon": 145.31176
   },
   {
-    "_id": 71,
+    "_id": 70,
     "Suburb": "Narre Warren",
     "Site_title": "KingKids Early Learning Centre and Kindergarten Narre Warren",
     "Site_streetaddress": "159-167 Fleetwood Drive",
@@ -1518,7 +1496,7 @@
     "lon": 145.31895
   },
   {
-    "_id": 72,
+    "_id": 71,
     "Suburb": "Ravenhall",
     "Site_title": "Penguin Childcare Ravenhall",
     "Site_streetaddress": "1/265 Robinsons Road",
@@ -1540,7 +1518,7 @@
     "lon": 144.75447
   },
   {
-    "_id": 73,
+    "_id": 72,
     "Suburb": "Ravenhall",
     "Site_title": "Penguin Childcare Ravenhall",
     "Site_streetaddress": "1/265 Robinsons Road",
@@ -1562,7 +1540,7 @@
     "lon": 144.75447
   },
   {
-    "_id": 74,
+    "_id": 73,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1584,7 +1562,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 75,
+    "_id": 74,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1606,7 +1584,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 76,
+    "_id": 75,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1628,7 +1606,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 77,
+    "_id": 76,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1650,7 +1628,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 78,
+    "_id": 77,
     "Suburb": "Cairnlea",
     "Site_title": "Cairnlea Kindy and Childcare Centre",
     "Site_streetaddress": "80 Carmody Drive",
@@ -1672,7 +1650,7 @@
     "lon": 144.78871
   },
   {
-    "_id": 79,
+    "_id": 78,
     "Suburb": "Drouin",
     "Site_title": "Drouin Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -1694,7 +1672,7 @@
     "lon": 145.85405
   },
   {
-    "_id": 80,
+    "_id": 79,
     "Suburb": "Drouin",
     "Site_title": "Drouin Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -1716,7 +1694,7 @@
     "lon": 145.85405
   },
   {
-    "_id": 81,
+    "_id": 80,
     "Suburb": "Drouin",
     "Site_title": "Drouin Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -1738,7 +1716,7 @@
     "lon": 145.85405
   },
   {
-    "_id": 82,
+    "_id": 81,
     "Suburb": "Mildura",
     "Site_title": "Totally Workwear Mildura",
     "Site_streetaddress": "70 Lime Avenue",
@@ -1760,7 +1738,7 @@
     "lon": 142.15964
   },
   {
-    "_id": 83,
+    "_id": 82,
     "Suburb": "Mildura",
     "Site_title": "CrossFit Motion 136",
     "Site_streetaddress": "136 Eleventh Street",
@@ -1782,7 +1760,7 @@
     "lon": 142.16702
   },
   {
-    "_id": 84,
+    "_id": 83,
     "Suburb": "Mildura",
     "Site_title": "CrossFit Motion 136",
     "Site_streetaddress": "136 Eleventh Street",
@@ -1804,7 +1782,7 @@
     "lon": 142.16702
   },
   {
-    "_id": 85,
+    "_id": 84,
     "Suburb": "Altona Meadows",
     "Site_title": "Queen of Peace Parish Primary School",
     "Site_streetaddress": "62 Everingham Road",
@@ -1826,7 +1804,7 @@
     "lon": 144.7912
   },
   {
-    "_id": 86,
+    "_id": 85,
     "Suburb": "Alfredton",
     "Site_title": "Lazy Moe's Ballarat",
     "Site_streetaddress": "1851 Sturt Street",
@@ -1848,7 +1826,7 @@
     "lon": 143.79639
   },
   {
-    "_id": 87,
+    "_id": 86,
     "Suburb": "Mildura",
     "Site_title": "Davo's General Store & Take-Away",
     "Site_streetaddress": "285 San Mateo Avenue",
@@ -1870,7 +1848,7 @@
     "lon": 142.15361
   },
   {
-    "_id": 88,
+    "_id": 87,
     "Suburb": "Watsonia North",
     "Site_title": "Grimshaw Street Early Learning Centre",
     "Site_streetaddress": "292 Grimshaw Street",
@@ -1892,7 +1870,7 @@
     "lon": 145.08476
   },
   {
-    "_id": 89,
+    "_id": 88,
     "Suburb": "Watsonia North",
     "Site_title": "Grimshaw Street Early Learning Centre",
     "Site_streetaddress": "292 Grimshaw Street",
@@ -1914,7 +1892,7 @@
     "lon": 145.08476
   },
   {
-    "_id": 90,
+    "_id": 89,
     "Suburb": "Watsonia North",
     "Site_title": "Grimshaw Street Early Learning Centre",
     "Site_streetaddress": "292 Grimshaw Street",
@@ -1936,7 +1914,7 @@
     "lon": 145.08476
   },
   {
-    "_id": 91,
+    "_id": 90,
     "Suburb": "Watsonia North",
     "Site_title": "Grimshaw Street Early Learning Centre",
     "Site_streetaddress": "292 Grimshaw Street",
@@ -1958,7 +1936,7 @@
     "lon": 145.08476
   },
   {
-    "_id": 92,
+    "_id": 91,
     "Suburb": "South Geelong",
     "Site_title": "X-Golf Geelong",
     "Site_streetaddress": "138 Fyans Street",
@@ -1980,7 +1958,7 @@
     "lon": 144.36023
   },
   {
-    "_id": 93,
+    "_id": 92,
     "Suburb": "Tarneit",
     "Site_title": "Child's Play Early Learning Centre Tarneit",
     "Site_streetaddress": "642 Tarneit Road",
@@ -1988,6 +1966,28 @@
     "Site_postcode": "3029",
     "Exposure_date_dtm": "2021-10-04",
     "Exposure_date": "04/10/2021",
+    "Exposure_time": "7:00am - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-08",
+    "Added_date": "08/10/2021",
+    "Added_time": "20:35:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "18:30:00",
+    "dhid": null,
+    "lat": -37.85164,
+    "lon": 144.66811
+  },
+  {
+    "_id": 93,
+    "Suburb": "Tarneit",
+    "Site_title": "Child's Play Early Learning Centre Tarneit",
+    "Site_streetaddress": "642 Tarneit Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "Exposure_date_dtm": "2021-10-05",
+    "Exposure_date": "05/10/2021",
     "Exposure_time": "7:00am - 6:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-10-08",
@@ -2003,28 +2003,6 @@
   },
   {
     "_id": 94,
-    "Suburb": "Tarneit",
-    "Site_title": "Child's Play Early Learning Centre Tarneit",
-    "Site_streetaddress": "642 Tarneit Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:00am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-08",
-    "Added_date": "08/10/2021",
-    "Added_time": "20:35:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": null,
-    "lat": -37.85164,
-    "lon": 144.66811
-  },
-  {
-    "_id": 95,
     "Suburb": "Point Wilson",
     "Site_title": "Cotton On Distribution Centre Avalon",
     "Site_streetaddress": "260 Beach Road",
@@ -2046,7 +2024,7 @@
     "lon": 144.52781
   },
   {
-    "_id": 96,
+    "_id": 95,
     "Suburb": "Point Wilson",
     "Site_title": "Cotton On Distribution Centre Avalon",
     "Site_streetaddress": "260 Beach Road",
@@ -2068,7 +2046,7 @@
     "lon": 144.52781
   },
   {
-    "_id": 97,
+    "_id": 96,
     "Suburb": "Point Wilson",
     "Site_title": "Cotton On Distribution Centre Avalon",
     "Site_streetaddress": "260 Beach Road",
@@ -2090,7 +2068,7 @@
     "lon": 144.52781
   },
   {
-    "_id": 98,
+    "_id": 97,
     "Suburb": "Deepdene",
     "Site_title": "Our Lady of Good Counsel Primary School",
     "Site_streetaddress": "12 Whitehorse Road",
@@ -2112,7 +2090,7 @@
     "lon": 145.06276
   },
   {
-    "_id": 99,
+    "_id": 98,
     "Suburb": "Whittlesea",
     "Site_title": "Journey Early Learning",
     "Site_streetaddress": "2 Egret Place",
@@ -2134,7 +2112,7 @@
     "lon": 145.11304
   },
   {
-    "_id": 100,
+    "_id": 99,
     "Suburb": "Drouin",
     "Site_title": "Drouin Primary Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -2156,7 +2134,7 @@
     "lon": 145.85405
   },
   {
-    "_id": 101,
+    "_id": 100,
     "Suburb": "Airport West",
     "Site_title": "Nido Early School - Airport West",
     "Site_streetaddress": "64 Parer Road",
@@ -2178,7 +2156,7 @@
     "lon": 144.88592
   },
   {
-    "_id": 102,
+    "_id": 101,
     "Suburb": "East Bendigo",
     "Site_title": "RMIT Hanger (Bendigo Airport) East Bendigo",
     "Site_streetaddress": "35 Victa Road",
@@ -2200,7 +2178,7 @@
     "lon": 144.32384
   },
   {
-    "_id": 103,
+    "_id": 102,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2222,7 +2200,7 @@
     "lon": 143.54635
   },
   {
-    "_id": 104,
+    "_id": 103,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2244,7 +2222,7 @@
     "lon": 143.54635
   },
   {
-    "_id": 105,
+    "_id": 104,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2266,7 +2244,7 @@
     "lon": 143.54635
   },
   {
-    "_id": 106,
+    "_id": 105,
     "Suburb": "North Geelong",
     "Site_title": "Seda College Geelong - Multi Geelong Geelong Arena",
     "Site_streetaddress": "110 Victoria Street",
@@ -2288,7 +2266,7 @@
     "lon": 144.35134
   },
   {
-    "_id": 107,
+    "_id": 106,
     "Suburb": "Narre Warren South",
     "Site_title": "Astra Early Learning - Narre Warren South",
     "Site_streetaddress": "75 Shrives Road",
@@ -2310,7 +2288,7 @@
     "lon": 145.2893
   },
   {
-    "_id": 108,
+    "_id": 107,
     "Suburb": "Lynbrook",
     "Site_title": "Goodstart Early Learning Lynbrook",
     "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
@@ -2332,29 +2310,7 @@
     "lon": 145.25633
   },
   {
-    "_id": 109,
-    "Suburb": "Tarneit",
-    "Site_title": "Child's Play Early Learning Centre",
-    "Site_streetaddress": "642 Tarneit Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "7:00am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-07",
-    "Added_date": "07/10/2021",
-    "Added_time": "10:35:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": null,
-    "lat": -37.85164,
-    "lon": 144.66811
-  },
-  {
-    "_id": 110,
+    "_id": 108,
     "Suburb": "Rockbank",
     "Site_title": "Big Childcare OSHC - Rockbank Primary School",
     "Site_streetaddress": "97/105 Westcott Parade",
@@ -2376,7 +2332,7 @@
     "lon": 144.66214
   },
   {
-    "_id": 111,
+    "_id": 109,
     "Suburb": "Wendouree",
     "Site_title": "Groundworks Cafe - Stockland Wendouree Village Shopping Centre",
     "Site_streetaddress": "330 Gillies Street North\t",
