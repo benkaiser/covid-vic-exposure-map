@@ -595,28 +595,6 @@
   },
   {
     "_id": 28,
-    "Suburb": "Keysborough",
-    "Site_title": "Keysborough Egg Farm",
-    "Site_streetaddress": "Corner of Greens Road and Pacific Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3173",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "6:30am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-15",
-    "Added_date": "15/10/2021",
-    "Added_time": "22:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "06:30:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "Y9Z2",
-    "lat": -38.01107,
-    "lon": 145.18203
-  },
-  {
-    "_id": 29,
     "Suburb": "Deer Park",
     "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Road",
@@ -638,7 +616,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 30,
+    "_id": 29,
     "Suburb": "Deer Park",
     "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Road",
@@ -660,7 +638,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 31,
+    "_id": 30,
     "Suburb": "Deer Park",
     "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Road",
@@ -682,7 +660,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 32,
+    "_id": 31,
     "Suburb": "Ballarat Central",
     "Site_title": "Oscar's Hotel and Caf Bar ",
     "Site_streetaddress": "18 Doveton Street South",
@@ -704,7 +682,7 @@
     "lon": 143.85449
   },
   {
-    "_id": 33,
+    "_id": 32,
     "Suburb": "Point Wilson",
     "Site_title": "Austrak Concrete Factory",
     "Site_streetaddress": "570 Dandos Road",
@@ -726,7 +704,7 @@
     "lon": 144.48264
   },
   {
-    "_id": 34,
+    "_id": 33,
     "Suburb": "Avenel",
     "Site_title": "Imperial Hotel Avenel - Hop Back Brewery",
     "Site_streetaddress": "17 Mitchell Street",
@@ -748,7 +726,7 @@
     "lon": 145.23593
   },
   {
-    "_id": 35,
+    "_id": 34,
     "Suburb": "Colac",
     "Site_title": "Piano Bar Colac",
     "Site_streetaddress": "47-49 Hesse Street",
@@ -770,7 +748,7 @@
     "lon": 143.58948
   },
   {
-    "_id": 36,
+    "_id": 35,
     "Suburb": "Winchelsea",
     "Site_title": "Winchelsea Hotel",
     "Site_streetaddress": "20 Willis Street",
@@ -792,7 +770,7 @@
     "lon": 143.99298
   },
   {
-    "_id": 37,
+    "_id": 36,
     "Suburb": "Essendon",
     "Site_title": "KFC Niddrie",
     "Site_streetaddress": "99-101A Keilor Road",
@@ -814,7 +792,7 @@
     "lon": 144.90355
   },
   {
-    "_id": 38,
+    "_id": 37,
     "Suburb": "Grovedale",
     "Site_title": "The Grovedale Hotel Gaming Room",
     "Site_streetaddress": "236-258 Torquay Road",
@@ -836,7 +814,7 @@
     "lon": 144.34117
   },
   {
-    "_id": 39,
+    "_id": 38,
     "Suburb": "Newtown",
     "Site_title": "St Lord's Gaming Room (Lord of the Isles)",
     "Site_streetaddress": "3 West Fyans Street",
@@ -858,7 +836,7 @@
     "lon": 144.34982
   },
   {
-    "_id": 40,
+    "_id": 39,
     "Suburb": "Soldiers Hill",
     "Site_title": "The North Star Hotel",
     "Site_streetaddress": "302 Lydiard Street North",
@@ -880,7 +858,7 @@
     "lon": 143.85923
   },
   {
-    "_id": 41,
+    "_id": 40,
     "Suburb": "Shepparton",
     "Site_title": "Goulburn Valley Grammar School Bus - Tongala to Goulburn Valley Grammar",
     "Site_streetaddress": null,
@@ -902,7 +880,7 @@
     "lon": 145.40342
   },
   {
-    "_id": 42,
+    "_id": 41,
     "Suburb": "Shepparton",
     "Site_title": "Goulburn Valley Grammar School Bus - Goulburn Valley Grammar to Tongala",
     "Site_streetaddress": null,
@@ -924,7 +902,7 @@
     "lon": 145.40342
   },
   {
-    "_id": 43,
+    "_id": 42,
     "Suburb": "South Geelong",
     "Site_title": "Ultimate Geelong Muay Thai - Everlasting Gym",
     "Site_streetaddress": "1 Victoria Street",
@@ -946,7 +924,7 @@
     "lon": 144.35798
   },
   {
-    "_id": 44,
+    "_id": 43,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars on The Esplanade",
     "Site_streetaddress": "1-2/40 The Esplanade",
@@ -968,7 +946,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 45,
+    "_id": 44,
     "Suburb": "Geelong",
     "Site_title": "The Commun Ne Feine Hotel",
     "Site_streetaddress": "209 Bellerine Street",
@@ -990,7 +968,7 @@
     "lon": 144.36212
   },
   {
-    "_id": 46,
+    "_id": 45,
     "Suburb": "Geelong",
     "Site_title": "The Commun Ne Feine Hotel",
     "Site_streetaddress": "209 Bellerine Street",
@@ -1012,7 +990,7 @@
     "lon": 144.36212
   },
   {
-    "_id": 47,
+    "_id": 46,
     "Suburb": "Stawell",
     "Site_title": "Industry & Co. Barbering and Hairdressing",
     "Site_streetaddress": "112 Main Street",
@@ -1034,7 +1012,7 @@
     "lon": 142.78099
   },
   {
-    "_id": 48,
+    "_id": 47,
     "Suburb": "Halls Gap",
     "Site_title": "Spirit of Punjab",
     "Site_streetaddress": "161-163 Grampians Road",
@@ -1056,7 +1034,7 @@
     "lon": 142.52177
   },
   {
-    "_id": 49,
+    "_id": 48,
     "Suburb": "Halls Gap",
     "Site_title": "Paper Scissors Rock Brew Co.",
     "Site_streetaddress": "119 Grampians Road",
@@ -1078,7 +1056,7 @@
     "lon": 142.51932
   },
   {
-    "_id": 50,
+    "_id": 49,
     "Suburb": "Halls Gap",
     "Site_title": "Livefast Cafe",
     "Site_streetaddress": "97 Grampians Road",
@@ -1100,7 +1078,7 @@
     "lon": 142.5193
   },
   {
-    "_id": 51,
+    "_id": 50,
     "Suburb": "Halls Gap",
     "Site_title": "Flame Brothers Restaurant & Bar",
     "Site_streetaddress": "10/97 Grampians Road",
@@ -1122,7 +1100,7 @@
     "lon": 142.52099
   },
   {
-    "_id": 52,
+    "_id": 51,
     "Suburb": "Halls Gap",
     "Site_title": "Grampians Adventure Golf, Cafe & MOCO Gallery",
     "Site_streetaddress": "475-481 Grampians Road",
@@ -1144,7 +1122,7 @@
     "lon": 142.53777
   },
   {
-    "_id": 53,
+    "_id": 52,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -1166,7 +1144,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 54,
+    "_id": 53,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -1188,7 +1166,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 55,
+    "_id": 54,
     "Suburb": "Geelong",
     "Site_title": "Upstate Studios Geelong",
     "Site_streetaddress": "205 Moorabool Street",
@@ -1210,7 +1188,7 @@
     "lon": 144.35947
   },
   {
-    "_id": 56,
+    "_id": 55,
     "Suburb": "Geelong",
     "Site_title": "Upstate Studios Geelong",
     "Site_streetaddress": "205 Moorabool Street",
@@ -1232,7 +1210,7 @@
     "lon": 144.35947
   },
   {
-    "_id": 57,
+    "_id": 56,
     "Suburb": "Swan Hill",
     "Site_title": "Clikk Hair Design by Stacey",
     "Site_streetaddress": "137 Campbell Street",
@@ -1254,7 +1232,7 @@
     "lon": 143.55953
   },
   {
-    "_id": 58,
+    "_id": 57,
     "Suburb": "Torquay",
     "Site_title": "Bomboras Torquay",
     "Site_streetaddress": "37 The Esplanade",
@@ -1276,7 +1254,7 @@
     "lon": 144.32603
   },
   {
-    "_id": 59,
+    "_id": 58,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars Torquay",
     "Site_streetaddress": "Shop 1-2/40 The Esplanade",
@@ -1298,29 +1276,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 62,
-    "Suburb": "South Ballarat",
-    "Site_title": "Ballarat Body and Soul Genesis 24/7 Gym",
-    "Site_streetaddress": "950 Humffray Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "10:06am - 11:46am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-13",
-    "Added_date": "13/10/2021",
-    "Added_time": "15:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "10:06:00",
-    "Exposure_time_end_24": "11:46:00",
-    "dhid": null,
-    "lat": -37.5793,
-    "lon": 143.8496
-  },
-  {
-    "_id": 63,
+    "_id": 61,
     "Suburb": "Geelong",
     "Site_title": "Biryani King",
     "Site_streetaddress": "39 Malop Street",
@@ -1342,29 +1298,7 @@
     "lon": 144.36009
   },
   {
-    "_id": 64,
-    "Suburb": "Geelong",
-    "Site_title": "Biryani King",
-    "Site_streetaddress": "39 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:15pm - 9:25pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-13",
-    "Added_date": "13/10/2021",
-    "Added_time": "15:04:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "19:15:00",
-    "Exposure_time_end_24": "21:25:00",
-    "dhid": null,
-    "lat": -38.14686,
-    "lon": 144.36009
-  },
-  {
-    "_id": 65,
+    "_id": 62,
     "Suburb": "Geelong",
     "Site_title": "2Cousins Shisha Hookah Lounge and Cafe",
     "Site_streetaddress": "130 Moorabool Street",
@@ -1386,7 +1320,7 @@
     "lon": 144.35994
   },
   {
-    "_id": 66,
+    "_id": 63,
     "Suburb": "Wangaratta",
     "Site_title": "Wangaratta RSL",
     "Site_streetaddress": "2-4 Templeton Street",
@@ -1408,7 +1342,7 @@
     "lon": 146.32665
   },
   {
-    "_id": 67,
+    "_id": 64,
     "Suburb": "Wangaratta",
     "Site_title": "Pinsent Hotel",
     "Site_streetaddress": "20 Reid Street",
@@ -1430,7 +1364,7 @@
     "lon": 146.32781
   },
   {
-    "_id": 68,
+    "_id": 65,
     "Suburb": "Wangaratta",
     "Site_title": "The Old 'N' Country Tavern",
     "Site_streetaddress": "182/174 Greta Road",
@@ -1452,29 +1386,7 @@
     "lon": 146.30726
   },
   {
-    "_id": 69,
-    "Suburb": "Kotupna",
-    "Site_title": "Wakiti Creek Resort - Caravan Park Shower Block",
-    "Site_streetaddress": "500 Yambuna Bridge Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3638",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "8:00am - 11:00am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-12",
-    "Added_date": "12/10/2021",
-    "Added_time": "22:47:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "11:00:00",
-    "dhid": null,
-    "lat": -36.13719,
-    "lon": 145.02906
-  },
-  {
-    "_id": 70,
+    "_id": 66,
     "Suburb": "Kotupna",
     "Site_title": "Wakiti Creek Resort - Caravan Park Shower Block",
     "Site_streetaddress": "500 Yambuna Bridge Road",
@@ -1496,7 +1408,7 @@
     "lon": 145.02906
   },
   {
-    "_id": 71,
+    "_id": 67,
     "Suburb": "Bendigo",
     "Site_title": "The National Hotel Complex",
     "Site_streetaddress": "182/183 High Street",
@@ -1518,7 +1430,7 @@
     "lon": 144.26928
   },
   {
-    "_id": 72,
+    "_id": 68,
     "Suburb": "Torquay",
     "Site_title": "Bomboras Torquay",
     "Site_streetaddress": "37 The Esplanade",
@@ -1540,7 +1452,7 @@
     "lon": 144.32603
   },
   {
-    "_id": 73,
+    "_id": 69,
     "Suburb": "Wangaratta",
     "Site_title": "The Old 'N' Country Tavern",
     "Site_streetaddress": "182/174 Greta Road",
@@ -1562,7 +1474,7 @@
     "lon": 146.30726
   },
   {
-    "_id": 74,
+    "_id": 70,
     "Suburb": "Maiden Gully",
     "Site_title": "Shine Bright - Maiden Gully Early Years Hub",
     "Site_streetaddress": "Westbury Boulevard",
@@ -1584,7 +1496,7 @@
     "lon": 144.23179
   },
   {
-    "_id": 75,
+    "_id": 71,
     "Suburb": "Maiden Gully",
     "Site_title": "Shine Bright - Maiden Gully Early Years Hub",
     "Site_streetaddress": "Westbury Boulevard",
@@ -1606,51 +1518,7 @@
     "lon": 144.23179
   },
   {
-    "_id": 76,
-    "Suburb": "Geelong",
-    "Site_title": "BB Chicken & Pub",
-    "Site_streetaddress": "116 Moorabool Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "11:30am - 1:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-11",
-    "Added_date": "11/10/2021",
-    "Added_time": "21:28:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "11:30:00",
-    "Exposure_time_end_24": "13:50:00",
-    "dhid": null,
-    "lat": -38.14806,
-    "lon": 144.36011
-  },
-  {
-    "_id": 77,
-    "Suburb": "Bendigo",
-    "Site_title": "Honeyeater",
-    "Site_streetaddress": "96 Pall Mall",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "9:00am - 8:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-11",
-    "Added_date": "11/10/2021",
-    "Added_time": "21:28:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "20:00:00",
-    "dhid": null,
-    "lat": -36.75761,
-    "lon": 144.28176
-  },
-  {
-    "_id": 78,
+    "_id": 72,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater",
     "Site_streetaddress": "96 Pall Mall",
@@ -1672,7 +1540,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 79,
+    "_id": 73,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater",
     "Site_streetaddress": "96 Pall Mall",
@@ -1694,7 +1562,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 80,
+    "_id": 74,
     "Suburb": "Bendigo",
     "Site_title": "Lush Barber",
     "Site_streetaddress": "238 Hargreaves Street",
@@ -1716,7 +1584,7 @@
     "lon": 144.28159
   },
   {
-    "_id": 81,
+    "_id": 75,
     "Suburb": "Bendigo",
     "Site_title": "Lush Barber",
     "Site_streetaddress": "238 Hargreaves Street",
@@ -1738,7 +1606,7 @@
     "lon": 144.28159
   },
   {
-    "_id": 82,
+    "_id": 76,
     "Suburb": "Bendigo",
     "Site_title": "Lush Barber",
     "Site_streetaddress": "238 Hargreaves Street",
@@ -1760,7 +1628,7 @@
     "lon": 144.28159
   },
   {
-    "_id": 83,
+    "_id": 77,
     "Suburb": "Drouin West",
     "Site_title": "The Robin Hood Inn",
     "Site_streetaddress": "655 Princes Way",
@@ -1782,7 +1650,7 @@
     "lon": 145.83126
   },
   {
-    "_id": 84,
+    "_id": 78,
     "Suburb": "Mooroolbark",
     "Site_title": "KingKids Early Learning Centre and Kindergarten Mooroolbark",
     "Site_streetaddress": "101-103 Manchester Road",
@@ -1804,7 +1672,7 @@
     "lon": 145.31176
   },
   {
-    "_id": 85,
+    "_id": 79,
     "Suburb": "Narre Warren",
     "Site_title": "KingKids Early Learning Centre and Kindergarten Narre Warren",
     "Site_streetaddress": "159-167 Fleetwood Drive",
@@ -1826,51 +1694,7 @@
     "lon": 145.31895
   },
   {
-    "_id": 86,
-    "Suburb": "Ravenhall",
-    "Site_title": "Penguin Childcare Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "12:30pm - 5:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-11",
-    "Added_date": "11/10/2021",
-    "Added_time": "14:49:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "12:30:00",
-    "Exposure_time_end_24": "17:00:00",
-    "dhid": null,
-    "lat": -37.78007,
-    "lon": 144.75447
-  },
-  {
-    "_id": 87,
-    "Suburb": "Dingley Village",
-    "Site_title": "Bespoke Childcare Dingley Village",
-    "Site_streetaddress": "67 Howard Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3172",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "8:30am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-11",
-    "Added_date": "11/10/2021",
-    "Added_time": "11:43:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": null,
-    "lat": -37.98205,
-    "lon": 145.12155
-  },
-  {
-    "_id": 88,
+    "_id": 80,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1892,7 +1716,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 89,
+    "_id": 81,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1914,7 +1738,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 90,
+    "_id": 82,
     "Suburb": "Dingley Village",
     "Site_title": "Bespoke Childcare Dingley Village",
     "Site_streetaddress": "67 Howard Road",
@@ -1936,7 +1760,7 @@
     "lon": 145.12155
   },
   {
-    "_id": 91,
+    "_id": 83,
     "Suburb": "Cairnlea",
     "Site_title": "Cairnlea Kindy and Childcare Centre",
     "Site_streetaddress": "80 Carmody Drive",
@@ -1958,29 +1782,7 @@
     "lon": 144.78871
   },
   {
-    "_id": 92,
-    "Suburb": "Drouin",
-    "Site_title": "Drouin Early Learning Centre",
-    "Site_streetaddress": "School Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3818",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "9:00am - 2:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-11",
-    "Added_date": "11/10/2021",
-    "Added_time": "09:59:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "14:30:00",
-    "dhid": null,
-    "lat": -38.13339,
-    "lon": 145.85405
-  },
-  {
-    "_id": 93,
+    "_id": 84,
     "Suburb": "Drouin",
     "Site_title": "Drouin Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -2002,7 +1804,7 @@
     "lon": 145.85405
   },
   {
-    "_id": 94,
+    "_id": 85,
     "Suburb": "Drouin",
     "Site_title": "Drouin Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -2024,29 +1826,7 @@
     "lon": 145.85405
   },
   {
-    "_id": 95,
-    "Suburb": "Mildura",
-    "Site_title": "Totally Workwear Mildura",
-    "Site_streetaddress": "70 Lime Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3500",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "4:55pm - 5:43pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-10",
-    "Added_date": "10/10/2021",
-    "Added_time": "22:41:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "16:55:00",
-    "Exposure_time_end_24": "17:43:00",
-    "dhid": null,
-    "lat": -34.18436,
-    "lon": 142.15964
-  },
-  {
-    "_id": 96,
+    "_id": 86,
     "Suburb": "Mildura",
     "Site_title": "CrossFit Motion 136",
     "Site_streetaddress": "136 Eleventh Street",
@@ -2068,73 +1848,7 @@
     "lon": 142.16702
   },
   {
-    "_id": 97,
-    "Suburb": "Altona Meadows",
-    "Site_title": "Queen of Peace Parish Primary School",
-    "Site_streetaddress": "62 Everingham Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3028",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "8:30am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-10",
-    "Added_date": "10/10/2021",
-    "Added_time": "20:38:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": null,
-    "lat": -37.8755,
-    "lon": 144.7912
-  },
-  {
-    "_id": 98,
-    "Suburb": "Alfredton",
-    "Site_title": "Lazy Moe's Ballarat",
-    "Site_streetaddress": "1851 Sturt Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "6:40pm - 8:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-10",
-    "Added_date": "10/10/2021",
-    "Added_time": "17:20:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "18:40:00",
-    "Exposure_time_end_24": "20:45:00",
-    "dhid": null,
-    "lat": -37.5466,
-    "lon": 143.79639
-  },
-  {
-    "_id": 99,
-    "Suburb": "Watsonia North",
-    "Site_title": "Grimshaw Street Early Learning Centre",
-    "Site_streetaddress": "292 Grimshaw Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3087",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:00am - 7:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-10",
-    "Added_date": "10/10/2021",
-    "Added_time": "14:46:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "19:00:00",
-    "dhid": null,
-    "lat": -37.70244,
-    "lon": 145.08476
-  },
-  {
-    "_id": 100,
+    "_id": 87,
     "Suburb": "Watsonia North",
     "Site_title": "Grimshaw Street Early Learning Centre",
     "Site_streetaddress": "292 Grimshaw Street",
@@ -2156,7 +1870,7 @@
     "lon": 145.08476
   },
   {
-    "_id": 101,
+    "_id": 88,
     "Suburb": "Watsonia North",
     "Site_title": "Grimshaw Street Early Learning Centre",
     "Site_streetaddress": "292 Grimshaw Street",
@@ -2178,73 +1892,7 @@
     "lon": 145.08476
   },
   {
-    "_id": 102,
-    "Suburb": "South Geelong",
-    "Site_title": "X-Golf Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "2:25pm - 9:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-10",
-    "Added_date": "10/10/2021",
-    "Added_time": "11:19:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:25:00",
-    "Exposure_time_end_24": "21:30:00",
-    "dhid": null,
-    "lat": -38.16366,
-    "lon": 144.36023
-  },
-  {
-    "_id": 103,
-    "Suburb": "Tarneit",
-    "Site_title": "Child's Play Early Learning Centre Tarneit",
-    "Site_streetaddress": "642 Tarneit Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:00am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-08",
-    "Added_date": "08/10/2021",
-    "Added_time": "20:35:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": null,
-    "lat": -37.85164,
-    "lon": 144.66811
-  },
-  {
-    "_id": 104,
-    "Suburb": "Point Wilson",
-    "Site_title": "Cotton On Distribution Centre Avalon",
-    "Site_streetaddress": "260 Beach Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3212",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:00am - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-08",
-    "Added_date": "08/10/2021",
-    "Added_time": "18:05:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "dhid": null,
-    "lat": -38.02313,
-    "lon": 144.52781
-  },
-  {
-    "_id": 105,
+    "_id": 89,
     "Suburb": "Point Wilson",
     "Site_title": "Cotton On Distribution Centre Avalon",
     "Site_streetaddress": "260 Beach Road",
@@ -2266,29 +1914,7 @@
     "lon": 144.52781
   },
   {
-    "_id": 106,
-    "Suburb": "Colac West",
-    "Site_title": "Greg Allan Farm Machinery Colac",
-    "Site_streetaddress": "408 Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3250",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will be in contact with them directly with this advice.",
-    "Added_date_dtm": "2021-10-07",
-    "Added_date": "07/10/2021",
-    "Added_time": "22:00:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": null,
-    "lat": -38.33449,
-    "lon": 143.54635
-  },
-  {
-    "_id": 107,
+    "_id": 90,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2308,27 +1934,5 @@
     "dhid": null,
     "lat": -38.33449,
     "lon": 143.54635
-  },
-  {
-    "_id": 108,
-    "Suburb": "Narre Warren South",
-    "Site_title": "Astra Early Learning - Narre Warren South",
-    "Site_streetaddress": "75 Shrives Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3805",
-    "Exposure_date_dtm": "2021-10-05",
-    "Exposure_date": "05/10/2021",
-    "Exposure_time": "7:15am - 3:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-07",
-    "Added_date": "07/10/2021",
-    "Added_time": "13:50:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:15:00",
-    "Exposure_time_end_24": "15:45:00",
-    "dhid": null,
-    "lat": -38.03133,
-    "lon": 145.2893
   }
 ]
