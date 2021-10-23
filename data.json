@@ -1,6 +1,28 @@
 [
   {
     "_id": 1,
+    "Suburb": "Torquay",
+    "Site_title": "9grams Torquay",
+    "Site_streetaddress": "5/4-6 Gilbert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3228",
+    "Exposure_date_dtm": "2021-10-20",
+    "Exposure_date": "20/10/2021",
+    "Exposure_time": "1:00pm - 2:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-23",
+    "Added_date": "23/10/2021",
+    "Added_time": "11:00:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "13:00:00",
+    "Exposure_time_end_24": "14:30:00",
+    "dhid": "Z5Q8",
+    "lat": -38.3321,
+    "lon": 144.32542
+  },
+  {
+    "_id": 2,
     "Suburb": "Geelong",
     "Site_title": "The Deck Geelong",
     "Site_streetaddress": "2-4 Gheringhap Street",
@@ -22,7 +44,7 @@
     "lon": 144.35937
   },
   {
-    "_id": 2,
+    "_id": 3,
     "Suburb": "Cobram",
     "Site_title": "Cobram Nails & Beauty",
     "Site_streetaddress": "48 Punt Road",
@@ -44,7 +66,7 @@
     "lon": 145.6471
   },
   {
-    "_id": 3,
+    "_id": 4,
     "Suburb": "Cobram",
     "Site_title": "Cobram Nails & Beauty",
     "Site_streetaddress": "48 Punt Road",
@@ -66,7 +88,7 @@
     "lon": 145.6471
   },
   {
-    "_id": 4,
+    "_id": 5,
     "Suburb": "Bendigo",
     "Site_title": "Golden Vine Hotel Bendigo",
     "Site_streetaddress": "135 King Street",
@@ -88,7 +110,7 @@
     "lon": 144.27486
   },
   {
-    "_id": 5,
+    "_id": 6,
     "Suburb": "Quarry Hill",
     "Site_title": "Queens Arms Hotel",
     "Site_streetaddress": "25 Russell Street",
@@ -110,7 +132,7 @@
     "lon": 144.2785
   },
   {
-    "_id": 6,
+    "_id": 7,
     "Suburb": "Kennington",
     "Site_title": "Kennington Tavern - Kennington Village Shopping Centre",
     "Site_streetaddress": "150 Condon Street",
@@ -132,7 +154,7 @@
     "lon": 144.30692
   },
   {
-    "_id": 7,
+    "_id": 8,
     "Suburb": "Bendigo",
     "Site_title": "Gallery Cafe",
     "Site_streetaddress": "42 View Street",
@@ -154,7 +176,7 @@
     "lon": 144.27645
   },
   {
-    "_id": 8,
+    "_id": 9,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -176,7 +198,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 9,
+    "_id": 10,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -198,7 +220,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 10,
+    "_id": 11,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -220,7 +242,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 11,
+    "_id": 12,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -242,7 +264,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 12,
+    "_id": 13,
     "Suburb": "Mulgrave",
     "Site_title": "Woolworths Waverley Gardens",
     "Site_streetaddress": "271 Police Road",
@@ -264,7 +286,7 @@
     "lon": 145.18994
   },
   {
-    "_id": 13,
+    "_id": 14,
     "Suburb": "Clayton",
     "Site_title": "McDonalds Clayton II",
     "Site_streetaddress": "1736-1740 Dandenong Road",
@@ -286,7 +308,7 @@
     "lon": 145.1253
   },
   {
-    "_id": 14,
+    "_id": 15,
     "Suburb": "Geelong",
     "Site_title": "Caffiza",
     "Site_streetaddress": "2/43 Separation Street",
@@ -308,7 +330,7 @@
     "lon": 144.34532
   },
   {
-    "_id": 15,
+    "_id": 16,
     "Suburb": "Geelong",
     "Site_title": "Malt and Shovel Taphouse Geelong",
     "Site_streetaddress": "7-12 Bellerine Street",
@@ -326,11 +348,11 @@
     "Exposure_time_start_24": "17:00:00",
     "Exposure_time_end_24": "19:00:00",
     "dhid": "Y9K8",
-    "lat": -38.1481,
-    "lon": 144.36575
+    "lat": -38.14838,
+    "lon": 144.36618
   },
   {
-    "_id": 16,
+    "_id": 17,
     "Suburb": "Swan Hill",
     "Site_title": "Swan Hill Pet Boarding",
     "Site_streetaddress": "8 Maher Road",
@@ -352,7 +374,7 @@
     "lon": 143.57776
   },
   {
-    "_id": 17,
+    "_id": 18,
     "Suburb": "Huntly",
     "Site_title": "BelleAmi Hair and Beauty",
     "Site_streetaddress": "619 Midland Highway",
@@ -374,7 +396,7 @@
     "lon": 144.33179
   },
   {
-    "_id": 18,
+    "_id": 19,
     "Suburb": "Huntly",
     "Site_title": "BelleAmi Hair and Beauty",
     "Site_streetaddress": "619 Midland Highway",
@@ -396,7 +418,7 @@
     "lon": 144.33179
   },
   {
-    "_id": 19,
+    "_id": 20,
     "Suburb": "Southbank",
     "Site_title": "Focus Apartment Construction Site",
     "Site_streetaddress": "71 City Road",
@@ -418,7 +440,7 @@
     "lon": 144.9655
   },
   {
-    "_id": 20,
+    "_id": 21,
     "Suburb": "Southbank",
     "Site_title": "Focus Apartment Construction Site",
     "Site_streetaddress": "71 City Road",
@@ -440,7 +462,7 @@
     "lon": 144.9655
   },
   {
-    "_id": 21,
+    "_id": 22,
     "Suburb": "Southbank",
     "Site_title": "Focus Apartment Construction Site",
     "Site_streetaddress": "71 City Road",
@@ -462,7 +484,7 @@
     "lon": 144.9655
   },
   {
-    "_id": 22,
+    "_id": 23,
     "Suburb": "Wodonga",
     "Site_title": "Border Dance Works",
     "Site_streetaddress": "2/14-16 South Street",
@@ -484,7 +506,7 @@
     "lon": 146.89022
   },
   {
-    "_id": 23,
+    "_id": 24,
     "Suburb": "Shepparton",
     "Site_title": "Sherbourne Hotel - Gaming Room",
     "Site_streetaddress": "109 Wyndham Street",
@@ -506,7 +528,7 @@
     "lon": 145.40077
   },
   {
-    "_id": 24,
+    "_id": 25,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -528,7 +550,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 25,
+    "_id": 26,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -550,7 +572,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 26,
+    "_id": 27,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -572,7 +594,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 27,
+    "_id": 28,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -594,7 +616,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 28,
+    "_id": 29,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -616,7 +638,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 29,
+    "_id": 30,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -638,7 +660,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 30,
+    "_id": 31,
     "Suburb": "Lilydale",
     "Site_title": "Lilydale Motor Inn",
     "Site_streetaddress": "474 Maroondah Highway",
@@ -660,7 +682,7 @@
     "lon": 145.36414
   },
   {
-    "_id": 31,
+    "_id": 32,
     "Suburb": "Churchill",
     "Site_title": "Cafe Alfa",
     "Site_streetaddress": "Shop 7/13 Georgina Place",
@@ -682,7 +704,7 @@
     "lon": 146.42149
   },
   {
-    "_id": 32,
+    "_id": 33,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -704,7 +726,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 33,
+    "_id": 34,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -726,7 +748,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 34,
+    "_id": 35,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -748,7 +770,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 35,
+    "_id": 36,
     "Suburb": "Bendigo",
     "Site_title": "The Rifle Brigade Hotel",
     "Site_streetaddress": "137 View Street",
@@ -770,7 +792,7 @@
     "lon": 144.27543
   },
   {
-    "_id": 36,
+    "_id": 37,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence        ",
     "Site_streetaddress": "53 Bull Street",
@@ -792,7 +814,7 @@
     "lon": 144.2816
   },
   {
-    "_id": 37,
+    "_id": 38,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -814,7 +836,7 @@
     "lon": 144.2816
   },
   {
-    "_id": 38,
+    "_id": 39,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -836,7 +858,7 @@
     "lon": 144.2816
   },
   {
-    "_id": 39,
+    "_id": 40,
     "Suburb": "Kennington",
     "Site_title": "The Massage Shop",
     "Site_streetaddress": "157 St Aidans Road",
@@ -858,7 +880,7 @@
     "lon": 144.30286
   },
   {
-    "_id": 40,
+    "_id": 41,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -880,7 +902,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 41,
+    "_id": 42,
     "Suburb": "Shepparton",
     "Site_title": "Wild Life Brewing Co.",
     "Site_streetaddress": "172 Maude Street",
@@ -902,7 +924,7 @@
     "lon": 145.40099
   },
   {
-    "_id": 42,
+    "_id": 43,
     "Suburb": "South Geelong",
     "Site_title": "Luce Fit Australia",
     "Site_streetaddress": "1/92 Balliang Sreet",
@@ -924,7 +946,7 @@
     "lon": 144.36279
   },
   {
-    "_id": 43,
+    "_id": 44,
     "Suburb": "Daylesford",
     "Site_title": "Blooms The Chemist",
     "Site_streetaddress": "39 Vincent Street",
@@ -946,7 +968,7 @@
     "lon": 144.14285
   },
   {
-    "_id": 44,
+    "_id": 45,
     "Suburb": "Shepparton",
     "Site_title": "Shingo's Lounge",
     "Site_streetaddress": "173 Corio Street",
@@ -968,7 +990,7 @@
     "lon": 145.40371
   },
   {
-    "_id": 45,
+    "_id": 46,
     "Suburb": "Morwell",
     "Site_title": "Wyncity Morwell",
     "Site_streetaddress": "44-48 Chickerell Street",
@@ -990,7 +1012,7 @@
     "lon": 146.43741
   },
   {
-    "_id": 46,
+    "_id": 47,
     "Suburb": "Kennington",
     "Site_title": "Feelgood Fitness Strathdale ",
     "Site_streetaddress": "88 Edwards Road\t",
@@ -1012,7 +1034,7 @@
     "lon": 144.30594
   },
   {
-    "_id": 47,
+    "_id": 48,
     "Suburb": "Kennington",
     "Site_title": "Feelgood Fitness Strathdale ",
     "Site_streetaddress": "88 Edwards Road\t",
@@ -1034,7 +1056,7 @@
     "lon": 144.30594
   },
   {
-    "_id": 48,
+    "_id": 49,
     "Suburb": "Bendigo",
     "Site_title": "Nude Food Breakfast Bar",
     "Site_streetaddress": "143 Mollison Sreet",
@@ -1056,7 +1078,7 @@
     "lon": 144.28322
   },
   {
-    "_id": 49,
+    "_id": 50,
     "Suburb": "Donald",
     "Site_title": "Donald Hotel",
     "Site_streetaddress": "126 Woods Street",
@@ -1078,7 +1100,7 @@
     "lon": 142.9845
   },
   {
-    "_id": 50,
+    "_id": 51,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1100,7 +1122,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 51,
+    "_id": 52,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1122,7 +1144,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 52,
+    "_id": 53,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1144,7 +1166,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 53,
+    "_id": 54,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -1166,7 +1188,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 54,
+    "_id": 55,
     "Suburb": "Traralgon East",
     "Site_title": "PhysiPole Traralgon",
     "Site_streetaddress": "Unit 2/13-15 Standing Drive",
@@ -1188,7 +1210,7 @@
     "lon": 146.56393
   },
   {
-    "_id": 55,
+    "_id": 56,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
@@ -1210,7 +1232,7 @@
     "lon": 144.53939
   },
   {
-    "_id": 56,
+    "_id": 57,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
@@ -1232,7 +1254,7 @@
     "lon": 144.53939
   },
   {
-    "_id": 57,
+    "_id": 58,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
@@ -1254,7 +1276,7 @@
     "lon": 144.53939
   },
   {
-    "_id": 58,
+    "_id": 59,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
@@ -1276,7 +1298,7 @@
     "lon": 144.53939
   },
   {
-    "_id": 59,
+    "_id": 60,
     "Suburb": "Paynesville",
     "Site_title": "Paynesville Wine Bar",
     "Site_streetaddress": "85A Esplanade",
@@ -1298,7 +1320,7 @@
     "lon": 147.7252
   },
   {
-    "_id": 60,
+    "_id": 61,
     "Suburb": "Paynesville",
     "Site_title": "Paynesville Wine Bar",
     "Site_streetaddress": "85A Esplanade",
@@ -1320,7 +1342,7 @@
     "lon": 147.7252
   },
   {
-    "_id": 61,
+    "_id": 62,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1342,7 +1364,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 62,
+    "_id": 63,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1364,7 +1386,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 63,
+    "_id": 64,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1386,7 +1408,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 64,
+    "_id": 65,
     "Suburb": "Redan",
     "Site_title": "Anytime Fitness",
     "Site_streetaddress": "601/603 La Trobe Street",
@@ -1408,7 +1430,7 @@
     "lon": 143.83524
   },
   {
-    "_id": 65,
+    "_id": 66,
     "Suburb": "Thomastown",
     "Site_title": "Greek Orthodox Church Of Thomastown - The Transfiguration of Our Lord",
     "Site_streetaddress": "45 Poplar Street",
@@ -1430,7 +1452,7 @@
     "lon": 145.02848
   },
   {
-    "_id": 66,
+    "_id": 67,
     "Suburb": "Hepburn Springs",
     "Site_title": "Hepburn Bathhouse and Spa - Sanctuary Mineral Bathing Area",
     "Site_streetaddress": "Mineral Springs Reserve Road",
@@ -1452,7 +1474,7 @@
     "lon": 144.14069
   },
   {
-    "_id": 67,
+    "_id": 68,
     "Suburb": "Bendigo",
     "Site_title": "The Dispensary",
     "Site_streetaddress": "9 Chancery Lane",
@@ -1474,7 +1496,7 @@
     "lon": 144.28118
   },
   {
-    "_id": 68,
+    "_id": 69,
     "Suburb": "Maldon",
     "Site_title": "Vanilla Spice",
     "Site_streetaddress": "18 High Street",
@@ -1496,7 +1518,7 @@
     "lon": 144.06888
   },
   {
-    "_id": 69,
+    "_id": 70,
     "Suburb": "Maldon",
     "Site_title": "The Maldon Lolly Shop",
     "Site_streetaddress": "20 High Street",
@@ -1518,7 +1540,7 @@
     "lon": 144.06888
   },
   {
-    "_id": 70,
+    "_id": 71,
     "Suburb": "Deer Park",
     "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Road",
@@ -1540,7 +1562,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 71,
+    "_id": 72,
     "Suburb": "Deer Park",
     "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Road",
@@ -1562,7 +1584,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 72,
+    "_id": 73,
     "Suburb": "Ballarat Central",
     "Site_title": "Oscar's Hotel and Café Bar ",
     "Site_streetaddress": "18 Doveton Street South",
@@ -1584,7 +1606,7 @@
     "lon": 143.85449
   },
   {
-    "_id": 73,
+    "_id": 74,
     "Suburb": "Point Wilson",
     "Site_title": "Austrak Concrete Factory",
     "Site_streetaddress": "570 Dandos Road",
@@ -1606,7 +1628,7 @@
     "lon": 144.48264
   },
   {
-    "_id": 74,
+    "_id": 75,
     "Suburb": "Winchelsea",
     "Site_title": "Winchelsea Hotel",
     "Site_streetaddress": "20 Willis Street",
@@ -1628,7 +1650,7 @@
     "lon": 143.99298
   },
   {
-    "_id": 75,
+    "_id": 76,
     "Suburb": "Grovedale",
     "Site_title": "The Grovedale Hotel Gaming Room",
     "Site_streetaddress": "236-258 Torquay Road",
@@ -1650,7 +1672,7 @@
     "lon": 144.34117
   },
   {
-    "_id": 76,
+    "_id": 77,
     "Suburb": "Soldiers Hill",
     "Site_title": "The North Star Hotel",
     "Site_streetaddress": "302 Lydiard Street North",
@@ -1672,7 +1694,7 @@
     "lon": 143.85923
   },
   {
-    "_id": 77,
+    "_id": 78,
     "Suburb": "Shepparton",
     "Site_title": "Goulburn Valley Grammar School Bus - Tongala to Goulburn Valley Grammar",
     "Site_streetaddress": null,
@@ -1694,7 +1716,7 @@
     "lon": 145.40342
   },
   {
-    "_id": 78,
+    "_id": 79,
     "Suburb": "Shepparton",
     "Site_title": "Goulburn Valley Grammar School Bus - Goulburn Valley Grammar to Tongala",
     "Site_streetaddress": null,
@@ -1716,7 +1738,7 @@
     "lon": 145.40342
   },
   {
-    "_id": 79,
+    "_id": 80,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars on The Esplanade",
     "Site_streetaddress": "1-2/40 The Esplanade",
@@ -1738,7 +1760,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 80,
+    "_id": 81,
     "Suburb": "Halls Gap",
     "Site_title": "Livefast Cafe",
     "Site_streetaddress": "97 Grampians Road",
@@ -1760,7 +1782,7 @@
     "lon": 142.5193
   },
   {
-    "_id": 81,
+    "_id": 82,
     "Suburb": "Halls Gap",
     "Site_title": "Flame Brothers Restaurant & Bar",
     "Site_streetaddress": "10/97 Grampians Road",
@@ -1782,7 +1804,7 @@
     "lon": 142.52099
   },
   {
-    "_id": 82,
+    "_id": 83,
     "Suburb": "Halls Gap",
     "Site_title": "Grampians Adventure Golf, Cafe & MOCO Gallery",
     "Site_streetaddress": "475-481 Grampians Road",
@@ -1804,7 +1826,7 @@
     "lon": 142.53777
   },
   {
-    "_id": 83,
+    "_id": 84,
     "Suburb": "Bendigo",
     "Site_title": "Honeyeater Salon",
     "Site_streetaddress": "96 Pall Mall",
@@ -1826,7 +1848,7 @@
     "lon": 144.28176
   },
   {
-    "_id": 84,
+    "_id": 85,
     "Suburb": "Torquay",
     "Site_title": "Two Sugars Torquay",
     "Site_streetaddress": "Shop 1-2/40 The Esplanade",
@@ -1848,7 +1870,7 @@
     "lon": 144.32448
   },
   {
-    "_id": 86,
+    "_id": 87,
     "Suburb": "Geelong",
     "Site_title": "2Cousins Shisha Hookah Lounge and Cafe",
     "Site_streetaddress": "130 Moorabool Street",
