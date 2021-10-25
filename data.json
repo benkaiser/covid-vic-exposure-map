@@ -1,6 +1,28 @@
 [
   {
     "_id": 1,
+    "Suburb": "Shepparton",
+    "Site_title": "Aussie Hotel\t",
+    "Site_streetaddress": "73 Fryers Street\t",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-10-19",
+    "Exposure_date": "19/10/2021",
+    "Exposure_time": "5:10pm - 6:15pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-25",
+    "Added_date": "25/10/2021",
+    "Added_time": "21:10:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "17:10:00",
+    "Exposure_time_end_24": "18:15:00",
+    "dhid": "Z7Y2",
+    "lat": -36.37906,
+    "lon": 145.40156
+  },
+  {
+    "_id": 2,
     "Suburb": "Golden Square",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Street",
@@ -22,7 +44,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 2,
+    "_id": 3,
     "Suburb": "Golden Square",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Street",
@@ -44,7 +66,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 3,
+    "_id": 4,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -66,7 +88,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 4,
+    "_id": 5,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -88,7 +110,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 5,
+    "_id": 6,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -110,7 +132,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 6,
+    "_id": 7,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -132,7 +154,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 7,
+    "_id": 8,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -154,7 +176,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 8,
+    "_id": 9,
     "Suburb": "Bendigo",
     "Site_title": "Evan Shoes",
     "Site_streetaddress": "281 Hargreaves Mall",
@@ -176,7 +198,7 @@
     "lon": 144.28075
   },
   {
-    "_id": 9,
+    "_id": 10,
     "Suburb": "Quarry Hill",
     "Site_title": "Queens Arms Hotel",
     "Site_streetaddress": "25 Russell Street",
@@ -198,7 +220,7 @@
     "lon": 144.2785
   },
   {
-    "_id": 10,
+    "_id": 11,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -220,7 +242,7 @@
     "lon": 146.57336
   },
   {
-    "_id": 11,
+    "_id": 12,
     "Suburb": "Traralgon",
     "Site_title": "Stellina        ",
     "Site_streetaddress": "17 Peterkin Street",
@@ -242,7 +264,7 @@
     "lon": 146.54464
   },
   {
-    "_id": 12,
+    "_id": 13,
     "Suburb": "Mildura",
     "Site_title": "F45 Training Mildura\t",
     "Site_streetaddress": "38 Lime Avenue",
@@ -264,7 +286,7 @@
     "lon": 142.16114
   },
   {
-    "_id": 13,
+    "_id": 14,
     "Suburb": "Parkville",
     "Site_title": "The Royal Children's Hospital - Level 3 Recovery Parent Waiting Room",
     "Site_streetaddress": "50 Flemington Road",
@@ -286,7 +308,7 @@
     "lon": 144.94928
   },
   {
-    "_id": 14,
+    "_id": 15,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -308,7 +330,7 @@
     "lon": 146.53413
   },
   {
-    "_id": 15,
+    "_id": 16,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -330,7 +352,7 @@
     "lon": 146.53413
   },
   {
-    "_id": 16,
+    "_id": 17,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -352,7 +374,7 @@
     "lon": 146.53413
   },
   {
-    "_id": 17,
+    "_id": 18,
     "Suburb": "Mooroopna",
     "Site_title": "Life Church ",
     "Site_streetaddress": "4 Treacy Street",
@@ -374,7 +396,7 @@
     "lon": 145.35703
   },
   {
-    "_id": 18,
+    "_id": 19,
     "Suburb": "Coldstream",
     "Site_title": "Red Rich Fruits",
     "Site_streetaddress": "713 Maroondah Hwy",
@@ -396,7 +418,7 @@
     "lon": 145.41953
   },
   {
-    "_id": 19,
+    "_id": 20,
     "Suburb": "Coldstream",
     "Site_title": "Red Rich Fruits",
     "Site_streetaddress": "713 Maroondah Hwy",
@@ -416,28 +438,6 @@
     "dhid": "Z4Q3",
     "lat": -37.69589,
     "lon": 145.41953
-  },
-  {
-    "_id": 20,
-    "Suburb": "Shepparton",
-    "Site_title": "The Deck",
-    "Site_streetaddress": "198A Maude Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "Exposure_date_dtm": "2021-10-19",
-    "Exposure_date": "19/10/2021",
-    "Exposure_time": "6:45pm - 8.45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-23",
-    "Added_date": "23/10/2021",
-    "Added_time": "20:50:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "18:45:00",
-    "Exposure_time_end_24": "20:45:00",
-    "dhid": "Z2E7",
-    "lat": -36.37955,
-    "lon": 145.40086
   },
   {
     "_id": 21,
