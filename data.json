@@ -1524,50 +1524,6 @@
     "Site_streetaddress": "71 City Road",
     "Site_state": "VIC",
     "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "5:30am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-21",
-    "Added_date": "21/10/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "05:30:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "Y7S4",
-    "lat": -37.82224,
-    "lon": 144.9655
-  },
-  {
-    "_id": 72,
-    "Suburb": "Southbank",
-    "Site_title": "Focus Apartment Construction Site",
-    "Site_streetaddress": "71 City Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-10-15",
-    "Exposure_date": "15/10/2021",
-    "Exposure_time": "7:00am - 3:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-21",
-    "Added_date": "21/10/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:00:00",
-    "dhid": "Y9N3",
-    "lat": -37.82224,
-    "lon": 144.9655
-  },
-  {
-    "_id": 73,
-    "Suburb": "Southbank",
-    "Site_title": "Focus Apartment Construction Site",
-    "Site_streetaddress": "71 City Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
     "Exposure_date_dtm": "2021-10-16",
     "Exposure_date": "16/10/2021",
     "Exposure_time": "8:00am - 3:00pm",
@@ -1584,7 +1540,7 @@
     "lon": 144.9655
   },
   {
-    "_id": 74,
+    "_id": 72,
     "Suburb": "Shepparton",
     "Site_title": "Sherbourne Hotel - Gaming Room",
     "Site_streetaddress": "109 Wyndham Street",
@@ -1606,7 +1562,7 @@
     "lon": 145.40077
   },
   {
-    "_id": 75,
+    "_id": 73,
     "Suburb": "Churchill",
     "Site_title": "Cafe Alfa",
     "Site_streetaddress": "Shop 7/13 Georgina Place",
@@ -1628,7 +1584,7 @@
     "lon": 146.42149
   },
   {
-    "_id": 76,
+    "_id": 74,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1650,7 +1606,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 77,
+    "_id": 75,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1672,7 +1628,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 78,
+    "_id": 76,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1694,7 +1650,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 79,
+    "_id": 77,
     "Suburb": "Bendigo",
     "Site_title": "The Rifle Brigade Hotel",
     "Site_streetaddress": "137 View Street",
@@ -1716,7 +1672,7 @@
     "lon": 144.27543
   },
   {
-    "_id": 80,
+    "_id": 78,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence        ",
     "Site_streetaddress": "53 Bull Street",
@@ -1738,7 +1694,7 @@
     "lon": 144.2816
   },
   {
-    "_id": 81,
+    "_id": 79,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -1760,7 +1716,7 @@
     "lon": 144.2816
   },
   {
-    "_id": 82,
+    "_id": 80,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -1782,7 +1738,7 @@
     "lon": 144.2816
   },
   {
-    "_id": 83,
+    "_id": 81,
     "Suburb": "Kennington",
     "Site_title": "The Massage Shop",
     "Site_streetaddress": "157 St Aidans Road",
@@ -1804,7 +1760,7 @@
     "lon": 144.30286
   },
   {
-    "_id": 84,
+    "_id": 82,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1826,7 +1782,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 85,
+    "_id": 83,
     "Suburb": "Shepparton",
     "Site_title": "Wild Life Brewing Co.",
     "Site_streetaddress": "172 Maude Street",
@@ -1848,7 +1804,7 @@
     "lon": 145.40099
   },
   {
-    "_id": 86,
+    "_id": 84,
     "Suburb": "Daylesford",
     "Site_title": "Blooms The Chemist",
     "Site_streetaddress": "39 Vincent Street",
@@ -1870,7 +1826,7 @@
     "lon": 144.14285
   },
   {
-    "_id": 87,
+    "_id": 85,
     "Suburb": "Shepparton",
     "Site_title": "Shingo's Lounge",
     "Site_streetaddress": "173 Corio Street",
@@ -1892,7 +1848,7 @@
     "lon": 145.40371
   },
   {
-    "_id": 88,
+    "_id": 86,
     "Suburb": "Morwell",
     "Site_title": "Wyncity Morwell",
     "Site_streetaddress": "44-48 Chickerell Street",
@@ -1914,7 +1870,7 @@
     "lon": 146.43741
   },
   {
-    "_id": 89,
+    "_id": 87,
     "Suburb": "Bendigo",
     "Site_title": "Nude Food Breakfast Bar",
     "Site_streetaddress": "143 Mollison Sreet",
@@ -1936,7 +1892,7 @@
     "lon": 144.28322
   },
   {
-    "_id": 90,
+    "_id": 88,
     "Suburb": "Donald",
     "Site_title": "Donald Hotel",
     "Site_streetaddress": "126 Woods Street",
@@ -1958,29 +1914,7 @@
     "lon": 142.9845
   },
   {
-    "_id": 91,
-    "Suburb": "Bendigo",
-    "Site_title": "McQuinns Gym",
-    "Site_streetaddress": "14-18 High Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-12",
-    "Exposure_date": "12/10/2021",
-    "Exposure_time": "5:00am - 7:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-19",
-    "Added_date": "19/10/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "05:00:00",
-    "Exposure_time_end_24": "19:00:00",
-    "dhid": "Z8F2",
-    "lat": -36.76047,
-    "lon": 144.27634
-  },
-  {
-    "_id": 92,
+    "_id": 89,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -2002,29 +1936,7 @@
     "lon": 144.27634
   },
   {
-    "_id": 93,
-    "Suburb": "Bendigo",
-    "Site_title": "Honeyeater Salon",
-    "Site_streetaddress": "96 Pall Mall",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "8:00am - 3:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-19",
-    "Added_date": "19/10/2021",
-    "Added_time": "16:05:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "15:00:00",
-    "dhid": "Z3X4",
-    "lat": -36.75761,
-    "lon": 144.28176
-  },
-  {
-    "_id": 94,
+    "_id": 90,
     "Suburb": "Traralgon East",
     "Site_title": "PhysiPole Traralgon",
     "Site_streetaddress": "Unit 2/13-15 Standing Drive",
@@ -2046,7 +1958,7 @@
     "lon": 146.56393
   },
   {
-    "_id": 95,
+    "_id": 91,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
