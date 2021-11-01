@@ -226,28 +226,6 @@
     "Site_streetaddress": "Corner Neale and Station Roads",
     "Site_state": "VIC",
     "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "10:00am - 4:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-29",
-    "Added_date": "29/10/2021",
-    "Added_time": "16:45:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "10:00:00",
-    "Exposure_time_end_24": "19:30:00",
-    "dhid": "Z8R3",
-    "lat": -37.76347,
-    "lon": 144.77576
-  },
-  {
-    "_id": 12,
-    "Suburb": "Deer Park",
-    "Site_title": "Nando's - Brimbank Central Shopping Centre",
-    "Site_streetaddress": "Corner Neale and Station Roads",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
     "Exposure_date_dtm": "2021-10-19",
     "Exposure_date": "19/10/2021",
     "Exposure_time": "9:00am - 4:30pm",
@@ -264,7 +242,7 @@
     "lon": 144.77576
   },
   {
-    "_id": 13,
+    "_id": 12,
     "Suburb": "Wangaratta",
     "Site_title": "D'Amicos Italian Restaurant",
     "Site_streetaddress": "59 Vincent Road",
@@ -286,7 +264,7 @@
     "lon": 146.31526
   },
   {
-    "_id": 14,
+    "_id": 13,
     "Suburb": "Moe",
     "Site_title": "Turfside Bar and Grill - Moe Racing Club",
     "Site_streetaddress": "Waterloo Road",
@@ -308,7 +286,7 @@
     "lon": 146.24179
   },
   {
-    "_id": 15,
+    "_id": 14,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -330,7 +308,7 @@
     "lon": 146.26366
   },
   {
-    "_id": 16,
+    "_id": 15,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -352,7 +330,7 @@
     "lon": 146.26366
   },
   {
-    "_id": 17,
+    "_id": 16,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -374,7 +352,7 @@
     "lon": 146.26366
   },
   {
-    "_id": 18,
+    "_id": 17,
     "Suburb": "Grovedale",
     "Site_title": "BOUNCEinc Geelong",
     "Site_streetaddress": "174 Torquay Road",
@@ -396,7 +374,7 @@
     "lon": 144.3423
   },
   {
-    "_id": 19,
+    "_id": 18,
     "Suburb": "Traralgon",
     "Site_title": "Snap Fitness 24/7",
     "Site_streetaddress": "106-118 Argyle Street",
@@ -418,7 +396,7 @@
     "lon": 146.55142
   },
   {
-    "_id": 20,
+    "_id": 19,
     "Suburb": "Queenscliff",
     "Site_title": "Queenscliff Visitor Information Centre        ",
     "Site_streetaddress": "18 Hesse Street\t",
@@ -440,7 +418,7 @@
     "lon": 144.66185
   },
   {
-    "_id": 21,
+    "_id": 20,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -462,7 +440,7 @@
     "lon": 146.57336
   },
   {
-    "_id": 22,
+    "_id": 21,
     "Suburb": "Woodend",
     "Site_title": "Paysanne Cafe",
     "Site_streetaddress": "112 High Street",
@@ -484,7 +462,7 @@
     "lon": 144.52815
   },
   {
-    "_id": 23,
+    "_id": 22,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -506,7 +484,7 @@
     "lon": 144.52445
   },
   {
-    "_id": 24,
+    "_id": 23,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -528,7 +506,7 @@
     "lon": 144.52445
   },
   {
-    "_id": 25,
+    "_id": 24,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -550,7 +528,7 @@
     "lon": 144.52445
   },
   {
-    "_id": 26,
+    "_id": 25,
     "Suburb": "Macedon",
     "Site_title": "The Macedon Lounge",
     "Site_streetaddress": "40 Victoria Street",
@@ -572,7 +550,7 @@
     "lon": 144.56494
   },
   {
-    "_id": 27,
+    "_id": 26,
     "Suburb": "Bendigo",
     "Site_title": "The Coffee Club Bendigo        ",
     "Site_streetaddress": "CT2 Corner Edward and Queen Street\t",
@@ -594,7 +572,7 @@
     "lon": 144.2815
   },
   {
-    "_id": 28,
+    "_id": 27,
     "Suburb": "Sale",
     "Site_title": "Pastry and Pieces Bakery",
     "Site_streetaddress": "207 Raymond Street",
@@ -616,7 +594,7 @@
     "lon": 147.06537
   },
   {
-    "_id": 29,
+    "_id": 28,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -638,7 +616,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 30,
+    "_id": 29,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -660,7 +638,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 31,
+    "_id": 30,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -682,7 +660,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 32,
+    "_id": 31,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -704,7 +682,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 33,
+    "_id": 32,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -726,7 +704,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 34,
+    "_id": 33,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -748,7 +726,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 35,
+    "_id": 34,
     "Suburb": "Benalla",
     "Site_title": "Amcal+ Pharmacy        ",
     "Site_streetaddress": "27-29 Bridge Street East\t",
@@ -770,7 +748,7 @@
     "lon": 145.98361
   },
   {
-    "_id": 36,
+    "_id": 35,
     "Suburb": "Wodonga",
     "Site_title": "PT Fitness Wodonga        ",
     "Site_streetaddress": "6 Chisholm Court\t",
@@ -792,7 +770,7 @@
     "lon": 146.90327
   },
   {
-    "_id": 37,
+    "_id": 36,
     "Suburb": "Wodonga",
     "Site_title": "Genesis Health and Fitness Wodonga        ",
     "Site_streetaddress": "285 Victoria Cross Parade\t",
@@ -814,7 +792,7 @@
     "lon": 146.90819
   },
   {
-    "_id": 38,
+    "_id": 37,
     "Suburb": "Wodonga",
     "Site_title": "Genesis Health and Fitness Wodonga\t",
     "Site_streetaddress": "285 Victoria Cross Parade\t",
@@ -836,7 +814,7 @@
     "lon": 146.90819
   },
   {
-    "_id": 39,
+    "_id": 38,
     "Suburb": "Wangaratta",
     "Site_title": "United Body & Soul        ",
     "Site_streetaddress": "84 Parfitt Road\t",
@@ -858,7 +836,7 @@
     "lon": 146.33724
   },
   {
-    "_id": 40,
+    "_id": 39,
     "Suburb": "Mildura",
     "Site_title": "Mildura Working Man's Club - Gaming Room        ",
     "Site_streetaddress": "100-110 Deakin Avenue\t",
@@ -880,7 +858,7 @@
     "lon": 142.16029
   },
   {
-    "_id": 41,
+    "_id": 40,
     "Suburb": "Shepparton",
     "Site_title": "Terminus Hotel        ",
     "Site_streetaddress": "212-226 High Street\t",
@@ -902,7 +880,7 @@
     "lon": 145.40544
   },
   {
-    "_id": 42,
+    "_id": 41,
     "Suburb": "Mildura",
     "Site_title": "Mildura Working Man's Club - Gaming Room\t",
     "Site_streetaddress": "100-110 Deakin Avenue\t",
@@ -924,7 +902,7 @@
     "lon": 142.16029
   },
   {
-    "_id": 43,
+    "_id": 42,
     "Suburb": "Shepparton",
     "Site_title": "Aussie Hotel        ",
     "Site_streetaddress": "73 Fryers Street\t",
@@ -946,7 +924,7 @@
     "lon": 145.40156
   },
   {
-    "_id": 44,
+    "_id": 43,
     "Suburb": "Golden Square",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Street",
@@ -968,7 +946,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 45,
+    "_id": 44,
     "Suburb": "Golden Square",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Street",
@@ -990,29 +968,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 46,
-    "Suburb": "Mildura",
-    "Site_title": "PRD Real Estate Mildura",
-    "Site_streetaddress": "119 Langtree Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3500",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "8:00am - 6:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-24",
-    "Added_date": "24/10/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "18:00:00",
-    "dhid": "Y2G5",
-    "lat": -34.18669,
-    "lon": 142.15812
-  },
-  {
-    "_id": 47,
+    "_id": 45,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -1034,7 +990,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 48,
+    "_id": 46,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -1056,7 +1012,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 49,
+    "_id": 47,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -1078,7 +1034,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 50,
+    "_id": 48,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -1100,7 +1056,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 51,
+    "_id": 49,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -1122,7 +1078,7 @@
     "lon": 146.57336
   },
   {
-    "_id": 52,
+    "_id": 50,
     "Suburb": "Mildura",
     "Site_title": "F45 Training Mildura\t",
     "Site_streetaddress": "38 Lime Avenue",
@@ -1144,51 +1100,7 @@
     "lon": 142.16114
   },
   {
-    "_id": 53,
-    "Suburb": "Parkville",
-    "Site_title": "The Royal Children's Hospital - Level 3 Recovery Parent Waiting Room",
-    "Site_streetaddress": "50 Flemington Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3052",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "1:51pm - 3:40pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-24",
-    "Added_date": "24/10/2021",
-    "Added_time": "16:15:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "13:51:00",
-    "Exposure_time_end_24": "15:40:00",
-    "dhid": "Y9Y4",
-    "lat": -37.79459,
-    "lon": 144.94928
-  },
-  {
-    "_id": 54,
-    "Suburb": "Traralgon",
-    "Site_title": "Dunbar Road Landscape Supplies",
-    "Site_streetaddress": "68/70 Dunbar Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "6:45am - 3:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-24",
-    "Added_date": "24/10/2021",
-    "Added_time": "16:10:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "06:45:00",
-    "Exposure_time_end_24": "15:45:00",
-    "dhid": "Z7S9",
-    "lat": -38.20679,
-    "lon": 146.53413
-  },
-  {
-    "_id": 55,
+    "_id": 51,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -1210,7 +1122,7 @@
     "lon": 146.53413
   },
   {
-    "_id": 56,
+    "_id": 52,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -1232,29 +1144,7 @@
     "lon": 146.53413
   },
   {
-    "_id": 57,
-    "Suburb": "Benalla",
-    "Site_title": "Fobia Industries Benalla",
-    "Site_streetaddress": "123-125 Bridge Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3672",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "6:00am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-23",
-    "Added_date": "23/10/2021",
-    "Added_time": "20:50:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "06:00:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "Y7Q6",
-    "lat": -36.55061,
-    "lon": 145.98745
-  },
-  {
-    "_id": 58,
+    "_id": 53,
     "Suburb": "Benalla",
     "Site_title": "Fobia Industries Benalla",
     "Site_streetaddress": "123-125 Bridge Street",
@@ -1276,29 +1166,7 @@
     "lon": 145.98745
   },
   {
-    "_id": 59,
-    "Suburb": "Shepparton",
-    "Site_title": "Telstra Shepparton Marketplace",
-    "Site_streetaddress": "Shop 30, 110-120 Benalla Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "8:30am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-23",
-    "Added_date": "23/10/2021",
-    "Added_time": "19:50:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "Y2A3",
-    "lat": -36.38423,
-    "lon": 145.41579
-  },
-  {
-    "_id": 60,
+    "_id": 54,
     "Suburb": "Torquay",
     "Site_title": "9grams Torquay",
     "Site_streetaddress": "5/4-6 Gilbert Street",
@@ -1320,7 +1188,7 @@
     "lon": 144.32542
   },
   {
-    "_id": 61,
+    "_id": 55,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -1342,51 +1210,7 @@
     "lon": 144.27394
   },
   {
-    "_id": 62,
-    "Suburb": "Clayton",
-    "Site_title": "McDonalds Clayton II",
-    "Site_streetaddress": "1736-1740 Dandenong Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3168",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "5:00am - 9:00am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-21",
-    "Added_date": "21/10/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "05:00:00",
-    "Exposure_time_end_24": "09:00:00",
-    "dhid": "Y9N6",
-    "lat": -37.91367,
-    "lon": 145.1253
-  },
-  {
-    "_id": 63,
-    "Suburb": "Huntly",
-    "Site_title": "BelleAmi Hair and Beauty",
-    "Site_streetaddress": "619 Midland Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "Exposure_date_dtm": "2021-10-18",
-    "Exposure_date": "18/10/2021",
-    "Exposure_time": "10:00am - 2:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-21",
-    "Added_date": "21/10/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "10:00:00",
-    "Exposure_time_end_24": "14:30:00",
-    "dhid": "Z7D2",
-    "lat": -36.66589,
-    "lon": 144.33179
-  },
-  {
-    "_id": 64,
+    "_id": 56,
     "Suburb": "Huntly",
     "Site_title": "BelleAmi Hair and Beauty",
     "Site_streetaddress": "619 Midland Highway",
@@ -1408,7 +1232,7 @@
     "lon": 144.33179
   },
   {
-    "_id": 65,
+    "_id": 57,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1430,7 +1254,7 @@
     "lon": 145.40086
   },
   {
-    "_id": 66,
+    "_id": 58,
     "Suburb": "Daylesford",
     "Site_title": "Blooms The Chemist",
     "Site_streetaddress": "39 Vincent Street",
