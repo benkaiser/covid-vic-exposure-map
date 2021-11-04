@@ -1,6 +1,50 @@
 [
   {
     "_id": 1,
+    "Suburb": "Grovedale",
+    "Site_title": "Bounce Inc. Geelong",
+    "Site_streetaddress": "174 Torquay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "Exposure_date_dtm": "2021-10-28",
+    "Exposure_date": "28/10/2021",
+    "Exposure_time": "12:30pm - 2:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-04",
+    "Added_date": "04/11/2021",
+    "Added_time": "20:30:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "12:30:00",
+    "Exposure_time_end_24": "14:00:00",
+    "dhid": "Z3S5",
+    "lat": -38.19681,
+    "lon": 144.3423
+  },
+  {
+    "_id": 2,
+    "Suburb": "Belmont",
+    "Site_title": "Oz Tenpin Geelong Bowling",
+    "Site_streetaddress": "19 Reynolds Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "Exposure_date_dtm": "2021-10-29",
+    "Exposure_date": "29/10/2021",
+    "Exposure_time": "4:00pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-04",
+    "Added_date": "04/11/2021",
+    "Added_time": "20:30:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "16:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "Y7C6",
+    "lat": -38.1883,
+    "lon": 144.32546
+  },
+  {
+    "_id": 3,
     "Suburb": "Warragul",
     "Site_title": "Chemist Discount Centre Warragul",
     "Site_streetaddress": "38 Palmerston Street",
@@ -22,7 +66,7 @@
     "lon": 145.93277
   },
   {
-    "_id": 2,
+    "_id": 4,
     "Suburb": "Kangaroo Flat",
     "Site_title": "Gurri Wanyarra Wellbeing Centre",
     "Site_streetaddress": "9 Browning Street",
@@ -44,7 +88,7 @@
     "lon": 144.24271
   },
   {
-    "_id": 3,
+    "_id": 5,
     "Suburb": "Kangaroo Flat",
     "Site_title": "Gurri Wanyarra Wellbeing Centre",
     "Site_streetaddress": "9 Browning Street",
@@ -66,7 +110,7 @@
     "lon": 144.24271
   },
   {
-    "_id": 4,
+    "_id": 6,
     "Suburb": "Wangaratta",
     "Site_title": "Domino's Pizza Wangaratta",
     "Site_streetaddress": "90A Murphy Street",
@@ -88,7 +132,7 @@
     "lon": 146.31026
   },
   {
-    "_id": 5,
+    "_id": 7,
     "Suburb": "Wangaratta",
     "Site_title": "Domino's Pizza Wangaratta",
     "Site_streetaddress": "90A Murphy Street",
@@ -110,7 +154,7 @@
     "lon": 146.31026
   },
   {
-    "_id": 6,
+    "_id": 8,
     "Suburb": "Warragul",
     "Site_title": "Industry Studios",
     "Site_streetaddress": "6 Normanby Street",
@@ -132,7 +176,7 @@
     "lon": 145.93905
   },
   {
-    "_id": 7,
+    "_id": 9,
     "Suburb": "Traralgon",
     "Site_title": "Missen Link Burgers",
     "Site_streetaddress": "114 Franklin Street",
@@ -154,7 +198,7 @@
     "lon": 146.53831
   },
   {
-    "_id": 8,
+    "_id": 10,
     "Suburb": "Traralgon",
     "Site_title": "Missen Link Burgers",
     "Site_streetaddress": "114 Franklin Street",
@@ -176,7 +220,7 @@
     "lon": 146.53831
   },
   {
-    "_id": 9,
+    "_id": 11,
     "Suburb": "Traralgon",
     "Site_title": "Missen Link Burgers",
     "Site_streetaddress": "114 Franklin Street",
@@ -198,7 +242,7 @@
     "lon": 146.53831
   },
   {
-    "_id": 10,
+    "_id": 12,
     "Suburb": "Traralgon",
     "Site_title": "Missen Link Burgers",
     "Site_streetaddress": "114 Franklin Street",
@@ -220,7 +264,7 @@
     "lon": 146.53831
   },
   {
-    "_id": 11,
+    "_id": 13,
     "Suburb": "Essendon",
     "Site_title": "Lincolnshire ARMS Hotel",
     "Site_streetaddress": "1 Keilor Road",
@@ -242,7 +286,7 @@
     "lon": 144.90981
   },
   {
-    "_id": 12,
+    "_id": 14,
     "Suburb": "Geelong",
     "Site_title": "Shiraaz Indian Restaurant",
     "Site_streetaddress": "48 Malop Street",
@@ -264,7 +308,7 @@
     "lon": 144.36011
   },
   {
-    "_id": 13,
+    "_id": 15,
     "Suburb": "Ballarat Central",
     "Site_title": "Fernwood Ballarat",
     "Site_streetaddress": "102 Lydiard Street North",
@@ -286,7 +330,7 @@
     "lon": 143.85848
   },
   {
-    "_id": 14,
+    "_id": 16,
     "Suburb": "Moe",
     "Site_title": "Tommy Brock Cafe        ",
     "Site_streetaddress": "11-15 Kirk Street\t",
@@ -308,7 +352,7 @@
     "lon": 146.26357
   },
   {
-    "_id": 15,
+    "_id": 17,
     "Suburb": "Moe",
     "Site_title": "Old Gippstown - Gippsland's Heritage Park",
     "Site_streetaddress": "211 Lloyd Street",
@@ -330,7 +374,7 @@
     "lon": 146.23647
   },
   {
-    "_id": 16,
+    "_id": 18,
     "Suburb": "Bendigo",
     "Site_title": "The Coffee Club Bendigo        ",
     "Site_streetaddress": "CT2 Corner Edward and Queen Street\t",
@@ -352,7 +396,7 @@
     "lon": 144.2815
   },
   {
-    "_id": 17,
+    "_id": 19,
     "Suburb": "Warragul",
     "Site_title": "Industry Studios",
     "Site_streetaddress": "6 Normanby Street",
@@ -374,7 +418,7 @@
     "lon": 145.93905
   },
   {
-    "_id": 18,
+    "_id": 20,
     "Suburb": "Kyneton",
     "Site_title": "Kyneton Caring Community",
     "Site_streetaddress": "60 Mollison Street",
@@ -396,7 +440,7 @@
     "lon": 144.45322
   },
   {
-    "_id": 19,
+    "_id": 21,
     "Suburb": "Kyneton",
     "Site_title": "Kyneton Caring Community",
     "Site_streetaddress": "60 Mollison Street",
@@ -418,7 +462,7 @@
     "lon": 144.45322
   },
   {
-    "_id": 20,
+    "_id": 22,
     "Suburb": "Epping",
     "Site_title": "Taste of India",
     "Site_streetaddress": "65/67 Coulstock Street",
@@ -440,7 +484,7 @@
     "lon": 145.02434
   },
   {
-    "_id": 21,
+    "_id": 23,
     "Suburb": "Wangaratta",
     "Site_title": "D'Amicos Italian Restaurant",
     "Site_streetaddress": "59 Vincent Road",
@@ -462,7 +506,7 @@
     "lon": 146.31526
   },
   {
-    "_id": 22,
+    "_id": 24,
     "Suburb": "Moe",
     "Site_title": "Turfside Bar and Grill - Moe Racing Club",
     "Site_streetaddress": "Waterloo Road",
@@ -484,7 +528,7 @@
     "lon": 146.24179
   },
   {
-    "_id": 23,
+    "_id": 25,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -506,7 +550,7 @@
     "lon": 146.26366
   },
   {
-    "_id": 24,
+    "_id": 26,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -528,7 +572,7 @@
     "lon": 146.26366
   },
   {
-    "_id": 25,
+    "_id": 27,
     "Suburb": "Grovedale",
     "Site_title": "BOUNCEinc Geelong",
     "Site_streetaddress": "174 Torquay Road",
@@ -550,7 +594,7 @@
     "lon": 144.3423
   },
   {
-    "_id": 26,
+    "_id": 28,
     "Suburb": "Traralgon",
     "Site_title": "Snap Fitness 24/7",
     "Site_streetaddress": "106-118 Argyle Street",
@@ -572,7 +616,7 @@
     "lon": 146.55142
   },
   {
-    "_id": 27,
+    "_id": 29,
     "Suburb": "Woodend",
     "Site_title": "Paysanne Cafe",
     "Site_streetaddress": "112 High Street",
@@ -594,7 +638,7 @@
     "lon": 144.52815
   },
   {
-    "_id": 28,
+    "_id": 30,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -616,7 +660,7 @@
     "lon": 144.52445
   },
   {
-    "_id": 29,
+    "_id": 31,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -638,7 +682,7 @@
     "lon": 144.52445
   },
   {
-    "_id": 30,
+    "_id": 32,
     "Suburb": "Macedon",
     "Site_title": "The Macedon Lounge",
     "Site_streetaddress": "40 Victoria Street",
@@ -660,7 +704,7 @@
     "lon": 144.56494
   },
   {
-    "_id": 31,
+    "_id": 33,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -682,7 +726,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 32,
+    "_id": 34,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -704,7 +748,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 33,
+    "_id": 35,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -726,7 +770,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 34,
+    "_id": 36,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -748,7 +792,7 @@
     "lon": 146.56103
   },
   {
-    "_id": 35,
+    "_id": 37,
     "Suburb": "Mildura",
     "Site_title": "Mildura Working Man's Club - Gaming Room        ",
     "Site_streetaddress": "100-110 Deakin Avenue\t",
@@ -770,7 +814,7 @@
     "lon": 142.16029
   },
   {
-    "_id": 36,
+    "_id": 38,
     "Suburb": "Mildura",
     "Site_title": "Mildura Working Man's Club - Gaming Room\t",
     "Site_streetaddress": "100-110 Deakin Avenue\t",
@@ -792,7 +836,7 @@
     "lon": 142.16029
   },
   {
-    "_id": 37,
+    "_id": 39,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -814,7 +858,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 38,
+    "_id": 40,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -836,7 +880,7 @@
     "lon": 142.15812
   },
   {
-    "_id": 39,
+    "_id": 41,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -858,7 +902,7 @@
     "lon": 146.57336
   },
   {
-    "_id": 40,
+    "_id": 42,
     "Suburb": "Mildura",
     "Site_title": "F45 Training Mildura\t",
     "Site_streetaddress": "38 Lime Avenue",
@@ -880,7 +924,7 @@
     "lon": 142.16114
   },
   {
-    "_id": 41,
+    "_id": 43,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
