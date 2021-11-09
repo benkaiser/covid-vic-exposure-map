@@ -1,28 +1,6 @@
 [
   {
     "_id": 1,
-    "Suburb": "Campbellfield",
-    "Site_title": "Shri Guru Ravidass Sabha Australi",
-    "Site_streetaddress": "24 Malcolm Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3061",
-    "Exposure_date_dtm": "2021-11-04",
-    "Exposure_date": "04/11/2021",
-    "Exposure_time": "4:30pm - 8:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-11-09",
-    "Added_date": "09/11/2021",
-    "Added_time": "11:15:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "16:30:00",
-    "Exposure_time_end_24": "20:00:00",
-    "dhid": "Y4V6",
-    "lat": -37.67224,
-    "lon": 144.972
-  },
-  {
-    "_id": 2,
     "Suburb": "Geelong West",
     "Site_title": "Hidden Minx Hair Studio",
     "Site_streetaddress": "80A Hope Street",
@@ -44,7 +22,7 @@
     "lon": 144.34851
   },
   {
-    "_id": 3,
+    "_id": 2,
     "Suburb": "Morwell",
     "Site_title": "Wyncity Morwell",
     "Site_streetaddress": "44-48 Chickerell Street",
@@ -66,7 +44,7 @@
     "lon": 146.43741
   },
   {
-    "_id": 4,
+    "_id": 3,
     "Suburb": "Grovedale",
     "Site_title": "Bounce Inc. Geelong",
     "Site_streetaddress": "174 Torquay Road",
@@ -88,7 +66,7 @@
     "lon": 144.3423
   },
   {
-    "_id": 5,
+    "_id": 4,
     "Suburb": "Belmont",
     "Site_title": "Oz Tenpin Geelong Bowling",
     "Site_streetaddress": "19 Reynolds Road",
@@ -110,7 +88,7 @@
     "lon": 144.32546
   },
   {
-    "_id": 6,
+    "_id": 5,
     "Suburb": "Warragul",
     "Site_title": "Chemist Discount Centre Warragul",
     "Site_streetaddress": "38 Palmerston Street",
@@ -132,7 +110,7 @@
     "lon": 145.93277
   },
   {
-    "_id": 7,
+    "_id": 6,
     "Suburb": "Kangaroo Flat",
     "Site_title": "Gurri Wanyarra Wellbeing Centre",
     "Site_streetaddress": "9 Browning Street",
@@ -154,7 +132,7 @@
     "lon": 144.24271
   },
   {
-    "_id": 8,
+    "_id": 7,
     "Suburb": "Kangaroo Flat",
     "Site_title": "Gurri Wanyarra Wellbeing Centre",
     "Site_streetaddress": "9 Browning Street",
@@ -176,7 +154,7 @@
     "lon": 144.24271
   },
   {
-    "_id": 9,
+    "_id": 8,
     "Suburb": "Wangaratta",
     "Site_title": "Domino's Pizza Wangaratta",
     "Site_streetaddress": "90A Murphy Street",
@@ -198,7 +176,7 @@
     "lon": 146.31026
   },
   {
-    "_id": 10,
+    "_id": 9,
     "Suburb": "Wangaratta",
     "Site_title": "Domino's Pizza Wangaratta",
     "Site_streetaddress": "90A Murphy Street",
@@ -220,7 +198,7 @@
     "lon": 146.31026
   },
   {
-    "_id": 11,
+    "_id": 10,
     "Suburb": "Warragul",
     "Site_title": "Industry Studios",
     "Site_streetaddress": "6 Normanby Street",
@@ -242,7 +220,7 @@
     "lon": 145.93905
   },
   {
-    "_id": 12,
+    "_id": 11,
     "Suburb": "Traralgon",
     "Site_title": "Missen Link Burgers",
     "Site_streetaddress": "114 Franklin Street",
@@ -264,7 +242,7 @@
     "lon": 146.53831
   },
   {
-    "_id": 13,
+    "_id": 12,
     "Suburb": "Essendon",
     "Site_title": "Lincolnshire ARMS Hotel",
     "Site_streetaddress": "1 Keilor Road",
@@ -284,6 +262,28 @@
     "dhid": "Z8R5",
     "lat": -37.74454,
     "lon": 144.90981
+  },
+  {
+    "_id": 13,
+    "Suburb": "Geelong",
+    "Site_title": "Shiraaz Indian Restaurant",
+    "Site_streetaddress": "48 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "Exposure_date_dtm": "2021-10-24",
+    "Exposure_date": "24/10/2021",
+    "Exposure_time": "4:15pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-01",
+    "Added_date": "01/11/2021",
+    "Added_time": "19:05:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "16:15:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "Y8M4",
+    "lat": -38.14731,
+    "lon": 144.36011
   },
   {
     "_id": 14,
@@ -309,6 +309,50 @@
   },
   {
     "_id": 15,
+    "Suburb": "Moe",
+    "Site_title": "Tommy Brock Cafe        ",
+    "Site_streetaddress": "11-15 Kirk Street\t",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "Exposure_date_dtm": "2021-10-25",
+    "Exposure_date": "25/10/2021",
+    "Exposure_time": "12:15pm - 3:45pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-31",
+    "Added_date": "31/10/2021",
+    "Added_time": "15:30:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "12:15:00",
+    "Exposure_time_end_24": "15:45:00",
+    "dhid": "Y4V5",
+    "lat": -38.17593,
+    "lon": 146.26357
+  },
+  {
+    "_id": 16,
+    "Suburb": "Moe",
+    "Site_title": "Old Gippstown - Gippsland's Heritage Park",
+    "Site_streetaddress": "211 Lloyd Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "Exposure_date_dtm": "2021-10-24",
+    "Exposure_date": "24/10/2021",
+    "Exposure_time": "11:30am - 1:15pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-30",
+    "Added_date": "30/10/2021",
+    "Added_time": "20:15:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "11:30:00",
+    "Exposure_time_end_24": "13:15:00",
+    "dhid": "Y6L5",
+    "lat": -38.18479,
+    "lon": 146.23647
+  },
+  {
+    "_id": 17,
     "Suburb": "Warragul",
     "Site_title": "Industry Studios",
     "Site_streetaddress": "6 Normanby Street",
@@ -330,7 +374,7 @@
     "lon": 145.93905
   },
   {
-    "_id": 16,
+    "_id": 18,
     "Suburb": "Kyneton",
     "Site_title": "Kyneton Caring Community",
     "Site_streetaddress": "60 Mollison Street",
@@ -352,7 +396,7 @@
     "lon": 144.45322
   },
   {
-    "_id": 17,
+    "_id": 19,
     "Suburb": "Kyneton",
     "Site_title": "Kyneton Caring Community",
     "Site_streetaddress": "60 Mollison Street",
