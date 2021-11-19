@@ -133,28 +133,6 @@
   },
   {
     "_id": 7,
-    "Suburb": "Campbellfield",
-    "Site_title": "Shri Guru Ravidass Sabha Australia",
-    "Site_streetaddress": "24 Malcolm Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3061",
-    "Exposure_date_dtm": "2021-11-04",
-    "Exposure_date": "04/11/2021",
-    "Exposure_time": "4:30pm - 8:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-11-09",
-    "Added_date": "09/11/2021",
-    "Added_time": "11:15:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "16:30:00",
-    "Exposure_time_end_24": "20:00:00",
-    "dhid": "Y4V6",
-    "lat": -37.67224,
-    "lon": 144.972
-  },
-  {
-    "_id": 8,
     "Suburb": "Geelong West",
     "Site_title": "Hidden Minx Hair Studio",
     "Site_streetaddress": "80A Hope Street",
@@ -176,7 +154,7 @@
     "lon": 144.34851
   },
   {
-    "_id": 9,
+    "_id": 8,
     "Suburb": "Morwell",
     "Site_title": "Wyncity Morwell",
     "Site_streetaddress": "44-48 Chickerell Street",
