@@ -1,1 +1,1 @@
-var updateTime = "Dec 20th, 10:35 pm";
+var updateTime = "Dec 20th, 11:59 pm";
